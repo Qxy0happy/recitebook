@@ -1,0 +1,1342 @@
+{
+ "themes": 8,
+ "total_lists": 92,
+ "total_words": 1452,
+ "per_file": {
+  "高频词表 事物与描述": {
+   "theme": "事物与描述",
+   "words": 159,
+   "lists": 9,
+   "warnings": 23
+  },
+  "高频词表 人与社会": {
+   "theme": "人与社会",
+   "words": 197,
+   "lists": 13,
+   "warnings": 43
+  },
+  "高频词表 动作与交流": {
+   "theme": "动作与交流",
+   "words": 156,
+   "lists": 11,
+   "warnings": 14
+  },
+  "高频词表 变化状态与态度评价": {
+   "theme": "变化状态与态度评价",
+   "words": 270,
+   "lists": 18,
+   "warnings": 12
+  },
+  "高频词表 学术、科技与艺术": {
+   "theme": "学术、科技与艺术",
+   "words": 205,
+   "lists": 15,
+   "warnings": 26
+  },
+  "高频词表 日常生活基础词": {
+   "theme": "日常生活基础词",
+   "words": 120,
+   "lists": 7,
+   "warnings": 20
+  },
+  "高频词表 时间、地点、数量": {
+   "theme": "时间、地点、数量",
+   "words": 239,
+   "lists": 12,
+   "warnings": 65
+  },
+  "高频词表 经济与就业": {
+   "theme": "经济与就业",
+   "words": 106,
+   "lists": 7,
+   "warnings": 6
+  }
+ },
+ "warnings": [
+  {
+   "list_no": 77,
+   "line_no": 288,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 78,
+   "line_no": 1064,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 78,
+   "line_no": 1100,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 78,
+   "line_no": 1134,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 78,
+   "line_no": 1163,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 79,
+   "line_no": 1523,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 79,
+   "line_no": 1553,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 79,
+   "line_no": 1571,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 79,
+   "line_no": 1588,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 79,
+   "line_no": 1612,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 79,
+   "line_no": 1853,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 79,
+   "line_no": 1873,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 79,
+   "line_no": 1903,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 79,
+   "line_no": 1920,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 79,
+   "line_no": 1950,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 80,
+   "line_no": 2279,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 83,
+   "line_no": 3717,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 83,
+   "line_no": 3733,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 83,
+   "line_no": 3771,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 83,
+   "line_no": 3787,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 83,
+   "line_no": 3869,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 83,
+   "line_no": 3887,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 83,
+   "line_no": 3910,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 19,
+   "line_no": 416,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 19,
+   "line_no": 450,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 19,
+   "line_no": 492,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 20,
+   "line_no": 798,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 20,
+   "line_no": 959,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 20,
+   "line_no": 985,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 20,
+   "line_no": 1016,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 21,
+   "line_no": 1248,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 21,
+   "line_no": 1280,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 21,
+   "line_no": 1302,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 21,
+   "line_no": 1318,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 21,
+   "line_no": 1336,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 21,
+   "line_no": 1368,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 21,
+   "line_no": 1488,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 22,
+   "line_no": 1829,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 22,
+   "line_no": 1843,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 22,
+   "line_no": 1863,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 22,
+   "line_no": 1881,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 22,
+   "line_no": 1909,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 23,
+   "line_no": 2225,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 23,
+   "line_no": 2467,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 23,
+   "line_no": 2499,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 23,
+   "line_no": 2531,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 23,
+   "line_no": 2557,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 23,
+   "line_no": 2579,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 24,
+   "line_no": 2785,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 25,
+   "line_no": 3181,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 25,
+   "line_no": 3201,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 25,
+   "line_no": 3225,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 25,
+   "line_no": 3267,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 26,
+   "line_no": 3705,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 26,
+   "line_no": 3737,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 26,
+   "line_no": 3769,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 26,
+   "line_no": 3787,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 26,
+   "line_no": 3819,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 27,
+   "line_no": 4016,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 27,
+   "line_no": 4131,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 28,
+   "line_no": 4871,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 29,
+   "line_no": 5147,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 30,
+   "line_no": 5541,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 30,
+   "line_no": 5553,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 30,
+   "line_no": 5583,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 30,
+   "line_no": 5611,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 50,
+   "line_no": 559,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 54,
+   "line_no": 2366,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 54,
+   "line_no": 2481,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 54,
+   "line_no": 2578,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 55,
+   "line_no": 3134,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 56,
+   "line_no": 3497,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 56,
+   "line_no": 3740,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 57,
+   "line_no": 3889,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 57,
+   "line_no": 4059,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 57,
+   "line_no": 4083,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 57,
+   "line_no": 4097,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 57,
+   "line_no": 4119,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 57,
+   "line_no": 4135,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 58,
+   "line_no": 4302,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 60,
+   "line_no": 436,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 62,
+   "line_no": 1046,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 63,
+   "line_no": 1753,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 63,
+   "line_no": 1769,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 63,
+   "line_no": 1788,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 63,
+   "line_no": 1814,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 65,
+   "line_no": 2378,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 66,
+   "line_no": 3230,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 74,
+   "line_no": 7275,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 74,
+   "line_no": 7313,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 74,
+   "line_no": 7342,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 74,
+   "line_no": 7366,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 37,
+   "line_no": 274,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 38,
+   "line_no": 729,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 39,
+   "line_no": 981,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 40,
+   "line_no": 1268,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 41,
+   "line_no": 1753,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 41,
+   "line_no": 1917,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 42,
+   "line_no": 2227,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 42,
+   "line_no": 2373,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 42,
+   "line_no": 2405,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 42,
+   "line_no": 2429,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 42,
+   "line_no": 2481,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 44,
+   "line_no": 3238,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 44,
+   "line_no": 3258,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 45,
+   "line_no": 3760,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 45,
+   "line_no": 3780,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 45,
+   "line_no": 3806,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 45,
+   "line_no": 3832,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 47,
+   "line_no": 4743,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 48,
+   "line_no": 5640,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 48,
+   "line_no": 5674,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 49,
+   "line_no": 6303,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 49,
+   "line_no": 6323,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 49,
+   "line_no": 6349,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 49,
+   "line_no": 6379,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 49,
+   "line_no": 6397,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 49,
+   "line_no": 6433,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 4,
+   "line_no": 1404,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 4,
+   "line_no": 1470,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 4,
+   "line_no": 1520,
+   "kind": "list_title_missing",
+   "detail": "词汇学习后再次出现类目联想，视为新 List（标题缺失）"
+  },
+  {
+   "list_no": null,
+   "line_no": 1572,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": null,
+   "line_no": 1586,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": null,
+   "line_no": 1608,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": null,
+   "line_no": 1628,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": null,
+   "line_no": 1642,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": null,
+   "line_no": 1664,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": null,
+   "line_no": 1810,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": null,
+   "line_no": 1862,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": null,
+   "line_no": 1986,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 6,
+   "line_no": 2198,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 6,
+   "line_no": 2212,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 6,
+   "line_no": 2226,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 6,
+   "line_no": 2238,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 6,
+   "line_no": 2250,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 6,
+   "line_no": 2272,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 6,
+   "line_no": 2294,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 6,
+   "line_no": 2308,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 7,
+   "line_no": 7,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 7,
+   "line_no": 45,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 8,
+   "line_no": 236,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 8,
+   "line_no": 379,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 8,
+   "line_no": 393,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 9,
+   "line_no": 1035,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 9,
+   "line_no": 1109,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 9,
+   "line_no": 1141,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 9,
+   "line_no": 1174,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 10,
+   "line_no": 1642,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 10,
+   "line_no": 1925,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 first（基数 one）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 second（基数 two）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 third（基数 three）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 fourth（基数 four）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 fifth（基数 five）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 sixth（基数 six）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 seventh（基数 seven）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 eighth（基数 eight）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 ninth（基数 nine）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 tenth（基数 ten）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 eleventh（基数 eleven）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 twelfth（基数 twelve）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 thirteenth（基数 thirteen）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 fourteenth（基数 fourteen）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 fifteenth（基数 fifteen）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 sixteenth（基数 sixteen）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 seventeenth（基数 seventeen）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 eighteenth（基数 eighteen）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 nineteenth（基数 nineteen）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 twentieth（基数 twenty）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 thirtieth（基数 thirty）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 fortieth（基数 forty）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 fiftieth（基数 fifty）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 sixtieth（基数 sixty）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 seventieth（基数 seventy）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 eightieth（基数 eighty）无释义"
+  },
+  {
+   "list_no": 11,
+   "line_no": 2055,
+   "kind": "ordinal_no_meaning",
+   "detail": "序数词条 ninetieth（基数 ninety）无释义"
+  },
+  {
+   "list_no": 12,
+   "line_no": 2323,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 12,
+   "line_no": 2358,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 12,
+   "line_no": 2378,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 12,
+   "line_no": 2404,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 12,
+   "line_no": 2424,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 13,
+   "line_no": 2719,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 13,
+   "line_no": 2755,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 13,
+   "line_no": 2783,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 13,
+   "line_no": 2797,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 13,
+   "line_no": 2830,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 13,
+   "line_no": 2866,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 13,
+   "line_no": 2891,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 13,
+   "line_no": 2917,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 13,
+   "line_no": 2939,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 13,
+   "line_no": 2967,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 15,
+   "line_no": 3678,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 15,
+   "line_no": 3702,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 15,
+   "line_no": 3732,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 15,
+   "line_no": 3752,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 15,
+   "line_no": 3770,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 16,
+   "line_no": 4382,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 16,
+   "line_no": 4585,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 18,
+   "line_no": 5040,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 18,
+   "line_no": 5066,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 18,
+   "line_no": 5092,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 18,
+   "line_no": 5120,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 18,
+   "line_no": 5144,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 31,
+   "line_no": 458,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 33,
+   "line_no": 1194,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 35,
+   "line_no": 2016,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 35,
+   "line_no": 2042,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 35,
+   "line_no": 2064,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  },
+  {
+   "list_no": 35,
+   "line_no": 2128,
+   "kind": "no_headword",
+   "detail": "释义行 '' 前无词头（词头可能在图片中）"
+  }
+ ],
+ "warning_kinds": {
+  "no_headword": 181,
+  "list_title_missing": 1,
+  "ordinal_no_meaning": 27
+ },
+ "field_issues": {
+  "no_ipa": 208,
+  "no_mnemonic": 151,
+  "no_sense": 98,
+  "no_note": 105,
+  "no_headword": 181,
+  "words_with_examples": 824,
+  "examples_total": 997,
+  "duplicate_word_in_list": {
+   "28/equality": 2,
+   "28/policy": 2,
+   "28/incentive": 2,
+   "28/productive": 2,
+   "37/undergraduate": 2,
+   "37/university": 2,
+   "40/background": 2,
+   "40/structure": 2,
+   "40/topic": 2,
+   "40/file": 2,
+   "40/example": 2,
+   "8/beginning": 2,
+   "8/instant": 2,
+   "8/instance": 2
+  },
+  "words_without_list_no": 27
+ }
+}

@@ -1,0 +1,5034 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.87,
+            0.0,
+            0.98,
+            0.011
+          ],
+          "content": "考点词<"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.35,
+            0.035,
+            0.398,
+            0.068
+          ],
+          "content": "#"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.406,
+            0.042,
+            0.63,
+            0.06
+          ],
+          "content": "List 11 主张与表达"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.055,
+            0.074,
+            0.208,
+            0.095
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.103,
+            0.414,
+            0.12
+          ],
+          "content": "情节发展：古碑现世→破译真言→圣言归位"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.068,
+            0.153,
+            0.145,
+            0.168
+          ],
+          "level": 2,
+          "content": "古碑现世"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.173,
+            0.704,
+            0.271
+          ],
+          "content": "考古学家林教授发现一块刻古碑，村长 claim（声称）这是圣物，allege（断言）碑文蕴藏神秘力量，并 inform（告知）他念出碑文能 reclaim（取回）之前被 underline/highlight（强调）的宝物。这说法 annoy（困扰）了林教授，他努力地 recall（回忆）曾在哪里见过类似的符号，其中一个符号带着明显 emphasis（强调）印记。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.714,
+            0.133,
+            0.941,
+            0.29
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of three elderly people standing beside a stone marker in a rural setting with mountains in the background (no text or symbols visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_7.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.065,
+            0.336,
+            0.143,
+            0.352
+          ],
+          "level": 2,
+          "content": "破译真言"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.356,
+            0.703,
+            0.415
+          ],
+          "content": "林教授开始 interpret（解释）碑文含义。最 dominant（重要的）是准确 pronounce（发音）那个带强调的符号。回忆起之前的情景，他瞬间被 enlighten（启发），发出“钥匙”的音，碑文完整现出，他又完整地 translate（翻译）了碑文。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.715,
+            0.296,
+            0.941,
+            0.454
+          ],
+          "sub_type": "text_image",
+          "content": "！发言时何\n匙！",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_10.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.066,
+            0.51,
+            0.144,
+            0.526
+          ],
+          "level": 2,
+          "content": "圣言归位"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.53,
+            0.701,
+            0.569
+          ],
+          "content": "月圆之夜，林教授庄重 declare/proclaim/announce（宣布）:“我理解了。”他清晰地 voice（表达）出完整咒语，illustrate（阐明）了咒语的真正含义。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.715,
+            0.459,
+            0.941,
+            0.619
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a figure pointing at a glowing celestial object in a dimly lit mountainous landscape with a bell and stone marker (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_13.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.054,
+            0.664,
+            0.206,
+            0.685
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.715,
+            0.191,
+            0.73
+          ],
+          "content": "claim /kleɪm/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.735,
+            0.298,
+            0.752
+          ],
+          "content": "vt. 宣称，声称 n. 观点，主张"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.759,
+            0.474,
+            0.776
+          ],
+          "content": "妙记：他声称（claim）去长隆（cl）是他的目标（aim）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.171,
+            0.782,
+            0.359,
+            0.914
+          ],
+          "sub_type": "text_image",
+          "content": "去长隆是我的目标！",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_18.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.714,
+            0.634,
+            0.736
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.743,
+            0.652,
+            0.759
+          ],
+          "content": "写作常用句型："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.765,
+            0.84,
+            0.782
+          ],
+          "content": "But despite some claims to the contrary..."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.785,
+            0.774,
+            0.801
+          ],
+          "content": "但尽管有一些相反的说法……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.805,
+            0.693,
+            0.822
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.827,
+            0.949,
+            0.864
+          ],
+          "content": "But despite some claims to the contrary, laughing probably has little influence on physical fitness."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.867,
+            0.948,
+            0.904
+          ],
+          "content": "但尽管有一些相反的说法，笑或许对身体健康没什么影响。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.846,
+            0.937,
+            0.932,
+            0.955
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.945,
+            0.938,
+            0.981,
+            0.953
+          ],
+          "content": "123"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.031,
+            0.008,
+            0.102,
+            0.042
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.119,
+            0.018,
+            0.378,
+            0.035
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.409,
+            0.018,
+            0.512,
+            0.035
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.067,
+            0.217,
+            0.082
+          ],
+          "content": "recall /rɪˈkɔːl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.086,
+            0.343,
+            0.102
+          ],
+          "content": "v./n. 召回；取消；记起，回忆起"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.109,
+            0.484,
+            0.144
+          ],
+          "content": "妙记:re-（回）+ call（说、叫、喊）→ 叫回来 → 召回。"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.091,
+            0.149,
+            0.31,
+            0.184
+          ],
+          "sub_type": "text",
+          "content": "1. 叫回一项命令 → 取消;\n2. 叫回一段往事 → 回忆起。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.08,
+            0.188,
+            0.182,
+            0.208
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.215,
+            0.228,
+            0.23
+          ],
+          "content": "常考释义：回忆起"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.235,
+            0.239,
+            0.251
+          ],
+          "content": "【2023 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.256,
+            0.483,
+            0.29
+          ],
+          "content": "The latter group made no effort to recall the information when quizzed on it later."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.294,
+            0.483,
+            0.33
+          ],
+          "content": "后来在被问及相关信息时，后一组人并未努力去回忆这些内容。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.354,
+            0.245,
+            0.368
+          ],
+          "content": "reclaim /rɪˈkleɪm/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.373,
+            0.201,
+            0.388
+          ],
+          "content": "vt. 拿回，取回"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.396,
+            0.483,
+            0.432
+          ],
+          "content": "妙记:re-（再次）+ claim（声称）→一再声称别人手里的东西是自己的 →拿回、取回。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.193,
+            0.438,
+            0.37,
+            0.563
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of two students in a classroom, one handing a book to the other (no text or symbols visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_17.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.568,
+            0.179,
+            0.589
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.596,
+            0.206,
+            0.611
+          ],
+          "content": "常考释义：取回"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.617,
+            0.483,
+            0.651
+          ],
+          "content": "The man proclaimed in exclamation that he aimed to reclaim the aimless claim."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.655,
+            0.431,
+            0.672
+          ],
+          "content": "那个人呼喊着声明他打算索回无目标的索赔。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.696,
+            0.232,
+            0.711
+          ],
+          "content": "declare /dɪˈkler/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.716,
+            0.2,
+            0.731
+          ],
+          "content": "vt. 宣布，宣告"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.738,
+            0.483,
+            0.794
+          ],
+          "content": "妙记:de-（下）+clare-（联想 clear，清楚的）→为了让讲台下面的听众都清楚新的政策，负责人来 declare（宣告）了政策的详细情况。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.192,
+            0.801,
+            0.37,
+            0.925
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a speaker at a podium addressing a large audience in a conference hall (no text or symbols visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_25.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.536,
+            0.066,
+            0.634,
+            0.088
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.094,
+            0.678,
+            0.109
+          ],
+          "content": "①常考释义：宣布"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.114,
+            0.689,
+            0.129
+          ],
+          "content": "【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.134,
+            0.923,
+            0.168
+          ],
+          "content": "The order also declared that state couldn't regulate broadband providers."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.172,
+            0.893,
+            0.188
+          ],
+          "content": "该命令还宣布，各州不得监管宽带服务提供商。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.192,
+            0.616,
+            0.207
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.211,
+            0.735,
+            0.227
+          ],
+          "content": "declaration n. 宣布，宣告"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.252,
+            0.721,
+            0.267
+          ],
+          "content": "proclaim /prə'kleɪm/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.271,
+            0.655,
+            0.287
+          ],
+          "content": "vt. 宣布，宣告"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.294,
+            0.923,
+            0.33
+          ],
+          "content": "妙记：pro-（前）+ claim（声称）→朝着前面的人群声称→宣布、宣告。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.655,
+            0.336,
+            0.816,
+            0.452
+          ],
+          "sub_type": "text_image",
+          "content": "Street photo with visible store signboards and a person speaking at an event",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_36.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.536,
+            0.457,
+            0.634,
+            0.479
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.486,
+            0.66,
+            0.501
+          ],
+          "content": "常考释义：宣布"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.505,
+            0.615,
+            0.521
+          ],
+          "content": "【2004 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.526,
+            0.924,
+            0.58
+          ],
+          "content": "Our country's educational system is in the grips of people who “ militantly proclaim their hostility to intellect ” ."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.584,
+            0.922,
+            0.621
+          ],
+          "content": "我国的教育体制被掌握在一群“扬扬自得地宣扬自己对知识的敌视态度”的人的手中。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.646,
+            0.738,
+            0.661
+          ],
+          "content": "pronounce /prəˈnaʊns/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.665,
+            0.708,
+            0.68
+          ],
+          "content": "vt. 发音；宣布，宣告"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.687,
+            0.912,
+            0.704
+          ],
+          "content": "妙记：谐音“怕闹事”→宣布时怕有人来闹事。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.536,
+            0.714,
+            0.634,
+            0.736
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.743,
+            0.597,
+            0.758
+          ],
+          "content": "派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.764,
+            0.708,
+            0.779
+          ],
+          "content": "pronunciation n. 发音"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.784,
+            0.767,
+            0.798
+          ],
+          "content": "pronouncement n. 宣布，宣告"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.802,
+            0.691,
+            0.819
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.823,
+            0.925,
+            0.858
+          ],
+          "content": "Senior managers are cautious of letting vague pronouncements cloud their reputations."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.861,
+            0.924,
+            0.897
+          ],
+          "content": "高级管理人员们变得小心翼翼，生怕那些含混不清的表述会损害他们的声誉。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.902,
+            0.724,
+            0.917
+          ],
+          "content": "pronounced adj. 明显的"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.048,
+            0.94,
+            0.085,
+            0.955
+          ],
+          "content": "124/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.094,
+            0.939,
+            0.123,
+            0.956
+          ],
+          "content": "#"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.126,
+            0.941,
+            0.176,
+            0.955
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.878,
+            0.0,
+            0.983,
+            0.007
+          ],
+          "content": "9 点网"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.052,
+            0.03,
+            0.139,
+            0.047
+          ],
+          "content": "【2007 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.052,
+            0.052,
+            0.472,
+            0.087
+          ],
+          "content": "You would find this strange phenomenon to be even more pronounced."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.052,
+            0.09,
+            0.394,
+            0.108
+          ],
+          "content": "你会发现，这一奇怪的现象变得更加明显。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.132,
+            0.242,
+            0.146
+          ],
+          "content": "announce /ə'naʊns/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.152,
+            0.179,
+            0.167
+          ],
+          "content": "vt. 宣称，宣布"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.175,
+            0.47,
+            0.211
+          ],
+          "content": "妙记：谐音“安娜是”→安娜是在广播上宣布 (announce) 大事的。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.18,
+            0.218,
+            0.344,
+            0.335
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a smiling woman speaking at a podium with a microphone (no text or symbols visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_7.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.053,
+            0.34,
+            0.156,
+            0.362
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.051,
+            0.37,
+            0.203,
+            0.387
+          ],
+          "content": "①常考释义：宣布"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.051,
+            0.391,
+            0.216,
+            0.407
+          ],
+          "content": "【2019 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.051,
+            0.412,
+            0.472,
+            0.449
+          ],
+          "content": "India has just announced it will “eliminate all single-use plastic in the country”."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.052,
+            0.452,
+            0.45,
+            0.47
+          ],
+          "content": "印度刚刚宣布，将淘汰国内所有一次性塑料制品。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.052,
+            0.473,
+            0.137,
+            0.489
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.052,
+            0.494,
+            0.291,
+            0.511
+          ],
+          "content": "announcement n. 宣称，宣布"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.536,
+            0.172,
+            0.551
+          ],
+          "content": "voice /vɔɪs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.555,
+            0.472,
+            0.572
+          ],
+          "content": "n. 声音; 观点，意见 vt. 表达、发表 (观点、意见等)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.579,
+            0.472,
+            0.616
+          ],
+          "content": "妙记：本义表示声音 → 发声 → 表达观点、发表意见。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.053,
+            0.628,
+            0.156,
+            0.65
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.051,
+            0.656,
+            0.387,
+            0.673
+          ],
+          "content": "①作动词，表示“表达情感、发表意见”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.051,
+            0.677,
+            0.216,
+            0.693
+          ],
+          "content": "【2012 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.052,
+            0.698,
+            0.461,
+            0.734
+          ],
+          "content": "22. D. have voiced their complaints about homework 表达了他们对家庭作业的抱怨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.052,
+            0.738,
+            0.216,
+            0.755
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.052,
+            0.759,
+            0.431,
+            0.795
+          ],
+          "content": "28. A. tend to voice their opinions in cyberspace\n倾向于在网络空间表达他们的意见"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.052,
+            0.799,
+            0.47,
+            0.835
+          ],
+          "content": "② provide a critical voice for 提供重要声音 = 发挥重要作用"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.052,
+            0.839,
+            0.216,
+            0.856
+          ],
+          "content": "【2022 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.052,
+            0.861,
+            0.472,
+            0.896
+          ],
+          "content": "Zoos provide a critical voice for environmental protection."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.053,
+            0.9,
+            0.436,
+            0.918
+          ],
+          "content": "动物园在环境保护方面发挥了至关重要的作用。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.032,
+            0.664,
+            0.048
+          ],
+          "content": "annoy /ə'nɔɪ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.538,
+            0.052,
+            0.753,
+            0.068
+          ],
+          "content": "vt. 使恼怒；打扰；使困扰"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.075,
+            0.948,
+            0.112
+          ],
+          "content": "妙记：谐音“额闹哎”→“额头被闹得发疼哎→别人打扰到我，使我困扰，感到愤怒。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.646,
+            0.118,
+            0.83,
+            0.246
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior scene of a crowded dormitory with multiple bunk beds and a person in a yellow shirt (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_31.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.252,
+            0.632,
+            0.275
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.281,
+            0.949,
+            0.319
+          ],
+          "content": "单词表示使恼怒、使困扰，使某人恼怒或困扰，叫作\nannoy sb., 而不是 sb. annoy。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.322,
+            0.693,
+            0.339
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.343,
+            0.951,
+            0.381
+          ],
+          "content": "The question of GDP and its usefulness has annoyed policymakers for over half a century."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.383,
+            0.951,
+            0.421
+          ],
+          "content": "关于国内生产总值（GDP）及其有用性的争论已经困扰政策制定者长达半个多世纪之久。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.446,
+            0.668,
+            0.463
+          ],
+          "content": "allege /ə'ledʒ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.538,
+            0.467,
+            0.655,
+            0.483
+          ],
+          "content": "vt. 断言，宣称"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.49,
+            0.949,
+            0.527
+          ],
+          "content": "妙记：谐音“鹅来只” → 向服务员宣称（allege）“来只鹅”。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.646,
+            0.534,
+            0.826,
+            0.66
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior scene of a seafood restaurant with staff and customers at tables, no visible text or signage",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_40.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.665,
+            0.632,
+            0.688
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.694,
+            0.678,
+            0.711
+          ],
+          "content": "①常考释义：宣称"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.716,
+            0.947,
+            0.751
+          ],
+          "content": "The two men allege that the police forced them to make false confessions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.756,
+            0.867,
+            0.773
+          ],
+          "content": "这两名男子称，警方强迫他们做虚假供述。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.776,
+            0.612,
+            0.793
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.797,
+            0.729,
+            0.814
+          ],
+          "content": "allegation n. 宣称，说法"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.818,
+            0.691,
+            0.834
+          ],
+          "content": "alleged adj. 所谓的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.838,
+            0.692,
+            0.855
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.858,
+            0.945,
+            0.896
+          ],
+          "content": "This suggests that the alleged “Hawthorne effect” is hard to pin down."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.899,
+            0.836,
+            0.916
+          ],
+          "content": "这表明所谓的“霍桑效应”很难确定。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.843,
+            0.936,
+            0.896,
+            0.953
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.898,
+            0.935,
+            0.928,
+            0.954
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.934,
+            0.937,
+            0.978,
+            0.952
+          ],
+          "content": "/125"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.036,
+            0.014,
+            0.102,
+            0.046
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.118,
+            0.023,
+            0.374,
+            0.04
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.407,
+            0.023,
+            0.51,
+            0.04
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.072,
+            0.261,
+            0.087
+          ],
+          "content": "illustrate /'ɪləstreɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.091,
+            0.203,
+            0.107
+          ],
+          "content": "vt. 说明，阐明"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.114,
+            0.481,
+            0.149
+          ],
+          "content": "妙记：谐音“一路死追他”→一路追着他要说明情况。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.207,
+            0.155,
+            0.359,
+            0.262
+          ],
+          "sub_type": "text_image",
+          "content": "同学，你看一下，\n会有情况和你谈！",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_6.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.267,
+            0.182,
+            0.288
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.295,
+            0.481,
+            0.33
+          ],
+          "content": "① illustrate 常出现在例证题的题干或选项中，写作中可用来表示图片或图表阐明了什么主题。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.333,
+            0.239,
+            0.349
+          ],
+          "content": "【2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.354,
+            0.483,
+            0.389
+          ],
+          "content": "27. The scheme in Germany is mentioned to illustrate \\_\\_\\_\\_."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.392,
+            0.364,
+            0.408
+          ],
+          "content": "德国的计划被提到是用来阐明 \\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.411,
+            0.164,
+            0.427
+          ],
+          "content": "②形近词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.431,
+            0.278,
+            0.447
+          ],
+          "content": "illuminate vt. 照亮；阐明"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.47,
+            0.255,
+            0.487
+          ],
+          "content": "enlighten /m'laɪtn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.49,
+            0.262,
+            0.505
+          ],
+          "content": "vt. 照亮；阐明；启发"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.513,
+            0.483,
+            0.549
+          ],
+          "content": "妙记:en-（使）+ light（光）→ 使有光 → 照亮 → 阐明；为一个人阐明道理，就是启发这个人。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.2,
+            0.555,
+            0.367,
+            0.671
+          ],
+          "sub_type": "natural_image",
+          "content": "Person reading a book in a dimly lit room with a window and arched windows (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_17.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.083,
+            0.677,
+            0.182,
+            0.697
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.705,
+            0.226,
+            0.72
+          ],
+          "content": "①常考释义：启发"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.725,
+            0.483,
+            0.759
+          ],
+          "content": "If you know what is wrong with my plan, please enlighten me."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.763,
+            0.424,
+            0.779
+          ],
+          "content": "如果你知道我的计划出了什么问题，请指教。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.783,
+            0.18,
+            0.798
+          ],
+          "content": "②近义短语："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.802,
+            0.471,
+            0.818
+          ],
+          "content": "shed light on 使光照到……上 = 照亮；阐明；启发"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.841,
+            0.236,
+            0.856
+          ],
+          "content": "inform /ɪnˈfɔːm/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.86,
+            0.197,
+            0.876
+          ],
+          "content": "v. 通知，告知"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.883,
+            0.483,
+            0.918
+          ],
+          "content": "妙记：把心里（in）的想法，用什么形式（form）告诉别人？当然是用通知（inform）的形式。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.072,
+            0.633,
+            0.091
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.099,
+            0.904,
+            0.115
+          ],
+          "content": "① inform sb. about/of sth. 将某事通知、告知某人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.118,
+            0.786,
+            0.135
+          ],
+          "content": "【2020 年英语（一）小作文导语】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.139,
+            0.918,
+            0.173
+          ],
+          "content": "...to inform the international students of an upcoming singing contest."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.177,
+            0.862,
+            0.193
+          ],
+          "content": "……通知国际留学生即将举办的歌咏比赛。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.196,
+            0.615,
+            0.211
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.216,
+            0.834,
+            0.232
+          ],
+          "content": "information n. 消息，信息，情报，资讯"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.235,
+            0.827,
+            0.251
+          ],
+          "content": "informed adj. 被告知的；见多识广的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.254,
+            0.691,
+            0.27
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.275,
+            0.918,
+            0.307
+          ],
+          "content": "There are lessons about informed patient consent to learn."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.313,
+            0.91,
+            0.329
+          ],
+          "content": "有一些关于患者知情同意的经验教训值得我们学习。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.332,
+            0.691,
+            0.348
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.353,
+            0.834,
+            0.368
+          ],
+          "content": "Influentials, who are unusually informed."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.371,
+            0.789,
+            0.387
+          ],
+          "content": "“有影响力的人”，往往见多识广。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.411,
+            0.704,
+            0.427
+          ],
+          "content": "highlight /'haɪlaɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.43,
+            0.784,
+            0.446
+          ],
+          "content": "vt. 突出，强调 n. 最精彩的部分"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.453,
+            0.911,
+            0.488
+          ],
+          "content": "妙记：high(高)+light(光)→高光→打上高光，\n就是为了突出或强调。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.647,
+            0.495,
+            0.822,
+            0.618
+          ],
+          "sub_type": "natural_image",
+          "content": "Laptop with blank screen and pen on desk, background shows brick wall and window (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_44.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.624,
+            0.633,
+            0.644
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.651,
+            0.812,
+            0.667
+          ],
+          "content": "近义词辨析:emphasize & highlight"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.533,
+            0.67,
+            0.918,
+            0.725
+          ],
+          "sub_type": "text",
+          "content": "- emphasize 通常用于强调本就具有重要性的东西;\n- highlight 与 emphasize 意思相近，但可以用于强调不常被人关注的东西。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.729,
+            0.691,
+            0.745
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.749,
+            0.918,
+            0.785
+          ],
+          "content": "21. B. highlight the necessity of upgrading major U.S. airports"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.788,
+            0.787,
+            0.804
+          ],
+          "content": "强调升级美国各大机场的必要性"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.828,
+            0.738,
+            0.844
+          ],
+          "content": "underline /ˌʌndərˈlaɪn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.847,
+            0.731,
+            0.862
+          ],
+          "content": "vt. 在……下划线；强调"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.869,
+            0.919,
+            0.905
+          ],
+          "content": "妙记:under（在……下面）+ line（线）→ 在某些词句下面划线，就是要“强调”这些词句。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.051,
+            0.935,
+            0.087,
+            0.949
+          ],
+          "content": "126"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.097,
+            0.933,
+            0.127,
+            0.951
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.129,
+            0.935,
+            0.18,
+            0.949
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.868,
+            0.0,
+            0.999,
+            0.014
+          ],
+          "content": "考点词<"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.191,
+            0.036,
+            0.352,
+            0.15
+          ],
+          "sub_type": "text_image",
+          "content": "西書",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_1.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.068,
+            0.159,
+            0.168,
+            0.181
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.188,
+            0.286,
+            0.204
+          ],
+          "content": "①常考释义：在……下划线"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.209,
+            0.346,
+            0.226
+          ],
+          "content": "【英语（一）翻译导语（Directions）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.231,
+            0.417,
+            0.246
+          ],
+          "content": "Translate the underlined segments into Chinese."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.251,
+            0.295,
+            0.267
+          ],
+          "content": "将下划线的部分翻译成中文。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.272,
+            0.212,
+            0.289
+          ],
+          "content": "②常考释义：强调"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.293,
+            0.225,
+            0.31
+          ],
+          "content": "【2018 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.315,
+            0.477,
+            0.353
+          ],
+          "content": "President Trump has underlined fossil fuels — especially coal — as the path to economic growth."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.356,
+            0.476,
+            0.395
+          ],
+          "content": "特朗普总统强调，化石燃料——尤其是煤炭——是实现经济增长之路。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.428,
+            0.252,
+            0.445
+          ],
+          "content": "emphasis /'emfəsɪs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.449,
+            0.189,
+            0.465
+          ],
+          "content": "n. 强调；重视"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.476,
+            0.463,
+            0.514
+          ],
+          "content": "妙记：谐音“俺发誓” → 俺发誓这个真的是重点，需要强调重视！"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.188,
+            0.521,
+            0.354,
+            0.64
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior view of a classroom with a teacher at the podium and students seated at desks (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_14.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.065,
+            0.648,
+            0.167,
+            0.67
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.678,
+            0.382,
+            0.695
+          ],
+          "content": "① put emphasis on 强调某事；重视某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.699,
+            0.225,
+            0.716
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.721,
+            0.477,
+            0.759
+          ],
+          "content": "Education in the age of automation should put more emphasis on creative potential."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.763,
+            0.367,
+            0.78
+          ],
+          "content": "自动化时代的教育应更强调创造潜能。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.784,
+            0.146,
+            0.8
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.805,
+            0.349,
+            0.822
+          ],
+          "content": "emphasize vt. 强调；重视；使突出"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.855,
+            0.258,
+            0.872
+          ],
+          "content": "interpret /ɪnˈtɜːrprət/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.875,
+            0.192,
+            0.891
+          ],
+          "content": "vt. 翻译；解释"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.902,
+            0.463,
+            0.92
+          ],
+          "content": "妙记：谐音“音特普瑞特” → 她对音乐特别喜爱，"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.037,
+            0.887,
+            0.054
+          ],
+          "content": "但看不懂乐谱，请瑞特给她解释（interpret）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.06,
+            0.632,
+            0.082
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.088,
+            0.938,
+            0.125
+          ],
+          "content": "①该单词可以表示“解释”，其实翻译就是解释，只是换用另一种语言来解释某人说的话。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.128,
+            0.732,
+            0.145
+          ],
+          "content": "【英语（一）大作文导语】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.15,
+            0.753,
+            0.166
+          ],
+          "content": "interpret its intended meaning"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.169,
+            0.752,
+            0.185
+          ],
+          "content": "解释一下它想要表达的含义"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.189,
+            0.613,
+            0.204
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.209,
+            0.76,
+            0.226
+          ],
+          "content": "interpretation n. 翻译；解释"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.23,
+            0.72,
+            0.246
+          ],
+          "content": "reinterpret v. 重新解释"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.25,
+            0.756,
+            0.266
+          ],
+          "content": "reinterpretation n. 重新解释"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.269,
+            0.692,
+            0.286
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.291,
+            0.943,
+            0.326
+          ],
+          "content": "New technology requires reinterpretation of the Constitution."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.33,
+            0.816,
+            0.347
+          ],
+          "content": "新的技术要求对宪法进行重新解释。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.351,
+            0.787,
+            0.368
+          ],
+          "content": "misinterpret v. 误解、错误解释"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.372,
+            0.772,
+            0.388
+          ],
+          "content": "misinterpretation n. 误解，曲解"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.391,
+            0.691,
+            0.408
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.413,
+            0.944,
+            0.449
+          ],
+          "content": "The problem of fake news lies in “misinterpretation or exaggeration of actual news” via social media."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.452,
+            0.943,
+            0.49
+          ],
+          "content": "假新闻的问题在于通过社交媒体对实际的新闻进行“曲解或夸大”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.523,
+            0.72,
+            0.539
+          ],
+          "content": "translate /træns'leit/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.543,
+            0.695,
+            0.56
+          ],
+          "content": "v. 翻译；(使) 转变"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.574,
+            0.941,
+            0.591
+          ],
+          "content": "妙记：翻译 (translate) 是使语言种类转变 (translate)。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.628,
+            0.602,
+            0.843,
+            0.705
+          ],
+          "sub_type": "text_image",
+          "content": "译员\nINYU303012YR",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_46.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.718,
+            0.632,
+            0.74
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.747,
+            0.939,
+            0.785
+          ],
+          "content": "①该单词可以表示“(使) 转变”，其实，翻译就是将一种语言“转变”成另一种语言。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.789,
+            0.691,
+            0.807
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.812,
+            0.941,
+            0.849
+          ],
+          "content": "Economic growth is translated into meaningful improvements for its citizens."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.853,
+            0.868,
+            0.87
+          ],
+          "content": "经济增长转变为对本国公民有意义的改善。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.874,
+            0.614,
+            0.891
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.896,
+            0.739,
+            0.912
+          ],
+          "content": "translation n. 翻译；转变"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.839,
+            0.936,
+            0.891,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.893,
+            0.935,
+            0.922,
+            0.954
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.934,
+            0.937,
+            0.972,
+            0.952
+          ],
+          "content": "/127"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.044,
+            0.019,
+            0.114,
+            0.052
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.127,
+            0.028,
+            0.511,
+            0.045
+          ],
+          "content": "考研英语 高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.103,
+            0.077,
+            0.292,
+            0.091
+          ],
+          "content": "dominant /'da:mmənt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.102,
+            0.094,
+            0.406,
+            0.111
+          ],
+          "content": "adj. 占统治地位的，占优势的，最重要的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.101,
+            0.116,
+            0.484,
+            0.151
+          ],
+          "content": "妙记:do（做）+min（最少的）+-ant（形容词后缀）→做最少事的人是占主导地位的（dominant）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.217,
+            0.156,
+            0.36,
+            0.259
+          ],
+          "sub_type": "natural_image",
+          "content": "Fantasy illustration of two figures in a dimly lit room with chandeliers and hanging ornaments (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_body_5.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.074,
+            0.631,
+            0.095
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.101,
+            0.596,
+            0.116
+          ],
+          "content": "派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.12,
+            0.768,
+            0.136
+          ],
+          "content": "dominate vt. 统治，支配，主导"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.139,
+            0.911,
+            0.173
+          ],
+          "content": "predominant adj. 占统治地位的，占优势的，最重要的"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.279,
+            0.235,
+            0.3
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.314,
+            0.184,
+            0.331
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.339,
+            0.913,
+            0.375
+          ],
+          "content": "1. A recent annual study of countries and their ability to convert growth into well-being sheds some light on that question."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.114,
+            0.379,
+            0.549,
+            0.394
+          ],
+          "content": "Which of the following is true about the recent annual study?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.114,
+            0.399,
+            0.381,
+            0.414
+          ],
+          "content": "A. It is sponsored by 163 countries."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.548,
+            0.398,
+            0.81,
+            0.412
+          ],
+          "content": "B. It excludes GDP as an indicator."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.114,
+            0.418,
+            0.348,
+            0.433
+          ],
+          "content": "C. Its criteria are questionable."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.548,
+            0.418,
+            0.774,
+            0.433
+          ],
+          "content": "D. Its results are enlightening."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.443,
+            0.892,
+            0.459
+          ],
+          "content": "2. In effect, the White House \\_\\_\\_\\_ that it could invalidate any otherwise legitimate state law that it disagrees with."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.114,
+            0.463,
+            0.215,
+            0.479
+          ],
+          "content": "A. annoyed"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.342,
+            0.464,
+            0.434,
+            0.478
+          ],
+          "content": "B. claimed"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.548,
+            0.463,
+            0.64,
+            0.477
+          ],
+          "content": "C. recalled"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.787,
+            0.463,
+            0.878,
+            0.477
+          ],
+          "content": "D. included"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.488,
+            0.701,
+            0.505
+          ],
+          "content": "3. India has just \\_\\_\\_\\_ it will “eliminate all single-use plastic in the country by 2022”."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.114,
+            0.509,
+            0.231,
+            0.522
+          ],
+          "content": "A. announced"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.342,
+            0.509,
+            0.446,
+            0.522
+          ],
+          "content": "B. translated"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.548,
+            0.509,
+            0.649,
+            0.522
+          ],
+          "content": "C. rewarded"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.787,
+            0.508,
+            0.885,
+            0.521
+          ],
+          "content": "D. benefited"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.533,
+            0.911,
+            0.569
+          ],
+          "content": "4. The challenge of coping with automation \\_\\_\\_\\_ the need for the U.S. to revive its fading business dynamism: Starting new companies must be made easier."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.114,
+            0.573,
+            0.22,
+            0.588
+          ],
+          "content": "A. emphasis"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.342,
+            0.573,
+            0.423,
+            0.587
+          ],
+          "content": "B. voices"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.548,
+            0.573,
+            0.657,
+            0.587
+          ],
+          "content": "C. underlines"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.787,
+            0.572,
+            0.871,
+            0.587
+          ],
+          "content": "D. annoys"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.598,
+            0.851,
+            0.613
+          ],
+          "content": "5. Passionate consumers will \\_\\_\\_\\_ their opinions in quicker, more visible, and much more damaging ways."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.114,
+            0.617,
+            0.203,
+            0.631
+          ],
+          "content": "A. inform"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.342,
+            0.618,
+            0.416,
+            0.631
+          ],
+          "content": "B. voice"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.548,
+            0.618,
+            0.658,
+            0.632
+          ],
+          "content": "C. pronounce"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.787,
+            0.617,
+            0.875,
+            0.631
+          ],
+          "content": "D. migrate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.636,
+            0.911,
+            0.672
+          ],
+          "content": "6. The company plans to \\_\\_\\_\\_ its focus from traditional manufacturing to sustainable technology in the next five years."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.114,
+            0.676,
+            0.204,
+            0.69
+          ],
+          "content": "A. transfer"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.341,
+            0.676,
+            0.446,
+            0.689
+          ],
+          "content": "B. transform"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.548,
+            0.676,
+            0.643,
+            0.689
+          ],
+          "content": "C. translate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.787,
+            0.676,
+            0.88,
+            0.688
+          ],
+          "content": "D. transmit"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.702,
+            0.184,
+            0.719
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.728,
+            0.818,
+            0.744
+          ],
+          "content": "1. The question of GDP and its usefulness has \\_\\_\\_\\_ (annoy) policymakers for over half a century."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.753,
+            0.913,
+            0.789
+          ],
+          "content": "2. Turbulent business environment also has senior managers cautious of letting vague \\_\\_\\_\\_ (pronounce) cloud their reputations."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.798,
+            0.814,
+            0.814
+          ],
+          "content": "3. The functioning of the market is based on flexible trends \\_\\_\\_\\_ (dominant) by potential buyers."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.818,
+            0.913,
+            0.854
+          ],
+          "content": "4. And, as our research \\_\\_\\_\\_ (emphasis), tipping now seems to be more coercive, less generous and often completely dissociated from service quality."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.862,
+            0.913,
+            0.897
+          ],
+          "content": "5. In the past couple of weeks a quarrel has \\_\\_\\_\\_ (illustrate) the value to advertisers of such fine-grained information."
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.059,
+            0.935,
+            0.097,
+            0.95
+          ],
+          "content": "128/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.105,
+            0.933,
+            0.186,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.868,
+            0.004,
+            0.976,
+            0.021
+          ],
+          "content": "考点词"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.058,
+            0.044,
+            0.941,
+            0.107
+          ],
+          "sub_type": "text",
+          "content": "6. Half of the participants were told the \\_\\_\\_\\_ (inform) would be erased, while the other half were told it would be saved.\n7. The report criticized the \\_\\_\\_\\_ (allege) benefits of the new policy, claiming they were based on flawed data."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.058,
+            0.116,
+            0.158,
+            0.133
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.144,
+            0.768,
+            0.16
+          ],
+          "content": "1. The Taylor decision also declared sex discrimination in jury selection to be unconstitutional."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.057,
+            0.226,
+            0.876,
+            0.242
+          ],
+          "content": "2. I can recall the day my grandfather died and the sadness I felt when we went to the hospital the day before."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.057,
+            0.31,
+            0.942,
+            0.346
+          ],
+          "content": "3. The idea that one might burn down an entire house just to reclaim the nails underlines how scarce, costly and valuable the simple-seeming technology was."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.057,
+            0.414,
+            0.942,
+            0.45
+          ],
+          "content": "4. Urban planners interpret desire paths as more than just convenient shortcuts; they offer valuable insights into the dynamics between planning and behaviour."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.518,
+            0.942,
+            0.554
+          ],
+          "content": "5. This clash highlights an ongoing struggle between the organic, user-driven evolution of public spaces and the desire for a visually curated and controlled urban environment."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.622,
+            0.941,
+            0.658
+          ],
+          "content": "6. The organization proclaimed at the international conference that its mission was to eradicate extreme poverty through innovative economic policies."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.449,
+            0.778,
+            0.55,
+            0.799
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.06,
+            0.823,
+            0.158,
+            0.841
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.857,
+            0.109,
+            0.87
+          ],
+          "content": "1. D."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.875,
+            0.12,
+            0.89
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.895,
+            0.472,
+            0.911
+          ],
+          "content": "句意：最近一项关于各国经济增长与民众福祉之间"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.857,
+            0.938,
+            0.891
+          ],
+          "continues_prev": true,
+          "content": "关系的年度研究，为这个问题的探讨提供了一些见解。关于这项最近的年度研究，下列哪项是正确的？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.895,
+            0.937,
+            0.911
+          ],
+          "content": "考点：阅读理解之细节题。解题关键在于理解题干"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.836,
+            0.94,
+            0.889,
+            0.957
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.892,
+            0.939,
+            0.92,
+            0.957
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.924,
+            0.941,
+            0.97,
+            0.956
+          ],
+          "content": "/129"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.039,
+            0.01,
+            0.511,
+            0.044
+          ],
+          "content": "高频词表"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.07,
+            0.483,
+            0.143
+          ],
+          "continues_prev": true,
+          "content": "所引原文中的短语“sheds some light on”。该短语意为“阐明，使……更容易理解”，因此这项研究的结果是“有启发性的（enlightening）”。D.选项是原文的同义替换。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.159,
+            0.135,
+            0.172
+          ],
+          "level": 2,
+          "content": "2. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.088,
+            0.177,
+            0.147,
+            0.192
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.196,
+            0.482,
+            0.23
+          ],
+          "content": "句意：实际上，白宫 \\_\\_\\_\\_ 它可以使任何它不同意的、在其他情况下合法的州法律无效。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.234,
+            0.483,
+            0.288
+          ],
+          "content": "考点：动词辨析。空格后接“that”引导的宾语从句，陈述白宫的立场或观点。表示“声称，宣称”某一看法的动词是 B. claimed。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.088,
+            0.304,
+            0.139,
+            0.318
+          ],
+          "level": 2,
+          "content": "3. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.322,
+            0.147,
+            0.338
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.341,
+            0.482,
+            0.376
+          ],
+          "content": "句意：印度刚刚 \\_\\_\\_\\_ 它将“在 2022 年前消除国内所有一次性塑料的使用”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.379,
+            0.482,
+            0.434
+          ],
+          "content": "考点：动词辨析。空格后是直接引语，内容是一项国家政策。政府发布一项政策或决定，最常用的动词是 A. announced（宣布，宣告）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.088,
+            0.45,
+            0.139,
+            0.463
+          ],
+          "level": 2,
+          "content": "4. C."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.467,
+            0.482,
+            0.521
+          ],
+          "content": "句意：应对自动化的挑战\\_\\_\\_\\_美国重振其日益衰落的商业活力的必要性：必须让创办新公司变得更加容易。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.524,
+            0.482,
+            0.636
+          ],
+          "content": "考点：动词辨析。冒号后的内容是对“必要性”的解释说明，因此空格处的动词应表示“强调、凸显”的含义。C. underlines(强调，突出) 是正确答案。A. emphasis 是名词，不能直接作谓语。B. voices(表达，吐露) 通常后接“意见、关切”等，与“need”搭配不贴切。D. annoys(使恼怒) 与句意完全无关。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.088,
+            0.651,
+            0.134,
+            0.664
+          ],
+          "level": 2,
+          "content": "5. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.088,
+            0.668,
+            0.147,
+            0.684
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.687,
+            0.482,
+            0.721
+          ],
+          "content": "句意：情绪激动的消费者会以更快速、更显眼、破坏力也大得多的方式\\_\\_\\_\\_他们的意见。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.724,
+            0.482,
+            0.853
+          ],
+          "content": "考点：动词辨析与固定搭配。空格需要填入一个能与“opinions”（意见）搭配的动词，表示“表达、发表”。B. voice 作动词时意为“表达，吐露（感情或意见）”，是正确选项。A. inform（通知），常用结构为“inform sb. of sth.”。C. pronounce（发音；宣布），通常不与“opinions”搭配。D. migrate（迁移）与句意无关。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.088,
+            0.868,
+            0.135,
+            0.882
+          ],
+          "level": 2,
+          "content": "6. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.088,
+            0.885,
+            0.147,
+            0.901
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.904,
+            0.482,
+            0.919
+          ],
+          "content": "句意：该公司计划在未来五年内将其重心从传统制"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.07,
+            0.778,
+            0.087
+          ],
+          "content": "造业 \\_\\_\\_\\_ 到可持续技术领域。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.089,
+            0.914,
+            0.238
+          ],
+          "content": "考点：动词辨析与固定搭配。空格后的宾语是“focus”（重心，焦点），且其后有“from...to...”结构，表示“从 A 转移到 B”。A. transfer（转移，调动）常与“from...to...”连用，符合句意。B. transform（改变，变换），强调形态性质的彻底改变，后接“into”。C. translate（翻译；转化），D. transmit（传输，发射）均不与“focus”搭配，且不强调“位置或方向的转移”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.248,
+            0.627,
+            0.266
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.282,
+            0.626,
+            0.296
+          ],
+          "level": 2,
+          "content": "1. annoyed"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.299,
+            0.591,
+            0.315
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.318,
+            0.911,
+            0.353
+          ],
+          "content": "句意:GDP 及其有用性的问题已经\\_\\_\\_\\_了政策制定者半个多世纪。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.356,
+            0.912,
+            0.411
+          ],
+          "content": "考点：动词时态（现在完成时）。句子时间状语“for over half a century”表示持续一段时间，谓语需用现在完成时“has annoyed”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.427,
+            0.685,
+            0.442
+          ],
+          "level": 2,
+          "content": "2. pronouncements"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.444,
+            0.59,
+            0.46
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.463,
+            0.911,
+            0.498
+          ],
+          "content": "句意：动荡的商业环境也使得高级经理们小心翼翼，避免让含糊的 \\_\\_\\_\\_ 损害他们的声誉。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.501,
+            0.912,
+            0.593
+          ],
+          "content": "考点：词性转换（动词→名词）。动词“let”后接宾语，且前面有形容词“vague”修饰，故需填入名词。将动词“pronounce”变为名词“pronouncement”（声明，公告），并根据语境使用复数形式“pronouncements”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.608,
+            0.64,
+            0.622
+          ],
+          "level": 2,
+          "content": "3. dominated"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.625,
+            0.591,
+            0.641
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.644,
+            0.911,
+            0.679
+          ],
+          "content": "句意：市场的运作基于由潜在买家\\_\\_\\_\\_的灵活趋势。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.681,
+            0.912,
+            0.754
+          ],
+          "content": "考点：非谓语动词（过去分词作后置定语）。空格修饰名词“trends”（趋势）。“趋势”和“主导”之间是被动关系（趋势被买家主导），故用过去分词“dominated”作后置定语。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.771,
+            0.646,
+            0.785
+          ],
+          "level": 2,
+          "content": "4. emphasizes"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.788,
+            0.591,
+            0.804
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.807,
+            0.911,
+            0.86
+          ],
+          "content": "句意：而且，正如我们的研究\\_\\_\\_\\_的那样，给小费的行为现在似乎变得更具有强制性、更不慷慨，并且常常与服务品质完全脱钩。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.863,
+            0.912,
+            0.917
+          ],
+          "content": "考点：词性转换（名词→动词）与主谓一致。空格处在“as”引导的从句中作谓语。主语是“our research”（研究），故谓语动词应用第三人称单数形"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.058,
+            0.939,
+            0.099,
+            0.955
+          ],
+          "content": "130/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.105,
+            0.937,
+            0.184,
+            0.955
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 8,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.037,
+            0.009,
+            0.513,
+            0.044
+          ],
+          "content": "高频词表"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.068,
+            0.484,
+            0.142
+          ],
+          "continues_prev": true,
+          "content": "所引原文中的短语“sheds some light on”。该短语意为“阐明，使……更容易理解”，因此这项研究的结果是“有启发性的（enlightening）”。D.选项是原文的同义替换。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.158,
+            0.133,
+            0.171
+          ],
+          "level": 2,
+          "content": "2. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.176,
+            0.145,
+            0.191
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.194,
+            0.482,
+            0.229
+          ],
+          "content": "句意：实际上，白宫 \\_\\_\\_\\_ 它可以使任何它不同意的、在其他情况下合法的州法律无效。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.232,
+            0.482,
+            0.287
+          ],
+          "content": "考点：动词辨析。空格后接“that”引导的宾语从句，陈述白宫的立场或观点。表示“声称，宣称”某一看法的动词是 B. claimed。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.304,
+            0.136,
+            0.317
+          ],
+          "level": 2,
+          "content": "3. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.321,
+            0.145,
+            0.337
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.34,
+            0.482,
+            0.374
+          ],
+          "content": "句意：印度刚刚 \\_\\_\\_\\_ 它将“在 2022 年前消除国内所有一次性塑料的使用”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.378,
+            0.482,
+            0.432
+          ],
+          "content": "考点：动词辨析。空格后是直接引语，内容是一项国家政策。政府发布一项政策或决定，最常用的动词是 A. announced（宣布，宣告）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.448,
+            0.136,
+            0.462
+          ],
+          "level": 2,
+          "content": "4. C."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.466,
+            0.482,
+            0.52
+          ],
+          "content": "句意：应对自动化的挑战 \\_\\_\\_\\_ 美国重振其日益衰落的商业活力的必要性：必须让创办新公司变得更加容易。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.523,
+            0.482,
+            0.634
+          ],
+          "content": "考点：动词辨析。冒号后的内容是对“必要性”的解释说明，因此空格处的动词应表示“强调、凸显”的含义。C. underlines(强调，突出) 是正确答案。A. emphasis 是名词，不能直接作谓语。B. voices(表达，吐露) 通常后接“意见、关切”等，与“need”搭配不贴切。D. annoys(使恼怒) 与句意完全无关。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.65,
+            0.133,
+            0.663
+          ],
+          "level": 2,
+          "content": "5. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.667,
+            0.145,
+            0.683
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.686,
+            0.482,
+            0.72
+          ],
+          "content": "句意：情绪激动的消费者会以更快速、更显眼、破坏力也大得多的方式\\_\\_\\_\\_他们的意见。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.724,
+            0.482,
+            0.852
+          ],
+          "content": "考点：动词辨析与固定搭配。空格需要填入一个能与“opinions”（意见）搭配的动词，表示“表达、发表”。B. voice 作动词时意为“表达，吐露（感情或意见）”，是正确选项。A. inform（通知），常用结构为“inform sb. of sth.”。C. pronounce（发音；宣布），通常不与“opinions”搭配。D. migrate（迁移）与句意无关。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.868,
+            0.133,
+            0.881
+          ],
+          "level": 2,
+          "content": "6. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.885,
+            0.145,
+            0.9
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.903,
+            0.482,
+            0.919
+          ],
+          "content": "句意：该公司计划在未来五年内将其重心从传统制"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.068,
+            0.778,
+            0.084
+          ],
+          "content": "造业 \\_\\_\\_\\_ 到可持续技术领域。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.087,
+            0.916,
+            0.236
+          ],
+          "content": "考点：动词辨析与固定搭配。空格后的宾语是“focus”（重心，焦点），且其后有“from...to...”结构，表示“从 A 转移到 B”。A. transfer（转移，调动）常与“from...to...”连用，符合句意。B. transform（改变，变换），强调形态性质的彻底改变，后接“into”。C. translate（翻译；转化），D. transmit（传输，发射）均不与“focus”搭配，且不强调“位置或方向的转移”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.246,
+            0.628,
+            0.264
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.28,
+            0.626,
+            0.294
+          ],
+          "level": 2,
+          "content": "1. annoyed"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.297,
+            0.592,
+            0.313
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.316,
+            0.914,
+            0.351
+          ],
+          "content": "句意:GDP 及其有用性的问题已经\\_\\_\\_\\_了政策制定者半个多世纪。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.354,
+            0.915,
+            0.409
+          ],
+          "content": "考点：动词时态（现在完成时）。句子时间状语“for over half a century”表示持续一段时间，谓语需用现在完成时“has annoyed”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.425,
+            0.686,
+            0.439
+          ],
+          "level": 2,
+          "content": "2. pronouncements"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.442,
+            0.592,
+            0.458
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.461,
+            0.914,
+            0.496
+          ],
+          "content": "句意：动荡的商业环境也使得高级经理们小心翼翼，避免让含糊的 \\_\\_\\_\\_ 损害他们的声誉。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.499,
+            0.915,
+            0.591
+          ],
+          "content": "考点：词性转换（动词→名词）。动词“let”后接宾语，且前面有形容词“vague”修饰，故需填入名词。将动词“pronounce”变为名词“pronouncement”（声明，公告），并根据语境使用复数形式“pronouncements”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.607,
+            0.641,
+            0.621
+          ],
+          "level": 2,
+          "content": "3. dominated"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.625,
+            0.591,
+            0.64
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.643,
+            0.914,
+            0.678
+          ],
+          "content": "句意：市场的运作基于由潜在买家\\_\\_\\_\\_的灵活趋势。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.681,
+            0.915,
+            0.754
+          ],
+          "content": "考点：非谓语动词（过去分词作后置定语）。空格修饰名词“trends”（趋势）。“趋势”和“主导”之间是被动关系（趋势被买家主导），故用过去分词“dominated”作后置定语。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.77,
+            0.646,
+            0.785
+          ],
+          "level": 2,
+          "content": "4. emphasizes"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.788,
+            0.591,
+            0.803
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.806,
+            0.914,
+            0.86
+          ],
+          "content": "句意：而且，正如我们的研究\\_\\_\\_\\_的那样，给小费的行为现在似乎变得更具有强制性、更不慷慨，并且常常与服务品质完全脱钩。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.863,
+            0.915,
+            0.916
+          ],
+          "content": "考点：词性转换（名词→动词）与主谓一致。空格处在“as”引导的从句中作谓语。主语是“our research”（研究），故谓语动词应用第三人称单数形"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.056,
+            0.939,
+            0.097,
+            0.955
+          ],
+          "content": "130/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.101,
+            0.937,
+            0.184,
+            0.955
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 9,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.868,
+            0.0,
+            0.979,
+            0.014
+          ],
+          "content": "考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.038,
+            0.246,
+            0.054
+          ],
+          "content": "式，该空填 emphasizes。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.059,
+            0.071,
+            0.172,
+            0.086
+          ],
+          "level": 2,
+          "content": "5. illustrated"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.058,
+            0.09,
+            0.12,
+            0.106
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.109,
+            0.474,
+            0.144
+          ],
+          "content": "句意：在过去的几周里，一场争论\\_\\_\\_\\_了这种精细信息对于广告商的价值。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.148,
+            0.474,
+            0.204
+          ],
+          "content": "考点：动词时态（现在完成时）。时间状语“In the past couple of weeks”表示从过去持续到现在的一段时间，谓语需用现在完成时“has illustrated”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.058,
+            0.223,
+            0.185,
+            0.237
+          ],
+          "level": 2,
+          "content": "6. information"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.057,
+            0.242,
+            0.12,
+            0.257
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.26,
+            0.472,
+            0.296
+          ],
+          "content": "句意：一半的参与者被告知\\_\\_\\_\\_将被删除，而另一半则被告知信息会被保存。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.3,
+            0.472,
+            0.337
+          ],
+          "content": "考点：名词形式。“inform”的名词形式是“information”\n(信息), 注意该词为不可数名词。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.059,
+            0.355,
+            0.146,
+            0.37
+          ],
+          "level": 2,
+          "content": "7. alleged"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.058,
+            0.374,
+            0.12,
+            0.39
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.393,
+            0.474,
+            0.429
+          ],
+          "content": "句意：这份报告批评了新政策\\_\\_\\_\\_好处，声称这些好处是基于有缺陷的数据。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.038,
+            0.943,
+            0.114
+          ],
+          "content": "考点：词性转换（动词→形容词）。根据后半句可知，这些好处是“被声称但未被证实的”。需将动词“allege”（声称，宣称）变为形容词“alleged”（声称的，所谓的），表示一种存疑的态度。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.124,
+            0.627,
+            0.141
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.144,
+            0.943,
+            0.18
+          ],
+          "content": "1. 泰勒案的裁决还宣布在陪审团成员的挑选过程中存在性别歧视是违宪的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.184,
+            0.941,
+            0.219
+          ],
+          "content": "2. 我能清晰地记得祖父去世的那一天，以及我们去医院探望他的那天所感受到的那种悲伤情绪。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.223,
+            0.942,
+            0.279
+          ],
+          "content": "3. 那种为了拿回那些钉子而烧毁整座房子的想法，凸显出这种看似简单的技术有多么稀缺、昂贵且珍贵。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.283,
+            0.942,
+            0.338
+          ],
+          "content": "4. 城市规划者认为，欲望路径不仅仅是方便的捷径; 它们为规划与行为之间的动态关系提供了宝贵洞见。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.342,
+            0.942,
+            0.398
+          ],
+          "content": "5. 这种冲突凸显了公共空间有机的、由使用者驱动的演变与对视觉上精心设计且可控的城市环境的追求之间持续存在的矛盾。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.402,
+            0.942,
+            0.438
+          ],
+          "content": "6. 该组织在国际会议上宣称，其使命是通过创新性经济政策消除极端贫困。"
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.014,
+            0.685,
+            0.031,
+            0.937
+          ],
+          "content": "[Illegible]"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.832,
+            0.939,
+            0.914,
+            0.956
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.92,
+            0.94,
+            0.96,
+            0.955
+          ],
+          "content": "131"
+        }
+      ]
+    },
+    {
+      "page_idx": 10,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.027,
+            0.003,
+            0.1,
+            0.036
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.113,
+            0.012,
+            0.378,
+            0.03
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.409,
+            0.012,
+            0.516,
+            0.03
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.365,
+            0.061,
+            0.411,
+            0.093
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_10_image_body_3.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.419,
+            0.067,
+            0.64,
+            0.086
+          ],
+          "level": 2,
+          "content": "List 12 建议与选择"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.077,
+            0.101,
+            0.226,
+            0.121
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.128,
+            0.435,
+            0.145
+          ],
+          "content": "情节发展：提议评估→要求落实→影响行动"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.175,
+            0.164,
+            0.19
+          ],
+          "level": 2,
+          "content": "提议评估"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.194,
+            0.709,
+            0.23
+          ],
+          "content": "有专家 suggest/propose（提议）翻新旧城区，市长很 interest（感兴趣）。他们 consider（考虑）了大家的意见，知道这事 require（需要）一大笔钱。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.721,
+            0.157,
+            0.929,
+            0.246
+          ],
+          "sub_type": "natural_image",
+          "content": "Silhouette of a man in a suit walking through a cityscape with people walking (no text or symbols visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_10_image_body_9.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.26,
+            0.163,
+            0.275
+          ],
+          "level": 2,
+          "content": "要求落实"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.279,
+            0.709,
+            0.336
+          ],
+          "content": "居民们强烈 request/demand（要求）修好设施，并且 insist（坚持）过程要公开。于是，政府举行公开听证会，展示所有筹钱的 option（方案）。经过多方讨论后，最终由政府和居民代表共同 select/elect（选定）了让企业和政府一起出钱的模式。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.722,
+            0.251,
+            0.928,
+            0.34
+          ],
+          "sub_type": "natural_image",
+          "content": "Group of people gathered outdoors near a building, one person standing and gesturing (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_10_image_body_12.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.365,
+            0.163,
+            0.38
+          ],
+          "level": 2,
+          "content": "影响行动"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.384,
+            0.709,
+            0.421
+          ],
+          "content": "负责人努力 inspire（激励）大家参与，并 convince/persuade（说服）公司来投资。虽然一开始有人 resist（反对）改变，但看到新公园建好后，想法就变了。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.721,
+            0.346,
+            0.928,
+            0.438
+          ],
+          "sub_type": "natural_image",
+          "content": "Group of men in a park setting, engaged in conversation (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_10_image_body_15.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.484,
+            0.225,
+            0.505
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.535,
+            0.242,
+            0.551
+          ],
+          "content": "suggest /səˈdʒest/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.554,
+            0.36,
+            0.57
+          ],
+          "content": "vt. 暗示；建议；认为，表示，表明"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.577,
+            0.489,
+            0.613
+          ],
+          "content": "妙记：谐音“射箭死的？”→谁叫你不听 suggest（建议）！"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.212,
+            0.619,
+            0.351,
+            0.716
+          ],
+          "sub_type": "natural_image",
+          "content": "Person lying on the ground in a forest, carrying a bundle of twigs (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_10_image_body_20.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.078,
+            0.722,
+            0.178,
+            0.742
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.749,
+            0.474,
+            0.785
+          ],
+          "content": "①阅读中更多考查“认为、表示、表明”的含义，而不是“建议”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.789,
+            0.236,
+            0.806
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.81,
+            0.486,
+            0.845
+          ],
+          "content": "The court did suggest that accepting favors in return for opening doors is “distasteful” and “nasty”."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.848,
+            0.485,
+            0.884
+          ],
+          "content": "法院确实表示，接受帮助作为敞开大门的回报是“令人厌恶的”和“肮脏的”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.887,
+            0.444,
+            0.903
+          ],
+          "content": "②在图表作文中，常用于描述趋势隐含的意义。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.908,
+            0.486,
+            0.924
+          ],
+          "content": "The sharp decline in green space suggests uncontrolled"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.538,
+            0.535,
+            0.638,
+            0.549
+          ],
+          "content": "urbanization."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.538,
+            0.553,
+            0.892,
+            0.57
+          ],
+          "content": "绿地面积的急剧减少表明城市化进程失控了。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.573,
+            0.623,
+            0.589
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.594,
+            0.803,
+            0.61
+          ],
+          "content": "suggestion n. 暗示；建议；意见"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.549,
+            0.629,
+            0.699,
+            0.644
+          ],
+          "content": "interest /'ɪntrəst/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.549,
+            0.649,
+            0.867,
+            0.665
+          ],
+          "content": "n. 兴趣；利益；【经】利息 vt. 使感兴趣"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.549,
+            0.672,
+            0.932,
+            0.708
+          ],
+          "content": "妙记：本义是“兴趣” → 人们最感兴趣的 → 是“利益”和“利息”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.54,
+            0.719,
+            0.641,
+            0.74
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.747,
+            0.783,
+            0.763
+          ],
+          "content": "①考研最常考“利益”的含义。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.767,
+            0.699,
+            0.784
+          ],
+          "content": "【2020 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.788,
+            0.933,
+            0.823
+          ],
+          "content": "The French Senate has passed a bill to protect French companies' interests."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.827,
+            0.929,
+            0.844
+          ],
+          "content": "法国参议院通过了一项旨在保护法国公司利益的法案。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.538,
+            0.846,
+            0.798,
+            0.863
+          ],
+          "content": "②在经济领域可以表示“利息”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.866,
+            0.699,
+            0.883
+          ],
+          "content": "【2013 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.887,
+            0.933,
+            0.921
+          ],
+          "content": "The writer of the check can earn interest on the funds in the meantime."
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.046,
+            0.938,
+            0.087,
+            0.953
+          ],
+          "content": "132/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.094,
+            0.937,
+            0.123,
+            0.953
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.126,
+            0.938,
+            0.176,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:13:34",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 11,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 839.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 844.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 8,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 9,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 10,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

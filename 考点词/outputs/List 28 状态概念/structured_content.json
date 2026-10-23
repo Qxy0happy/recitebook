@@ -1,0 +1,3935 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.866,
+            0.008,
+            0.976,
+            0.024
+          ],
+          "content": "考点词"
+        },
+        {
+          "type": "doc_title",
+          "bbox": [
+            0.417,
+            0.046,
+            0.584,
+            0.078
+          ],
+          "level": 1,
+          "content": "状态概念"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.347,
+            0.104,
+            0.395,
+            0.137
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_2.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.402,
+            0.111,
+            0.631,
+            0.131
+          ],
+          "level": 2,
+          "content": "List 28 背景与可能"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.06,
+            0.16,
+            0.212,
+            0.181
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.188,
+            0.414,
+            0.205
+          ],
+          "content": "情节发展：危机背景→关键时刻→最终反思"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.222,
+            0.147,
+            0.238
+          ],
+          "level": 2,
+          "content": "危机背景"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.242,
+            0.7,
+            0.319
+          ],
+          "content": "A 小镇的天气 condition（条件）在不断恶化，context（背景）资料也显示，这种风暴在沿海地区是很 universal（普遍的）、inevitable（不可避免的）。面对这种 circumstance（情况），premise（前提）一定是居民安全至上，立即撤离的 necessity（必要性）不言而喻。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.711,
+            0.226,
+            0.938,
+            0.315
+          ],
+          "sub_type": "natural_image",
+          "content": "Monochrome painting of a building under a stormy sky with scattered trees and smoke (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_8.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.344,
+            0.148,
+            0.361
+          ],
+          "level": 2,
+          "content": "关键时刻"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.365,
+            0.699,
+            0.402
+          ],
+          "content": "同时，救援物资是 critical/crucial（至关重要的），但 might（可能）供应不足。因此，指挥者是 indispensable（不可或缺的），而且每个人 must（必须）服从安排。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.712,
+            0.328,
+            0.938,
+            0.418
+          ],
+          "sub_type": "natural_image",
+          "content": "Historical painting depicting a crowd gathered around a large object, with smoke rising and a red star marking a specific point (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_11.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.427,
+            0.148,
+            0.444
+          ],
+          "level": 2,
+          "content": "最终反思"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.447,
+            0.7,
+            0.525
+          ],
+          "content": "尽管 immediate（立刻）有响应，但行动还是有点 late（晚）了。temporary（临时的）避难所 barely/hardly（几乎不）能容纳所有居民，primary（主要的）问题还是资源匮乏。ultimate（最终的）结果不太令人满意，但庆幸的是，更糟的灾难 unlikely（不太可能）发生。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.71,
+            0.431,
+            0.939,
+            0.521
+          ],
+          "sub_type": "natural_image",
+          "content": "Historical painting depicting a dramatic storm scene with buildings and smoke rising, no visible text or symbols",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_14.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.063,
+            0.574,
+            0.21,
+            0.596
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.626,
+            0.245,
+            0.642
+          ],
+          "content": "necessity /nəˈsesəti/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.646,
+            0.22,
+            0.661
+          ],
+          "content": "n. 必要性；必需品"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.669,
+            0.474,
+            0.706
+          ],
+          "content": "妙记:ne-（否定）+cess-（走）+-ity（名词后缀）→不能走掉的东西→necessity（必需品）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.063,
+            0.717,
+            0.162,
+            0.738
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.745,
+            0.474,
+            0.801
+          ],
+          "content": "该单词表示“必要性”时，是不可数名词；表示“必需品”时，是可数名词，与 keep 不同，keep 为不可数名词。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.804,
+            0.22,
+            0.82
+          ],
+          "content": "【2022 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.823,
+            0.438,
+            0.856
+          ],
+          "content": "26. C. reassess the necessity of college education\n重新评估大学教育的必要性"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.859,
+            0.22,
+            0.875
+          ],
+          "content": "【2010 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.879,
+            0.427,
+            0.912
+          ],
+          "content": "32. B. show the urgent need of daily necessities\n表明了对日常必需品的紧迫需求"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.625,
+            0.795,
+            0.642
+          ],
+          "content": "indispensable /ˌɪndɪˈspensəbl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.645,
+            0.771,
+            0.661
+          ],
+          "content": "adj. 必不可少的，不可或缺的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.538,
+            0.672,
+            0.942,
+            0.729
+          ],
+          "content": "妙记:in-（否定）+dis-（否定）+pens-（支付）+-able（形容词后缀，可……的）→不可不支付的→indispensable（必不可少的）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.738,
+            0.631,
+            0.761
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.773,
+            0.732,
+            0.79
+          ],
+          "content": "①常考释义：必不可少的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.795,
+            0.689,
+            0.812
+          ],
+          "content": "【2018 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.817,
+            0.922,
+            0.855
+          ],
+          "content": "37. D. daily schedules are indispensable to studying\n每日时间表对学习来说是必不可少的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.859,
+            0.613,
+            0.875
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.881,
+            0.729,
+            0.897
+          ],
+          "content": "dispense vt. 分发；分配"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.839,
+            0.934,
+            0.892,
+            0.95
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.894,
+            0.933,
+            0.922,
+            0.951
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.928,
+            0.935,
+            0.974,
+            0.95
+          ],
+          "content": "/277"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.031,
+            0.033,
+            0.107,
+            0.067
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.119,
+            0.044,
+            0.375,
+            0.061
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.407,
+            0.044,
+            0.512,
+            0.061
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.091,
+            0.278,
+            0.106
+          ],
+          "content": "inevitable /ɪnˈevɪtəbl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.11,
+            0.283,
+            0.126
+          ],
+          "content": "adj. 不可避免的，必然的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.132,
+            0.484,
+            0.166
+          ],
+          "content": "妙记:in-（否定）+evitable（谐音“一味逃跑”）→不能一味逃跑，因为逃不掉，不可避免。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.177,
+            0.182,
+            0.197
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.202,
+            0.482,
+            0.237
+          ],
+          "content": "常考其副词形式 inevitably 表示“必然”，相当于 necessarily。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.239,
+            0.237,
+            0.255
+          ],
+          "content": "【2020 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.259,
+            0.484,
+            0.31
+          ],
+          "content": "Requiring companies to make gender the primary qualification for board membership will inevitably lead to less experienced private sector boards."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.313,
+            0.482,
+            0.348
+          ],
+          "content": "要求公司将性别作为董事会成员资格的首要资格条件，必然会导致私有部门的董事会缺乏经验。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.37,
+            0.286,
+            0.387
+          ],
+          "content": "universal /ˌjuːnɪˈvɜːrsl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.39,
+            0.18,
+            0.405
+          ],
+          "content": "adj. 普遍的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.412,
+            0.484,
+            0.448
+          ],
+          "content": "妙记:uni-（一）+ vers-（转）+-al（形容词后缀）→万物转向一个方向→这个方向是全体“普遍的”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.457,
+            0.182,
+            0.478
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.485,
+            0.245,
+            0.5
+          ],
+          "content": "①常考释义：普遍的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.504,
+            0.239,
+            0.519
+          ],
+          "content": "【2022 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.524,
+            0.467,
+            0.557
+          ],
+          "content": "As degrees became universal, they became devalued.\n随着学位变得普遍，学位的价值也就降低了。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.561,
+            0.165,
+            0.576
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.58,
+            0.272,
+            0.595
+          ],
+          "content": "universe n. 宇宙；领域"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.599,
+            0.282,
+            0.615
+          ],
+          "content": "universality n. 普遍（性）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.637,
+            0.236,
+            0.652
+          ],
+          "content": "critical /'kritikl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.656,
+            0.385,
+            0.672
+          ],
+          "content": "adj. 批评的，批判的; 重要的，关键的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.679,
+            0.484,
+            0.714
+          ],
+          "content": "妙记:crit- 来自 Cross（十字），代表天主教，中世纪是天主教的教廷统治。"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.092,
+            0.717,
+            0.438,
+            0.752
+          ],
+          "sub_type": "text",
+          "content": "1. 批评的：最早来自天主教廷的批判；\n2. 重要的：在中世纪，天主教廷是最重要的。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.762,
+            0.182,
+            0.783
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.789,
+            0.482,
+            0.823
+          ],
+          "content": "① critical 表示“批判的”，经常出现在态度题的选项中，表示负面态度。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.827,
+            0.24,
+            0.843
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.847,
+            0.484,
+            0.881
+          ],
+          "content": "36.What is the author's attitude toward the AAAS's report?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.884,
+            0.383,
+            0.918
+          ],
+          "content": "作者对 AAAS 的报告的态度是怎样的？\ncritical. 批判的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.09,
+            0.635,
+            0.105
+          ],
+          "content": "②短语搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.109,
+            0.813,
+            0.124
+          ],
+          "content": "\\- be critical of 对……持批判的态度"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.127,
+            0.692,
+            0.143
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.147,
+            0.918,
+            0.181
+          ],
+          "content": "Young people are critical of an over-tweeting president. 年轻人对过度发推的总统持批判的态度。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.185,
+            0.761,
+            0.199
+          ],
+          "content": "\\- be critical to 对……很重要"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.203,
+            0.693,
+            0.219
+          ],
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.223,
+            0.92,
+            0.276
+          ],
+          "content": "The goal of grade forgiveness is more about encouraging students to retake courses critical to their degree program and graduation."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.279,
+            0.919,
+            0.314
+          ],
+          "content": "分数谅解的目标，更多是鼓励学生去重修那些对他们的学位和毕业非常重要的课程。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.337,
+            0.684,
+            0.353
+          ],
+          "content": "crucial /'kru:ʃl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.356,
+            0.701,
+            0.372
+          ],
+          "content": "adj. 重要的，关键的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.378,
+            0.914,
+            0.414
+          ],
+          "content": "妙记：cruc- = crit- 来自 cross（十字）→十字路口，面临关键抉择。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.653,
+            0.419,
+            0.822,
+            0.536
+          ],
+          "sub_type": "natural_image",
+          "content": "Painting of a person walking on a dirt path under a cloudy sky, with a small house in the background (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_43.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.536,
+            0.541,
+            0.635,
+            0.562
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.569,
+            0.84,
+            0.584
+          ],
+          "content": "短语搭配:be crucial to 对……很重要"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.588,
+            0.692,
+            0.605
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.609,
+            0.919,
+            0.644
+          ],
+          "content": "To ensure the future of mankind, it is crucial to draw on our experience from the past."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.647,
+            0.919,
+            0.683
+          ],
+          "content": "为了确保人类的未来，从过去汲取我们的经验至关重要。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.71,
+            0.66,
+            0.727
+          ],
+          "content": "might /maɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.73,
+            0.75,
+            0.746
+          ],
+          "content": "aux.v. 可能 n. 力量；权力"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.752,
+            0.915,
+            0.789
+          ],
+          "content": "妙记：拥有权力（might）的人凝聚力量（might），为实现目标创造更多可能（might）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.536,
+            0.798,
+            0.635,
+            0.819
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.826,
+            0.7,
+            0.841
+          ],
+          "content": "①注意该词可作名词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.844,
+            0.868,
+            0.861
+          ],
+          "content": "America's military might 美国的军事力量"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.863,
+            0.799,
+            0.88
+          ],
+          "content": "②派生词:mighty adj. 强有力的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.882,
+            0.693,
+            0.898
+          ],
+          "content": "【2013 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.901,
+            0.76,
+            0.917
+          ],
+          "content": "mighty rivals 强有力的对手"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.048,
+            0.936,
+            0.087,
+            0.95
+          ],
+          "content": "278/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.097,
+            0.935,
+            0.125,
+            0.951
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.129,
+            0.936,
+            0.179,
+            0.95
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.845,
+            0.03,
+            0.95,
+            0.067
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.088,
+            0.305,
+            0.121
+          ],
+          "continues_prev": true,
+          "content": "must /mʌst/\naux.&v. 必须 n. 必须做的事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.128,
+            0.474,
+            0.163
+          ],
+          "content": "妙记：备考是必须做的事（must），同时也必须（must）上岸。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.172,
+            0.18,
+            0.194
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.2,
+            0.365,
+            0.216
+          ],
+          "content": "该单词可以作名词，表示必须做的事。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.219,
+            0.234,
+            0.235
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.239,
+            0.474,
+            0.272
+          ],
+          "content": "His parents believe working steadily is a must for success."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.276,
+            0.43,
+            0.293
+          ],
+          "content": "他的父母认为，想要成功，就必须稳定地工作。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.319,
+            0.241,
+            0.354
+          ],
+          "content": "premise /'premɪs/\nn. 前提"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.364,
+            0.474,
+            0.419
+          ],
+          "content": "妙记:pre-（前）+mis- = mit-（抛）→提前抛出→得出结论之前必须抛出的观点和论据→就是 premise（前提）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.433,
+            0.177,
+            0.454
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.46,
+            0.204,
+            0.476
+          ],
+          "content": "常考释义：前提"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.479,
+            0.233,
+            0.496
+          ],
+          "content": "【2016 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.5,
+            0.474,
+            0.535
+          ],
+          "content": "But even if you accept Friedman's premise, things may not be absolutely clear-cut."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.537,
+            0.473,
+            0.573
+          ],
+          "content": "但即便你认可弗里德曼的前提，情况也可能并非绝对清晰明了。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.6,
+            0.343,
+            0.635
+          ],
+          "content": "context /'ka:ntekst/\nn. 上下文；（事件等发生的）背景"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.645,
+            0.474,
+            0.7
+          ],
+          "content": "妙记:con-（全部）+ text（文本）→ 全部文本 → 上下文；事件所处的“上下文”，就是事件发生的“背景”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.713,
+            0.177,
+            0.735
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.741,
+            0.177,
+            0.757
+          ],
+          "content": "①短语搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.761,
+            0.266,
+            0.776
+          ],
+          "content": "cultural context 文化环境"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.779,
+            0.234,
+            0.796
+          ],
+          "content": "【2016 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.8,
+            0.474,
+            0.835
+          ],
+          "content": "The better you understand the cultural context, the more control you can have over your impact."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.837,
+            0.473,
+            0.872
+          ],
+          "content": "你对文化背景的理解越透彻，就越能掌控自己所产生的影响。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.875,
+            0.16,
+            0.891
+          ],
+          "content": "②形近词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.895,
+            0.277,
+            0.911
+          ],
+          "content": "contest n./v. 竞争、竞赛"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.089,
+            0.775,
+            0.122
+          ],
+          "continues_prev": true,
+          "content": "circumstance /'sɜːrkəmstæns/\nn. 环境；情况，状况，境况"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.132,
+            0.918,
+            0.186
+          ],
+          "content": "妙记:circu(m)s（马戏团）+ stance（联想 stand，站立）→马戏团里的演员站立在复杂的“环境”（circumstance）中表演。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.641,
+            0.192,
+            0.801,
+            0.304
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a figure on a rock amidst flames and a glowing wheel, with a glowing wheel in the background (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_27.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.313,
+            0.623,
+            0.335
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.342,
+            0.783,
+            0.356
+          ],
+          "content": "辨析:circumstance & environment"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.36,
+            0.918,
+            0.395
+          ],
+          "content": "\\- circumstance 通常只能用来表示社会环境，而不能用来表示自然环境;"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.399,
+            0.677,
+            0.415
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.419,
+            0.91,
+            0.453
+          ],
+          "content": "Circumstances do not make a person, they reveal him.\n环境不会造就一个人，而是会揭露一个人的本质。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.456,
+            0.916,
+            0.491
+          ],
+          "content": "\\- environment 既可以表示社会环境，也可以表示自然环境。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.495,
+            0.677,
+            0.511
+          ],
+          "content": "【2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.514,
+            0.751,
+            0.529
+          ],
+          "content": "natural environmen 自然环境"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.557,
+            0.773,
+            0.591
+          ],
+          "content": "condition /kənˈdɪʃn/\nn. 条件，状况；健康状况，疾病"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.601,
+            0.918,
+            0.637
+          ],
+          "content": "妙记:con-（共同）+dit-（给予）+-ion（名词后缀）→共同给予的要求，就是条件（condition）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.646,
+            0.622,
+            0.668
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.674,
+            0.848,
+            0.69
+          ],
+          "content": "①常考 condition 表示“健康状况、疾病”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.693,
+            0.678,
+            0.709
+          ],
+          "content": "【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.713,
+            0.816,
+            0.747
+          ],
+          "content": "33. D. Their unhealthy dental condition.\n他们不健康的牙齿状况。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.751,
+            0.678,
+            0.767
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.771,
+            0.919,
+            0.805
+          ],
+          "content": "Most of us give in to a demoralization of spirit which we usually blame on some psychological conditions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.808,
+            0.918,
+            0.843
+          ],
+          "content": "我们大多数人会陷入精神上的萎靡不振，而这种状态通常会被我们归咎于某些心理问题。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.847,
+            0.604,
+            0.862
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.866,
+            0.822,
+            0.882
+          ],
+          "content": "conditional adj. 有条件的，附带条件的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.885,
+            0.741,
+            0.901
+          ],
+          "content": "unconditional adj. 无条件的"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.819,
+            0.935,
+            0.9,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.91,
+            0.936,
+            0.948,
+            0.95
+          ],
+          "content": "/279"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.032,
+            0.029,
+            0.103,
+            0.061
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.119,
+            0.038,
+            0.377,
+            0.055
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.409,
+            0.037,
+            0.513,
+            0.054
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.086,
+            0.292,
+            0.102
+          ],
+          "content": "temporary /'tempəreri/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.104,
+            0.248,
+            0.12
+          ],
+          "content": "adj. 暂时的，临时的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.127,
+            0.484,
+            0.163
+          ],
+          "content": "妙记:temporary（谐音“太怕热了”）→夏天的炎热是暂时的（temporary）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.172,
+            0.183,
+            0.193
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.199,
+            0.246,
+            0.215
+          ],
+          "content": "①常考释义：暂时的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.218,
+            0.24,
+            0.235
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.238,
+            0.486,
+            0.272
+          ],
+          "content": "They largely reflect the temporary illiquidity of markets."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.276,
+            0.478,
+            0.293
+          ],
+          "content": "它们在很大程度上反映的是市场暂时的流动性缺失。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.295,
+            0.165,
+            0.312
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.315,
+            0.376,
+            0.332
+          ],
+          "content": "contemporary adj. 同时代的；当代的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.355,
+            0.253,
+            0.37
+          ],
+          "content": "ultimate /'ʌltɪmət/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.374,
+            0.248,
+            0.39
+          ],
+          "content": "adj. 最后的，最终的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.397,
+            0.484,
+            0.432
+          ],
+          "content": "妙记:ultimate（谐音“熬铁没了”）→打铁匠熬到最后，铁都没了。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.204,
+            0.439,
+            0.365,
+            0.55
+          ],
+          "sub_type": "natural_image",
+          "content": "Black-and-white photo of a man working at an iron with a burning furnace in the background (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_16.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.083,
+            0.555,
+            0.183,
+            0.576
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.583,
+            0.246,
+            0.599
+          ],
+          "content": "①常考释义：最终的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.602,
+            0.24,
+            0.618
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.622,
+            0.484,
+            0.656
+          ],
+          "content": "They exert self-interested pressure on the USPS's ultimate overseer."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.659,
+            0.483,
+            0.695
+          ],
+          "content": "他们向美国邮政总局（USPS）的最终监管机构施加出于私利的压力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.698,
+            0.325,
+            0.714
+          ],
+          "content": "②派生词:ultimately adv. 最终"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.717,
+            0.239,
+            0.734
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.738,
+            0.484,
+            0.791
+          ],
+          "content": "This change will ultimately be acclaimed by an ever-\ngrowing number of both domestic and international\nconsumers."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.795,
+            0.478,
+            0.812
+          ],
+          "content": "这一改变将最终被越来越多的国内外的消费者所支持。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.834,
+            0.276,
+            0.849
+          ],
+          "content": "immediate /ɪˈmiːdiət/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.852,
+            0.407,
+            0.869
+          ],
+          "content": "adj. 立刻的，立即的；紧接着的；直接的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.875,
+            0.482,
+            0.91
+          ],
+          "content": "妙记:im-（否定）+medi-（中间）+-ate（形容词后缀）→不是中间的，而是紧接着的，立刻的。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.537,
+            0.084,
+            0.636,
+            0.105
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.112,
+            0.768,
+            0.127
+          ],
+          "content": "①常见释义：立刻的；直接的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.131,
+            0.692,
+            0.147
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.151,
+            0.835,
+            0.166
+          ],
+          "content": "Our immediate future is hard to conceive."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.169,
+            0.778,
+            0.185
+          ],
+          "content": "我们紧接着的未来很难去想象。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.189,
+            0.693,
+            0.205
+          ],
+          "content": "【2024 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.209,
+            0.921,
+            0.243
+          ],
+          "content": "A more immediate response is to broaden our digital\nimaginations."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.246,
+            0.901,
+            0.262
+          ],
+          "content": "一个更直接的回应是去扩展我们的数字想象力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.266,
+            0.619,
+            0.282
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.286,
+            0.715,
+            0.301
+          ],
+          "content": "immediately adv. 立即"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.325,
+            0.632,
+            0.339
+          ],
+          "content": "late /leɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.343,
+            0.921,
+            0.379
+          ],
+          "content": "adj. 晚的；迟的；晚期的，末期的；已故的 adv. 晚；\n迟；接近末期；晚年"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.544,
+            0.386,
+            0.922,
+            0.442
+          ],
+          "content": "妙记：他在某天晚些的（late）时候，整理已故（late）亲人的遗物，才发现那本记录晚期（late）病症历程的日记。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.536,
+            0.452,
+            0.636,
+            0.473
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.533,
+            0.48,
+            0.879,
+            0.515
+          ],
+          "sub_type": "text",
+          "content": "①派生词:latest adj. 最近的，最新的\n② late 作形容词修饰人，通常表示“已故的”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.518,
+            0.692,
+            0.535
+          ],
+          "content": "【2021 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.539,
+            0.921,
+            0.573
+          ],
+          "content": "The late psychologist Nalini Ambady asked participants to watch silent 10-second video clips."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.576,
+            0.921,
+            0.611
+          ],
+          "content": "已故心理学家 Nalini Ambady 要求参与者观看 10 秒的无声视频片段。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.615,
+            0.697,
+            0.632
+          ],
+          "content": "③区分:late & lately"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.533,
+            0.634,
+            0.921,
+            0.727
+          ],
+          "sub_type": "text",
+          "content": "- late 和 lately 都可以作副词，两者含义不同。late 表示“晚”，如:She married late. 她结婚晚。\n- lately 表示“最近”，如:She has married lately. 她最近才结婚。\n④区分:later & latter"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.731,
+            0.709,
+            0.747
+          ],
+          "content": "later 表示“后来”，如："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.75,
+            0.691,
+            0.766
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.77,
+            0.921,
+            0.804
+          ],
+          "content": "Later, more established companies raced to add such patents to their files."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.807,
+            0.921,
+            0.842
+          ],
+          "content": "后来，一些更成熟的公司也纷纷将此类专利纳入其档案之中。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.846,
+            0.713,
+            0.862
+          ],
+          "content": "latter 表示“后者”，如："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.865,
+            0.691,
+            0.881
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.885,
+            0.875,
+            0.9
+          ],
+          "content": "31. C. It fell short of the latter's expectations."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.903,
+            0.722,
+            0.918
+          ],
+          "content": "它没有达到后者的预期。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.049,
+            0.94,
+            0.087,
+            0.954
+          ],
+          "content": "280/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.097,
+            0.938,
+            0.127,
+            0.955
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.129,
+            0.94,
+            0.18,
+            0.954
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.858,
+            0.014,
+            0.965,
+            0.05
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.073,
+            0.25,
+            0.089
+          ],
+          "content": "primary /'praɪməri/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.091,
+            0.393,
+            0.107
+          ],
+          "content": "adj. 最早的，最初的；首要的，最重要的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.114,
+            0.474,
+            0.169
+          ],
+          "content": "妙记:prim-（第一）+-ary（形容词后缀）→时间上排在第一位是“最初的”，地位排第一位是“最重要的”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.18,
+            0.168,
+            0.2
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.207,
+            0.15,
+            0.222
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.227,
+            0.301,
+            0.242
+          ],
+          "content": "prime adj. 首要的，最重要的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.246,
+            0.428,
+            0.262
+          ],
+          "content": "premier adj. 首要的，最重要的 n. 首相，总理"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.266,
+            0.312,
+            0.281
+          ],
+          "content": "primitive adj. 原始的；落后的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.285,
+            0.325,
+            0.301
+          ],
+          "content": "primarily adv. 首先，最初，主要"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.304,
+            0.166,
+            0.319
+          ],
+          "content": "②固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.324,
+            0.232,
+            0.34
+          ],
+          "content": "primary school 小学"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.363,
+            0.203,
+            0.379
+          ],
+          "content": "barely /'berli/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.383,
+            0.361,
+            0.399
+          ],
+          "content": "adv. 仅仅，刚刚；几乎没有，几乎不"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.405,
+            0.474,
+            0.442
+          ],
+          "content": "妙记：他仅仅（barely）睡了三小时，却几乎不（barely）觉得疲惫。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.453,
+            0.165,
+            0.473
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.48,
+            0.474,
+            0.516
+          ],
+          "content": "①常见用法：与 any 连用（barely any）或与 can 连用（can barely）时，通常表示“几乎不、几乎没有”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.519,
+            0.225,
+            0.536
+          ],
+          "content": "【2013 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.54,
+            0.474,
+            0.576
+          ],
+          "content": "There are so many people in a much worse state, with barely any money to spend on food."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.578,
+            0.469,
+            0.595
+          ],
+          "content": "很多人处于更惨的状态，他们几乎没钱去购买食物。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.598,
+            0.148,
+            0.614
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.617,
+            0.433,
+            0.634
+          ],
+          "content": "bare adj. 裸体的；裸露的；最基本的，仅够的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.072,
+            0.68,
+            0.089
+          ],
+          "content": "hardly /'ha:rdli/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.091,
+            0.816,
+            0.109
+          ],
+          "content": "adv. 几乎没有，几乎不；仅仅，刚刚"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.114,
+            0.927,
+            0.15
+          ],
+          "content": "妙记：虽然生活很难（hard），但是他几乎没有（hardly）放弃的意思。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.16,
+            0.627,
+            0.181
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.188,
+            0.928,
+            0.224
+          ],
+          "content": "常见用法:hardly = not(考研从来不考“仅仅、刚刚”的意思；“仅仅、刚刚”通常用 merely 或 barely)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.227,
+            0.685,
+            0.243
+          ],
+          "content": "【2024 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.247,
+            0.929,
+            0.282
+          ],
+          "content": "27. According to Confor, the UK government's fresh incentives can hardly address a construction crisis."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.285,
+            0.929,
+            0.321
+          ],
+          "content": "根据康福公司的说法，英国政府新的激励措施很难解决建筑危机。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.345,
+            0.7,
+            0.361
+          ],
+          "content": "unlikely /ʌn'laɪkli/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.364,
+            0.649,
+            0.379
+          ],
+          "content": "adv. 不太可能"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.387,
+            0.931,
+            0.442
+          ],
+          "content": "妙记：她喜欢（like）读书，因此很可能（likely）会加入读书俱乐部，但不太可能（unlikely）为了俱乐部而错过考试。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.453,
+            0.627,
+            0.474
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.481,
+            0.927,
+            0.516
+          ],
+          "content": "unlikely, hardly, barely 都可以表示否定，阅读常考，且通常是解题定位句。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.52,
+            0.685,
+            0.536
+          ],
+          "content": "【2014 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.54,
+            0.93,
+            0.595
+          ],
+          "content": "The existing £ 4.5bn programme of grants to fund new affordable housing, set to expire in 2015, is unlikely to be extended beyond then."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.598,
+            0.93,
+            0.653
+          ],
+          "content": "现存的用于资助新建经济适用房的 45 亿英镑拨款计划将于 2015 年到期，此后该计划不太可能再得到延续。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.673,
+            0.214,
+            0.694
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.705,
+            0.162,
+            0.722
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.732,
+            0.814,
+            0.748
+          ],
+          "content": "1. Since the days of Aristotle, a search for \\_\\_\\_\\_ principles has characterized the scientific enterprise."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.752,
+            0.16,
+            0.766
+          ],
+          "content": "A. late"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.327,
+            0.752,
+            0.414,
+            0.766
+          ],
+          "content": "B. visible"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.752,
+            0.645,
+            0.766
+          ],
+          "content": "C. universal"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.785,
+            0.752,
+            0.864,
+            0.767
+          ],
+          "content": "D. likely"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.777,
+            0.93,
+            0.813
+          ],
+          "content": "2. The non-intrusive delivery of the marketing messages in a way that is sensitive to the needs of target customers is one of the \\_\\_\\_\\_ challenges to the digital marketer."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.816,
+            0.185,
+            0.831
+          ],
+          "content": "A. critical"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.327,
+            0.817,
+            0.397,
+            0.831
+          ],
+          "content": "B. bare"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.817,
+            0.654,
+            0.831
+          ],
+          "content": "C. immediate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.785,
+            0.817,
+            0.872,
+            0.832
+          ],
+          "content": "D. special"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.842,
+            0.411,
+            0.858
+          ],
+          "content": "3. Memory exercise is a \\_\\_\\_\\_ for our brain."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.862,
+            0.177,
+            0.877
+          ],
+          "content": "A. might"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.327,
+            0.862,
+            0.401,
+            0.876
+          ],
+          "content": "B. must"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.862,
+            0.631,
+            0.876
+          ],
+          "content": "C. context"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.785,
+            0.862,
+            0.872,
+            0.876
+          ],
+          "content": "D. contest"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.887,
+            0.832,
+            0.903
+          ],
+          "content": "4. Emotions aren't binary — feelings that may be advantageous in one \\_\\_\\_\\_ may be harmful in another."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.907,
+            0.194,
+            0.922
+          ],
+          "content": "A. universe"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.327,
+            0.907,
+            0.405,
+            0.922
+          ],
+          "content": "B. result"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.907,
+            0.611,
+            0.922
+          ],
+          "content": "C. digit"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.784,
+            0.907,
+            0.874,
+            0.921
+          ],
+          "content": "D. context"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.827,
+            0.938,
+            0.91,
+            0.956
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.919,
+            0.94,
+            0.958,
+            0.955
+          ],
+          "content": "281"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.036,
+            0.04,
+            0.107,
+            0.072
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.119,
+            0.049,
+            0.507,
+            0.067
+          ],
+          "content": "考研英语 高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.097,
+            0.912,
+            0.133
+          ],
+          "content": "5. Rested in the Pacific Ocean, Mauna Kea's peak rises above the bulk of our planet's dense atmosphere, where \\_\\_\\_\\_ allow telescopes to obtain images of unsurpassed clarity."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.11,
+            0.136,
+            0.23,
+            0.152
+          ],
+          "content": "A. exploration"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.337,
+            0.137,
+            0.446,
+            0.151
+          ],
+          "content": "B. conditions"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.137,
+            0.66,
+            0.15
+          ],
+          "content": "C. exhibitions"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.786,
+            0.137,
+            0.901,
+            0.151
+          ],
+          "content": "D. transaction"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.161,
+            0.779,
+            0.177
+          ],
+          "content": "6. The company is renting a \\_\\_\\_\\_ office space while their new building is under construction."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.11,
+            0.182,
+            0.223,
+            0.197
+          ],
+          "content": "A. permanent"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.337,
+            0.182,
+            0.446,
+            0.197
+          ],
+          "content": "B. temporary"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.182,
+            0.637,
+            0.196
+          ],
+          "content": "C. primary"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.786,
+            0.182,
+            0.885,
+            0.195
+          ],
+          "content": "D. ultimate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.206,
+            0.697,
+            0.222
+          ],
+          "content": "7. The argument is based on the false \\_\\_\\_\\_ that all humans think in the same way."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.11,
+            0.226,
+            0.205,
+            0.241
+          ],
+          "content": "A. premise"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.337,
+            0.227,
+            0.449,
+            0.24
+          ],
+          "content": "B. conclusion"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.226,
+            0.64,
+            0.239
+          ],
+          "content": "C. evidence"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.786,
+            0.226,
+            0.88,
+            0.239
+          ],
+          "content": "D. solution"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.251,
+            0.179,
+            0.268
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.084,
+            0.277,
+            0.918,
+            0.515
+          ],
+          "sub_type": "text",
+          "content": "1. Existing health privacy law is \\_\\_\\_\\_ (primary) focused on the way hospitals, doctors' offices, clinics and insurance companies store health records online.\n2. A study last year by the National Center for Science Education gave \\_\\_\\_\\_ (bare) half of US states a grade B+ or higher.\n3. The crash of Egypt Air Flight 804 is mentioned to highlight the\\_\\_\\_\\_(necessary) of upgrading major U.S. airports.\n4. The most challenging moments in life are getting married, starting a family and \\_\\_\\_\\_ (ultimate) retiring.\n5. And stay alert to serious symptoms, such as chest pain or pressure, severe shortness of breath or dizziness, or faintness, and seek medical attention\\_\\_\\_\\_(immediate).\n6. As to the prospects for federal legislation, commentators suggest that comprehensive federal privacy legislation seems \\_\\_\\_\\_ (unlike) in the short term."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.524,
+            0.179,
+            0.541
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.552,
+            0.158,
+            0.567
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.577,
+            0.916,
+            0.613
+          ],
+          "content": "1. Destroying the machines that are coming for our jobs would be nuts. But policies to help workers adapt will be indispensable."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.675,
+            0.916,
+            0.711
+          ],
+          "content": "2. One could interpret much of the work of Beethoven by saying that suffering is inevitable, but the courage to fight it renders life worth living."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.772,
+            0.864,
+            0.789
+          ],
+          "content": "3. But demonstrating the efficacy of science will be crucial if we are to solve humanity's greatest challenges."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.851,
+            0.764,
+            0.867
+          ],
+          "content": "4. In some areas, high daytime temperatures alone might serve as an adequate trigger for alerts."
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.053,
+            0.948,
+            0.091,
+            0.963
+          ],
+          "content": "282/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.1,
+            0.947,
+            0.128,
+            0.964
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.131,
+            0.949,
+            0.18,
+            0.963
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.856,
+            0.01,
+            0.963,
+            0.046
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.068,
+            0.927,
+            0.104
+          ],
+          "content": "5. In fact, circumstances seem to be designed to bring out the best in us and if we feel that we have been “ wronged ” then we are unlikely to begin a conscious effort to escape from our situation."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.166,
+            0.929,
+            0.203
+          ],
+          "content": "6. The participants filled out questionnaires about how often they did things that were altruistic and positive, like sacrificing their own interests to help a friend, or rebellious and negative, like getting drunk or staying out late."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.266,
+            0.735,
+            0.283
+          ],
+          "content": "7. Undertaking too many extracurricular activities will hardly be seen as a plus by colleges."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.443,
+            0.391,
+            0.545,
+            0.412
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.06,
+            0.434,
+            0.154,
+            0.451
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.467,
+            0.107,
+            0.48
+          ],
+          "content": "1. C."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.06,
+            0.484,
+            0.118,
+            0.5
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.504,
+            0.466,
+            0.539
+          ],
+          "content": "句意：自亚里士多德时代以来，对\\_\\_\\_\\_原理的追求就一直是科学事业的特征。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.541,
+            0.466,
+            0.671
+          ],
+          "content": "考点：形容词辨析及上下文逻辑。句子讨论的是科学事业的本质特征，其目标是发现放之四海而皆准的真理。A. late（迟的，晚期的）与科学追求无关。\nB. visible（可见的）不能概括所有科学原理。C. universal（普遍的，通用的）符合“科学追求普适性真理”的语境。D. likely（可能的）与句意无关。故选 C.。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.687,
+            0.107,
+            0.7
+          ],
+          "content": "2. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.06,
+            0.704,
+            0.118,
+            0.72
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.723,
+            0.466,
+            0.778
+          ],
+          "content": "句意：以一种对目标客户需求敏感的方式进行非侵入式的营销信息传递，是数字营销人员面临的\\_\\_\\_\\_挑战之一。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.78,
+            0.468,
+            0.911
+          ],
+          "content": "考点：形容词辨析及上下文逻辑。句子的主语（非侵入式且敏感的营销方式）描述的是一种理想且至关重要的能力。A. critical（关键的，至关重要的）符合“这是成功数字营销的核心挑战”的语境。B. bare（仅仅的，赤裸的）带有负面含义，与挑战的重要性不符。C. immediate（立即的）强调紧迫性而非重要性。D. special（特殊的）虽可能，但不如"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.436,
+            0.831,
+            0.451
+          ],
+          "continues_prev": true,
+          "content": "critical 能强调其核心重要性。故选 A.。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.468,
+            0.569,
+            0.481
+          ],
+          "content": "3. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.518,
+            0.485,
+            0.58,
+            0.5
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.504,
+            0.873,
+            0.52
+          ],
+          "content": "句意：记忆锻炼对我们的大脑来说是\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.522,
+            0.93,
+            0.614
+          ],
+          "content": "考点：固定搭配（a must）。A. might（力量）和 D. contest（竞赛）均与句意无关。C. context（背景、环境）不符合语境。固定搭配“a must”意为“必须做的事，必不可少的事物”，符合“记忆锻炼对大脑至关重要”的句意。故选 B.。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.63,
+            0.569,
+            0.643
+          ],
+          "content": "4. D."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.518,
+            0.647,
+            0.58,
+            0.662
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.666,
+            0.929,
+            0.702
+          ],
+          "content": "句意：情绪不是二元对立的——在一种\\_\\_\\_\\_下可能有益的情感，在另一种下可能有害。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.704,
+            0.93,
+            0.815
+          ],
+          "content": "考点：名词辨析及上下文逻辑。破折号后的内容解释前文，说明同一种情绪的好坏取决于其所处的环境或情况。A. universe（宇宙）范围过大。B. result（结果）和 C. digit（数字）与句意无关。D. context（情境，背景）最符合“情绪价值因具体情境而异”的语义。故选 D.。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.831,
+            0.569,
+            0.844
+          ],
+          "content": "5. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.518,
+            0.848,
+            0.58,
+            0.864
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.868,
+            0.929,
+            0.921
+          ],
+          "content": "句意：莫纳克亚山坐落于太平洋，其峰顶高耸于地球浓厚大气层之上，那里的\\_\\_\\_\\_使望远镜能够获得无比清晰的图像。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.83,
+            0.935,
+            0.912,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.917,
+            0.936,
+            0.961,
+            0.951
+          ],
+          "content": "/283"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.019,
+            0.032,
+            0.092,
+            0.065
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.106,
+            0.042,
+            0.506,
+            0.058
+          ],
+          "content": "考研英语 高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.086,
+            0.48,
+            0.214
+          ],
+          "content": "考点：名词辨析及上下文逻辑。句子的核心是望远镜能获得清晰图像的原因，而峰顶位于大气层之上这一前提提示原因是优越的“观测条件”。A. exploration（探索）是目的而非原因。B. conditions（条件，环境）概括了大气稀薄、稳定等所有有利因素。C. exhibitions（展览）和 D. transaction（交易）与天文观测完全无关。故选 B.。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.23,
+            0.118,
+            0.244
+          ],
+          "level": 2,
+          "content": "6. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.247,
+            0.131,
+            0.263
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.266,
+            0.478,
+            0.301
+          ],
+          "content": "句意：在公司新大楼施工期间，他们正在租用一个\\_\\_\\_\\_办公场所。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.303,
+            0.48,
+            0.394
+          ],
+          "content": "考点：形容词辨析及上下文逻辑。所给部分提示了租用办公场所的“临时性”。A. permanent(永久的) 与句意相反。B. temporary(临时的) 完美符合语境。C. primary(主要的) 和 D. ultimate(最终的) 均与“施工期间”的过渡状态无关。故选 B.。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.41,
+            0.12,
+            0.423
+          ],
+          "level": 2,
+          "content": "7. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.426,
+            0.131,
+            0.442
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.445,
+            0.478,
+            0.479
+          ],
+          "content": "句意：这个论点基于一个错误的\\_\\_\\_\\_，即所有人的思维方式都是一样的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.482,
+            0.478,
+            0.627
+          ],
+          "content": "考点：名词辨析及固定搭配。空格后的“that”引导了一个同位语从句，解释空格名词的具体内容。这种“基于一个错误的\\_\\_\\_\\_”的结构，通常指论证的“前提或假设”。A. premise（前提）是逻辑学术语，指论证所依据的假设，最符合语境。B. conclusion（结论）与“based on”矛盾。C. evidence（证据）和 D. solution（解决方案）与句意不符。故选 A.。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.636,
+            0.169,
+            0.653
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.668,
+            0.176,
+            0.684
+          ],
+          "level": 2,
+          "content": "1. primarily"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.685,
+            0.131,
+            0.701
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.704,
+            0.478,
+            0.794
+          ],
+          "content": "句意：现有的健康隐私法 \\_\\_\\_\\_ 侧重于医院、医生办公室、诊所和保险公司在线存储健康记录的方式。\n考点：词性转换（形容词→副词）。括号中形容词 primary（主要的）在句中修饰动词 focused，因此需转换为副词形式 primarily（主要地）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.808,
+            0.15,
+            0.824
+          ],
+          "level": 2,
+          "content": "2. barely"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.826,
+            0.131,
+            0.842
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.844,
+            0.478,
+            0.916
+          ],
+          "content": "句意：美国国家科学教育中心去年的一项研究显示，\\_\\_\\_\\_一半的美国州获得了 B+ 或更高的成绩。考点：词性转换及副词辨析。此处需要副词来修饰“half”（一半）。Bare（赤裸的）的副词形式 barely"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.085,
+            0.927,
+            0.12
+          ],
+          "continues_prev": true,
+          "content": "意为“仅仅，勉强，几乎不”，填入后表示“勉强只有一半的州”，符合研究报告结果的语境。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.136,
+            0.631,
+            0.151
+          ],
+          "level": 2,
+          "content": "3. necessity"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.153,
+            0.592,
+            0.169
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.172,
+            0.928,
+            0.207
+          ],
+          "content": "句意：提及埃及航空 804 航班的坠毁是为了强调升级美国主要机场的\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.209,
+            0.929,
+            0.263
+          ],
+          "content": "考点：词性转换（形容词→名词）。定冠词 the 和介词 of 之间需要填入一个名词。形容词 necessary（必要的）的名词形式为 necessity（必要性）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.279,
+            0.64,
+            0.294
+          ],
+          "level": 2,
+          "content": "4. ultimately"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.296,
+            0.591,
+            0.312
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.314,
+            0.929,
+            0.349
+          ],
+          "content": "句意：人生中最具挑战性的时刻是结婚、组建家庭和\\_\\_\\_\\_退休。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.351,
+            0.93,
+            0.442
+          ],
+          "content": "考点：词性转换（形容词→副词）。空格处与“getting married, starting a family”并列，但需注意“retiring”是动名词，由副词修饰更为合理。形容词 ultimate（最终的）的副词形式 ultimately（最终）在句中作状语，表示“最终退休”是人生挑战的一部分。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.458,
+            0.657,
+            0.473
+          ],
+          "level": 2,
+          "content": "5. immediately"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.475,
+            0.591,
+            0.491
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.493,
+            0.93,
+            0.602
+          ],
+          "content": "句意：对严重症状保持警惕，例如胸痛或压迫感、严重气短或头晕、或晕厥，并\\_\\_\\_\\_寻求医疗救助。考点：词性转换（形容词→副词）。空格处修饰动词短语“seek medical attention”，因此需要将形容词 immediate（立即的）转换为副词形式 immediately（立即地）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.617,
+            0.624,
+            0.633
+          ],
+          "level": 2,
+          "content": "6. unlikely"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.635,
+            0.591,
+            0.65
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.653,
+            0.931,
+            0.688
+          ],
+          "content": "句意：关于联邦立法的前景，评论员认为，全面的联邦隐私立法在短期内似乎\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.69,
+            0.932,
+            0.78
+          ],
+          "content": "考点：词性转换及形容词用法。空格前为系动词 seems，后面应接形容词作表语。Unlike（介词，与……不同）的形容词形式为 unlikely（不可能的），填入后表示“立法在短期内似乎不太可能实现”，符合语境。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.789,
+            0.629,
+            0.806
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.808,
+            0.606,
+            0.823
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.529,
+            0.827,
+            0.93,
+            0.897
+          ],
+          "sub_type": "text",
+          "content": "1. 毁掉那些即将取代我们工作的机器是愚蠢的行为，但帮助工人适应变化的政策却是不可或缺的。\n2. 我们可以这样解读贝多芬的大部分作品：苦难不可避免，但与之抗争的勇气让生命值得。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.9,
+            0.93,
+            0.915
+          ],
+          "content": "3. 但如果我们要解决人类面临的最大挑战，证明科"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.037,
+            0.941,
+            0.079,
+            0.956
+          ],
+          "content": "284/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.086,
+            0.939,
+            0.114,
+            0.956
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.118,
+            0.941,
+            0.169,
+            0.956
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 8,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.84,
+            0.031,
+            0.95,
+            0.067
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.042,
+            0.089,
+            0.233,
+            0.103
+          ],
+          "content": "学的有效性将至关重要。"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.039,
+            0.107,
+            0.445,
+            0.251
+          ],
+          "sub_type": "text",
+          "content": "4. 在某些地区，仅白天的高温可能就足以触发警报。\n5. 事实上，环境似乎旨在激发我们的潜能；如果我们觉得自己“受了委屈”，就不太可能有意识地努力摆脱现状。\n6. 参与者填写了问卷，内容涉及他们做利他且积极之事（如牺牲自身利益帮助朋友）或叛逆且消极之事（如酗酒、晚归）的频率。\n7. 参加过多的课外活动几乎不会被大学视为加分项。"
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.0,
+            0.528,
+            0.011,
+            0.923
+          ],
+          "content": "自\n自\n主\n派\n晚\n1\n5\n此\n若\n自"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.803,
+            0.936,
+            0.857,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.859,
+            0.936,
+            0.889,
+            0.953
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.894,
+            0.937,
+            0.939,
+            0.952
+          ],
+          "content": "/285"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:14:56",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 9,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 8,
+          "width_pt": 595.0,
+          "height_pt": 878.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

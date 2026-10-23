@@ -1,0 +1,930 @@
+{
+  "list_no": 3,
+  "title": "差异与价值观",
+  "association": {
+    "outline": "情节发展：议题浮现→观点碰撞→理性协商→智慧共识",
+    "scenes": [
+      {
+        "title": "议题浮现",
+        "story": "公告栏前，people（居民）们对社区改造议论纷纷。王阿姨 prefer（倾向）建花园，而小李主张健身房。“Human（人类）需求本就 diverse（多样）。”居委会主任老张笑着说，“Apart（此外），我们还要考虑特殊人群的需要。”"
+      },
+      {
+        "title": "观点碰撞",
+        "story": "听证会上，小李用 analogy（类比）解释健身的重要性，王阿姨则 contrast（对比）老人需求。双方观点 differ（不同），但都带着 integrity（诚意）。老张提议:“Compare（比较）下两个方案？”"
+      },
+      {
+        "title": "理性协商",
+        "story": "志愿者们 sort（整理）数据后，小林说:“即使预算有限，也要 justify（证明）哪个更 just/even（公正）。”大家开始 judge（判断）居民真正的 will（意愿）。"
+      },
+      {
+        "title": "智慧共识",
+        "story": "最终方案融合双方意见。王阿姨感叹:“Mankind（人类）的 mind（智慧）在于求同存异。”小李补充:“Democracy（民主）就是尊重 liberal（自由的）选择，保留 distinction（差异）。”"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "people",
+      "ipa": "/ˈpiːpl/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "人们；民族"
+        }
+      ],
+      "mnemonic": "世界上的 people（人们）来自不同 people（民族）。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "people 表示“人们”时，是可数名词 person 的复数形式; 表示“民族”时，是单数可数名词。 常考释义：人们 【2017 年英语（一）】 TSA wants to enroll 25 million people in PreCheck. 美国运输安全管理局（TSA）希望征召 2500 万人加入“预检计划”。 常考释义：民族 【2015 年英语（一）】 The United States is the product of two principal forces—the immigration of European peoples and the impact of a new country. 美国是两种主要力量的产物——欧洲各民族的移民以及新国家的影响。"
+        }
+      ]
+    },
+    {
+      "spelling": "mankind",
+      "ipa": "/mænˈkaɪnd/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "人类"
+        }
+      ],
+      "mnemonic": "各个 kind（种类）的 man（人）组成 mankind（人类）这个整体。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词是类别概念，表示整个人类，不可数。 【2013 年英语（一）】 To ensure the future of mankind, it is crucial to draw on our experience from the past. 为了确保人类的未来，从我们的过去中总结经验至关重要。"
+        }
+      ]
+    },
+    {
+      "spelling": "human",
+      "ipa": "/ˈhjuːmən/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "人的，人类的"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "人"
+        }
+      ],
+      "mnemonic": "人类里有胡子（hu）的人是男人（man）。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "human 作名词表示“人”, 是可数名词，表示“人类”时，要用复数形式。 【2021 年英语（一）】 AI looks at resumes in greater numbers than humans would be able to. 人工智能查看简历的数量远远超过人类所能处理的数量。"
+        }
+      ]
+    },
+    {
+      "spelling": "mind",
+      "ipa": "/maɪnd/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "头脑；智慧；想法"
+        }
+      ],
+      "mnemonic": "本义表示头脑，引申为智慧、想法。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "change sb.'s mind 改变想法"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "keep sth. in mind 记住"
+        },
+        {
+          "marker": "③",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "mental adj. 精神的，心理的 mindset n. 思维模式，思维方式 mindless adj. 没头脑的；无须动脑的，不假思索的"
+        }
+      ]
+    },
+    {
+      "spelling": "compare",
+      "ipa": "/kəmˈper/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "比较，对比"
+        }
+      ],
+      "mnemonic": "com-（到一起）+ par-（来自 pair 配对）+e→配成对进行比较。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "compare A with B 比较 A 和 B 【2013 年英语（一）】 The firm has compared some of its products with Google's. 该公司将一些自家的产品与谷歌的产品进行了比较。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "compared with 作状语：和……相比 【2023 年英语（一）】"
+        }
+      ]
+    },
+    {
+      "spelling": "contrast",
+      "ipa": "/ˈkɑːntræst/ /kənˈtraːst/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "差异，对比"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "对比"
+        },
+        {
+          "pos": "vi.",
+          "meaning_cn": "显出差异，形成对比"
+        }
+      ],
+      "mnemonic": "谁让他拿我做对比，看（con）我踹（tra）死（s）他（t）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "by contrast = in contrast = on the contrary 相反 The Arctic has sparse vegetation; by contrast, tropical rainforests burst with dense flora. 北极植被稀疏；相比之下，热带雨林拥有茂密的植物群。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "contrary adj. 相反的 n. 相反"
+        }
+      ]
+    },
+    {
+      "spelling": "differ",
+      "ipa": "/ˈdɪfər/",
+      "senses": [
+        {
+          "pos": "vi.",
+          "meaning_cn": "不同；意见不同"
+        }
+      ],
+      "mnemonic": "di（地）ffer（方），每个地方都有区别。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "A differ from B A 与 B 不同 【2022 年英语（一）】 Plant biology is complex and fascinating, but it differs so greatly from that of animals. 植物生物学既复杂又迷人，但它与动物生物学有着极大的不同。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "A differ with B A 与 B 意见不同 I differ with you on this. 在这一点上，我与你意见不同。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "differentiate between A and B ≈ differentiate A from B 区分 A 和 B（注意：前者强调两个或多个事物间进行区分，后者强调与 from 后的对象间的差异性。） In the grammar section, students must differentiate between the present perfect and the past perfect tense to avoid errors. 在语法部分，学生必须区分现在完成时和过去完成时以避免错误。"
+        },
+        {
+          "marker": "④",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "different adj. 差异的，不同的 difference n. 差别，差异; 分歧 differentiate v. 区分，区别，(使) 不同"
+        }
+      ]
+    },
+    {
+      "spelling": "prefer",
+      "ipa": "/prɪˈfɜːr/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "更喜欢，偏爱"
+        }
+      ],
+      "mnemonic": "pre-（前）+ fer-（拿）→拿到前面来先做的事，通常都是更喜欢、更加偏爱的事。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "prefer sth. 更喜欢某物"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "prefer A to B 喜欢 A 多于 B"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "prefer doing A to doing B 比起做 B 更喜欢做 A"
+        },
+        {
+          "marker": "④",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "prefer to do sth. 更喜欢做某事"
+        },
+        {
+          "marker": "⑤",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "prefer to do A rather than do B 宁愿做 A 也不愿做 B 总结:prefer 后紧跟的是更喜欢的"
+        },
+        {
+          "marker": "⑥",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "preference n. 偏爱，偏好 preferable adj. 更喜欢的，更好的，更可取的"
+        }
+      ]
+    },
+    {
+      "spelling": "analogy",
+      "ipa": "/əˈnælədʒi/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "类似，相似，类比"
+        }
+      ],
+      "mnemonic": "ana-（a 和 a）+ -logy（逻辑）→ a 和 a 的逻辑 → 相似、类似。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "be analogous to 与……相似 【2022 年英语（一）】 Beginning in 2006, some scientists have argued that plants possess neuron-like cells that interact with hormones and neurotransmitters, forming a plant nervous system, analogous to that in animals. 从 2006 年开始，一些科学家就争论说，植物有类似神经元的细胞，这些细胞与激素和神经递质相互作用，形成一个类似动物神经系统的植物神经系统。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "analogous adj. 相似的，类似的"
+        }
+      ]
+    },
+    {
+      "spelling": "apart",
+      "ipa": "/əˈpɑːrt/",
+      "senses": [
+        {
+          "pos": "adv.",
+          "meaning_cn": "分开，分离"
+        }
+      ],
+      "mnemonic": "a- = ab-（离开）+ part（一部分）→离开的一部分→分离、分开。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "apart from 从……分离 【2012 年英语（一）】 Our legal system was designed to set law apart from politics. 我们的法律体系被设计成政法分离。"
+        }
+      ]
+    },
+    {
+      "spelling": "distinction",
+      "ipa": "/dɪˈstɪŋkʃn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "区别，差异；卓越，荣誉"
+        }
+      ],
+      "mnemonic": "dis-（分）+ stinct-（= sting 刺）→ 分别刺上记号→ 区分两者的不同。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "distinct adj. 不同的；明显的 distinctive adj. 与众不同的，独特的 distinguish vt. 区别，辨别; 使脱颖而出 distinguished adj. 著名的，卓越的"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "翻译常考",
+          "body": "distinctly adv. 显然；非常 【2003 年翻译】 distinctly important social science 非常重要的社会科学"
+        },
+        {
+          "marker": "③",
+          "kind": "辨析",
+          "label_raw": "",
+          "body": "区分 distinct&distinctive distinct 表示 A 与 B 不同；distinctive 表示某物与其他东西都不同，即与众不同的、独特的。"
+        },
+        {
+          "marker": "④",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "distinguish 可以表示“使脱颖而出”，即某人由于能力、才华等因素而显得与众不同。 ## 【2024 年英语（二）】 Distinguishing yourself in one focused type of extracurricular activity can be a positive in the admissions process. 在一项专注的课外活动中脱颖而出，在录取过程中可能是一个积极的因素。"
+        }
+      ]
+    },
+    {
+      "spelling": "diverse",
+      "ipa": "/daɪˈvɜːrs/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "不同的，多样的"
+        }
+      ],
+      "mnemonic": "di- = dis-（分开）+ ver-（转）+se → 分开运转 → 游乐园设施多样（diverse），每一项都可以分开运转。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "biodiversity 生物多样性 Protecting biodiversity ensures ecosystem stability. 保护生物多样性保障生态系统稳定。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "cultural diversity 文化差异，文化多样性 ## 【2012 年英语（一）翻译】 Cultural diversity could also be traced to more constrained beginnings. 文化差异也可以追踪到更有限的开端。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "diversity n. 差异，不同; 多样化 diversify v. (使) 不同; (使) 多样化"
+        }
+      ]
+    },
+    {
+      "spelling": "sort",
+      "ipa": "/sɔːrt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "种类，类别"
+        },
+        {
+          "pos": "v.",
+          "meaning_cn": "分类，整理"
+        }
+      ],
+      "mnemonic": "sort(整理) 物品需要按 sort(种类)sort(分类)。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "a sort of 一种，一类 【2020 年英语（二）】 Fortunately, there's another sort of parent that's a bit easier to describe: a patient parent. 幸运的是，还有一种类型的家长更容易描述：有耐心的家长。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "sort 可作动词表示分类 【2015 年英语（一）】 The only “sorting mechanism” in society should be profit and the market. 社会唯一的“分类机制”应该是利润和市场。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "sort out 理顺，厘清 【2015 年英语（一）】 The justices must sort out how the Fourth Amendment applies to digital information now. 现在，大法官们必须厘清《第四修正案》如何适用于数字信息。"
+        }
+      ]
+    },
+    {
+      "spelling": "even",
+      "ipa": "/ˈiːv(ə)n/",
+      "senses": [
+        {
+          "pos": "adv.",
+          "meaning_cn": "甚至，更"
+        },
+        {
+          "pos": "adj.",
+          "meaning_cn": "平的; 平缓的; 公平的; 均衡的"
+        }
+      ],
+      "mnemonic": "“e”vs“e”，核心意思是平。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "【2021 年英语（二）】 Simply talking in an even tone helps calm the other person down. 仅仅是以平缓的语调交谈，就能帮助对方平静下来。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "uneven adj. 不平的；不平缓的；不公平的；不均衡的 【2024 年英语（二）】 the uneven distribution of AI technology in the US 美国人工智能技术的不均衡分布"
+        }
+      ]
+    },
+    {
+      "spelling": "just",
+      "ipa": "/dʒʌst/",
+      "senses": [
+        {
+          "pos": "adv.",
+          "meaning_cn": "正好，恰恰，刚刚，仅仅"
+        },
+        {
+          "pos": "adj.",
+          "meaning_cn": "公正的，公平的"
+        }
+      ],
+      "mnemonic": "法官的判决 just（刚好）just（公正）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "not just 不仅；not just but (also) ..，不仅……且…… 【2016 年英语（二）】 Deep reading requires not just time, but a special kind of time. 深度阅读需要的不仅是时间，而且是一种特别的时间。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "常考派生词",
+          "body": "unjust adj. 不公正的 justice n. 公正；司法；法官 injustice n. 不公正"
+        }
+      ]
+    },
+    {
+      "spelling": "justify",
+      "ipa": "/ˈdʒʌstɪfaɪ/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "证明……是正当的，为……辩护"
+        }
+      ],
+      "mnemonic": "just-（正）+ -ify（……化），该单词表示使某种行为“正当化”，即证明这种行为是正当的，或者为这种行为辩护。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "justify doing sth. 证明了……的必要性 / 合理性 How can we justify spending so much money on arms? 我们怎么能证明在武器上花这么多钱是正当的呢？"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "justification n. 正当化事由，正当理由"
+        }
+      ]
+    },
+    {
+      "spelling": "judge",
+      "ipa": "/dʒʌdʒ/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "法官；裁判员"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "审判；裁判；评判，判断"
+        }
+      ],
+      "mnemonic": "jud-与 just-同源，表示“正”，所谓法官或裁判，就是主持公正的人；而主持公正的过程，叫作“审判”或“裁判”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "judge sb./sth. on/by... 根据……判断…… \\- judge on 侧重依据具体内容或表现 He was judged on his performance in the exam. judge by \\- judge by 侧重依据外部特征（如外表、声音） Don't judge people by their appearance."
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "judge by/from... 根据……来判断 通常用于被动语态或现在分词独立结构 Judging from his accent, he must be from the northern part of China. 根据他的口音判断，他应该来自中国北方。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "谚语",
+          "body": "Don't judge a book by its cover. 勿以貌取人。"
+        },
+        {
+          "marker": "④",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "judgment (judgement) n. 审判；裁判；评判，判断"
+        }
+      ]
+    },
+    {
+      "spelling": "democracy",
+      "ipa": "/dɪˈmɑːkrəsi/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "民主"
+        }
+      ],
+      "mnemonic": "dem-（人民）+o+crac-（统治）+-y→人民的统治→民主。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "Democrat 美国的民主党人 【2014 年英语（一）】 In 2010, leading congressional Democrats and Republicans sent letters to the AAAS. 2010 年，国会中主要的民主党人和共和党人向美国艺术和科学研究院（AAAS）发去了信函。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "the Liberal Democrats 英国的自由民主党 【2016 年英语（一）】 The Liberal Democrats are losing political influence. 自由民主党正在失去政治影响力。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "democratic adj. 民主的 democrat n. 民主主义者；民主党人"
+        }
+      ]
+    },
+    {
+      "spelling": "will",
+      "ipa": "/wɪl/",
+      "senses": [
+        {
+          "pos": "aux.v.",
+          "meaning_cn": "将，会"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "意愿，愿望; 遗嘱"
+        }
+      ],
+      "mnemonic": "他 will（将）在 will（遗嘱）里写下对未来的 will（愿望）。核心：表示将来。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "be willing to do 愿意做某事，想做某事。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "will 作名词可特指“遗嘱”，即去世的人留下的“意愿、愿望”。"
+        }
+      ]
+    },
+    {
+      "spelling": "integrity",
+      "ipa": "/ɪnˈteɡrəti/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "完整，完好；诚实正直"
+        }
+      ],
+      "mnemonic": "inte-（里面）+grity（≈great）心里面极好的 人才是完整的人，这类人也是诚实正直的人。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "integrate A into B 表示将 A 整合进 B, 可以替换 incorporate A into B (将 A 并入 B)。 The new policy integrates/incorporates environmental protection into economic development. 新政策将环境保护理念融入经济发展之中。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "integrate v. (使) 完整，(使) 成为一体，(使) 合并 integral adj. 完整的 intact adj. 未被接触的；完整无缺的"
+        }
+      ]
+    },
+    {
+      "spelling": "liberal",
+      "ipa": "/ˈlɪbərəl/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "自由的；文科（教育）的"
+        }
+      ],
+      "mnemonic": "李（li）白（beral）诗歌的风格是自由的。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "liberty n. 自由 liberate vt. 使自由，解放"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "liberal 可以表示“文科的” liberal education 文科教育 / 通识教育"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "the Liberal Democrats 自由民主党。英国四大政党之一"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L3-01",
+      "kind": "single",
+      "stem": "Children as young as 14 months can differentiate ____ a credible person and a dishonest one.",
+      "options": [
+        "between",
+        "within",
+        "toward",
+        "over"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "differ",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L3-02",
+      "kind": "single",
+      "stem": "Dr Annie Swanepoel, a child psychiatrist, believes that there are ways to incorporate alloparenting into western life. In Germany, one scheme...\n\nThe scheme in Germany is mentioned to illustrate ____.",
+      "options": [
+        "an attempt to facilitate intergenerational communication",
+        "an approach to integrating alloparenting into western society",
+        "the conventional parenting style in western culture",
+        "the differences between western and African ways of living"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "differ",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L3-03",
+      "kind": "single",
+      "stem": "By contrast, his brother is outgoing. The phrase \"By contrast\" can be replaced by ____.",
+      "options": [
+        "Compared with",
+        "In contrast",
+        "Differ from",
+        "Prefer to"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "contrast",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L3-04",
+      "kind": "single",
+      "stem": "Which word fits: \"The bird has a ____ red beak, unlike other species.\"",
+      "options": [
+        "distinct",
+        "distinctly",
+        "distinction",
+        "distinctive"
+      ],
+      "answer": 3,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "distinction",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L3-05",
+      "kind": "fill",
+      "stem": "Americans are ____ to tolerate time-consuming security protocols in return for increased safety. (will)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "willing"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "will",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L3-06",
+      "kind": "fill",
+      "stem": "____ intended to check the power of the Administration. (just)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "justice"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "just",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L3-07",
+      "kind": "fill",
+      "stem": "The anthropologist spent months trying to sort ____ the complex kinship systems among the indigenous peoples, which required both linguistic expertise and cultural sensitivity.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "out"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "sort",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L3-08",
+      "kind": "fill",
+      "stem": "The ____ (compare) analysis shows that Method A is 30% faster than Method B.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "comparative"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "compare",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L3-09",
+      "kind": "fill",
+      "stem": "She prefers ____ (read) novels to ____ (watch) movies.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "reading",
+        "watching"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "prefer",
+          "bind": "搭配"
+        },
+        {
+          "n": 2,
+          "word": "prefer",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L3-10",
+      "kind": "fill",
+      "stem": "____ (compare) with traditional methods, AI is more efficient.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "compared"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "compare",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L3-11",
+      "kind": "translate_sentence",
+      "stem": "The study focuses on the migration patterns of ancient peoples in Europe.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "people",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L3-12",
+      "kind": "translate_sentence",
+      "stem": "The structure of an atom is analogous to a miniature solar system.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "analogy",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L3-13",
+      "kind": "translate_word",
+      "stem": "Regrettably, however, the report's failure to address the true nature of the crisis facing [liberal education] may cause more harm than good.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "liberal",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L3-14",
+      "kind": "translate_word",
+      "stem": "He spoke in a trembling,[uneven] voice.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "even",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L3-15",
+      "kind": "translate_word",
+      "stem": "Protecting [biodiversity] is crucial for maintaining balanced ecosystems.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "diverse",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

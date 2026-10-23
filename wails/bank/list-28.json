@@ -1,0 +1,852 @@
+{
+  "list_no": 28,
+  "title": "背景与可能",
+  "association": {
+    "outline": "情节发展：危机背景→关键时刻→最终反思",
+    "scenes": [
+      {
+        "title": "危机背景",
+        "story": "A 小镇的天气 condition（条件）在不断恶化，context（背景）资料也显示，这种风暴在沿海地区是很 universal（普遍的）、inevitable（不可避免的）。面对这种 circumstance（情况），premise（前提）一定是居民安全至上，立即撤离的 necessity（必要性）不言而喻。"
+      },
+      {
+        "title": "关键时刻",
+        "story": "同时，救援物资是 critical/crucial（至关重要的），但 might（可能）供应不足。因此，指挥者是 indispensable（不可或缺的），而且每个人 must（必须）服从安排。"
+      },
+      {
+        "title": "最终反思",
+        "story": "尽管 immediate（立刻）有响应，但行动还是有点 late（晚）了。temporary（临时的）避难所 barely/hardly（几乎不）能容纳所有居民，primary（主要的）问题还是资源匮乏。ultimate（最终的）结果不太令人满意，但庆幸的是，更糟的灾难 unlikely（不太可能）发生。"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "necessity",
+      "ipa": "/nəˈsesəti/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "必要性；必需品"
+        }
+      ],
+      "mnemonic": "ne-（否定）+cess-（走）+-ity（名词后缀）→不能走掉的东西→necessity（必需品）。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "该单词表示“必要性”时，是不可数名词；表示“必需品”时，是可数名词，与 keep 不同，keep 为不可数名词。",
+          "body": "【2022 年英语（一）】\n26. C. reassess the necessity of college education\n重新评估大学教育的必要性\n【2010 年英语（二）】\n32. B. show the urgent need of daily necessities\n表明了对日常必需品的紧迫需求"
+        }
+      ]
+    },
+    {
+      "spelling": "indispensable",
+      "ipa": "/ˌɪndɪˈspensəbl/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "必不可少的，不可或缺的"
+        }
+      ],
+      "mnemonic": "in-（否定）+dis-（否定）+pens-（支付）+-able（形容词后缀，可……的）→不可不支付的→indispensable（必不可少的）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义：必不可少的",
+          "body": "【2018 年英语（二）】\n37. D. daily schedules are indispensable to studying\n每日时间表对学习来说是必不可少的"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "dispense vt. 分发；分配"
+        }
+      ]
+    },
+    {
+      "spelling": "inevitable",
+      "ipa": "/ɪnˈevɪtəbl/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "不可避免的，必然的"
+        }
+      ],
+      "mnemonic": "in-（否定）+evitable（谐音“一味逃跑”）→不能一味逃跑，因为逃不掉，不可避免。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "常考其副词形式 inevitably 表示“必然”，相当于 necessarily。",
+          "body": "【2020 年英语（一）】\nRequiring companies to make gender the primary qualification for board membership will inevitably lead to less experienced private sector boards.\n要求公司将性别作为董事会成员资格的首要资格条件，必然会导致私有部门的董事会缺乏经验。"
+        }
+      ]
+    },
+    {
+      "spelling": "universal",
+      "ipa": "/ˌjuːnɪˈvɜːrsl/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "普遍的"
+        }
+      ],
+      "mnemonic": "uni-（一）+ vers-（转）+-al（形容词后缀）→万物转向一个方向→这个方向是全体“普遍的”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义：普遍的",
+          "body": "【2022 年英语（一）】\nAs degrees became universal, they became devalued.\n随着学位变得普遍，学位的价值也就降低了。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "universe n. 宇宙；领域\nuniversality n. 普遍（性）"
+        }
+      ]
+    },
+    {
+      "spelling": "critical",
+      "ipa": "/'kritikl/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "批评的，批判的; 重要的，关键的"
+        }
+      ],
+      "mnemonic": "crit- 来自 Cross（十字），代表天主教，中世纪是天主教的教廷统治。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "critical 表示“批判的”，经常出现在态度题的选项中，表示负面态度。",
+          "body": "【2014 年英语（一）】\n36.What is the author's attitude toward the AAAS's report?\n作者对 AAAS 的报告的态度是怎样的？\ncritical. 批判的"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "短语搭配：",
+          "body": "\\- be critical of 对……持批判的态度\n【2018 年英语（一）】\nYoung people are critical of an over-tweeting president. 年轻人对过度发推的总统持批判的态度。\n\\- be critical to 对……很重要\n【2019 年英语（一）】\nThe goal of grade forgiveness is more about encouraging students to retake courses critical to their degree program and graduation.\n分数谅解的目标，更多是鼓励学生去重修那些对他们的学位和毕业非常重要的课程。"
+        }
+      ]
+    },
+    {
+      "spelling": "crucial",
+      "ipa": "/'kru:ʃl/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "重要的，关键的"
+        }
+      ],
+      "mnemonic": "cruc- = crit- 来自 cross（十字）→十字路口，面临关键抉择。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "短语搭配:be crucial to 对……很重要",
+          "body": "【2013 年英语（一）】\nTo ensure the future of mankind, it is crucial to draw on our experience from the past.\n为了确保人类的未来，从过去汲取我们的经验至关重要。"
+        }
+      ]
+    },
+    {
+      "spelling": "might",
+      "ipa": "/maɪt/",
+      "senses": [
+        {
+          "pos": "aux. v.",
+          "meaning_cn": "可能"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "力量；权力"
+        }
+      ],
+      "mnemonic": "拥有权力（might）的人凝聚力量（might），为实现目标创造更多可能（might）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "注意该词可作名词",
+          "body": "America's military might 美国的军事力量"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词:mighty adj. 强有力的",
+          "body": "【2013 年英语（二）】\nmighty rivals 强有力的对手 must /mʌst/\naux.&v. 必须 n. 必须做的事\n妙记：备考是必须做的事（must），同时也必须（must）上岸。"
+        },
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "该单词可以作名词，表示必须做的事。",
+          "body": "【2016 年英语（二）】\nHis parents believe working steadily is a must for success.\n他的父母认为，想要成功，就必须稳定地工作。"
+        }
+      ]
+    },
+    {
+      "spelling": "premise",
+      "ipa": "/'premɪs/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "前提"
+        }
+      ],
+      "mnemonic": "pre-（前）+mis- = mit-（抛）→提前抛出→得出结论之前必须抛出的观点和论据→就是 premise（前提）。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "常考释义",
+          "label_raw": "常考释义：前提",
+          "body": "【2016 年英语（一）】\nBut even if you accept Friedman's premise, things may not be absolutely clear-cut.\n但即便你认可弗里德曼的前提，情况也可能并非绝对清晰明了。"
+        }
+      ]
+    },
+    {
+      "spelling": "context",
+      "ipa": "/'ka:ntekst/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "上下文；（事件等发生的）背景"
+        }
+      ],
+      "mnemonic": "con-（全部）+ text（文本）→ 全部文本 → 上下文；事件所处的“上下文”，就是事件发生的“背景”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "短语搭配：",
+          "body": "cultural context 文化环境\n【2016 年英语（一）】\nThe better you understand the cultural context, the more control you can have over your impact.\n你对文化背景的理解越透彻，就越能掌控自己所产生的影响。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "形近词：",
+          "body": "contest n./v. 竞争、竞赛 circumstance /'sɜːrkəmstæns/\nn. 环境；情况，状况，境况\n妙记:circu(m)s（马戏团）+ stance（联想 stand，站立）→马戏团里的演员站立在复杂的“环境”（circumstance）中表演。"
+        },
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "辨析:circumstance & environment",
+          "body": "\\- circumstance 通常只能用来表示社会环境，而不能用来表示自然环境;\n【2011 年英语（一）】\nCircumstances do not make a person, they reveal him.\n环境不会造就一个人，而是会揭露一个人的本质。\n\\- environment 既可以表示社会环境，也可以表示自然环境。\n【2024 年英语（一）】\nnatural environmen 自然环境"
+        }
+      ]
+    },
+    {
+      "spelling": "condition",
+      "ipa": "/kənˈdɪʃn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "条件，状况；健康状况，疾病"
+        }
+      ],
+      "mnemonic": "con-（共同）+dit-（给予）+-ion（名词后缀）→共同给予的要求，就是条件（condition）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常考 condition 表示“健康状况、疾病”。",
+          "body": "【2021 年英语（一）】\n33. D. Their unhealthy dental condition.\n他们不健康的牙齿状况。\n【2013 年英语（一）】\nMost of us give in to a demoralization of spirit which we usually blame on some psychological conditions.\n我们大多数人会陷入精神上的萎靡不振，而这种状态通常会被我们归咎于某些心理问题。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "conditional adj. 有条件的，附带条件的\nunconditional adj. 无条件的"
+        }
+      ]
+    },
+    {
+      "spelling": "temporary",
+      "ipa": "/'tempəreri/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "暂时的，临时的"
+        }
+      ],
+      "mnemonic": "temporary（谐音“太怕热了”）→夏天的炎热是暂时的（temporary）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义：暂时的",
+          "body": "【2010 年英语（一）】\nThey largely reflect the temporary illiquidity of markets.\n它们在很大程度上反映的是市场暂时的流动性缺失。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "contemporary adj. 同时代的；当代的"
+        }
+      ]
+    },
+    {
+      "spelling": "ultimate",
+      "ipa": "/'ʌltɪmət/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "最后的，最终的"
+        }
+      ],
+      "mnemonic": "ultimate（谐音“熬铁没了”）→打铁匠熬到最后，铁都没了。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义：最终的",
+          "body": "【2018 年英语（一）】\nThey exert self-interested pressure on the USPS's ultimate overseer.\n他们向美国邮政总局（USPS）的最终监管机构施加出于私利的压力。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词:ultimately adv. 最终",
+          "body": "【2010 年英语（一）】\nThis change will ultimately be acclaimed by an ever-\ngrowing number of both domestic and international\nconsumers.\n这一改变将最终被越来越多的国内外的消费者所支持。"
+        }
+      ]
+    },
+    {
+      "spelling": "immediate",
+      "ipa": "/ɪˈmiːdiət/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "立刻的，立即的；紧接着的；直接的"
+        }
+      ],
+      "mnemonic": "im-（否定）+medi-（中间）+-ate（形容词后缀）→不是中间的，而是紧接着的，立刻的。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常见释义：立刻的；直接的",
+          "body": "【2013 年英语（一）】\nOur immediate future is hard to conceive.\n我们紧接着的未来很难去想象。\n【2024 年英语（二）】\nA more immediate response is to broaden our digital\nimaginations.\n一个更直接的回应是去扩展我们的数字想象力。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "immediately adv. 立即"
+        }
+      ]
+    },
+    {
+      "spelling": "late",
+      "ipa": "/leɪt/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "晚的；迟的；晚期的，末期的；已故的"
+        },
+        {
+          "pos": "adv.",
+          "meaning_cn": "晚； 迟；接近末期；晚年"
+        }
+      ],
+      "mnemonic": "他在某天晚些的（late）时候，整理已故（late）亲人的遗物，才发现那本记录晚期（late）病症历程的日记。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生词",
+          "label_raw": "派生词:latest adj. 最近的，最新的",
+          "body": ""
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "late 作形容词修饰人，通常表示“已故的”",
+          "body": "【2021 年英语（二）】\nThe late psychologist Nalini Ambady asked participants to watch silent 10-second video clips.\n已故心理学家 Nalini Ambady 要求参与者观看 10 秒的无声视频片段。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "区分:late & lately",
+          "body": "- late 和 lately 都可以作副词，两者含义不同。late 表示“晚”，如:She married late. 她结婚晚。\n- lately 表示“最近”，如:She has married lately. 她最近才结婚。"
+        },
+        {
+          "marker": "④",
+          "kind": "其他",
+          "label_raw": "区分:later & latter",
+          "body": "later 表示“后来”，如：\n【2010 年英语（一）】\nLater, more established companies raced to add such patents to their files.\n后来，一些更成熟的公司也纷纷将此类专利纳入其档案之中。\nlatter 表示“后者”，如：\n【2018 年英语（一）】\n31. C. It fell short of the latter's expectations.\n它没有达到后者的预期。"
+        }
+      ]
+    },
+    {
+      "spelling": "primary",
+      "ipa": "/'praɪməri/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "最早的，最初的；首要的，最重要的"
+        }
+      ],
+      "mnemonic": "prim-（第一）+-ary（形容词后缀）→时间上排在第一位是“最初的”，地位排第一位是“最重要的”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "prime adj. 首要的，最重要的\npremier adj. 首要的，最重要的 n. 首相，总理\nprimitive adj. 原始的；落后的\nprimarily adv. 首先，最初，主要"
+        },
+        {
+          "marker": "②",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配：",
+          "body": "primary school 小学"
+        }
+      ]
+    },
+    {
+      "spelling": "barely",
+      "ipa": "/'berli/",
+      "senses": [
+        {
+          "pos": "adv.",
+          "meaning_cn": "仅仅，刚刚；几乎没有，几乎不"
+        }
+      ],
+      "mnemonic": "他仅仅（barely）睡了三小时，却几乎不（barely）觉得疲惫。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "固定搭配",
+          "label_raw": "常见用法：与 any 连用（barely any）或与 can 连用（can barely）时，通常表示“几乎不、几乎没有”。",
+          "body": "【2013 年英语（二）】\nThere are so many people in a much worse state, with barely any money to spend on food.\n很多人处于更惨的状态，他们几乎没钱去购买食物。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "bare adj. 裸体的；裸露的；最基本的，仅够的"
+        }
+      ]
+    },
+    {
+      "spelling": "hardly",
+      "ipa": "/'ha:rdli/",
+      "senses": [
+        {
+          "pos": "adv.",
+          "meaning_cn": "几乎没有，几乎不；仅仅，刚刚"
+        }
+      ],
+      "mnemonic": "虽然生活很难（hard），但是他几乎没有（hardly）放弃的意思。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "固定搭配",
+          "label_raw": "常见用法:hardly = not(考研从来不考“仅仅、刚刚”的意思；“仅仅、刚刚”通常用 merely 或 barely)",
+          "body": "【2024 年英语（二）】\n27. According to Confor, the UK government's fresh incentives can hardly address a construction crisis.\n根据康福公司的说法，英国政府新的激励措施很难解决建筑危机。"
+        }
+      ]
+    },
+    {
+      "spelling": "unlikely",
+      "ipa": "/ʌn'laɪkli/",
+      "senses": [
+        {
+          "pos": "adv.",
+          "meaning_cn": "不太可能"
+        }
+      ],
+      "mnemonic": "她喜欢（like）读书，因此很可能（likely）会加入读书俱乐部，但不太可能（unlikely）为了俱乐部而错过考试。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "unlikely, hardly, barely 都可以表示否定，阅读常考，且通常是解题定位句。",
+          "body": "【2014 年英语（二）】\nThe existing £ 4.5bn programme of grants to fund new affordable housing, set to expire in 2015, is unlikely to be extended beyond then.\n现存的用于资助新建经济适用房的 45 亿英镑拨款计划将于 2015 年到期，此后该计划不太可能再得到延续。"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L28-01",
+      "kind": "single",
+      "stem": "Since the days of Aristotle, a search for ____ principles has characterized the scientific enterprise.",
+      "options": [
+        "late",
+        "visible",
+        "universal",
+        "likely"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "universal",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L28-02",
+      "kind": "single",
+      "stem": "The non-intrusive delivery of the marketing messages in a way that is sensitive to the needs of target customers is one of the ____ challenges to the digital marketer.",
+      "options": [
+        "critical",
+        "bare",
+        "immediate",
+        "special"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "critical",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L28-03",
+      "kind": "single",
+      "stem": "Memory exercise is a ____ for our brain.",
+      "options": [
+        "might",
+        "must",
+        "context",
+        "contest"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "might",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L28-04",
+      "kind": "single",
+      "stem": "Emotions aren't binary — feelings that may be advantageous in one ____ may be harmful in another.",
+      "options": [
+        "universe",
+        "result",
+        "digit",
+        "context"
+      ],
+      "answer": 3,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "context",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L28-05",
+      "kind": "single",
+      "stem": "Rested in the Pacific Ocean, Mauna Kea's peak rises above the bulk of our planet's dense atmosphere, where ____ allow telescopes to obtain images of unsurpassed clarity.",
+      "options": [
+        "exploration",
+        "conditions",
+        "exhibitions",
+        "transaction"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "condition",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L28-06",
+      "kind": "single",
+      "stem": "The company is renting a ____ office space while their new building is under construction.",
+      "options": [
+        "permanent",
+        "temporary",
+        "primary",
+        "ultimate"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "temporary",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L28-07",
+      "kind": "single",
+      "stem": "The argument is based on the false ____ that all humans think in the same way.",
+      "options": [
+        "premise",
+        "conclusion",
+        "evidence",
+        "solution"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "premise",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L28-08",
+      "kind": "fill",
+      "stem": "Existing health privacy law is ____ (primary) focused on the way hospitals, doctors' offices, clinics and insurance companies store health records online.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "primarily"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "primary",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L28-09",
+      "kind": "fill",
+      "stem": "A study last year by the National Center for Science Education gave ____ (bare) half of US states a grade B+ or higher.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "barely"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "barely",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L28-10",
+      "kind": "fill",
+      "stem": "The crash of Egypt Air Flight 804 is mentioned to highlight the____(necessary) of upgrading major U.S. airports.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "necessity"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "necessity",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L28-11",
+      "kind": "fill",
+      "stem": "The most challenging moments in life are getting married, starting a family and ____ (ultimate) retiring.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "ultimately"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "ultimate",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L28-12",
+      "kind": "fill",
+      "stem": "And stay alert to serious symptoms, such as chest pain or pressure, severe shortness of breath or dizziness, or faintness, and seek medical attention____(immediate).",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "immediately"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "immediate",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L28-13",
+      "kind": "fill",
+      "stem": "As to the prospects for federal legislation, commentators suggest that comprehensive federal privacy legislation seems ____ (unlike) in the short term.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "unlikely"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "unlikely",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L28-14",
+      "kind": "translate_sentence",
+      "stem": "Destroying the machines that are coming for our jobs would be nuts. But policies to help workers adapt will be indispensable.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "毁掉那些即将取代我们工作的机器是愚蠢的行为，但帮助工人适应变化的政策却是不可或缺的。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "indispensable",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L28-15",
+      "kind": "translate_sentence",
+      "stem": "One could interpret much of the work of Beethoven by saying that suffering is inevitable, but the courage to fight it renders life worth living.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "我们可以这样解读贝多芬的大部分作品：苦难不可避免，但与之抗争的勇气让生命值得。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "inevitable",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L28-16",
+      "kind": "translate_sentence",
+      "stem": "But demonstrating the efficacy of science will be crucial if we are to solve humanity's greatest challenges.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "但如果我们要解决人类面临的最大挑战，证明科学的有效性将至关重要。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "crucial",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L28-17",
+      "kind": "translate_sentence",
+      "stem": "In some areas, high daytime temperatures alone might serve as an adequate trigger for alerts.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "在某些地区，仅白天的高温可能就足以触发警报。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "might",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L28-18",
+      "kind": "translate_sentence",
+      "stem": "In fact, circumstances seem to be designed to bring out the best in us and if we feel that we have been “ wronged ” then we are unlikely to begin a conscious effort to escape from our situation.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "事实上，环境似乎旨在激发我们的潜能；如果我们觉得自己“受了委屈”，就不太可能有意识地努力摆脱现状。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "unlikely",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L28-19",
+      "kind": "translate_sentence",
+      "stem": "The participants filled out questionnaires about how often they did things that were altruistic and positive, like sacrificing their own interests to help a friend, or rebellious and negative, like getting drunk or staying out late.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "参与者填写了问卷，内容涉及他们做利他且积极之事（如牺牲自身利益帮助朋友）或叛逆且消极之事（如酗酒、晚归）的频率。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "late",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L28-20",
+      "kind": "translate_sentence",
+      "stem": "Undertaking too many extracurricular activities will hardly be seen as a plus by colleges.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "参加过多的课外活动几乎不会被大学视为加分项。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "hardly",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

@@ -1,0 +1,679 @@
+{
+  "list_no": 4,
+  "title": "机构与法规",
+  "association": {
+    "outline": "情节：社区危机→权威授权→立法审查→权力重构",
+    "scenes": [
+      {
+        "title": "社区危机",
+        "story": "community（社区）的 domestic affairs section（家政事务科）向居民们报道了一起近期发生的家暴恶性事件。居住在此的知名 author（作家）亚瑟呼吁 state（州政府）augment（加强）监管。"
+      },
+      {
+        "title": "权威授权",
+        "story": "他被授予“监管总监”的 title（头衔），empower（授权）他 charge（主管）家暴预防这一新 sector（领域）。"
+      },
+      {
+        "title": "立法审查",
+        "story": "亚瑟带领团队起草 legislation（法规），确保 legal（合法）且 legitimate（正当）的 regulation（监管）。经 peer（同行）评审，关键 sentence（条款）覆盖所有社会 segment（群体）。"
+      },
+      {
+        "title": "权力重构",
+        "story": "新法 entitled（赋予权利），公民可以申诉家暴事件。学习了亚瑟的方案后，整座城市被划分为多个区域，每个 sector（领域）独自行使对家暴事件的 authority（治理权）。"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "authority",
+      "ipa": "/əˈθɔːrəti/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "权力，权威；权威人士；(pl.) 官方，当局"
+        }
+      ],
+      "mnemonic": "王者荣耀的亚瑟（Arthur）是对抗路的权威（authority）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "常考复数形式，authorities 表示“当局”。 【2014 年英语（二）】"
+        }
+      ]
+    },
+    {
+      "spelling": "author",
+      "ipa": "/ˈɔːθər/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "作者"
+        }
+      ],
+      "mnemonic": "对于一本书解读很权威（authority）的人，就是作者（author）。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "author 经常出现在阅读的题干中，用来提问作者的观点或态度。 【2024 年英语（一）】 40.The author holds that the state lawmakers should \\_\\_\\_\\_. 作者认为，州政策的制定者们应当 \\_\\_\\_\\_。"
+        }
+      ]
+    },
+    {
+      "spelling": "augment",
+      "ipa": "/ɔːɡˈment/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "提高；增加；扩大"
+        }
+      ],
+      "mnemonic": "aug（谐音，阿哥）ment（谐音，出门）要增加（augment）侍卫。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "增强，尤其指通过添加或扩展来强化某物 Machines can augment human labor rather than replace it. 机器能够增强而非取代人类的劳动。"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "augment reality(AR) 增强现实"
+        }
+      ]
+    },
+    {
+      "spelling": "title",
+      "ipa": "/ˈtaɪtl/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "标题；头衔；一本书"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "加标题"
+        }
+      ],
+      "mnemonic": "谐音“抬头”，抬头看广告板，看见的先是标题；抬头看人，看见的先是头衔。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "阅读题的题干中出现 title, 说明它是主旨题。 【2024 年英语（一）】"
+        }
+      ]
+    },
+    {
+      "spelling": "entitle",
+      "ipa": "/ɪnˈtaɪtl/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "授权；命名"
+        }
+      ],
+      "mnemonic": "en-(使)+ title(头衔、标题)→给某人头衔，叫作“授权”;给某物标题，叫作“命名”。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "命名 【2013 年英语（二）】 an essay entitled “Making It in America” 一篇被命名为《在美国闯出一番天地》的论文"
+        }
+      ]
+    },
+    {
+      "spelling": "empower",
+      "ipa": "/ɪmˈpaʊər/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "授权，使能够"
+        }
+      ],
+      "mnemonic": "em- = en-（使）+ power（权力）→ 使有权 → 授权，使能够。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "授权 【2012 年英语（二）】 empowering teachers to find what works best for their students 授权教师，使教师能够去探寻最适合学生的学习方法"
+        }
+      ]
+    },
+    {
+      "spelling": "charge",
+      "ipa": "/tʃɑːrdʒ/",
+      "senses": [
+        {
+          "pos": "n./v.",
+          "meaning_cn": "（使承担）责任；指控；指责"
+        },
+        {
+          "pos": "v.",
+          "meaning_cn": "收费；充电 n."
+        }
+      ],
+      "mnemonic": "char-（长得像 car 车）+-ge→车可以承载货物→承载、承担（charge）。 1. 充电：承载更多电量； 2. 控告：承担法律责任，引申为指责； 3. 收费：承担经济责任。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "be charged with = be in charge of 负责，掌管 【2023 年英语（一）】 Painter Thomas Moran and photographer Jackson were charged with capturing this astounding natural beauty and sharing it with the world. 画家托马斯·莫兰（Thomas Moran）和摄影师杰克逊（Jackson）负责捕捉这一令人惊叹的自然美景并将其呈献给全世界。 【2016 年英语（一）】 And if Peretti were in charge at the Times? 倘若佩雷蒂掌管《纽约时报》会怎样呢？"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "表示“收费”时，charge 既可以表示“向某人收费”，也可以表示“收取……费用”。 【2019 年英语（一）】 Customers were generally responsible for paying the sales tax to the state themselves if they weren't charged it. 如果客户未被收取销售税，那么他们通常会自行向所在州缴纳这笔税款。 【2019 年英语（一）】 Now, rivals will be charging sales tax where they hadn't before. 现在，竞争对手们将会在之前未曾涉足的领域征收销售税。"
+        },
+        {
+          "marker": "③",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "给车充电 【2023 年英语（二）】 New residential buildings must have charging points for electric vehicles. 新的住所必须有电动汽车的充电桩。"
+        }
+      ]
+    },
+    {
+      "spelling": "community",
+      "ipa": "/kəˈmjuːnəti/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "社区；界；团体；（生物）群落"
+        }
+      ],
+      "mnemonic": "com- (all) + mun- (交流) +-ity (名词后缀) → 彼此之间有交流的所有人→社区，引申为界、团体、群落。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "最常考",
+          "body": "社区；界 【2013 年英语（一）】 academic community 学术界 【2017 年英语（一）】 astronomy community 天文学界 【2023 年英语（一）】 scientific community 科学界 【2022 年英语（二）】 business community 商界"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "翻译题考过“生物群落”，但仅仅考过一次。 【2010 年英语（一）翻译】 land community 陆生生物群落"
+        }
+      ]
+    },
+    {
+      "spelling": "state",
+      "ipa": "/steɪt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "国家；州；状态"
+        },
+        {
+          "pos": "v.",
+          "meaning_cn": "陈述，声明"
+        },
+        {
+          "pos": "adj.",
+          "meaning_cn": "公立的"
+        }
+      ],
+      "mnemonic": "这个国家（state）声明（state）自己境内的所有大学都是公立的（state）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "\\- 州（最常考） 【2014 年英语（一）】 There is just one path for a lawyer in most American states. 在美国大部分的州，成为律师只有一条路。 \\- 公立的，国有的 【2012 年英语（一）】 In many rich countries, average wages in the state sector are higher than in the private one. 在很多富裕国家，国有部门的平均工资要高于私营部门。 状态 【2013 年英语（一）】 a state of mind 精神状态 \\- the States 美国 【2019 年英语（一）】 revenue losses to the States 给美国带来的收入损失"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "statement n. 陈述，声明 【2015 年英语（二）】"
+        }
+      ]
+    },
+    {
+      "spelling": "regulation",
+      "ipa": "/ˌregjuˈleɪʃn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "控制，管理；法规，规章制度"
+        }
+      ],
+      "mnemonic": "让一样东西变成常规的（regular），最好就是设立一个规章制度（regulation）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "regulation 经常和 rule 进行同义替换，表示法规、规定。 【2011 年英语（二）】 Germany thinks the euro must be saved by stricter rules on borrowing, spending and competitiveness. 德国认为，欧元必须通过更严格的借贷、支出和竞争力方面的规定来得以保全。"
+        }
+      ]
+    },
+    {
+      "spelling": "legal",
+      "ipa": "/ˈliːgl/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "法律的；合法的"
+        }
+      ],
+      "mnemonic": "legal 谐音“理够”，道理都够了，一般就合法 (legal)。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "legal 既可以表示“法律上的”, 也可以表示“合法的”。 【2023 年英语（一）】 Take legal action. 采取法律行动。 【2013 年英语（二）】 We divide newcomers into two categories: legal or illegal, good or bad. 我们将新来的人分成两类：合法的或非法的，好的或坏的。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "illegal adj. 非法的"
+        }
+      ]
+    },
+    {
+      "spelling": "legislation",
+      "ipa": "/ˌledʒɪsˈleɪʃn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "法律；立法"
+        }
+      ],
+      "mnemonic": "让一个事物合法（legal）的办法就是立法（legislation）。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "立法 【2012 年英语（一）】 Now the company is suddenly claiming that the 2002 agreement is invalid because of the 2006 legislation. 现在，该公司突然宣称，由于 2006 年的立法，2002 年的协议是无效的。"
+        }
+      ]
+    },
+    {
+      "spelling": "legitimate",
+      "ipa": "/lɪˈdʒɪtɪmət/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "合法的"
+        }
+      ],
+      "mnemonic": "除了合法 (legal), 还有伙伴 (mate) 的支持，代表在法律和道德上都得到认可。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "辨析",
+          "label_raw": "近义词辨析",
+          "body": "legitimate & legal \\- legitimate 与 legal 的核心区别在于，前者强调合理性与正当性，后者侧重于法律符合性; \\- legitimate 不仅包含合法性，还涉及道德和社会规范层面的认可；而 legal 仅指符合法律规定，不必涉及道德评价。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "legitimacy n. 合法性"
+        },
+        {
+          "marker": "③",
+          "kind": "辨析",
+          "label_raw": "形近词辨析",
+          "body": "legitimacy & legislation legitimacy 表示“合法”; legislation 表示“立法”。 【2012 年英语（一）】 The court cannot maintain its legitimacy as guardian of the rule of law when justices behave like politicians. 如果法官像政客一样行事，法院就无法保持其作为法律规则守护者的合法性。"
+        }
+      ]
+    },
+    {
+      "spelling": "peer",
+      "ipa": "/pɪr/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "同辈；同等地位的人"
+        }
+      ],
+      "mnemonic": "和同辈（peer）才能畅快喝啤酒（beer）。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "peer pressure 朋辈压力 【2012 年英语（一）】 Tina Rosenberg contends that peer pressure can also be a positive force through what she calls the social cure. 蒂娜·罗森伯格（Tina Rosenberg）认为，通过她所说的“社会疗法”，朋辈压力也能成为一种积极的力量。 peer review 同行审查 【2015 年英语（一）】 The journal Science is adding an extra round of statistical checks to its peer-review process. 《科学》杂志在其同行审查过程中添加一轮额外的统计学检查。"
+        }
+      ]
+    },
+    {
+      "spelling": "sentence",
+      "ipa": "/ˈsentəns/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "句子 vt./n. 判决，宣判"
+        }
+      ],
+      "mnemonic": "法官说出句子（sentence）来审判（sentence） 犯人。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "法律领域的“判决、宣判” 【2013 年英语（一）】 A judge might be more likely to send someone to prison if he had already sentenced five or six other defendants only to forced community service on that day. 如果一名法官在当天已经对另外五六个被告做出了社区服务的判决，这名法官就更有可能将一个人送进监狱。"
+        }
+      ]
+    },
+    {
+      "spelling": "section",
+      "ipa": "/ˈsekʃn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "部分；章节；部门"
+        }
+      ],
+      "mnemonic": "sect 谐音“塞刻刀”，手里拿刻刀切出来的静态结果（-tion）就是章节、部门。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "一词多义，但都侧重于“内部的一部分” 章节：一本书的一部分 部门：一个组织的一部分 地区：一个国家的一部分 阶层：社会人群的一部分"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "熟词僻义；分店 【2023 年英语（一）】 Waterstones branch managers were quietly retiring PRH books to their relevant sections. 水石书店的分店经理们悄悄地将企鹅兰登书屋（PRH）的图书转移到了相应的分区。"
+        }
+      ]
+    },
+    {
+      "spelling": "segment",
+      "ipa": "/ˈsegmənt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "部分；片段；环节"
+        }
+      ],
+      "mnemonic": "拿刻刀切（seg-）出的可分离的过程结果（-ment）是片段、环节、细分领域。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "【英语（一）翻译题导语】 Read the following text carefully and then translate the underlined segments into Chinese. 仔细阅读以下文章，然后将划线部分翻译成中文。"
+        }
+      ]
+    },
+    {
+      "spelling": "sector",
+      "ipa": "/ˈsektər/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "部门；行业"
+        }
+      ],
+      "mnemonic": "拿刻刀切（sect-）出的场所（-or）是部门、行业。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词最常考“部门”的含义： public sector 公共部门 private sector 私营部门 【2012 年英语（一）】 In Britain, more than half of public-sector workers but only about 15% of private-sector ones are unionized. 在英国，超过半数的公共部门员工加入了工会，而私营部门员工中只有约 $15\\%$ 是工会成员。 ## 考点点拨 固定搭配： peer pressure 朋辈压力 【2012 年英语（一）】 Tina Rosenberg contends that peer pressure can also be a positive force through what she calls the social cure. 蒂娜·罗森伯格（Tina Rosenberg）认为，通过她所说的“社会疗法”，朋辈压力也能成为一种积极的力量。 peer review 同行审查 【2015 年英语（一）】 The journal Science is adding an extra round of statistical checks to its peer-review process. 《科学》杂志在其同行审查过程中添加一轮额外的统计学检查。"
+        }
+      ]
+    },
+    {
+      "spelling": "domestic",
+      "ipa": "/dəˈmestɪk/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "家里的；国内的；家养的"
+        }
+      ],
+      "mnemonic": "do（做）+mes（联想 mess. 杂乱）+-tic（形容词后缀）→做家里杂乱的事情→家里的，引申为国内的，家养的。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "国内的 【2024 年英语（二）】 UK needs to increase its domestic wood supply. 英国需要增加其国内的木材供应。"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L4-01",
+      "kind": "single",
+      "stem": "In many rich countries, average wages in the state sector are higher than in private ones. But the real gains come in benefits and work practices. Politicians have repeatedly backloaded public-sector pay deals, keeping the pay increases modest but adding to holidays and especially pensions that are already generous.\n\nIt can be learned from Paragraph 4 that the income in the state sector is ____.",
+      "options": [
+        "illegally secured",
+        "indirectly augmented",
+        "excessively increased",
+        "fairly adjusted"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "augment",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L4-02",
+      "kind": "single",
+      "stem": "The board of directors decided to ____ Mr. Johnson as Chief Executive Officer, a position which would ____ him to significant stock options and decision-making authority within the company.",
+      "options": [
+        "entitle ... title",
+        "title ... entitle",
+        "entitle ... entitle",
+        "title ... title"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "title",
+          "bind": "搭配"
+        },
+        {
+          "n": 2,
+          "word": "entitle",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L4-03",
+      "kind": "single",
+      "stem": "There's just one thing you should try to keep at least some time for, ____ your writing — and that's reading.",
+      "options": [
+        "in place of",
+        "in charge of",
+        "in response to",
+        "in addition to"
+      ],
+      "answer": 3,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "charge",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L4-04",
+      "kind": "single",
+      "stem": "Dark patterns also can be addressed on a self-regulatory basis, but only if organizations hold themselves accountable, not just to legal requirements but also to industry best practices and standards.\n\nAccording to the last paragraph, a key to coping with dark patterns is ____.",
+      "options": [
+        "new legal requirements",
+        "businesses, self-discipline",
+        "strict regulatory standards",
+        "consumers safety awareness"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "regulation",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L4-05",
+      "kind": "fill",
+      "stem": "The new policy aims to ____ (power) local managers by giving them greater autonomy over budget allocation and staffing decisions. This is expected to increase efficiency and responsiveness.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "empower"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "empower",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L4-06",
+      "kind": "fill",
+      "stem": "The government is currently drafting new environmental ____ (legitimate) to address carbon emissions, which will require factories to adopt stricter pollution controls.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "legislation"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "legislation",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L4-07",
+      "kind": "fill",
+      "stem": "请在空格中分别填入 segment 和 sector，填入单词可重复、可变形。\n\nThe latest market analysis reveals that the luxury goods ____ has outperformed other consumer ____, particularly in the technology ____ where premium products dominate.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "segment",
+        "sectors",
+        "sector"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "segment",
+          "bind": "词义"
+        },
+        {
+          "n": 2,
+          "word": "sector",
+          "bind": "词义"
+        },
+        {
+          "n": 3,
+          "word": "sector",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L4-08",
+      "kind": "translate_sentence",
+      "stem": "In addressing urban environmental challenges, the local community must collaborate with the state to ensure that newly implemented regulations effectively balance industrial development with ecological preservation.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "regulation",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L4-09",
+      "kind": "translate_sentence",
+      "stem": "Following a rigorous peer review of the forensic evidence, the court's final sentence was forwarded to the appellate section for further assessment of potential procedural violations.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "peer",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L4-10",
+      "kind": "translate_sentence",
+      "stem": "In the author's view, the Vermont case will test the federal authority over nuclear issues.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "authority",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L4-11",
+      "kind": "translate_word",
+      "stem": "Boosting〔 domestic〕demand is vital; reducing〔 domestic〕conflict is equally important.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "domestic",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

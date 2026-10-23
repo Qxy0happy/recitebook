@@ -1,0 +1,4800 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.864,
+            0.0,
+            0.973,
+            0.028
+          ],
+          "content": "考点词<2"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.346,
+            0.049,
+            0.395,
+            0.081
+          ],
+          "content": "#"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.401,
+            0.057,
+            0.628,
+            0.076
+          ],
+          "level": 2,
+          "content": "List 26 继承与超越"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.059,
+            0.104,
+            0.209,
+            0.125
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.133,
+            0.503,
+            0.15
+          ],
+          "content": "情节发展：临危受命→溯流求变→破茧超越→薪火永续"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.068,
+            0.176,
+            0.145,
+            0.193
+          ],
+          "level": 2,
+          "content": "临危受命"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.196,
+            0.698,
+            0.234
+          ],
+          "content": "公司深陷 recession（衰退），新 CEO succeed（继任）predecessor（前任）。她 review（审阅）历史 precedent（先例），发现旧 process（流程）难以 proceed（推进）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.068,
+            0.265,
+            0.145,
+            0.281
+          ],
+          "level": 2,
+          "content": "溯流求变"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.284,
+            0.697,
+            0.322
+          ],
+          "content": "团队 probe（深挖）症结，explore（探索）改革 path（路径）。为匹配发展 pace（节奏），她果断 revise（修订）战略，access（调用）所有资源。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.068,
+            0.353,
+            0.144,
+            0.369
+          ],
+          "level": 2,
+          "content": "破茧超越"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.373,
+            0.697,
+            0.411
+          ],
+          "content": "创新方案 exceed（超出）预期，效能 surpass（超越）对手。虽初期压力 overwhelm（压垮）团队，仍加速 process（流程）迭代。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.068,
+            0.442,
+            0.144,
+            0.459
+          ],
+          "level": 2,
+          "content": "薪火永续"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.463,
+            0.696,
+            0.5
+          ],
+          "content": "公司最终 succeed（成功）逆转危机，成就 exceed（超越）历代 predecessor（前人），树立行业新标杆。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.719,
+            0.164,
+            0.925,
+            0.512
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_13.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.059,
+            0.559,
+            0.206,
+            0.58
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.61,
+            0.237,
+            0.626
+          ],
+          "content": "proceed /prəʊˈsiːd/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.629,
+            0.407,
+            0.646
+          ],
+          "content": "vi. 前进；继续；进行；进展；前往；产生"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.652,
+            0.398,
+            0.67
+          ],
+          "content": "妙记：pro-（前）+ceed-（走）→往前走。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.06,
+            0.681,
+            0.159,
+            0.702
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.709,
+            0.469,
+            0.746
+          ],
+          "content": "① proceed 的翻译非常灵活，但只需要记住它表示“往前走”, 都可以理解。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.751,
+            0.212,
+            0.767
+          ],
+          "content": "常考释义：进行"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.057,
+            0.771,
+            0.218,
+            0.788
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.793,
+            0.304,
+            0.809
+          ],
+          "content": "How does your reading proceed?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.812,
+            0.308,
+            0.829
+          ],
+          "content": "你的阅读是如何“往前走”的？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.833,
+            0.212,
+            0.849
+          ],
+          "content": "常考释义：前往"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.057,
+            0.853,
+            0.218,
+            0.87
+          ],
+          "content": "【2010 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.874,
+            0.471,
+            0.912
+          ],
+          "content": "All jets could have a turn in the most favorable positions, and proceed to London."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.607,
+            0.94,
+            0.645
+          ],
+          "content": "所有飞机都可以转到最有利的位置，朝着伦敦“往前走”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.649,
+            0.94,
+            0.687
+          ],
+          "content": "We now proceed to the next item on the agenda. 我们现在朝着议事日程上的下一个议题“往前走”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.69,
+            0.851,
+            0.707
+          ],
+          "content": "②写作常用表达:proceed from 源自……"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.522,
+            0.71,
+            0.623,
+            0.727
+          ],
+          "level": 2,
+          "content": "【名人名言】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.732,
+            0.941,
+            0.789
+          ],
+          "content": "A thought which does not result in an action is nothing much, and an action which does not proceed from a thought is nothing at all."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.793,
+            0.94,
+            0.831
+          ],
+          "content": "一种想法若不转化为行动，那它就不值太多钱；而一种行动若不是源自某种想法，那它就一文不值。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.834,
+            0.609,
+            0.851
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.855,
+            0.939,
+            0.893
+          ],
+          "content": "proceeding n. 诉讼；(会议、活动等的) 进程，过程；会议记录 (常用复数形式 proceedings)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.896,
+            0.687,
+            0.913
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.837,
+            0.934,
+            0.89,
+            0.951
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.892,
+            0.934,
+            0.922,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.934,
+            0.935,
+            0.97,
+            0.95
+          ],
+          "content": "/261"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.031,
+            0.03,
+            0.102,
+            0.063
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.115,
+            0.038,
+            0.374,
+            0.055
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.405,
+            0.038,
+            0.51,
+            0.054
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.085,
+            0.484,
+            0.18
+          ],
+          "content": "That is what a study, published from the University of California and Yale University in the Proceedings of the National Academy of Sciences, has concluded.\n这是由加利福尼亚大学和耶鲁大学发表在《美国国家科学院院刊》上的一项研究所得出的结论。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.182,
+            0.48,
+            0.219
+          ],
+          "content": "(注:“Proceedings”在这里的意思是会议记录；学报；刊物汇编)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.223,
+            0.161,
+            0.239
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.243,
+            0.374,
+            0.259
+          ],
+          "content": "procedure n. 过程，程序;【医】手术"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.264,
+            0.375,
+            0.28
+          ],
+          "content": "Follow the safety procedure step by step."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.283,
+            0.233,
+            0.299
+          ],
+          "content": "逐步遵循安全程序。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.323,
+            0.313,
+            0.357
+          ],
+          "content": "process /'pra:ses/\nn. 过程，程序 vt. 加工；处理"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.364,
+            0.482,
+            0.399
+          ],
+          "content": "妙记:pro-（前）+ cess- = ceed-（走）→ 往前走 → 过程、程序。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.409,
+            0.182,
+            0.43
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.437,
+            0.243,
+            0.452
+          ],
+          "content": "①考查基本义：过程"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.456,
+            0.237,
+            0.472
+          ],
+          "content": "【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.476,
+            0.248,
+            0.492
+          ],
+          "content": "The process of a study."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.495,
+            0.217,
+            0.51
+          ],
+          "content": "一项研究的过程。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.515,
+            0.446,
+            0.531
+          ],
+          "content": "in the process (of doing sth.) 在做某事的过程中"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.534,
+            0.367,
+            0.55
+          ],
+          "content": "I'm in the process of writing my thesis."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.552,
+            0.27,
+            0.568
+          ],
+          "content": "我正在写论文的过程中。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.572,
+            0.469,
+            0.606
+          ],
+          "content": "② process 可以作动词，表示“加工”或“处理”，其实就是让……往前走。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.61,
+            0.289,
+            0.626
+          ],
+          "content": "让食品往前走→加工食品"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.629,
+            0.237,
+            0.645
+          ],
+          "content": "【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.649,
+            0.389,
+            0.665
+          ],
+          "content": "highly processed foods 高度加工的食品"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.668,
+            0.475,
+            0.684
+          ],
+          "content": "让信息、检测结果等往前走→处理信息、检测结果"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.687,
+            0.237,
+            0.703
+          ],
+          "content": "【2021 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.708,
+            0.374,
+            0.723
+          ],
+          "content": "They had a lot of information to process."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.726,
+            0.305,
+            0.742
+          ],
+          "content": "他们有大量的信息需要处理。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.746,
+            0.242,
+            0.761
+          ],
+          "content": "③考查基本义：程序"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.765,
+            0.352,
+            0.781
+          ],
+          "content": "due process (of law) 正当法律程序"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.785,
+            0.336,
+            0.8
+          ],
+          "content": "Everyone is entitled to due process."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.803,
+            0.34,
+            0.819
+          ],
+          "content": "每个人都有权获得正当法律程序。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.847,
+            0.277,
+            0.881
+          ],
+          "content": "precedent /'presidənt/\nn. 先例"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.888,
+            0.482,
+            0.923
+          ],
+          "content": "妙记:pre-（前）+ ced-（走）→ 走在前面的事 → 先例。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.085,
+            0.634,
+            0.105
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.113,
+            0.922,
+            0.147
+          ],
+          "content": "① precedent 在英美法系中可以表示“判例”，即判例法（case law）的先例。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.152,
+            0.691,
+            0.168
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.173,
+            0.924,
+            0.207
+          ],
+          "content": "Vermont case will offer a precedent-setting test of how far those powers extend."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.211,
+            0.924,
+            0.247
+          ],
+          "content": "佛蒙特州案将为这些权力的范围提供一个判例设定测试。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.252,
+            0.924,
+            0.288
+          ],
+          "content": "②派生词:precede vt. 先于（precede 既可以表示时间上领先，也可以表示地位上优先。）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.292,
+            0.691,
+            0.308
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.313,
+            0.703,
+            0.328
+          ],
+          "content": "Sadness precedes tears."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.332,
+            0.652,
+            0.347
+          ],
+          "content": "悲伤先于流泪。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.352,
+            0.691,
+            0.368
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.373,
+            0.767,
+            0.388
+          ],
+          "content": "Federal laws precede state laws."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.393,
+            0.724,
+            0.408
+          ],
+          "content": "联邦法律优先于州法律。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.413,
+            0.62,
+            0.428
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.433,
+            0.919,
+            0.449
+          ],
+          "content": "preceding 后面接一段时间，表示“在先前的……”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.453,
+            0.615,
+            0.469
+          ],
+          "content": "【2008 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.474,
+            0.925,
+            0.509
+          ],
+          "content": "In two or three respects, his mind had changed during the preceding twenty or thirty years."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.513,
+            0.924,
+            0.549
+          ],
+          "content": "在先前的二三十年里，他的思想在两三个方面发生了变化。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.554,
+            0.779,
+            0.57
+          ],
+          "content": "unprecedented adj. 前所未有的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.597,
+            0.7,
+            0.613
+          ],
+          "content": "recession /rɪˈseʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.616,
+            0.765,
+            0.632
+          ],
+          "content": "n.（经济）衰退；后退，消退"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.638,
+            0.924,
+            0.674
+          ],
+          "content": "妙记:re-（back）+ cess-（走）+-ion（名词后缀）→ 往回走→后退，引申为衰退、消退。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.684,
+            0.634,
+            0.706
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.713,
+            0.758,
+            0.727
+          ],
+          "content": "economic recessions 经济衰退"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.731,
+            0.691,
+            0.747
+          ],
+          "content": "【2012 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.752,
+            0.925,
+            0.785
+          ],
+          "content": "Economic recessions may bring out more evils of human nature."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.789,
+            0.813,
+            0.806
+          ],
+          "content": "经济衰退可能会带来更多人性的恶。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.829,
+            0.697,
+            0.844
+          ],
+          "content": "succeed /sək'siːd/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.848,
+            0.723,
+            0.864
+          ],
+          "content": "vt. 接替，继任 vi. 成功"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.87,
+            0.925,
+            0.926
+          ],
+          "content": "妙记:suc- = sub-（下）+ceed（seed 种子）→我继承（succeed）了爷爷的林园，播下无数种子，它们成功 (succeed) 长成了参天大树→成功；继承。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.044,
+            0.94,
+            0.083,
+            0.955
+          ],
+          "content": "262/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.094,
+            0.939,
+            0.123,
+            0.956
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.125,
+            0.94,
+            0.176,
+            0.955
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.866,
+            0.019,
+            0.976,
+            0.055
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.066,
+            0.077,
+            0.165,
+            0.099
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.105,
+            0.164,
+            0.12
+          ],
+          "content": "①固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.125,
+            0.472,
+            0.158
+          ],
+          "content": "succeed in (doing) sth. 在……取得成功 /succeed as sth. 作为……成功"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.162,
+            0.221,
+            0.178
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.183,
+            0.472,
+            0.216
+          ],
+          "content": "These benefactors have succeeded in their chosen fields."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.221,
+            0.364,
+            0.237
+          ],
+          "content": "这些捐助者在自己的领域取得了成功。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.24,
+            0.167,
+            0.255
+          ],
+          "content": "② 固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.26,
+            0.315,
+            0.275
+          ],
+          "content": "a succession of 一连串，一系列"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.279,
+            0.221,
+            0.295
+          ],
+          "content": "【2010 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.3,
+            0.476,
+            0.333
+          ],
+          "content": "21. A. the art market had witnessed a succession of victories"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.337,
+            0.32,
+            0.354
+          ],
+          "content": "艺术品市场见证了一连串的成功"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.357,
+            0.297,
+            0.373
+          ],
+          "content": "③固定搭配：表示继承/接替"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.377,
+            0.399,
+            0.393
+          ],
+          "content": "succeed sb. (as sth.) 接替某人（担任某职）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.397,
+            0.415,
+            0.413
+          ],
+          "content": "succeed to sth. 继承（头衔、财产、王位等）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.417,
+            0.388,
+            0.433
+          ],
+          "content": "Mr. Smith succeeded Mr. Jones as manager."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.435,
+            0.348,
+            0.451
+          ],
+          "content": "史密斯先生接替琼斯先生担任经理。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.456,
+            0.334,
+            0.47
+          ],
+          "content": "The eldest son succeeded to the title."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.474,
+            0.201,
+            0.49
+          ],
+          "content": "长子继承了爵位。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.494,
+            0.145,
+            0.509
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.514,
+            0.194,
+            0.529
+          ],
+          "content": "success n. 成功"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.533,
+            0.246,
+            0.549
+          ],
+          "content": "successful adj. 成功的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.553,
+            0.407,
+            0.569
+          ],
+          "content": "succession n. 接替，继任；一连串，一系列"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.572,
+            0.321,
+            0.588
+          ],
+          "content": "successive adj. 继任的；连续的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.592,
+            0.295,
+            0.607
+          ],
+          "content": "successor n. 接替者，继任者"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.631,
+            0.294,
+            0.647
+          ],
+          "content": "predecessor /'predəsesər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.65,
+            0.182,
+            0.666
+          ],
+          "content": "n. 前辈，前任"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.673,
+            0.474,
+            0.709
+          ],
+          "content": "妙记:pre-(前) + de-(分离) + cess-(走) + -or(人) → 先走开的人 → 前辈、前任。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.064,
+            0.716,
+            0.165,
+            0.737
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.742,
+            0.472,
+            0.777
+          ],
+          "content": "①前任：在某个职位、角色或位置上被另一个人取代的人。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.782,
+            0.472,
+            0.815
+          ],
+          "content": "The new manager introduced several changes that his predecessor had resisted."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.818,
+            0.401,
+            0.834
+          ],
+          "content": "新经理推行了几项他的前任曾抵制的变革。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.837,
+            0.472,
+            0.872
+          ],
+          "content": "②前身：被另一个更新或更先进的事物所取代的事物（如机器、系统、组织、理论等）。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.876,
+            0.472,
+            0.908
+          ],
+          "content": "This treaty replaced its predecessor signed ten years earlier."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.912,
+            0.365,
+            0.928
+          ],
+          "content": "该条约取代了十年前签署的前身条约。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.077,
+            0.938,
+            0.111
+          ],
+          "content": "③祖先，前辈：(较正式或学术) 家族中的先人; 在某个领域或活动中的早期人物。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.115,
+            0.688,
+            0.131
+          ],
+          "content": "【2022 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.135,
+            0.94,
+            0.189
+          ],
+          "content": "Thankfully, there are signs that this is already happening, with Generation Z seeking to learn from their millennial predecessors."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.193,
+            0.927,
+            0.228
+          ],
+          "content": "值得庆幸的是，有迹象表明，这种情况已经在发生，Z 世代正试图向他们的千禧一代前辈们学习。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.253,
+            0.676,
+            0.266
+          ],
+          "content": "access /'ækses/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.271,
+            0.94,
+            0.287
+          ],
+          "content": "vt. 到达；进入；使用 n. 通道；入口；权利；机会"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.294,
+            0.941,
+            0.368
+          ],
+          "content": "妙记:ac- = ad-（强调、一再）+ cess-（走）→ 一再走 → 进入、到达，引申为通道、入口；有权或有机会进入一个区域，就是拥有进入这个区域的通道或入口。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.653,
+            0.375,
+            0.814,
+            0.485
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a traditional Chinese courtyard with red walls, stone lion statues, and a figure holding a scroll (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_42.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.491,
+            0.63,
+            0.511
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.518,
+            0.629,
+            0.534
+          ],
+          "content": "①固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.538,
+            0.924,
+            0.573
+          ],
+          "content": "have/gain access to 拥有 / 获得……的权利或机会\n【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.578,
+            0.94,
+            0.611
+          ],
+          "content": "Every American has access to post-high school education."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.615,
+            0.811,
+            0.631
+          ],
+          "content": "每个美国人都有权接受后高中教育。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.635,
+            0.687,
+            0.65
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.655,
+            0.939,
+            0.69
+          ],
+          "content": "Merely helping a gift-giver gain access to other officials is not corruption."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.693,
+            0.939,
+            0.728
+          ],
+          "content": "仅仅帮助送礼的人获得接近其他官员的机会，并不是腐败。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.732,
+            0.938,
+            0.767
+          ],
+          "content": "② access 作动词时，access + 直接宾语，通常表示信息、文件、系统、位置"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.772,
+            0.922,
+            0.787
+          ],
+          "content": "The software makes it easy to access large amounts of data."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.79,
+            0.811,
+            0.805
+          ],
+          "content": "该软件使得访问大量数据变得容易。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.809,
+            0.61,
+            0.825
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.829,
+            0.939,
+            0.864
+          ],
+          "content": "accessible a. 可到达的；可进入的；可使用的（-ble = able 能、可以）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.868,
+            0.83,
+            0.883
+          ],
+          "content": "The building is wheelchair — accessible."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.887,
+            0.72,
+            0.902
+          ],
+          "content": "这座建筑允许轮椅进入。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.907,
+            0.833,
+            0.922
+          ],
+          "content": "The book is written in an accessible style."
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.836,
+            0.938,
+            0.888,
+            0.954
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.892,
+            0.938,
+            0.92,
+            0.955
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.932,
+            0.94,
+            0.969,
+            0.954
+          ],
+          "content": "/263"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.032,
+            0.042,
+            0.102,
+            0.073
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.116,
+            0.05,
+            0.371,
+            0.066
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.402,
+            0.049,
+            0.507,
+            0.066
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.096,
+            0.304,
+            0.111
+          ],
+          "content": "这本书的写作风格通俗易懂。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.116,
+            0.308,
+            0.13
+          ],
+          "content": "Our manager is very accessible."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.134,
+            0.268,
+            0.149
+          ],
+          "content": "我们的经理很容易接近。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.172,
+            0.224,
+            0.186
+          ],
+          "content": "exceed /ɪkˈsiːd/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.191,
+            0.2,
+            0.205
+          ],
+          "content": "vt. 超出，超过"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.212,
+            0.478,
+            0.248
+          ],
+          "content": "妙记:ex-（out）+ceed-（走）→走到界限之外→超出、超过。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.08,
+            0.257,
+            0.179,
+            0.279
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.284,
+            0.186,
+            0.299
+          ],
+          "content": "①考查基本义"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.302,
+            0.235,
+            0.318
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.321,
+            0.341,
+            0.336
+          ],
+          "content": "Its expenses have exceeded revenue."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.339,
+            0.25,
+            0.354
+          ],
+          "content": "它的开销超过了收入。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.358,
+            0.16,
+            0.372
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.376,
+            0.402,
+            0.391
+          ],
+          "content": "excess adj. 过多的，过度的 n. 过度，过多"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.395,
+            0.318,
+            0.41
+          ],
+          "content": "excessive adj. 过多的，过度的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.413,
+            0.398,
+            0.428
+          ],
+          "content": "③ excess 和 excessive 含义并不完全相同："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.431,
+            0.294,
+            0.447
+          ],
+          "content": "excess 通常表示数量上过多"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.45,
+            0.314,
+            0.465
+          ],
+          "content": "excessive 通常表示程度上过多"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.468,
+            0.235,
+            0.484
+          ],
+          "content": "【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.487,
+            0.373,
+            0.502
+          ],
+          "content": "excess abdominal fat 过多的腹部脂肪"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.504,
+            0.235,
+            0.52
+          ],
+          "content": "【2022 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.524,
+            0.468,
+            0.539
+          ],
+          "content": "excessive employment protections 过度的雇佣保护"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.542,
+            0.399,
+            0.558
+          ],
+          "content": "④写作常用:exceedingly adv. 非常 = very"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.56,
+            0.16,
+            0.575
+          ],
+          "content": "【2000 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.58,
+            0.478,
+            0.612
+          ],
+          "content": "The American society is established on an exceedingly shaky foundation of natural resources."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.615,
+            0.478,
+            0.649
+          ],
+          "content": "美国社会是建立在一个非常不稳固的自然资源的基础之上的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.669,
+            0.24,
+            0.686
+          ],
+          "content": "surpass /sər'pæs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.688,
+            0.2,
+            0.703
+          ],
+          "content": "vt. 超过，胜过"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.71,
+            0.478,
+            0.745
+          ],
+          "content": "妙记:sur-（上面）+ pass（通过）→ 从上面通过 → 超过、胜过。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.08,
+            0.751,
+            0.179,
+            0.772
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.778,
+            0.291,
+            0.794
+          ],
+          "content": "①考查基本义：超过/胜过"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.797,
+            0.235,
+            0.813
+          ],
+          "content": "【2010 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.817,
+            0.478,
+            0.85
+          ],
+          "content": "The art market surpassed many other industries in momentum."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.853,
+            0.409,
+            0.869
+          ],
+          "content": "艺术市场的发展势头超过了许多其他行业。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.873,
+            0.476,
+            0.907
+          ],
+          "content": "②近义词辨析:surpass 与 exceed 都可以翻译成“超过”，但含义不同"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.911,
+            0.441,
+            0.927
+          ],
+          "content": "\\- surpass 表示胜过，即它只能表示比……更好；"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.095,
+            0.918,
+            0.128
+          ],
+          "content": "\\- exceed 表示数量或程度上超过，这种“超过”可以是更好，也可以是更坏。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.133,
+            0.611,
+            0.148
+          ],
+          "content": "【2000 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.153,
+            0.888,
+            0.187
+          ],
+          "content": "The divorce rate in Japan exceeds that in the U.S..\n日本的离婚率超过美国。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.191,
+            0.611,
+            0.206
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.211,
+            0.756,
+            0.226
+          ],
+          "content": "unsurpassed adj. 无与伦比的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.231,
+            0.804,
+            0.246
+          ],
+          "content": "He has unsurpassed skills in this field."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.25,
+            0.806,
+            0.265
+          ],
+          "content": "他在这个领域有着无与伦比的技能。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.293,
+            0.757,
+            0.308
+          ],
+          "content": "overwhelm /ˌəʊvərˈwelm/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.312,
+            0.746,
+            0.327
+          ],
+          "content": "vt. 击败，击溃，征服，压倒"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.334,
+            0.922,
+            0.389
+          ],
+          "content": "妙记:over 在……之下，whelm(wheel 车轮)，在车轮下，被车轮压到→被征服（overwhelm）在战车车轮之下。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.399,
+            0.629,
+            0.42
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.427,
+            0.921,
+            0.461
+          ],
+          "content": "①固定搭配:be overwhelmed by 被彻底击败，被彻底征服，被彻底压倒"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.465,
+            0.686,
+            0.481
+          ],
+          "content": "【2018 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.485,
+            0.891,
+            0.5
+          ],
+          "content": "Students are overwhelmed by a broken bike chain."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.503,
+            0.807,
+            0.519
+          ],
+          "content": "学生被一条损坏的自行车链条难倒。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.523,
+            0.92,
+            0.557
+          ],
+          "content": "② overwhelming 通常和 majority 连用，表示“压倒性的大多数”或“绝大多数”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.561,
+            0.685,
+            0.576
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.581,
+            0.921,
+            0.634
+          ],
+          "content": "Overwhelming majorities of both groups said they believe it is harder for young people today to get started in life than it was for earlier generations."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.637,
+            0.921,
+            0.671
+          ],
+          "content": "两组中的绝大多数人都表示，他们认为如今的年轻人在人生起步阶段要比前辈们面临更大的困难。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.675,
+            0.883,
+            0.69
+          ],
+          "content": "③ overwhelm 属于及物动词，后面必须跟宾语"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.695,
+            0.703,
+            0.709
+          ],
+          "content": "Work overwhelmed her."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.713,
+            0.646,
+            0.728
+          ],
+          "content": "工作压垮了她。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.733,
+            0.758,
+            0.748
+          ],
+          "content": "She was overwhelmed by work."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.751,
+            0.664,
+            0.766
+          ],
+          "content": "她被工作压垮了。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.77,
+            0.61,
+            0.785
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.79,
+            0.757,
+            0.805
+          ],
+          "content": "overwhelming adj. 压倒性的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.832,
+            0.693,
+            0.848
+          ],
+          "content": "explore /ɪkˈsplɔːr/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.85,
+            0.757,
+            0.866
+          ],
+          "content": "vt. 探索；搜索；研究，探究"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.872,
+            0.916,
+            0.907
+          ],
+          "content": "妙记：plor 发音很像“捕捞”，捞出来 (ex- = out),\n就是探索、搜索，引申为研究、探究。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.049,
+            0.94,
+            0.087,
+            0.954
+          ],
+          "content": "264/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.095,
+            0.938,
+            0.125,
+            0.955
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.127,
+            0.94,
+            0.177,
+            0.954
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.861,
+            0.004,
+            0.968,
+            0.021
+          ],
+          "content": "考点词"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.207,
+            0.043,
+            0.34,
+            0.138
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a cat character in a desert environment with underwater background (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_1.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.143,
+            0.17,
+            0.164
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.171,
+            0.234,
+            0.187
+          ],
+          "content": "①考查基本义：探索"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.191,
+            0.227,
+            0.206
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.212,
+            0.474,
+            0.245
+          ],
+          "content": "Exploring one's smartphone is more like entering his or her home."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.25,
+            0.405,
+            0.266
+          ],
+          "content": "搜索一个人的手机更像是进入他或她的家。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.271,
+            0.282,
+            0.286
+          ],
+          "content": "【2013、2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.291,
+            0.327,
+            0.306
+          ],
+          "content": "explore the possibility 探索可能性"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.311,
+            0.227,
+            0.326
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.332,
+            0.475,
+            0.387
+          ],
+          "content": "It's perhaps best left to science fiction writers and futurologists to explore the many possibilities we can envisage."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.391,
+            0.474,
+            0.427
+          ],
+          "content": "或许最好还是留给科幻作家和未来学家去探索我们所能设想的众多可能性。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.431,
+            0.151,
+            0.447
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.452,
+            0.384,
+            0.467
+          ],
+          "content": "exploration n. 探索；搜索；研究，探究"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.472,
+            0.295,
+            0.487
+          ],
+          "content": "explorer n. 探索者；探险家"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.513,
+            0.204,
+            0.529
+          ],
+          "content": "probe /prəʊb/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.532,
+            0.242,
+            0.548
+          ],
+          "content": "vt. 探查，探索，探究"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.556,
+            0.474,
+            0.592
+          ],
+          "content": "妙记：形似“problem 问题”，→有问题需要探索、调查→探查，探索。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.603,
+            0.17,
+            0.625
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.632,
+            0.367,
+            0.648
+          ],
+          "content": "① probe 可以和 explore 进行同义替换"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.652,
+            0.227,
+            0.668
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.673,
+            0.475,
+            0.729
+          ],
+          "content": "Join the Club is filled with too much irrelevant detail and not enough exploration of the social and biological factors that make peer pressure so powerful."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.732,
+            0.474,
+            0.789
+          ],
+          "content": "《加入俱乐部》一书充斥着过多无关紧要的细节，却未能充分探索那些使朋辈压力如此强大的社会和生物学因素。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.794,
+            0.474,
+            0.829
+          ],
+          "content": "23. In the author's view, Rosenberg's book fails to adequately probe social and biological factors."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.833,
+            0.474,
+            0.869
+          ],
+          "content": "在作者看来，罗森伯格的书没能充分探索社会和生物学因素。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.874,
+            0.274,
+            0.89
+          ],
+          "content": "② space probe 太空探测器"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.894,
+            0.474,
+            0.911
+          ],
+          "content": "The NASA space probe successfully entered Jupiter's"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.044,
+            0.934,
+            0.079
+          ],
+          "continues_prev": true,
+          "content": "orbit last month, beginning its mission to study the gas giant's atmosphere."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.082,
+            0.934,
+            0.118
+          ],
+          "content": "美国国家航空航天局的太空探测器上月成功进入木星轨道，开启了研究这颗气态巨行星大气的任务。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.122,
+            0.903,
+            0.138
+          ],
+          "content": "③固定搭配:probe into 深入探究（事件、原因）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.143,
+            0.812,
+            0.158
+          ],
+          "content": "They will probe deeply into the matter."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.162,
+            0.701,
+            0.177
+          ],
+          "content": "他们将深入调查此事。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.182,
+            0.786,
+            0.198
+          ],
+          "content": "④同根词:probable adj. 可能的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.223,
+            0.64,
+            0.238
+          ],
+          "content": "pace /peɪs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.242,
+            0.65,
+            0.257
+          ],
+          "content": "n. 速度；节奏"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.538,
+            0.265,
+            0.933,
+            0.282
+          ],
+          "content": "妙记：走到那个 place(地方) 要很快的 pace(速度)。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.292,
+            0.63,
+            0.314
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.321,
+            0.933,
+            0.357
+          ],
+          "content": "keep pace with 与……保持同步 = 跟得上……的节奏\n【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.362,
+            0.935,
+            0.397
+          ],
+          "content": "This year's increase in rail passenger fares has kept pace with inflation."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.401,
+            0.9,
+            0.418
+          ],
+          "content": "今年铁路乘客费用的增长与通货膨胀保持同步。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.421,
+            0.687,
+            0.437
+          ],
+          "content": "【2018 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.443,
+            0.935,
+            0.477
+          ],
+          "content": "Competition law cannot keep pace with the changing market."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.482,
+            0.809,
+            0.498
+          ],
+          "content": "竞争法案没能跟上不断变化的市场。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.523,
+            0.64,
+            0.539
+          ],
+          "content": "path /pæθ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.543,
+            0.681,
+            0.558
+          ],
+          "content": "n. 路；路径，途径"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.566,
+            0.934,
+            0.602
+          ],
+          "content": "妙记：path 很像 pass (通过、经过), 路就是用来通行的。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.613,
+            0.629,
+            0.634
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.642,
+            0.937,
+            0.698
+          ],
+          "content": "①派生词:pathway = path = way n. 路径，途径\nEducation remains the most effective pathway out of poverty for marginalized communities worldwide."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.701,
+            0.934,
+            0.737
+          ],
+          "content": "对全球边缘社区而言，教育仍是摆脱贫困最有效的途径。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.742,
+            0.934,
+            0.817
+          ],
+          "content": "②固定搭配:pathway to 表示通向……的路，可以表示因果关系（前因后果），可以与 result from 同义替换，如：努力学习是通向成功的路，其实就是努力学习是成功的原因。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.822,
+            0.686,
+            0.838
+          ],
+          "content": "【2019 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.843,
+            0.935,
+            0.879
+          ],
+          "content": "Guilt and sympathy may represent different pathways to cooperation and sharing."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.882,
+            0.934,
+            0.918
+          ],
+          "content": "愧疚感和同情心可能代表了通向合作和分享的不同路径。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.834,
+            0.931,
+            0.887,
+            0.948
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.89,
+            0.931,
+            0.919,
+            0.949
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.924,
+            0.933,
+            0.968,
+            0.948
+          ],
+          "content": "/265"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.039,
+            0.029,
+            0.11,
+            0.063
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.126,
+            0.04,
+            0.379,
+            0.058
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.409,
+            0.04,
+            0.512,
+            0.057
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.088,
+            0.486,
+            0.122
+          ],
+          "content": "cooperation and sharing can result from either\nsympathy or guilt"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.125,
+            0.375,
+            0.142
+          ],
+          "content": "合作和分享可能源自同情心或愧疚感"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.165,
+            0.227,
+            0.179
+          ],
+          "content": "revise /rɪˈvaɪz/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.184,
+            0.35,
+            0.2
+          ],
+          "content": "vt. 修订，校订；复习；重新审视"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.206,
+            0.48,
+            0.222
+          ],
+          "content": "妙记:re-（再次）+vis-（看）→再看一次、重看。"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.099,
+            0.226,
+            0.453,
+            0.261
+          ],
+          "sub_type": "text",
+          "content": "1. 出版社再看一次作者的书稿 → 修订、校订；\n2. 学生再看一次学过的知识 → 复习。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.264,
+            0.187,
+            0.285
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.291,
+            0.483,
+            0.326
+          ],
+          "content": "① revise 的翻译较为灵活，但只需记住它表示“再看一次、重看”, 都可以理解。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.33,
+            0.215,
+            0.346
+          ],
+          "content": "常考释义：修改"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.349,
+            0.171,
+            0.365
+          ],
+          "content": "【2008 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.369,
+            0.485,
+            0.424
+          ],
+          "content": "Do not attempt to compose a perfectly correct draft the first time around. Grammar, punctuation, and spelling can wait until you revise."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.426,
+            0.485,
+            0.462
+          ],
+          "content": "不要试图一开始就写出一篇完美的初稿。语法、标点和拼写可以留到你“再看一次”的时候。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.465,
+            0.251,
+            0.481
+          ],
+          "content": "常考释义：重新审视"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.484,
+            0.244,
+            0.501
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.504,
+            0.485,
+            0.539
+          ],
+          "content": "School districts across the country are revising their thinking on this educational ritual."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.542,
+            0.485,
+            0.578
+          ],
+          "content": "全国各地的学区都在“重看”他们对这一教育仪式的看法。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.086,
+            0.616,
+            0.102
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.106,
+            0.763,
+            0.122
+          ],
+          "content": "revision n. 修订，校订; 复习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.126,
+            0.816,
+            0.142
+          ],
+          "content": "This is a new revision of the dictionary."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.145,
+            0.756,
+            0.161
+          ],
+          "content": "这是该词典的一个新修订版。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.185,
+            0.677,
+            0.2
+          ],
+          "content": "review /rɪˈvjuː/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.203,
+            0.792,
+            0.219
+          ],
+          "content": "vt./n. 回顾；复习；审核 n. 评论"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.226,
+            0.88,
+            0.242
+          ],
+          "content": "妙记:re-（再次）+ view（看）→再看一次。"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.547,
+            0.246,
+            0.794,
+            0.281
+          ],
+          "sub_type": "text",
+          "content": "1. 再看一次学过的知识 → 复习；\n2. 再看一次发生过的事 → 回顾。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.537,
+            0.291,
+            0.635,
+            0.313
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.318,
+            0.914,
+            0.354
+          ],
+          "content": "①该单词的翻译较为灵活，但只需要记住它表示“再看一次”，都可以理解。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.357,
+            0.662,
+            0.373
+          ],
+          "content": "常考释义：审核"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.376,
+            0.691,
+            0.393
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.397,
+            0.914,
+            0.432
+          ],
+          "content": "The Nuclear Regulatory Commission (NRC) reviews the company's application."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.435,
+            0.906,
+            0.451
+          ],
+          "content": "核管理委员会（NRC）“再看一次”该公司的申请。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.454,
+            0.913,
+            0.49
+          ],
+          "content": "②该单词可以作名词，表示报纸杂志发表的“评论”文章。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.493,
+            0.69,
+            0.51
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.514,
+            0.914,
+            0.549
+          ],
+          "content": "We are even farther removed from the newspaper reviews published in England."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.551,
+            0.878,
+            0.568
+          ],
+          "content": "我们甚至远离了那些在英国发表的报纸评论。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.597,
+            0.234,
+            0.618
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.633,
+            0.189,
+            0.649
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.659,
+            0.734,
+            0.676
+          ],
+          "content": "1. The researcher's argument \\_\\_\\_\\_ the basic premise that all human behavior is learned."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.116,
+            0.679,
+            0.253,
+            0.695
+          ],
+          "content": "A. proceeds from"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.342,
+            0.679,
+            0.443,
+            0.694
+          ],
+          "content": "B. results in"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.549,
+            0.679,
+            0.667,
+            0.695
+          ],
+          "content": "C. depends on"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.789,
+            0.679,
+            0.88,
+            0.694
+          ],
+          "content": "D. leads to"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.704,
+            0.831,
+            0.72
+          ],
+          "content": "2. To view the confidential files, you need special permission to \\_\\_\\_\\_ the company's internal system."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.116,
+            0.724,
+            0.197,
+            0.738
+          ],
+          "content": "A. access"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.342,
+            0.724,
+            0.441,
+            0.738
+          ],
+          "content": "B. access to"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.549,
+            0.724,
+            0.646,
+            0.739
+          ],
+          "content": "C. approach"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.789,
+            0.724,
+            0.88,
+            0.738
+          ],
+          "content": "D. entrance"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.749,
+            0.698,
+            0.765
+          ],
+          "content": "3. The sales figures for the new product \\_\\_\\_\\_ our wildest expectations last quarter."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.116,
+            0.768,
+            0.201,
+            0.783
+          ],
+          "content": "A. exceed"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.342,
+            0.769,
+            0.425,
+            0.784
+          ],
+          "content": "B. expect"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.549,
+            0.769,
+            0.631,
+            0.783
+          ],
+          "content": "C. access"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.789,
+            0.769,
+            0.88,
+            0.784
+          ],
+          "content": "D. Change"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.793,
+            0.915,
+            0.828
+          ],
+          "content": "4. The Supreme Court's ruling on environmental protection \\_\\_\\_\\_, which may influence future similar cases significantly."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.116,
+            0.832,
+            0.273,
+            0.848
+          ],
+          "content": "A. broke a president"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.341,
+            0.833,
+            0.478,
+            0.847
+          ],
+          "content": "B. set a precedent"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.116,
+            0.851,
+            0.296,
+            0.866
+          ],
+          "content": "C. followed an example"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.341,
+            0.851,
+            0.513,
+            0.866
+          ],
+          "content": "D. proceeded a routine"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.876,
+            0.915,
+            0.911
+          ],
+          "content": "5. During the global financial crisis, many countries \\_\\_\\_\\_ a deep economic \\_\\_\\_\\_, characterized by falling GDP, rising unemployment, and declining consumer spending."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.116,
+            0.914,
+            0.319,
+            0.929
+          ],
+          "content": "A. experienced... downturn"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.341,
+            0.915,
+            0.525,
+            0.929
+          ],
+          "content": "B. recovered... recovery"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.057,
+            0.945,
+            0.097,
+            0.96
+          ],
+          "content": "266/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.105,
+            0.944,
+            0.133,
+            0.96
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.135,
+            0.946,
+            0.185,
+            0.959
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.848,
+            0.027,
+            0.954,
+            0.064
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.105,
+            0.084,
+            0.278,
+            0.099
+          ],
+          "content": "C. entered... recession"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.331,
+            0.084,
+            0.518,
+            0.099
+          ],
+          "content": "D. controlled... inflation"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.109,
+            0.864,
+            0.125
+          ],
+          "content": "6. Unlike his cautious \\_\\_\\_\\_, the new CEO announced bold expansion plans immediately after taking office."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.105,
+            0.129,
+            0.207,
+            0.142
+          ],
+          "content": "A. successor"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.332,
+            0.129,
+            0.452,
+            0.142
+          ],
+          "content": "B. predecessor"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.129,
+            0.639,
+            0.142
+          ],
+          "content": "C. ancestor"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.783,
+            0.129,
+            0.87,
+            0.143
+          ],
+          "content": "D. partner"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.153,
+            0.92,
+            0.187
+          ],
+          "content": "7. “The latest climate report provides extensive data on rising sea levels but lacks substantial exploration of how coastal ecosystems adapt to these changes.”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.103,
+            0.191,
+            0.919,
+            0.207
+          ],
+          "content": "According to the text, the climate report fails to adequately \\_\\_\\_\\_ the adaptation mechanisms of coastal ecosystems."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.105,
+            0.211,
+            0.18,
+            0.226
+          ],
+          "content": "A. probe"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.332,
+            0.211,
+            0.418,
+            0.225
+          ],
+          "content": "B. predict"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.211,
+            0.635,
+            0.225
+          ],
+          "content": "C. simplify"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.78,
+            0.211,
+            0.862,
+            0.225
+          ],
+          "content": "D. ignore"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.236,
+            0.301,
+            0.251
+          ],
+          "content": "8. Hard work \\_\\_\\_\\_ success."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.105,
+            0.255,
+            0.185,
+            0.269
+          ],
+          "content": "A. causes"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.332,
+            0.255,
+            0.474,
+            0.269
+          ],
+          "content": "B. is a pathway to"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.255,
+            0.684,
+            0.27
+          ],
+          "content": "C. happens during"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.28,
+            0.823,
+            0.295
+          ],
+          "content": "9. Before finalizing the new regulations, the committee decided to \\_\\_\\_\\_ all public feedback carefully."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.105,
+            0.3,
+            0.187,
+            0.313
+          ],
+          "content": "A. review"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.332,
+            0.3,
+            0.412,
+            0.314
+          ],
+          "content": "B. repeat"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.3,
+            0.648,
+            0.313
+          ],
+          "content": "C. remember"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.78,
+            0.3,
+            0.859,
+            0.313
+          ],
+          "content": "D. revise"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.325,
+            0.177,
+            0.342
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.081,
+            0.351,
+            0.92,
+            0.511
+          ],
+          "sub_type": "text",
+          "content": "1. While \\_\\_\\_\\_(proceed) foods like canned soups and frozen meals are very convenient, they often contain more salt, sugar, and unhealthy fats than fresh foods.\n2. Ms. Jones will succeed Mr. Smith \\_\\_\\_\\_ head of the department next month. (填入介词)\n3. The prince is next in line to succeed \\_\\_\\_\\_ the throne after his father. (填入介词)\n4. There are many reasons for this. One is the costs of a legal \\_\\_\\_\\_ (exceed) education.\n5. Technology keeps pace \\_\\_\\_\\_ modern needs.\n6. After careful \\_\\_\\_\\_(revise) of the contract, the lawyer submitted the final version to the client."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.521,
+            0.172,
+            0.538
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.549,
+            0.151,
+            0.564
+          ],
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.081,
+            0.573,
+            0.92,
+            0.821
+          ],
+          "sub_type": "text",
+          "content": "1. Join the Club is filled with too much irrelevant detail and not enough exploration of the social and biological factors that make peer pressure so powerful.\n2. Conditions allow telescopes to obtain images of unsurpassed clarity.\n3. The overwhelming majority of the population supports the reform."
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.821,
+            0.934,
+            0.902,
+            0.951
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.91,
+            0.936,
+            0.95,
+            0.95
+          ],
+          "content": "/267"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.038,
+            0.035,
+            0.52,
+            0.068
+          ],
+          "content": "高频词表"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.468,
+            0.091,
+            0.567,
+            0.112
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.133,
+            0.183,
+            0.15
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.165,
+            0.135,
+            0.178
+          ],
+          "content": "1. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.182,
+            0.146,
+            0.198
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.2,
+            0.49,
+            0.234
+          ],
+          "content": "句意：研究者的论点\\_\\_\\_\\_所有人类行为都是后天习得的这一基本前提。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.237,
+            0.492,
+            0.363
+          ],
+          "content": "考点：动词短语辨析。句子表达的是论点与前提之间的逻辑关系。A. proceeds from（源自，从……出发）表示论点是以该前提为基础展开的，符合逻辑。B. results in（导致）和 D. leads to（导致）均表示因果关系，方向相反。C. depends on（依赖于）强调依赖性，但论点更侧重于是“从前提推导而来”，而非“依赖”。故 A. 最准确。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.379,
+            0.134,
+            0.392
+          ],
+          "content": "2. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.395,
+            0.146,
+            0.411
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.414,
+            0.492,
+            0.447
+          ],
+          "content": "句意：要查看机密文件，你需要特殊权限来\\_\\_\\_\\_公司的内部系统。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.451,
+            0.492,
+            0.577
+          ],
+          "content": "考点：动词辨析及固定搭配。A. access(进入，访问) 是及物动词，直接接宾语，意为“访问系统”, 是正确选项。B. access to(拥有……的权限) 中“access”是名词，但空格前有“to”, 后面再有“to”则重复。C. approach(接近，接洽) 对象通常是人或地点，与“系统”搭配不当。D. entrance(入口) 是名词，不符合语法。故选择及物动词 A.。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.592,
+            0.136,
+            0.605
+          ],
+          "content": "3. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.609,
+            0.147,
+            0.625
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.627,
+            0.49,
+            0.661
+          ],
+          "content": "句意：上一季度，新产品的销售额 \\_\\_\\_\\_ 了我们最疯狂的预期。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.664,
+            0.492,
+            0.754
+          ],
+          "content": "考点：动词辨析。空格需要及物动词，且与“expectations”（预期）构成动宾搭配。A. exceed（超过，超出）符合“销售额远超预期”的语境。B. expect（预期）与句意矛盾。C. access（访问）和 D. change（改变）均无法与“预期”形成合理搭配。故选 A。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.769,
+            0.134,
+            0.783
+          ],
+          "content": "4. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.786,
+            0.146,
+            0.802
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.804,
+            0.489,
+            0.838
+          ],
+          "content": "句意：最高法院关于环境保护的裁决\\_\\_\\_\\_，这可能会对未来类似案件产生重大影响。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.841,
+            0.49,
+            0.894
+          ],
+          "content": "考点：固定搭配。A. 选项是在考查学生对 precedent（先例）和 president（总统）的辨析。B. set a precedent（开创先例）是法律术语，指裁决成为后续"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.134,
+            0.933,
+            0.204
+          ],
+          "continues_prev": true,
+          "content": "案件的范例，完全符合语境。C. followed an example(遵循一个例子) 和 D.proceeded a routine(进行一个程序) 均与“影响未来案件”的语义不符，故选 B.。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.219,
+            0.592,
+            0.233
+          ],
+          "content": "5. C."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.543,
+            0.237,
+            0.603,
+            0.252
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.255,
+            0.933,
+            0.307
+          ],
+          "content": "句意：在全球金融危机期间，许多国家\\_\\_\\_\\_了严重的经济\\_\\_\\_\\_，其特点是 GDP 下降、失业率上升和消费者支出下降。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.31,
+            0.933,
+            0.492
+          ],
+          "content": "考点：经济术语与动词搭配。Recession（衰退）是一个标准的经济学术语，特指经济活动显著下降的时期，通常连续两个季度 GDP 下降即为衰退。动词 enter（进入）与 recession 是常见搭配，表示开始经历衰退期。A. downturn（下滑）也可以描述经济下降，但它是一个相对笼统的词，不如 recession 专业和精确。B. recovery（复苏）意为经济恢复增长，与题干描述的“GDP 下降、失业率上升”等负面现象完全矛盾。逻辑不通。D. inflation（通货膨胀）是指物价持续上涨，与题干不符。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.508,
+            0.589,
+            0.521
+          ],
+          "content": "6. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.543,
+            0.524,
+            0.602,
+            0.54
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.543,
+            0.931,
+            0.576
+          ],
+          "content": "句意：与他谨慎的 \\_\\_\\_\\_ 不同，新任 CEO 在上任后立即宣布了大胆的扩张计划。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.579,
+            0.933,
+            0.706
+          ],
+          "content": "考点：名词辨析。由“Unlike”（与……不同）和“new CEO”可知，空格处指代的是前任。A. successor(继任者) 是未来的人，与“his”和“new”矛盾。B. predecessor（前任）正是指刚刚卸任的 CEO，符合语境。C. ancestor（祖先）和 D. partner（合伙人）均与公司 CEO 的职位更替无关。故选 B.。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.721,
+            0.59,
+            0.734
+          ],
+          "content": "7. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.542,
+            0.738,
+            0.602,
+            0.754
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.756,
+            0.933,
+            0.828
+          ],
+          "content": "句意:“最新的气候报告提供了大量有关海平面上升的数据，但对沿海生态系统如何适应这些变化的探讨却不够深入。”根据文中的内容，这份气候报告未能充分\\_\\_\\_\\_沿海生态系统的适应机制。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.83,
+            0.933,
+            0.883
+          ],
+          "content": "考点：动词辨析。A. probe 意为探究、调查，B. predict 意为预测，C. simplify 意为简化，D. ignore 意为忽略。根据上文内容，A. 选项最符合题意。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.053,
+            0.936,
+            0.096,
+            0.95
+          ],
+          "content": "268/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.101,
+            0.935,
+            0.184,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 8,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.842,
+            0.029,
+            0.947,
+            0.066
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.087,
+            0.13,
+            0.099
+          ],
+          "content": "8. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.103,
+            0.142,
+            0.119
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.121,
+            0.31,
+            0.136
+          ],
+          "content": "句意：努力工作 \\_\\_\\_\\_ 成功。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.139,
+            0.474,
+            0.248
+          ],
+          "content": "考点：逻辑关系与地道表达。A. causes（导致）过于绝对，成功并非仅由努力导致。B. is a pathway to（是通往……的途径）表达了一种努力与成功之间常见且合理的因果关系，是地道且准确的表达。C. happens during（发生在……期间）语义不通。故 B. 为最佳答案。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.264,
+            0.13,
+            0.277
+          ],
+          "content": "9. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.281,
+            0.141,
+            0.297
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.299,
+            0.472,
+            0.333
+          ],
+          "content": "句意：在最终确定新法规之前，委员会决定仔细所有的公众反馈。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.336,
+            0.474,
+            0.463
+          ],
+          "content": "考点：动词辨析。根据“before finalizing”（最终确定前）和“carefully”（仔细地）的语境，委员会需要对反馈进行“审阅、考量”。A. review（审阅，复查）最符合此语境。B. repeat（重复）、C. remember（记住）与处理反馈的流程无关。D. revise（修订）的宾语通常是“法规”本身，而不是“反馈”。故 A. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.473,
+            0.182,
+            0.49
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.505,
+            0.185,
+            0.519
+          ],
+          "level": 2,
+          "content": "1. processed"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.522,
+            0.141,
+            0.538
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.54,
+            0.472,
+            0.593
+          ],
+          "content": "句意：尽管\\_\\_\\_\\_食品（如罐装汤和冷冻餐）非常方便，但它们通常比新鲜食品含有更多的盐、糖和不健康脂肪。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.596,
+            0.472,
+            0.668
+          ],
+          "content": "考点：词性转换（动词→形容词）。空格处修饰名词“foods”，需要形容词。动词 proceed（进行）的形容词形式是 processed（经过加工的）。“Processed foods”是固定表达，意为“加工食品”，符合句意。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.684,
+            0.128,
+            0.697
+          ],
+          "content": "2. as"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.7,
+            0.141,
+            0.716
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.72,
+            0.47,
+            0.754
+          ],
+          "content": "句意：琼斯女士将于下个月\\_\\_\\_\\_部门主管的身份接替史密斯先生。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.757,
+            0.472,
+            0.81
+          ],
+          "content": "考点：固定搭配（succeed sb. as...）。“Succeed someone as + 职位”是固定搭配，表示“接替某人担任某职位”。因此填介词 as。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.826,
+            0.127,
+            0.839
+          ],
+          "content": "3. to"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.843,
+            0.141,
+            0.859
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.862,
+            0.472,
+            0.878
+          ],
+          "content": "句意：王子是继他父亲之后下一个\\_\\_\\_\\_王位的人。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.881,
+            0.472,
+            0.916
+          ],
+          "content": "考点：固定搭配。“Succeed to + 职位 / 头衔 / 遗产”是固定搭配，表示“继承（王位、爵位、财产等）”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.086,
+            0.639,
+            0.102
+          ],
+          "content": "因此填介词 to。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.117,
+            0.621,
+            0.13
+          ],
+          "level": 2,
+          "content": "4. excessive"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.134,
+            0.582,
+            0.149
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.152,
+            0.911,
+            0.186
+          ],
+          "content": "句意：这其中有很多原因。其一便是法律教育的成本。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.188,
+            0.915,
+            0.26
+          ],
+          "content": "考点：词性转换（动词→形容词）。空格处修饰名词“costs”（成本），需要形容词。动词 exceed（超过）的形容词形式是 excessive（过度的，过高的），意为“过高成本”，符合句意。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.276,
+            0.587,
+            0.289
+          ],
+          "level": 2,
+          "content": "5. with"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.293,
+            0.582,
+            0.308
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.311,
+            0.854,
+            0.327
+          ],
+          "content": "句意：技术 \\_\\_\\_\\_ 现代需求保持同步发展。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.329,
+            0.915,
+            0.382
+          ],
+          "content": "考点：固定搭配（keep pace with）。“Keep pace with”是固定短语，意为“与……保持同步”。因此填介词 with。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.399,
+            0.612,
+            0.412
+          ],
+          "level": 2,
+          "content": "6. revision"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.415,
+            0.582,
+            0.431
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.434,
+            0.913,
+            0.467
+          ],
+          "content": "句意：在对合同进行仔细的 \\_\\_\\_\\_ 之后，律师将最终版本提交给了客户。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.47,
+            0.913,
+            0.524
+          ],
+          "content": "考点：词性转换（动词→名词）。空格前有形容词“careful”修饰，且位于介词“after”之后，需要名词形式。动词 revise（修订）的名词形式是 revision。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.521,
+            0.534,
+            0.621,
+            0.55
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.553,
+            0.594,
+            0.568
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.521,
+            0.571,
+            0.914,
+            0.679
+          ],
+          "sub_type": "text",
+          "content": "1.《加入俱乐部》一书充斥着过多无关紧要的细节，却未能充分探索那些使朋辈压力如此强大的社会和生物学因素。\n2. 在条件允许的情况下，望远镜能够获取到清晰度无与伦比的图像。\n3. 绝大多数民众支持这项改革。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.816,
+            0.937,
+            0.895,
+            0.954
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.908,
+            0.939,
+            0.944,
+            0.953
+          ],
+          "content": "269"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:14:47",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 9,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 8,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

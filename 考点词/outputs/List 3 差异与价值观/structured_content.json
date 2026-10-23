@@ -1,0 +1,4108 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.048,
+            0.035,
+            0.123,
+            0.067
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.137,
+            0.043,
+            0.409,
+            0.06
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.441,
+            0.043,
+            0.551,
+            0.059
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.391,
+            0.09,
+            0.438,
+            0.121
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_3.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.445,
+            0.095,
+            0.688,
+            0.114
+          ],
+          "level": 2,
+          "content": "List 3 差异与价值观"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.098,
+            0.152,
+            0.254,
+            0.171
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.178,
+            0.553,
+            0.195
+          ],
+          "content": "情节发展：议题浮现→观点碰撞→理性协商→智慧共识"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.11,
+            0.242,
+            0.192,
+            0.258
+          ],
+          "level": 2,
+          "content": "议题浮现"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.108,
+            0.261,
+            0.757,
+            0.316
+          ],
+          "content": "公告栏前，people（居民）们对社区改造议论纷纷。王阿姨 prefer（倾向）建花园，而小李主张健身房。“Human（人类）需求本就 diverse（多样）。”居委会主任老张笑着说，“Apart（此外），我们还要考虑特殊人群的需要。”"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.775,
+            0.205,
+            0.99,
+            0.351
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a group of people gathered around a man and a woman, with a display board in the background (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_9.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.109,
+            0.393,
+            0.191,
+            0.408
+          ],
+          "level": 2,
+          "content": "观点碰撞"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.108,
+            0.411,
+            0.761,
+            0.467
+          ],
+          "content": "听证会上，小李用 analogy（类比）解释健身的重要性，王阿姨则 contrast（对比）老人需求。双方观点 differ（不同），但都带着 integrity（诚意）。老张提议:“Compare（比较）下两个方案？”"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.775,
+            0.356,
+            0.99,
+            0.502
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of three people in a meeting room with diagrams on the table (no text or symbols present)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_12.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.109,
+            0.555,
+            0.191,
+            0.57
+          ],
+          "level": 2,
+          "content": "理性协商"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.108,
+            0.574,
+            0.759,
+            0.61
+          ],
+          "content": "志愿者们 sort（整理）数据后，小林说:“即使预算有限，也要 justify（证明）哪个更 just/even（公正）。”大家开始 judge（判断）居民真正的 will（意愿）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.774,
+            0.506,
+            0.99,
+            0.656
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a group of people seated around a table in a meeting room, discussing documents and charts (no text or symbols visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_15.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.109,
+            0.699,
+            0.191,
+            0.715
+          ],
+          "level": 2,
+          "content": "智慧共识"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.719,
+            0.758,
+            0.774
+          ],
+          "content": "最终方案融合双方意见。王阿姨感叹:“Mankind（人类）的 mind（智慧）在于求同存异。”小李补充:“Democracy（民主）就是尊重 liberal（自由的）选择，保留 distinction（差异）。”"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.774,
+            0.661,
+            0.99,
+            0.813
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a group of people in a meeting room, no visible text or symbols",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_18.jpg"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.069,
+            0.938,
+            0.095,
+            0.952
+          ],
+          "content": "56"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.114,
+            0.935,
+            0.145,
+            0.953
+          ],
+          "content": "#"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.148,
+            0.938,
+            0.202,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.86,
+            0.029,
+            0.965,
+            0.065
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.077,
+            0.087,
+            0.221,
+            0.107
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.135,
+            0.212,
+            0.151
+          ],
+          "content": "people /'pi:pl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.154,
+            0.199,
+            0.169
+          ],
+          "content": "n. 人们；民族"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.174,
+            0.478,
+            0.211
+          ],
+          "content": "妙记：世界上的 people（人们）来自不同 people（民族）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.212,
+            0.214,
+            0.337,
+            0.299
+          ],
+          "sub_type": "text_image",
+          "content": "people",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_5.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.304,
+            0.172,
+            0.325
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.331,
+            0.476,
+            0.366
+          ],
+          "content": "people 表示“人们”时，是可数名词 person 的复数形式; 表示“民族”时，是单数可数名词。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.37,
+            0.2,
+            0.385
+          ],
+          "content": "常考释义：人们"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.389,
+            0.229,
+            0.405
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.409,
+            0.448,
+            0.424
+          ],
+          "content": "TSA wants to enroll 25 million people in PreCheck."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.427,
+            0.474,
+            0.462
+          ],
+          "content": "美国运输安全管理局（TSA）希望征召 2500 万人加入“预检计划”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.466,
+            0.2,
+            0.481
+          ],
+          "content": "常考释义：民族"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.485,
+            0.228,
+            0.501
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.505,
+            0.475,
+            0.56
+          ],
+          "content": "The United States is the product of two principal forces—the immigration of European peoples and the impact of a new country."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.562,
+            0.474,
+            0.598
+          ],
+          "content": "美国是两种主要力量的产物——欧洲各民族的移民以及新国家的影响。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.621,
+            0.27,
+            0.636
+          ],
+          "content": "mankind /mæn'kaɪnd/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.64,
+            0.137,
+            0.656
+          ],
+          "content": "n. 人类"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.663,
+            0.474,
+            0.699
+          ],
+          "content": "妙记：各个 kind（种类）的 man（人）组成 mankind（人类）这个整体。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.208,
+            0.704,
+            0.332,
+            0.789
+          ],
+          "sub_type": "text_image",
+          "content": "mankind",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_19.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.069,
+            0.794,
+            0.168,
+            0.815
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.822,
+            0.41,
+            0.837
+          ],
+          "content": "该单词是类别概念，表示整个人类，不可数。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.84,
+            0.225,
+            0.856
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.86,
+            0.471,
+            0.894
+          ],
+          "content": "To ensure the future of mankind, it is crucial to draw on our experience from the past."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.896,
+            0.471,
+            0.93
+          ],
+          "content": "为了确保人类的未来，从我们的过去中总结经验至关重要。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.132,
+            0.699,
+            0.147
+          ],
+          "content": "human /'hju:mən/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.15,
+            0.723,
+            0.166
+          ],
+          "content": "adj. 人的，人类的 n. 人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.172,
+            0.905,
+            0.189
+          ],
+          "content": "妙记：人类里有胡子（hu）的人是男人（man）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.199,
+            0.63,
+            0.22
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.225,
+            0.931,
+            0.261
+          ],
+          "content": "human 作名词表示“人”, 是可数名词，表示“人类”时，要用复数形式。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.264,
+            0.688,
+            0.28
+          ],
+          "content": "【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.284,
+            0.932,
+            0.317
+          ],
+          "content": "AI looks at resumes in greater numbers than humans would be able to."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.321,
+            0.932,
+            0.357
+          ],
+          "content": "人工智能查看简历的数量远远超过人类所能处理的数量。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.381,
+            0.664,
+            0.395
+          ],
+          "content": "mind /maɪnd/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.4,
+            0.704,
+            0.416
+          ],
+          "content": "n. 头脑；智慧；想法"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.422,
+            0.867,
+            0.439
+          ],
+          "content": "妙记：本义表示头脑，引申为智慧、想法。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.449,
+            0.629,
+            0.47
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.527,
+            0.477,
+            0.775,
+            0.531
+          ],
+          "sub_type": "text",
+          "content": "① change sb.'s mind 改变想法\n② keep sth. in mind 记住\n③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.535,
+            0.748,
+            0.551
+          ],
+          "content": "mental adj. 精神的，心理的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.554,
+            0.78,
+            0.569
+          ],
+          "content": "mindset n. 思维模式，思维方式"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.573,
+            0.925,
+            0.589
+          ],
+          "content": "mindless adj. 没头脑的；无须动脑的，不假思索的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.613,
+            0.705,
+            0.629
+          ],
+          "content": "compare /kəm'per/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.632,
+            0.649,
+            0.647
+          ],
+          "content": "vt. 比较，对比"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.654,
+            0.932,
+            0.689
+          ],
+          "content": "妙记:com-（到一起）+ par-（来自 pair 配对）+e→配成对进行比较。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.658,
+            0.695,
+            0.798,
+            0.792
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of two dogs and a white dog with decorative teapot and teapot (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_47.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.796,
+            0.627,
+            0.818
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.825,
+            0.794,
+            0.839
+          ],
+          "content": "① compare A with B 比较 A 和 B"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.843,
+            0.684,
+            0.859
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.863,
+            0.931,
+            0.898
+          ],
+          "content": "The firm has compared some of its products with Google's."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.9,
+            0.923,
+            0.917
+          ],
+          "content": "该公司将一些自家的产品与谷歌的产品进行了比较。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.832,
+            0.938,
+            0.883,
+            0.954
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.884,
+            0.937,
+            0.915,
+            0.955
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.934,
+            0.939,
+            0.958,
+            0.953
+          ],
+          "content": "57"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.029,
+            0.035,
+            0.097,
+            0.067
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.111,
+            0.043,
+            0.369,
+            0.06
+          ],
+          "content": "考研英语考研英语·一词三週"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.4,
+            0.043,
+            0.503,
+            0.059
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.089,
+            0.372,
+            0.104
+          ],
+          "content": "② compared with 作状语：和……相比"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.108,
+            0.233,
+            0.124
+          ],
+          "content": "【2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.128,
+            0.474,
+            0.162
+          ],
+          "content": "28. Compared with Castle, Taylor is more likely to support \\_\\_\\_\\_."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.164,
+            0.37,
+            0.18
+          ],
+          "content": "和卡斯特相比，泰勒更可能支持\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.183,
+            0.157,
+            0.198
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.203,
+            0.281,
+            0.218
+          ],
+          "content": "comparison n. 比较，对比"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.222,
+            0.268,
+            0.237
+          ],
+          "content": "comparative adj. 比较的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.24,
+            0.369,
+            0.256
+          ],
+          "content": "comparable adj. 可比较的；比得上的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.282,
+            0.414,
+            0.298
+          ],
+          "content": "contrast /'kɑːntræst/ (n.)/kən'traːst/ (v.)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.301,
+            0.445,
+            0.317
+          ],
+          "content": "n. 差异，对比 vt. 对比 vi. 显出差异，形成对比"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.324,
+            0.476,
+            0.359
+          ],
+          "content": "妙记：谁让他拿我做对比，看（con）我踹（tra）死（s）他（t）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.211,
+            0.365,
+            0.341,
+            0.456
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of two business professionals in suits with a red face, one running and one holding documents, in an office setting with orange furniture (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_14.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.074,
+            0.461,
+            0.176,
+            0.482
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.489,
+            0.476,
+            0.542
+          ],
+          "content": "① by contrast = in contrast = on the contrary 相反\nThe Arctic has sparse vegetation; by contrast, tropical rainforests burst with dense flora."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.546,
+            0.474,
+            0.562
+          ],
+          "content": "北极植被稀疏；相比之下，热带雨林拥有茂密的植物群。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.565,
+            0.158,
+            0.581
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.585,
+            0.304,
+            0.601
+          ],
+          "content": "contrary adj. 相反的 n. 相反"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.624,
+            0.21,
+            0.638
+          ],
+          "content": "differ /'dɪfər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.642,
+            0.239,
+            0.658
+          ],
+          "content": "vi. 不同；意见不同"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.665,
+            0.433,
+            0.681
+          ],
+          "content": "妙记:di（地）ffer（方），每个地方都有区别。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.212,
+            0.687,
+            0.343,
+            0.777
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a cityscape with modern skyscrapers, a road, and agricultural fields, no text or symbols present",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_23.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.782,
+            0.176,
+            0.804
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.81,
+            0.314,
+            0.825
+          ],
+          "content": "① A differ from B A 与 B 不同"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.829,
+            0.233,
+            0.845
+          ],
+          "content": "【2022 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.849,
+            0.476,
+            0.883
+          ],
+          "content": "Plant biology is complex and fascinating, but it differs so greatly from that of animals."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.886,
+            0.476,
+            0.921
+          ],
+          "content": "植物生物学既复杂又迷人，但它与动物生物学有着极大的不同。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.088,
+            0.806,
+            0.103
+          ],
+          "content": "② A differ with B A 与 B 意见不同"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.109,
+            0.704,
+            0.123
+          ],
+          "content": "I differ with you on this."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.127,
+            0.764,
+            0.143
+          ],
+          "content": "在这一点上，我与你意见不同。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.147,
+            0.923,
+            0.203
+          ],
+          "content": "③ differentiate between A and B ≈ differentiate A from B\n区分 A 和 B（注意：前者强调两个或多个事物间进行区分，后者强调与 from 后的对象间的差异性。）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.207,
+            0.924,
+            0.261
+          ],
+          "content": "In the grammar section, students must differentiate between the present perfect and the past perfect tense to avoid errors."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.265,
+            0.924,
+            0.301
+          ],
+          "content": "在语法部分，学生必须区分现在完成时和过去完成时以避免错误。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.306,
+            0.61,
+            0.321
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.325,
+            0.763,
+            0.341
+          ],
+          "content": "different adj. 差异的，不同的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.345,
+            0.78,
+            0.36
+          ],
+          "content": "difference n. 差别，差异; 分歧"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.365,
+            0.824,
+            0.38
+          ],
+          "content": "differentiate v. 区分，区别，(使) 不同"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.408,
+            0.677,
+            0.424
+          ],
+          "content": "prefer /prɪˈfɜːr/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.427,
+            0.668,
+            0.442
+          ],
+          "content": "vt. 更喜欢，偏爱"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.453,
+            0.924,
+            0.488
+          ],
+          "content": "妙记:pre-（前）+ fer-（拿）→拿到前面来先做的事，通常都是更喜欢、更加偏爱的事。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.499,
+            0.629,
+            0.52
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.527,
+            0.527,
+            0.922,
+            0.661
+          ],
+          "sub_type": "text",
+          "content": "① prefer sth. 更喜欢某物\n② prefer A to B 喜欢 A 多于 B\n③ prefer doing A to doing B 比起做 B 更喜欢做 A\n④ prefer to do sth. 更喜欢做某事\n⑤ prefer to do A rather than do B 宁愿做 A 也不愿做 B\n总结:prefer 后紧跟的是更喜欢的\n⑥派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.666,
+            0.726,
+            0.682
+          ],
+          "content": "preference n. 偏爱，偏好"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.686,
+            0.875,
+            0.702
+          ],
+          "content": "preferable adj. 更喜欢的，更好的，更可取的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.729,
+            0.708,
+            0.745
+          ],
+          "content": "analogy /ə'nælədʒi/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.747,
+            0.693,
+            0.763
+          ],
+          "content": "n. 类似，相似，类比"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.773,
+            0.924,
+            0.809
+          ],
+          "content": "妙记:ana-（a 和 a）+ -logy（逻辑）→ a 和 a 的逻辑 → 相似、类似。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.658,
+            0.815,
+            0.803,
+            0.915
+          ],
+          "sub_type": "natural_image",
+          "content": "Abstract digital artwork featuring large metallic letters 'AA' with glowing effects, set against a warm-toned background (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_55.jpg"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.048,
+            0.94,
+            0.073,
+            0.955
+          ],
+          "content": "58"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.091,
+            0.938,
+            0.12,
+            0.956
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.123,
+            0.94,
+            0.174,
+            0.954
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.862,
+            0.026,
+            0.97,
+            0.062
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.085,
+            0.173,
+            0.105
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.112,
+            0.308,
+            0.126
+          ],
+          "content": "① be analogous to 与……相似"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.13,
+            0.229,
+            0.145
+          ],
+          "content": "【2022 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.15,
+            0.478,
+            0.221
+          ],
+          "content": "Beginning in 2006, some scientists have argued that plants possess neuron-like cells that interact with hormones and neurotransmitters, forming a plant nervous system, analogous to that in animals."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.224,
+            0.477,
+            0.28
+          ],
+          "content": "从 2006 年开始，一些科学家就争论说，植物有类似神经元的细胞，这些细胞与激素和神经递质相互作用，形成一个类似动物神经系统的植物神经系统。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.283,
+            0.15,
+            0.298
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.302,
+            0.315,
+            0.318
+          ],
+          "content": "analogous adj. 相似的，类似的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.338,
+            0.206,
+            0.353
+          ],
+          "content": "apart /əˈpaːrt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.356,
+            0.2,
+            0.371
+          ],
+          "content": "adv. 分开，分离"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.378,
+            0.476,
+            0.413
+          ],
+          "content": "妙记:a- = ab-（离开）+ part（一部分）→离开的一部分→分离、分开。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.069,
+            0.42,
+            0.168,
+            0.44
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.448,
+            0.253,
+            0.463
+          ],
+          "content": "apart from 从……分离"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.466,
+            0.225,
+            0.482
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.486,
+            0.475,
+            0.519
+          ],
+          "content": "Our legal system was designed to set law apart from politics."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.522,
+            0.35,
+            0.538
+          ],
+          "content": "我们的法律体系被设计成政法分离。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.558,
+            0.273,
+            0.573
+          ],
+          "content": "distinction /dɪˈstɪŋkʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.577,
+            0.288,
+            0.592
+          ],
+          "content": "n. 区别，差异；卓越，荣誉"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.599,
+            0.474,
+            0.635
+          ],
+          "content": "妙记:dis-（分）+ stinct-（= sting 刺）→ 分别刺上记号→ 区分两者的不同。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.212,
+            0.641,
+            0.329,
+            0.721
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_19.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.069,
+            0.726,
+            0.168,
+            0.747
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.755,
+            0.148,
+            0.77
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.774,
+            0.297,
+            0.789
+          ],
+          "content": "distinct adj. 不同的；明显的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.793,
+            0.351,
+            0.809
+          ],
+          "content": "distinctive adj. 与众不同的，独特的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.812,
+            0.381,
+            0.828
+          ],
+          "content": "distinguish vt. 区别，辨别; 使脱颖而出"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.832,
+            0.335,
+            0.848
+          ],
+          "content": "distinguished adj. 著名的，卓越的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.851,
+            0.165,
+            0.866
+          ],
+          "content": "②翻译常考："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.871,
+            0.278,
+            0.886
+          ],
+          "content": "distinctly adv. 显然；非常"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.89,
+            0.183,
+            0.905
+          ],
+          "content": "【2003 年翻译】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.909,
+            0.471,
+            0.925
+          ],
+          "content": "distinctly important social science 非常重要的社会科学"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.083,
+            0.735,
+            0.098
+          ],
+          "content": "③区分 distinct&distinctive"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.101,
+            0.934,
+            0.136
+          ],
+          "content": "distinct 表示 A 与 B 不同；distinctive 表示某物与其他东西都不同，即与众不同的、独特的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.139,
+            0.932,
+            0.174
+          ],
+          "content": "④ distinguish 可以表示“使脱颖而出”，即某人由于能力、才华等因素而显得与众不同。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.178,
+            0.689,
+            0.193
+          ],
+          "level": 2,
+          "content": "【2024 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.197,
+            0.937,
+            0.251
+          ],
+          "content": "Distinguishing yourself in one focused type of extracurricular activity can be a positive in the admissions process."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.253,
+            0.934,
+            0.289
+          ],
+          "content": "在一项专注的课外活动中脱颖而出，在录取过程中可能是一个积极的因素。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.309,
+            0.699,
+            0.323
+          ],
+          "content": "diverse /daɪˈvɜːrs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.328,
+            0.696,
+            0.343
+          ],
+          "content": "adj. 不同的，多样的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.349,
+            0.936,
+            0.404
+          ],
+          "content": "妙记:di- = dis-（分开）+ ver-（转）+se → 分开运转 → 游乐园设施多样（diverse），每一项都可以分开运转。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.669,
+            0.41,
+            0.795,
+            0.497
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a desert scene with a Ferris wheel, a camel, and a small boat (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_39.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.506,
+            0.63,
+            0.527
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.534,
+            0.738,
+            0.549
+          ],
+          "content": "① biodiversity 生物多样性"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.553,
+            0.9,
+            0.569
+          ],
+          "content": "Protecting biodiversity ensures ecosystem stability."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.572,
+            0.808,
+            0.587
+          ],
+          "content": "保护生物多样性保障生态系统稳定。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.591,
+            0.854,
+            0.607
+          ],
+          "content": "② cultural diversity 文化差异，文化多样性"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.526,
+            0.61,
+            0.731,
+            0.626
+          ],
+          "level": 2,
+          "content": "【2012 年英语（一）翻译】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.63,
+            0.934,
+            0.665
+          ],
+          "content": "Cultural diversity could also be traced to more\nconstrained beginnings."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.668,
+            0.825,
+            0.683
+          ],
+          "content": "文化差异也可以追踪到更有限的开端。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.687,
+            0.609,
+            0.703
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.706,
+            0.788,
+            0.722
+          ],
+          "content": "diversity n. 差异，不同; 多样化"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.725,
+            0.822,
+            0.742
+          ],
+          "content": "diversify v. (使) 不同; (使) 多样化"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.763,
+            0.635,
+            0.776
+          ],
+          "content": "sort /sɔːrt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.78,
+            0.752,
+            0.796
+          ],
+          "content": "n. 种类，类别 v. 分类，整理"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.806,
+            0.932,
+            0.823
+          ],
+          "content": "妙记：sort(整理) 物品需要按 sort(种类)sort(分类)。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.665,
+            0.828,
+            0.793,
+            0.917
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior view of a laboratory or workshop with shelves stocked with tools and containers (no visible text or labels)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_54.jpg"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.833,
+            0.936,
+            0.884,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.886,
+            0.936,
+            0.916,
+            0.952
+          ],
+          "content": "[NO TEXT]"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.936,
+            0.938,
+            0.96,
+            0.951
+          ],
+          "content": "59"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.048,
+            0.034,
+            0.114,
+            0.066
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.127,
+            0.043,
+            0.375,
+            0.06
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.407,
+            0.043,
+            0.505,
+            0.06
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.095,
+            0.09,
+            0.191,
+            0.111
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.117,
+            0.27,
+            0.132
+          ],
+          "content": "① a sort of 一种，一类"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.136,
+            0.245,
+            0.152
+          ],
+          "content": "【2020 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.156,
+            0.478,
+            0.19
+          ],
+          "content": "Fortunately, there's another sort of parent that's a bit easier to describe: a patient parent."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.193,
+            0.478,
+            0.227
+          ],
+          "content": "幸运的是，还有一种类型的家长更容易描述：有耐心的家长。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.231,
+            0.283,
+            0.246
+          ],
+          "content": "② sort 可作动词表示分类"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.25,
+            0.243,
+            0.266
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.269,
+            0.478,
+            0.303
+          ],
+          "content": "The only “sorting mechanism” in society should be profit and the market."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.307,
+            0.428,
+            0.323
+          ],
+          "content": "社会唯一的“分类机制”应该是利润和市场。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.326,
+            0.266,
+            0.341
+          ],
+          "content": "③ sort out 理顺，厘清"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.345,
+            0.243,
+            0.36
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.365,
+            0.478,
+            0.399
+          ],
+          "content": "The justices must sort out how the Fourth Amendment applies to digital information now."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.401,
+            0.477,
+            0.436
+          ],
+          "content": "现在，大法官们必须厘清《第四修正案》如何适用于数字信息。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.464,
+            0.221,
+            0.478
+          ],
+          "content": "even /'i:v(ə)n/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.482,
+            0.471,
+            0.498
+          ],
+          "content": "adv. 甚至，更 adj. 平的; 平缓的; 公平的; 均衡的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.504,
+            0.369,
+            0.52
+          ],
+          "content": "妙记:“e”vs“e”，核心意思是平。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.214,
+            0.526,
+            0.355,
+            0.626
+          ],
+          "sub_type": "natural_image",
+          "content": "Monochrome image of a balance scale with 'e' symbols on both arms (no text or numbers beyond basic markings)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_19.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.091,
+            0.632,
+            0.187,
+            0.652
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.659,
+            0.267,
+            0.674
+          ],
+          "content": "①【2021 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.679,
+            0.477,
+            0.713
+          ],
+          "content": "Simply talking in an even tone helps calm the other person down."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.716,
+            0.472,
+            0.732
+          ],
+          "content": "仅仅是以平缓的语调交谈，就能帮助对方平静下来。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.736,
+            0.17,
+            0.751
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.755,
+            0.473,
+            0.789
+          ],
+          "content": "uneven adj. 不平的；不平缓的；不公平的；不均衡的\n【2024 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.794,
+            0.442,
+            0.828
+          ],
+          "content": "the uneven distribution of AI technology in the US\n美国人工智能技术的不均衡分布"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.855,
+            0.199,
+            0.871
+          ],
+          "content": "just /dʒʌst/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.874,
+            0.463,
+            0.89
+          ],
+          "content": "adv. 正好，恰恰，刚刚，仅仅 adj. 公正的，公平的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.896,
+            0.424,
+            0.912
+          ],
+          "content": "妙记：法官的判决 just（刚好）just（公正）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.09,
+            0.623,
+            0.11
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.116,
+            0.902,
+            0.15
+          ],
+          "content": "① not just 不仅；not just but (also) ..，不仅……且……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.153,
+            0.678,
+            0.17
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.174,
+            0.918,
+            0.207
+          ],
+          "content": "Deep reading requires not just time, but a special kind of time."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.21,
+            0.901,
+            0.227
+          ],
+          "content": "深度阅读需要的不仅是时间，而且是一种特别的时间。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.23,
+            0.64,
+            0.246
+          ],
+          "content": "②常考派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.249,
+            0.688,
+            0.266
+          ],
+          "content": "unjust adj. 不公正的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.269,
+            0.747,
+            0.284
+          ],
+          "content": "justice n. 公正；司法；法官"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.288,
+            0.675,
+            0.303
+          ],
+          "content": "injustice n. 不公正"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.326,
+            0.687,
+            0.342
+          ],
+          "content": "justify /'dʒʌstɪfaɪ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.344,
+            0.799,
+            0.36
+          ],
+          "content": "vt. 证明……是正当的，为……辩护"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.366,
+            0.904,
+            0.421
+          ],
+          "content": "妙记:just-（正）+ -ify（……化），该单词表示使某种行为“正当化”，即证明这种行为是正当的，或者为这种行为辩护。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.431,
+            0.625,
+            0.452
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.458,
+            0.901,
+            0.513
+          ],
+          "content": "① justify doing sth. 证明了……的必要性 / 合理性\nHow can we justify spending so much money on arms?\n我们怎么能证明在武器上花这么多钱是正当的呢？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.516,
+            0.607,
+            0.531
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.535,
+            0.813,
+            0.551
+          ],
+          "content": "justification n. 正当化事由，正当理由"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.574,
+            0.656,
+            0.59
+          ],
+          "content": "judge /dʒʌdʒ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.592,
+            0.874,
+            0.608
+          ],
+          "content": "n. 法官；裁判员 vt. 审判；裁判；评判，判断"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.615,
+            0.901,
+            0.669
+          ],
+          "content": "妙记:jud-与 just-同源，表示“正”，所谓法官或裁判，就是主持公正的人；而主持公正的过程，叫作“审判”或“裁判”。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.645,
+            0.674,
+            0.799,
+            0.784
+          ],
+          "sub_type": "natural_image",
+          "content": "Man in suit holding a balance scale in a dimly lit room (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_49.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.789,
+            0.625,
+            0.81
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.817,
+            0.843,
+            0.833
+          ],
+          "content": "① judge sb./sth. on/by... 根据……判断……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.837,
+            0.803,
+            0.853
+          ],
+          "content": "\\- judge on 侧重依据具体内容或表现"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.856,
+            0.859,
+            0.872
+          ],
+          "content": "He was judged on his performance in the exam."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.876,
+            0.59,
+            0.891
+          ],
+          "content": "judge by"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.894,
+            0.875,
+            0.911
+          ],
+          "content": "\\- judge by 侧重依据外部特征（如外表、声音）"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.063,
+            0.936,
+            0.09,
+            0.95
+          ],
+          "content": "60"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.105,
+            0.935,
+            0.133,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.136,
+            0.936,
+            0.185,
+            0.951
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.868,
+            0.023,
+            0.98,
+            0.06
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.081,
+            0.356,
+            0.096
+          ],
+          "content": "Don't judge people by their appearance."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.057,
+            0.099,
+            0.467,
+            0.131
+          ],
+          "content": "② judge by/from... 根据……来判断 通常用于被动语态或现在分词独立结构"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.137,
+            0.469,
+            0.17
+          ],
+          "content": "Judging from his accent, he must be from the northern part of China."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.174,
+            0.391,
+            0.188
+          ],
+          "content": "根据他的口音判断，他应该来自中国北方。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.194,
+            0.122,
+            0.206
+          ],
+          "content": "③谚语："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.057,
+            0.213,
+            0.294,
+            0.226
+          ],
+          "content": "Don't judge a book by its cover."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.232,
+            0.158,
+            0.245
+          ],
+          "content": "勿以貌取人。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.057,
+            0.251,
+            0.139,
+            0.264
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.269,
+            0.461,
+            0.284
+          ],
+          "content": "judgment (judgement) n. 审判；裁判；评判，判断"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.312,
+            0.282,
+            0.346
+          ],
+          "content": "democracy /dɪˈmaːkrəsi/\nn. 民主"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.358,
+            0.468,
+            0.392
+          ],
+          "content": "妙记:dem-（人民）+o+crac-（统治）+-y→人民的统治→民主。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.058,
+            0.403,
+            0.159,
+            0.424
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.431,
+            0.286,
+            0.444
+          ],
+          "content": "① Democrat 美国的民主党人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.45,
+            0.216,
+            0.463
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.47,
+            0.468,
+            0.502
+          ],
+          "content": "In 2010, leading congressional Democrats and\nRepublicans sent letters to the AAAS."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.508,
+            0.468,
+            0.541
+          ],
+          "content": "2010 年，国会中主要的民主党人和共和党人向美国艺术和科学研究院（AAAS）发去了信函。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.547,
+            0.396,
+            0.56
+          ],
+          "content": "② the Liberal Democrats 英国的自由民主党"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.566,
+            0.216,
+            0.579
+          ],
+          "content": "【2016 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.586,
+            0.446,
+            0.618
+          ],
+          "content": "The Liberal Democrats are losing political influence.\n自由民主党正在失去政治影响力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.057,
+            0.624,
+            0.139,
+            0.637
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.644,
+            0.245,
+            0.656
+          ],
+          "content": "democratic adj. 民主的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.663,
+            0.347,
+            0.676
+          ],
+          "content": "democrat n. 民主主义者；民主党人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.706,
+            0.339,
+            0.74
+          ],
+          "content": "will /wɪl/\naux.v. 将，会 n. 意愿，愿望; 遗嘱"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.752,
+            0.468,
+            0.786
+          ],
+          "content": "妙记：他 will（将）在 will（遗嘱）里写下对未来的 will（愿望）。核心：表示将来。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.082,
+            0.629,
+            0.102
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.521,
+            0.109,
+            0.941,
+            0.16
+          ],
+          "sub_type": "text",
+          "content": "① be willing to do 愿意做某事，想做某事。\n② will 作名词可特指“遗嘱”，即去世的人留下的“意愿、愿望”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.185,
+            0.738,
+            0.218
+          ],
+          "content": "integrity /m'tegrati/\nn. 完整，完好；诚实正直"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.226,
+            0.943,
+            0.26
+          ],
+          "content": "妙记:inte-（里面）+grity（≈great）心里面极好的\n人才是完整的人，这类人也是诚实正直的人。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.271,
+            0.629,
+            0.291
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.299,
+            0.943,
+            0.331
+          ],
+          "content": "① integrate A into B 表示将 A 整合进 B, 可以替换 incorporate A into B (将 A 并入 B)。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.338,
+            0.944,
+            0.37
+          ],
+          "content": "The new policy integrates/incorporates environmental protection into economic development."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.376,
+            0.87,
+            0.389
+          ],
+          "content": "新政策将环境保护理念融入经济发展之中。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.395,
+            0.608,
+            0.408
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.415,
+            0.925,
+            0.447
+          ],
+          "content": "integrate v. (使) 完整，(使) 成为一体，(使) 合并\nintegral adj. 完整的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.454,
+            0.822,
+            0.467
+          ],
+          "content": "intact adj. 未被接触的；完整无缺的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.492,
+            0.768,
+            0.526
+          ],
+          "content": "liberal /'libərəl/\nadj. 自由的；文科（教育）的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.535,
+            0.917,
+            0.549
+          ],
+          "content": "妙记：李（li）白（beral）诗歌的风格是自由的。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.652,
+            0.557,
+            0.812,
+            0.664
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a person riding a white horse in a grassy field with butterflies and a blue sky in the background (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_body_40.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.669,
+            0.627,
+            0.69
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.697,
+            0.607,
+            0.71
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.716,
+            0.646,
+            0.729
+          ],
+          "content": "liberty n. 自由"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.735,
+            0.73,
+            0.748
+          ],
+          "content": "liberate vt. 使自由，解放"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.754,
+            0.758,
+            0.767
+          ],
+          "content": "② liberal 可以表示“文科的”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.774,
+            0.831,
+            0.787
+          ],
+          "content": "liberal education 文科教育 / 通识教育"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.793,
+            0.939,
+            0.806
+          ],
+          "content": "③ the Liberal Democrats 自由民主党。英国四大政党之一"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.84,
+            0.935,
+            0.894,
+            0.951
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.897,
+            0.935,
+            0.927,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.947,
+            0.937,
+            0.97,
+            0.95
+          ],
+          "content": "61"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.038,
+            0.03,
+            0.504,
+            0.063
+          ],
+          "content": "高频词表"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.084,
+            0.227,
+            0.105
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.119,
+            0.176,
+            0.135
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.145,
+            0.752,
+            0.161
+          ],
+          "content": "1. Children as young as 14 months can differentiate \\_\\_\\_\\_ a credible person and a dishonest one."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.108,
+            0.164,
+            0.202,
+            0.178
+          ],
+          "content": "A. between"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.334,
+            0.165,
+            0.411,
+            0.178
+          ],
+          "content": "B. within"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.165,
+            0.621,
+            0.178
+          ],
+          "content": "C. toward"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.777,
+            0.165,
+            0.842,
+            0.177
+          ],
+          "content": "D. over"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.189,
+            0.916,
+            0.222
+          ],
+          "content": "2. Dr Annie Swanepoel, a child psychiatrist, believes that there are ways to incorporate alloparenting into western life. In Germany, one scheme..."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.105,
+            0.227,
+            0.503,
+            0.242
+          ],
+          "content": "The scheme in Germany is mentioned to illustrate \\_\\_\\_\\_."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.107,
+            0.246,
+            0.565,
+            0.319
+          ],
+          "sub_type": "text",
+          "content": "A. an attempt to facilitate intergenerational communication\nB. an approach to integrating alloparenting into western society\nC. the conventional parenting style in western culture\nD. the differences between western and African ways of living"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.328,
+            0.729,
+            0.343
+          ],
+          "content": "3. By contrast, his brother is outgoing. The phrase \"By contrast\" can be replaced by \\_\\_\\_\\_."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.108,
+            0.347,
+            0.25,
+            0.362
+          ],
+          "content": "A. Compared with"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.333,
+            0.347,
+            0.441,
+            0.361
+          ],
+          "content": "B. In contrast"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.347,
+            0.657,
+            0.361
+          ],
+          "content": "C. Differ from"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.783,
+            0.346,
+            0.877,
+            0.359
+          ],
+          "content": "D. Prefer to"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.372,
+            0.631,
+            0.387
+          ],
+          "content": "4. Which word fits: \"The bird has a \\_\\_\\_\\_ red beak, unlike other species.\""
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.108,
+            0.391,
+            0.193,
+            0.405
+          ],
+          "content": "A. distinct"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.333,
+            0.392,
+            0.43,
+            0.406
+          ],
+          "content": "B. distinctly"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.391,
+            0.649,
+            0.405
+          ],
+          "content": "C. distinction"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.784,
+            0.39,
+            0.889,
+            0.404
+          ],
+          "content": "D. distinctive"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.417,
+            0.175,
+            0.433
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.081,
+            0.442,
+            0.909,
+            0.604
+          ],
+          "sub_type": "text",
+          "content": "1. Americans are \\_\\_\\_\\_ to tolerate time-consuming security protocols in return for increased safety. (will)\n2. \\_\\_\\_\\_ intended to check the power of the Administration. (just)\n3. The anthropologist spent months trying to sort \\_\\_\\_\\_ the complex kinship systems among the indigenous peoples, which required both linguistic expertise and cultural sensitivity.\n4. The \\_\\_\\_\\_ (compare) analysis shows that Method A is 30% faster than Method B.\n5. She prefers \\_\\_\\_\\_ (read) novels to \\_\\_\\_\\_ (watch) movies.\n6. \\_\\_\\_\\_ (compare) with traditional methods, AI is more efficient."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.613,
+            0.174,
+            0.63
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.083,
+            0.641,
+            0.153,
+            0.656
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.081,
+            0.667,
+            0.918,
+            0.816
+          ],
+          "sub_type": "text",
+          "content": "1. The study focuses on the migration patterns of ancient peoples in Europe.\n2. The structure of an atom is analogous to a miniature solar system."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.083,
+            0.826,
+            0.153,
+            0.842
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.851,
+            0.92,
+            0.887
+          ],
+          "content": "1. Regrettably, however, the report's failure to address the true nature of the crisis facing [liberal education] may cause more harm than good."
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.057,
+            0.936,
+            0.083,
+            0.95
+          ],
+          "content": "62"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.097,
+            0.935,
+            0.123,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.127,
+            0.937,
+            0.176,
+            0.95
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.856,
+            0.027,
+            0.962,
+            0.063
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.083,
+            0.418,
+            0.097
+          ],
+          "content": "2. He spoke in a trembling,[uneven] voice."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.133,
+            0.625,
+            0.148
+          ],
+          "content": "3. Protecting [biodiversity] is crucial for maintaining balanced ecosystems."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.448,
+            0.23,
+            0.548,
+            0.251
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.062,
+            0.272,
+            0.16,
+            0.289
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.064,
+            0.305,
+            0.111,
+            0.318
+          ],
+          "level": 2,
+          "content": "1. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.062,
+            0.322,
+            0.123,
+            0.337
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.34,
+            0.47,
+            0.374
+          ],
+          "content": "句意：小至 14 个月大的孩子就能\\_\\_\\_\\_可信的人和不诚实的人。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.377,
+            0.472,
+            0.486
+          ],
+          "content": "考点：固定搭配。动词“differentiate”表示“区分，区别”时，其后接区别的两个对象，常用固定搭配为“differentiate between A and B”或“differentiate A from B”。本题中出现了“A and B”的结构（a credible person and a dishonest one），因此介词选择“between”。其他介词均无此用法。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.062,
+            0.502,
+            0.111,
+            0.516
+          ],
+          "level": 2,
+          "content": "2. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.062,
+            0.52,
+            0.123,
+            0.535
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.538,
+            0.47,
+            0.629
+          ],
+          "content": "句意：安妮·斯瓦内普尔博士是一位儿童精神科医生，她认为可以通过一些方式将异亲养育理念融入西方社会生活。在德国，就有一个这样的方案……文中提到德国的这一方案是为了作个例证说明\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.631,
+            0.47,
+            0.778
+          ],
+          "content": "考点：阅读理解之例证题。解题关键在于理解例子（德国的项目）所支持的观点。例子前的主旨句提及“异亲养育”，由此可见，德国的项目正是用来具体例证和说明这个主旨的。B. 选项是主旨句的同义转述。A. 选项“促进代际沟通的尝试”是项目可能的具体方式，但不是作者提及它的根本目的。C. “传统育儿方式”和 D. “东西方生活差异”均与主旨无关。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.062,
+            0.793,
+            0.108,
+            0.807
+          ],
+          "level": 2,
+          "content": "3. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.06,
+            0.811,
+            0.12,
+            0.826
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.829,
+            0.469,
+            0.864
+          ],
+          "content": "句意：相比之下，他的兄弟却很外向。“相比之下”这个短语可以用以下方式替换\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.866,
+            0.469,
+            0.919
+          ],
+          "content": "考点：逻辑连接词的同义替换。“By contrast”是表示对比关系的过渡词，意为“相比之下”，其同义短语为“In contrast”。A. “Compared with”需接比"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.273,
+            0.929,
+            0.345
+          ],
+          "continues_prev": true,
+          "content": "较对象，如“Compared with him, his brother...”。C. “Differ from”是动词短语，意为“与……不同”，不能作状语。D. “Prefer to”意为“更喜欢”，与句意无关。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.361,
+            0.572,
+            0.374
+          ],
+          "level": 2,
+          "content": "4. D."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.522,
+            0.378,
+            0.583,
+            0.394
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.397,
+            0.929,
+            0.431
+          ],
+          "content": "句意：这种鸟有一个\\_\\_\\_\\_ 红色喙，以此与其他物种区分。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.434,
+            0.93,
+            0.599
+          ],
+          "content": "考点：形容词辨析与词性。空格处需要填入一个形容词来修饰名词短语“red beak”。D. distinctive 是形容词，意为“独特的，有特色的”，强调一种与众不同的特性，正符合“以此与其他物种区分”的语境。A. distinct 作形容词时意为“清晰的；确切的”，也可表示“不同的”，但更侧重于“可分辨的，不同的”，而“distinctive”更强调“有特色的”。B. distinctly 是副词，不能修饰名词。C. distinction 是名词，意为“区别”，不符合语法。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.521,
+            0.609,
+            0.619,
+            0.625
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.641,
+            0.606,
+            0.655
+          ],
+          "level": 2,
+          "content": "1. willing"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.521,
+            0.658,
+            0.583,
+            0.673
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.676,
+            0.927,
+            0.71
+          ],
+          "content": "句意：美国人\\_\\_\\_\\_为了增强安全性而忍受耗时的安全程序。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.713,
+            0.929,
+            0.804
+          ],
+          "content": "考点：词性转换与固定搭配。括号中给出的是动词“will”，但空格前有“are”，构成“be + adj. + to do”结构。因此需要将“.will”变为形容词“willing”（乐意的，愿意的）。固定搭配为“be willing to do sth.”（愿意做某事）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.521,
+            0.82,
+            0.607,
+            0.833
+          ],
+          "level": 2,
+          "content": "2. Justice"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.521,
+            0.837,
+            0.583,
+            0.852
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.855,
+            0.826,
+            0.871
+          ],
+          "content": "句意:\\_\\_\\_\\_旨在制约行政部门的权力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.873,
+            0.927,
+            0.908
+          ],
+          "content": "考点：词性转换与句子结构。括号中给出的是形容词“just”（公正的），但空格位于句首，且其后是动"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.827,
+            0.934,
+            0.912,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.932,
+            0.936,
+            0.955,
+            0.95
+          ],
+          "content": "63"
+        }
+      ]
+    },
+    {
+      "page_idx": 8,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.021,
+            0.034,
+            0.092,
+            0.066
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.108,
+            0.043,
+            0.504,
+            0.06
+          ],
+          "content": "考研英语考研英语·一词三遍 高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.09,
+            0.477,
+            0.18
+          ],
+          "continues_prev": true,
+          "content": "词“intended”，这表明空格需要填入一个名词作为句子的主语。将形容词“just”变为名词“justice”（司法），句子意思通顺，符合“三权分立”的政治常识，即司法权（Justice）对行政权（Administration）进行制衡。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.196,
+            0.128,
+            0.209
+          ],
+          "level": 2,
+          "content": "3. out"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.069,
+            0.213,
+            0.131,
+            0.228
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.232,
+            0.474,
+            0.284
+          ],
+          "content": "句意：这位人类学家花了数月时间试图\\_\\_\\_\\_土著民族中复杂的亲属关系系统，这需要语言专业知识和文化敏感性。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.288,
+            0.473,
+            0.322
+          ],
+          "content": "考点：固定搭配。动词短语“sort out”意为“整理；弄清楚；解决”，符合“理解复杂系统”的语境。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.069,
+            0.338,
+            0.199,
+            0.352
+          ],
+          "level": 2,
+          "content": "4. comparative"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.069,
+            0.354,
+            0.131,
+            0.37
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.374,
+            0.461,
+            0.389
+          ],
+          "content": "句意:\\_\\_\\_\\_ 分析表明，方法 A 比方法 B 快 30%。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.392,
+            0.474,
+            0.444
+          ],
+          "content": "考点：词性转换。空格处需要填入一个形容词来修饰名词“analysis”（分析）。将动词“compare”变为形容词“comparative”（比较的，对比的）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.069,
+            0.46,
+            0.25,
+            0.474
+          ],
+          "level": 2,
+          "content": "5. reading, watching"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.069,
+            0.476,
+            0.131,
+            0.492
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.495,
+            0.472,
+            0.511
+          ],
+          "content": "句意：与\\_\\_\\_\\_电影相比，她更喜欢\\_\\_\\_\\_小说。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.513,
+            0.474,
+            0.529
+          ],
+          "content": "考点：固定搭配与平行结构。动词“prefer”的常"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.09,
+            0.931,
+            0.162
+          ],
+          "continues_prev": true,
+          "content": "用结构为“prefer doing A to doing B”，表示“与做 B 相比，更喜欢做 A”。其中“to”是介词，故其后动词需用动名词（-ing）形式，且前后结构需保持平行（即都用动名词）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.178,
+            0.641,
+            0.193
+          ],
+          "level": 2,
+          "content": "6. Compared"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.196,
+            0.589,
+            0.211
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.214,
+            0.932,
+            0.323
+          ],
+          "content": "句意：与传统方法 \\_\\_\\_\\_，人工智能效率更高。\n考点：非谓语动词（过去分词作状语）。句子主语“AI”与动词“compare”之间是被动关系（“AI”被“与传统方法比较”），故用过去分词“Compared”引导条件状语，构成固定搭配“Compared with”（与……相比）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.334,
+            0.626,
+            0.35
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.353,
+            0.603,
+            0.367
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.527,
+            0.37,
+            0.877,
+            0.404
+          ],
+          "sub_type": "text",
+          "content": "1. 这项研究聚焦欧洲古代民族的迁徙模式。\n2. 原子的结构类似于一个微型太阳系。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.408,
+            0.603,
+            0.422
+          ],
+          "content": "单词翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.527,
+            0.425,
+            0.934,
+            0.514
+          ],
+          "sub_type": "text",
+          "content": "1. 然而，令人遗憾的是，该报告未能揭示【通识教育】所面临的危机的真正本质，这可能导致弊大于利。\n2. 他用颤抖、【不稳定的】声音说话。\n3. 保护【生物多样性】对于维持生态系统的平衡至关重要。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.04,
+            0.937,
+            0.066,
+            0.95
+          ],
+          "content": "64"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.084,
+            0.935,
+            0.114,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.116,
+            0.937,
+            0.169,
+            0.95
+          ],
+          "content": "研过过"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:12:49",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 9,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 892.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 842.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 827.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 8,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

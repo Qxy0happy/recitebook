@@ -1,0 +1,812 @@
+{
+  "list_no": 11,
+  "title": "主张与表达",
+  "association": {
+    "outline": "情节发展：古碑现世→破译真言→圣言归位",
+    "scenes": [
+      {
+        "title": "古碑现世",
+        "story": "考古学家林教授发现一块刻古碑，村长 claim（声称）这是圣物，allege（断言）碑文蕴藏神秘力量，并 inform（告知）他念出碑文能 reclaim（取回）之前被 underline/highlight（强调）的宝物。这说法 annoy（困扰）了林教授，他努力地 recall（回忆）曾在哪里见过类似的符号，其中一个符号带着明显 emphasis（强调）印记。"
+      },
+      {
+        "title": "破译真言",
+        "story": "林教授开始 interpret（解释）碑文含义。最 dominant（重要的）是准确 pronounce（发音）那个带强调的符号。回忆起之前的情景，他瞬间被 enlighten（启发），发出“钥匙”的音，碑文完整现出，他又完整地 translate（翻译）了碑文。"
+      },
+      {
+        "title": "圣言归位",
+        "story": "月圆之夜，林教授庄重 declare/proclaim/announce（宣布）:“我理解了。”他清晰地 voice（表达）出完整咒语，illustrate（阐明）了咒语的真正含义。"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "claim",
+      "ipa": "/kleɪm/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "宣称，声称"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "观点，主张"
+        }
+      ],
+      "mnemonic": "他声称（claim）去长隆（cl）是他的目标（aim）。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "搭配",
+          "label_raw": "考点点拨",
+          "body": "写作常用句型：\n\nBut despite some claims to the contrary...\n\n但尽管有一些相反的说法……\n\n【2011 年英语（一）】\n\nBut despite some claims to the contrary, laughing probably has little influence on physical fitness.\n\n但尽管有一些相反的说法，笑或许对身体健康没什么影响。"
+        }
+      ]
+    },
+    {
+      "spelling": "recall",
+      "ipa": "/rɪˈkɔːl/",
+      "senses": [
+        {
+          "pos": "v./n.",
+          "meaning_cn": "召回；取消；记起，回忆起"
+        }
+      ],
+      "mnemonic": "re-（回）+ call（说、叫、喊）→ 叫回来 → 召回。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "常考释义",
+          "label_raw": "考点点拨",
+          "body": "常考释义：回忆起\n\n【2023 年英语（二）】\n\nThe latter group made no effort to recall the information when quizzed on it later.\n\n后来在被问及相关信息时，后一组人并未努力去回忆这些内容。"
+        }
+      ]
+    },
+    {
+      "spelling": "reclaim",
+      "ipa": "/rɪˈkleɪm/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "拿回，取回"
+        }
+      ],
+      "mnemonic": "re-（再次）+ claim（声称）→一再声称别人手里的东西是自己的 →拿回、取回。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "常考释义",
+          "label_raw": "考点点拨",
+          "body": "常考释义：取回\n\nThe man proclaimed in exclamation that he aimed to reclaim the aimless claim.\n\n那个人呼喊着声明他打算索回无目标的索赔。"
+        }
+      ]
+    },
+    {
+      "spelling": "declare",
+      "ipa": "/dɪˈkler/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "宣布，宣告"
+        }
+      ],
+      "mnemonic": "de-（下）+clare-（联想 clear，清楚的）→为了让讲台下面的听众都清楚新的政策，负责人来 declare（宣告）了政策的详细情况。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "宣布\n\n【2021 年英语（一）】\n\nThe order also declared that state couldn't regulate broadband providers.\n\n该命令还宣布，各州不得监管宽带服务提供商。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "declaration n. 宣布，宣告"
+        }
+      ]
+    },
+    {
+      "spelling": "proclaim",
+      "ipa": "/prə'kleɪm/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "宣布，宣告"
+        }
+      ],
+      "mnemonic": "pro-（前）+ claim（声称）→朝着前面的人群声称→宣布、宣告。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "常考释义",
+          "label_raw": "考点点拨",
+          "body": "常考释义：宣布\n\n【2004 年】\n\nOur country's educational system is in the grips of people who “ militantly proclaim their hostility to intellect ” .\n\n我国的教育体制被掌握在一群“扬扬自得地宣扬自己对知识的敌视态度”的人的手中。"
+        }
+      ]
+    },
+    {
+      "spelling": "pronounce",
+      "ipa": "/prəˈnaʊns/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "发音；宣布，宣告"
+        }
+      ],
+      "mnemonic": "谐音“怕闹事”→宣布时怕有人来闹事。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "派生词",
+          "label_raw": "考点点拨",
+          "body": "派生词：\n\npronunciation n. 发音\n\npronouncement n. 宣布，宣告\n\n【2011 年英语（一）】\n\nSenior managers are cautious of letting vague pronouncements cloud their reputations.\n\n高级管理人员们变得小心翼翼，生怕那些含混不清的表述会损害他们的声誉。\n\npronounced adj. 明显的\n\n【2007 年】\n\nYou would find this strange phenomenon to be even more pronounced.\n\n你会发现，这一奇怪的现象变得更加明显。"
+        }
+      ]
+    },
+    {
+      "spelling": "announce",
+      "ipa": "/ə'naʊns/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "宣称，宣布"
+        }
+      ],
+      "mnemonic": "谐音“安娜是”→安娜是在广播上宣布 (announce) 大事的。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "宣布\n\n【2019 年英语（二）】\n\nIndia has just announced it will “eliminate all single-use plastic in the country”.\n\n印度刚刚宣布，将淘汰国内所有一次性塑料制品。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "announcement n. 宣称，宣布"
+        }
+      ]
+    },
+    {
+      "spelling": "voice",
+      "ipa": "/vɔɪs/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "声音; 观点，意见"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "表达、发表 (观点、意见等)"
+        }
+      ],
+      "mnemonic": "本义表示声音 → 发声 → 表达观点、发表意见。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "作动词，表示“表达情感、发表意见”。\n\n【2012 年英语（二）】\n\n22. D. have voiced their complaints about homework 表达了他们对家庭作业的抱怨\n\n【2018 年英语（一）】\n\n28. A. tend to voice their opinions in cyberspace\n倾向于在网络空间表达他们的意见"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "provide a critical voice for 提供重要声音 = 发挥重要作用\n\n【2022 年英语（一）】\n\nZoos provide a critical voice for environmental protection.\n\n动物园在环境保护方面发挥了至关重要的作用。"
+        }
+      ]
+    },
+    {
+      "spelling": "annoy",
+      "ipa": "/ə'nɔɪ/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "使恼怒；打扰；使困扰"
+        }
+      ],
+      "mnemonic": "谐音“额闹哎”→“额头被闹得发疼哎→别人打扰到我，使我困扰，感到愤怒。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "考点点拨",
+          "body": "单词表示使恼怒、使困扰，使某人恼怒或困扰，叫作\nannoy sb., 而不是 sb. annoy。\n\n【2017 年英语（一）】\n\nThe question of GDP and its usefulness has annoyed policymakers for over half a century.\n\n关于国内生产总值（GDP）及其有用性的争论已经困扰政策制定者长达半个多世纪之久。"
+        }
+      ]
+    },
+    {
+      "spelling": "allege",
+      "ipa": "/ə'ledʒ/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "断言，宣称"
+        }
+      ],
+      "mnemonic": "谐音“鹅来只” → 向服务员宣称（allege）“来只鹅”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "宣称\n\nThe two men allege that the police forced them to make false confessions.\n\n这两名男子称，警方强迫他们做虚假供述。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "allegation n. 宣称，说法\n\nalleged adj. 所谓的\n\n【2010 年英语（一）】\n\nThis suggests that the alleged “Hawthorne effect” is hard to pin down.\n\n这表明所谓的“霍桑效应”很难确定。"
+        }
+      ]
+    },
+    {
+      "spelling": "illustrate",
+      "ipa": "/'ɪləstreɪt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "说明，阐明"
+        }
+      ],
+      "mnemonic": "谐音“一路死追他”→一路追着他要说明情况。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "写作",
+          "label_raw": "",
+          "body": "illustrate 常出现在例证题的题干或选项中，写作中可用来表示图片或图表阐明了什么主题。\n\n【2024 年英语（一）】\n\n27. The scheme in Germany is mentioned to illustrate ____.\n\n德国的计划被提到是用来阐明 ____。"
+        },
+        {
+          "marker": "②",
+          "kind": "辨析",
+          "label_raw": "形近词",
+          "body": "illuminate vt. 照亮；阐明"
+        }
+      ]
+    },
+    {
+      "spelling": "enlighten",
+      "ipa": "/m'laɪtn/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "照亮；阐明；启发"
+        }
+      ],
+      "mnemonic": "en-（使）+ light（光）→ 使有光 → 照亮 → 阐明；为一个人阐明道理，就是启发这个人。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "启发\n\nIf you know what is wrong with my plan, please enlighten me.\n\n如果你知道我的计划出了什么问题，请指教。"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "近义短语",
+          "body": "shed light on 使光照到……上 = 照亮；阐明；启发"
+        }
+      ]
+    },
+    {
+      "spelling": "inform",
+      "ipa": "/ɪnˈfɔːm/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "通知，告知"
+        }
+      ],
+      "mnemonic": "把心里（in）的想法，用什么形式（form）告诉别人？当然是用通知（inform）的形式。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "inform sb. about/of sth. 将某事通知、告知某人\n\n【2020 年英语（一）小作文导语】\n\n...to inform the international students of an upcoming singing contest.\n\n……通知国际留学生即将举办的歌咏比赛。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "information n. 消息，信息，情报，资讯\n\ninformed adj. 被告知的；见多识广的\n\n【2018 年英语（一）】\n\nThere are lessons about informed patient consent to learn.\n\n有一些关于患者知情同意的经验教训值得我们学习。\n\n【2010 年英语（一）】\n\nInfluentials, who are unusually informed.\n\n“有影响力的人”，往往见多识广。"
+        }
+      ]
+    },
+    {
+      "spelling": "highlight",
+      "ipa": "/'haɪlaɪt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "突出，强调"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "最精彩的部分"
+        }
+      ],
+      "mnemonic": "high(高)+light(光)→高光→打上高光， 就是为了突出或强调。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "辨析",
+          "label_raw": "考点点拨",
+          "body": "近义词辨析:emphasize & highlight\n\n- emphasize 通常用于强调本就具有重要性的东西;\n- highlight 与 emphasize 意思相近，但可以用于强调不常被人关注的东西。\n\n【2017 年英语（一）】\n\n21. B. highlight the necessity of upgrading major U.S. airports\n\n强调升级美国各大机场的必要性"
+        }
+      ]
+    },
+    {
+      "spelling": "underline",
+      "ipa": "/ˌʌndərˈlaɪn/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "在……下划线；强调"
+        }
+      ],
+      "mnemonic": "under（在……下面）+ line（线）→ 在某些词句下面划线，就是要“强调”这些词句。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "在……下划线\n\n【英语（一）翻译导语（Directions）】\n\nTranslate the underlined segments into Chinese.\n\n将下划线的部分翻译成中文。"
+        },
+        {
+          "marker": "②",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "强调\n\n【2018 年英语（二）】\n\nPresident Trump has underlined fossil fuels — especially coal — as the path to economic growth.\n\n特朗普总统强调，化石燃料——尤其是煤炭——是实现经济增长之路。"
+        }
+      ]
+    },
+    {
+      "spelling": "emphasis",
+      "ipa": "/'emfəsɪs/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "强调；重视"
+        }
+      ],
+      "mnemonic": "谐音“俺发誓” → 俺发誓这个真的是重点，需要强调重视！",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "put emphasis on 强调某事；重视某事\n\n【2018 年英语（一）】\n\nEducation in the age of automation should put more emphasis on creative potential.\n\n自动化时代的教育应更强调创造潜能。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "emphasize vt. 强调；重视；使突出"
+        }
+      ]
+    },
+    {
+      "spelling": "interpret",
+      "ipa": "/ɪnˈtɜːrprət/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "翻译；解释"
+        }
+      ],
+      "mnemonic": "谐音“音特普瑞特” → 她对音乐特别喜爱，",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词可以表示“解释”，其实翻译就是解释，只是换用另一种语言来解释某人说的话。\n\n【英语（一）大作文导语】\n\ninterpret its intended meaning\n\n解释一下它想要表达的含义"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "interpretation n. 翻译；解释\n\nreinterpret v. 重新解释\n\nreinterpretation n. 重新解释\n\n【2015 年英语（一）】\n\nNew technology requires reinterpretation of the Constitution.\n\n新的技术要求对宪法进行重新解释。\n\nmisinterpret v. 误解、错误解释\n\nmisinterpretation n. 误解，曲解\n\n【2018 年英语（一）】\n\nThe problem of fake news lies in “misinterpretation or exaggeration of actual news” via social media.\n\n假新闻的问题在于通过社交媒体对实际的新闻进行“曲解或夸大”。"
+        }
+      ]
+    },
+    {
+      "spelling": "translate",
+      "ipa": "/træns'leit/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "翻译；(使) 转变"
+        }
+      ],
+      "mnemonic": "翻译 (translate) 是使语言种类转变 (translate)。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词可以表示“(使) 转变”，其实，翻译就是将一种语言“转变”成另一种语言。\n\n【2017 年英语（一）】\n\nEconomic growth is translated into meaningful improvements for its citizens.\n\n经济增长转变为对本国公民有意义的改善。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "translation n. 翻译；转变"
+        }
+      ]
+    },
+    {
+      "spelling": "dominant",
+      "ipa": "/'da:mmənt/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "占统治地位的，占优势的，最重要的"
+        }
+      ],
+      "mnemonic": "do（做）+min（最少的）+-ant（形容词后缀）→做最少事的人是占主导地位的（dominant）。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "派生词",
+          "label_raw": "考点点拨",
+          "body": "派生词：\n\ndominate vt. 统治，支配，主导\n\npredominant adj. 占统治地位的，占优势的，最重要的"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L11-01",
+      "kind": "single",
+      "stem": "A recent annual study of countries and their ability to convert growth into well-being sheds some light on that question. Which of the following is true about the recent annual study?",
+      "options": [
+        "It is sponsored by 163 countries.",
+        "It excludes GDP as an indicator.",
+        "Its criteria are questionable.",
+        "Its results are enlightening."
+      ],
+      "answer": 3,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "enlighten",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L11-02",
+      "kind": "single",
+      "stem": "In effect, the White House ____ that it could invalidate any otherwise legitimate state law that it disagrees with.",
+      "options": [
+        "annoyed",
+        "claimed",
+        "recalled",
+        "included"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "claim",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L11-03",
+      "kind": "single",
+      "stem": "India has just ____ it will “eliminate all single-use plastic in the country by 2022”.",
+      "options": [
+        "announced",
+        "translated",
+        "rewarded",
+        "benefited"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "announce",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L11-04",
+      "kind": "single",
+      "stem": "The challenge of coping with automation ____ the need for the U.S. to revive its fading business dynamism: Starting new companies must be made easier.",
+      "options": [
+        "emphasis",
+        "voices",
+        "underlines",
+        "annoys"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "underline",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L11-05",
+      "kind": "single",
+      "stem": "Passionate consumers will ____ their opinions in quicker, more visible, and much more damaging ways.",
+      "options": [
+        "inform",
+        "voice",
+        "pronounce",
+        "migrate"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "voice",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L11-06",
+      "kind": "single",
+      "stem": "The company plans to ____ its focus from traditional manufacturing to sustainable technology in the next five years.",
+      "options": [
+        "transfer",
+        "transform",
+        "translate",
+        "transmit"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "translate",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L11-07",
+      "kind": "fill",
+      "stem": "The question of GDP and its usefulness has ____ (annoy) policymakers for over half a century.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "annoyed"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "annoy",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L11-08",
+      "kind": "fill",
+      "stem": "Turbulent business environment also has senior managers cautious of letting vague ____ (pronounce) cloud their reputations.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "pronouncements"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "pronounce",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L11-09",
+      "kind": "fill",
+      "stem": "The functioning of the market is based on flexible trends ____ (dominant) by potential buyers.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "dominated"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "dominant",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L11-10",
+      "kind": "fill",
+      "stem": "And, as our research ____ (emphasis), tipping now seems to be more coercive, less generous and often completely dissociated from service quality.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "emphasizes"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "emphasis",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L11-11",
+      "kind": "fill",
+      "stem": "In the past couple of weeks a quarrel has ____ (illustrate) the value to advertisers of such fine-grained information.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "illustrated"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "illustrate",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L11-12",
+      "kind": "fill",
+      "stem": "Half of the participants were told the ____ (inform) would be erased, while the other half were told it would be saved.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "information"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "inform",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L11-13",
+      "kind": "fill",
+      "stem": "The report criticized the ____ (allege) benefits of the new policy, claiming they were based on flawed data.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "alleged"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "allege",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L11-14",
+      "kind": "translate_sentence",
+      "stem": "The Taylor decision also declared sex discrimination in jury selection to be unconstitutional.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "declare",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L11-15",
+      "kind": "translate_sentence",
+      "stem": "I can recall the day my grandfather died and the sadness I felt when we went to the hospital the day before.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "recall",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L11-16",
+      "kind": "translate_sentence",
+      "stem": "The idea that one might burn down an entire house just to reclaim the nails underlines how scarce, costly and valuable the simple-seeming technology was.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "reclaim",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L11-17",
+      "kind": "translate_sentence",
+      "stem": "Urban planners interpret desire paths as more than just convenient shortcuts; they offer valuable insights into the dynamics between planning and behaviour.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "interpret",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L11-18",
+      "kind": "translate_sentence",
+      "stem": "This clash highlights an ongoing struggle between the organic, user-driven evolution of public spaces and the desire for a visually curated and controlled urban environment.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "highlight",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L11-19",
+      "kind": "translate_sentence",
+      "stem": "The organization proclaimed at the international conference that its mission was to eradicate extreme poverty through innovative economic policies.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "proclaim",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

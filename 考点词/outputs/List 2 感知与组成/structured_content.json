@@ -1,0 +1,4586 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.853,
+            0.028,
+            0.953,
+            0.063
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.361,
+            0.087,
+            0.404,
+            0.118
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_1.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.413,
+            0.093,
+            0.614,
+            0.11
+          ],
+          "level": 2,
+          "content": "List 2 感知与组成"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.149,
+            0.218,
+            0.168
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.175,
+            0.502,
+            0.192
+          ],
+          "content": "情节发展：困境萌生→心境转变→认知升华→成长蜕变"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.249,
+            0.156,
+            0.264
+          ],
+          "level": 2,
+          "content": "困境萌生"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.268,
+            0.687,
+            0.303
+          ],
+          "content": "sensitive（敏感的）莉莉的想法被 perceive（察觉）有误时，总会 upset（心烦）。她感到 alone（孤独）而又 desperate（绝望），觉得处境很 absurd（荒谬）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.707,
+            0.203,
+            0.916,
+            0.347
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior scene of a person sitting at a desk with papers, viewed through a window (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_7.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.4,
+            0.156,
+            0.416
+          ],
+          "level": 2,
+          "content": "心境转变"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.42,
+            0.69,
+            0.455
+          ],
+          "content": "朋友们的 sympathy（同情）让她 aspire（渴望）变得 optimistic（乐观）。带着 curiosity（好奇），她 wonder（想知道）sentiment（情绪）的 concept（概念）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.707,
+            0.353,
+            0.917,
+            0.501
+          ],
+          "sub_type": "natural_image",
+          "content": "Three women sitting on a sofa, one holding a book, engaged in conversation (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_10.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.544,
+            0.158,
+            0.559
+          ],
+          "level": 2,
+          "content": "认知升华"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.563,
+            0.691,
+            0.618
+          ],
+          "content": "原来，正是情境中的情绪 compose（组成）了情感，而 sensible（理智的）头脑如“调节器”。她让行动与成长愿望 accord（相符），发现心脑和谐让挑战不再沉重。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.707,
+            0.506,
+            0.918,
+            0.654
+          ],
+          "sub_type": "natural_image",
+          "content": "Woman sitting at a desk with an open book, looking at the window with a tree branch in the background (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_13.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.708,
+            0.158,
+            0.723
+          ],
+          "level": 2,
+          "content": "成长蜕变"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.726,
+            0.691,
+            0.762
+          ],
+          "content": "将敏感视为礼物 consist（组成）其新人生哲学；用理性调和情绪是核心。这些转变共同 constitute（构成）指引她用温柔坚韧来驾驭复杂生活的蓝图。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.708,
+            0.659,
+            0.918,
+            0.807
+          ],
+          "sub_type": "text_image",
+          "content": "blueprint",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_16.jpg"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.83,
+            0.935,
+            0.88,
+            0.95
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.882,
+            0.935,
+            0.911,
+            0.952
+          ],
+          "content": "#"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.93,
+            0.936,
+            0.953,
+            0.95
+          ],
+          "content": "47"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.036,
+            0.032,
+            0.107,
+            0.064
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.12,
+            0.04,
+            0.374,
+            0.058
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.404,
+            0.04,
+            0.506,
+            0.057
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.085,
+            0.228,
+            0.106
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.133,
+            0.282,
+            0.147
+          ],
+          "content": "sentiment /'sentɪmənt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.152,
+            0.203,
+            0.167
+          ],
+          "content": "n. 情感；情绪"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.174,
+            0.478,
+            0.208
+          ],
+          "content": "妙记:sensi-（看作 sense 感觉）+ -ment（表示具体物）→对某物的感觉→意见，观点。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.218,
+            0.182,
+            0.239
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.246,
+            0.164,
+            0.26
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.265,
+            0.371,
+            0.28
+          ],
+          "content": "sentimental adj. 情感的；多愁善感的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.284,
+            0.18,
+            0.299
+          ],
+          "content": "②常见搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.303,
+            0.29,
+            0.318
+          ],
+          "content": "public sentiment 公众舆论"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.323,
+            0.294,
+            0.337
+          ],
+          "content": "market sentiment 市场情绪"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.341,
+            0.397,
+            0.357
+          ],
+          "content": "prevailing sentiment 主流情绪，普遍情绪"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.38,
+            0.258,
+            0.395
+          ],
+          "content": "sensitive /'sensativ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.399,
+            0.318,
+            0.415
+          ],
+          "content": "adj. 敏感的；敏锐的；灵敏的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.421,
+            0.476,
+            0.457
+          ],
+          "content": "妙记：他很敏感（sensitive），与人交谈前会（三思体悟），sensitive 谐音三思体悟。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.215,
+            0.463,
+            0.345,
+            0.554
+          ],
+          "sub_type": "natural_image",
+          "content": "Cartoon illustration of a person sitting at a desk with a nameplate reading 'sensitive' (no other text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_17.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.564,
+            0.18,
+            0.585
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.592,
+            0.161,
+            0.607
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.612,
+            0.31,
+            0.627
+          ],
+          "content": "sensitivity n. 敏感性，灵敏度"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.631,
+            0.453,
+            0.646
+          ],
+          "content": "insensitive adj. 不敏感的；不敏锐的；不灵敏的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.649,
+            0.474,
+            0.684
+          ],
+          "content": "② sensitive 既可表示某人很敏感，也可表示某事物很敏感，后者常用 be sensitive to sth."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.689,
+            0.324,
+            0.704
+          ],
+          "content": "He is highly sensitive to criticism."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.707,
+            0.231,
+            0.722
+          ],
+          "content": "他对批评非常敏感。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.746,
+            0.216,
+            0.762
+          ],
+          "content": "upset /ˌʌpˈset/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.765,
+            0.427,
+            0.781
+          ],
+          "content": "adj. 沮丧的 vt. 使沮丧，使烦恼; 推翻，弄翻"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.785,
+            0.147,
+            0.8
+          ],
+          "content": "n. 沮丧"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.807,
+            0.476,
+            0.842
+          ],
+          "content": "妙记：负面情绪不停地往上面（up）堆放（set），越堆越多，更心烦（upset）了。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.189,
+            0.848,
+            0.367,
+            0.919
+          ],
+          "sub_type": "natural_image",
+          "content": "Person walking on a path with glowing circular objects, against a soft blue background (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_29.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.131,
+            0.627,
+            0.153
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.159,
+            0.744,
+            0.175
+          ],
+          "content": "①作动词，表示使某人沮丧。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.179,
+            0.694,
+            0.194
+          ],
+          "content": "His criticism upset her."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.197,
+            0.696,
+            0.212
+          ],
+          "content": "他的批评令她很伤心。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.215,
+            0.86,
+            0.231
+          ],
+          "content": "②形容词形式，可表示身体的不适，不舒服。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.235,
+            0.722,
+            0.25
+          ],
+          "content": "upset stomach 不适的肠胃"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.254,
+            0.921,
+            0.289
+          ],
+          "content": "The patient's upset stomach made him feel emotionally upset about the upcoming surgery."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.291,
+            0.916,
+            0.307
+          ],
+          "content": "病人不适的肠胃让他对即将到来的手术感到情绪低落。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.31,
+            0.617,
+            0.326
+          ],
+          "content": "③熟词僻义"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.33,
+            0.732,
+            0.345
+          ],
+          "content": "upset v. 推翻，弄翻，颠覆"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.349,
+            0.921,
+            0.383
+          ],
+          "content": "She was so upset that she accidentally upset (v. 弄翻) the cup of coffee on the table."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.386,
+            0.903,
+            0.402
+          ],
+          "content": "她非常沮丧，以至于不小心打翻了桌上的咖啡杯。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.426,
+            0.715,
+            0.442
+          ],
+          "content": "desperate /'despərət/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.444,
+            0.918,
+            0.46
+          ],
+          "content": "adj. 绝望的；孤注一掷的，不顾一切的；极度渴望的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.467,
+            0.921,
+            0.502
+          ],
+          "content": "妙记:（desper）谐音“待撕破”，待到撕破脸皮的时候就是不顾一切的，绝望的（desperate）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.659,
+            0.508,
+            0.793,
+            0.6
+          ],
+          "sub_type": "text_image",
+          "content": "desper\nexperate",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_45.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.606,
+            0.626,
+            0.627
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.634,
+            0.607,
+            0.649
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.654,
+            0.681,
+            0.669
+          ],
+          "content": "desperation n. 绝望"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.673,
+            0.625,
+            0.688
+          ],
+          "content": "②固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.692,
+            0.81,
+            0.707
+          ],
+          "content": "be desperate for sth. 急需 / 渴望某物"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.711,
+            0.861,
+            0.727
+          ],
+          "content": "be desperate to do sth. 迫切想 / 渴望做某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.75,
+            0.712,
+            0.767
+          ],
+          "content": "sympathy /'sɪmpəθi/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.77,
+            0.646,
+            0.785
+          ],
+          "content": "n. 同情；同感"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.792,
+            0.921,
+            0.829
+          ],
+          "content": "妙记:sym 发音似 same（相同的），path（路），沦落在同一条路上的人互相同情（sympathy）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.838,
+            0.626,
+            0.859
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.866,
+            0.607,
+            0.882
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.887,
+            0.789,
+            0.903
+          ],
+          "content": "sympathetic adj. 同情的；赞同的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.907,
+            0.834,
+            0.923
+          ],
+          "content": "sympathize v. 同情，体谅; 赞同，支持"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.049,
+            0.936,
+            0.073,
+            0.95
+          ],
+          "content": "48"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.092,
+            0.935,
+            0.122,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.124,
+            0.937,
+            0.175,
+            0.951
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.858,
+            0.025,
+            0.962,
+            0.06
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.081,
+            0.235,
+            0.096
+          ],
+          "content": "compassion n. 同情"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.1,
+            0.417,
+            0.115
+          ],
+          "content": "② show/have sympathy for 对……表示同情"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.119,
+            0.358,
+            0.133
+          ],
+          "content": "We should show sympathy for her loss."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.136,
+            0.317,
+            0.151
+          ],
+          "content": "我们应当对她的损失表示同情。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.156,
+            0.473,
+            0.189
+          ],
+          "content": "③ show/have sympathy with 对……深有同感，赞同\nI have sympathy with this point of view."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.193,
+            0.208,
+            0.208
+          ],
+          "content": "我赞同这个观点。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.212,
+            0.461,
+            0.227
+          ],
+          "content": "④ sympathize with sb./sth. 同情某人 / 赞同某观点"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.251,
+            0.223,
+            0.266
+          ],
+          "content": "aspire /əˈspaɪər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.269,
+            0.144,
+            0.284
+          ],
+          "content": "vi. 渴望"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.292,
+            0.472,
+            0.327
+          ],
+          "content": "妙记:a-（表不能）spir-（表呼吸）了，不能呼吸了就 aspire（渴望）呼吸。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.338,
+            0.172,
+            0.358
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.365,
+            0.316,
+            0.38
+          ],
+          "content": "① aspire to/after sth. 追求某物"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.385,
+            0.283,
+            0.4
+          ],
+          "content": "aspire after truth 追求真理"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.404,
+            0.316,
+            0.419
+          ],
+          "content": "② aspire to do sth. 渴望做某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.424,
+            0.27,
+            0.439
+          ],
+          "content": "He aspired to study abroad."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.442,
+            0.207,
+            0.457
+          ],
+          "content": "他渴望出国留学。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.462,
+            0.18,
+            0.476
+          ],
+          "content": "③形近词区分"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.481,
+            0.386,
+            0.497
+          ],
+          "content": "inspire vt. 启发，赋予灵感; 激发，引发"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.5,
+            0.188,
+            0.516
+          ],
+          "content": "④近义词区分："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.52,
+            0.405,
+            0.536
+          ],
+          "content": "aspire 偏向崇高追求，desire 偏向普通欲望。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.559,
+            0.275,
+            0.575
+          ],
+          "content": "curiosity /ˌkjʊriˈɑːsəti/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.579,
+            0.156,
+            0.593
+          ],
+          "content": "n. 好奇心"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.601,
+            0.474,
+            0.637
+          ],
+          "content": "妙记：谐音克优瑞奥赛题，克优瑞对奥赛题特别好奇（curiosity）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.647,
+            0.171,
+            0.667
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.675,
+            0.152,
+            0.689
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.694,
+            0.465,
+            0.709
+          ],
+          "content": "curious adj. 好奇的；令人好奇的，不寻常的，奇怪的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.714,
+            0.34,
+            0.728
+          ],
+          "content": "② be curious about 对……很好奇"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.733,
+            0.343,
+            0.748
+          ],
+          "content": "③ curious 可表示不寻常的，奇怪的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.754,
+            0.392,
+            0.768
+          ],
+          "content": "Curious scientists study curious phenomena."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.771,
+            0.368,
+            0.787
+          ],
+          "content": "好奇的科学家们研究不同寻常的现象。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.811,
+            0.237,
+            0.826
+          ],
+          "content": "wonder /'wʌndər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.829,
+            0.472,
+            0.864
+          ],
+          "content": "v. 想知道，想弄明白；感到惊讶 n. 惊讶；奇迹；奇事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.873,
+            0.475,
+            0.908
+          ],
+          "content": "妙记:wonder 谐音（弯的），我想知道（wonder）\n很多自然奇迹（wonder）为什么是弯的。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.652,
+            0.082,
+            0.807,
+            0.143
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_34.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.156,
+            0.629,
+            0.176
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.183,
+            0.846,
+            0.198
+          ],
+          "content": "①常考 wonder 作名词，表示奇迹、奇事。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.202,
+            0.765,
+            0.216
+          ],
+          "content": "the wonders of the natural world"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.22,
+            0.657,
+            0.235
+          ],
+          "content": "自然世界的奇迹"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.239,
+            0.628,
+            0.254
+          ],
+          "content": "②固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.257,
+            0.923,
+            0.273
+          ],
+          "content": "do wonders for 为……创造奇迹，对……产生神奇作用"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.276,
+            0.759,
+            0.29
+          ],
+          "content": "wonder about 对……感到好奇"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.294,
+            0.783,
+            0.309
+          ],
+          "content": "it's a wonder (that) 奇怪的是……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.313,
+            0.765,
+            0.327
+          ],
+          "content": "(it's) no wonder (that) 难怪……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.331,
+            0.928,
+            0.366
+          ],
+          "content": "③ wonder 接 if/whether 引导宾语从句，表示委婉请求或不确定。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.371,
+            0.752,
+            0.386
+          ],
+          "content": "I wonder if you could help me."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.389,
+            0.701,
+            0.405
+          ],
+          "content": "我想知道你能否帮我。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.425,
+            0.663,
+            0.439
+          ],
+          "content": "alone /əˈləʊn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.443,
+            0.929,
+            0.479
+          ],
+          "content": "adj. 独自；孤独；单独；只有 adv. 独自；只有；仅仅；孤独地"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.485,
+            0.931,
+            0.521
+          ],
+          "content": "妙记:al-（all）+ one（一个）→总共只有一个人→独自、孤独。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.529,
+            0.628,
+            0.548
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.556,
+            0.61,
+            0.571
+          ],
+          "content": "①最常考："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.574,
+            0.93,
+            0.609
+          ],
+          "content": "alone 用于名词或代词后以加强语气，通常翻译成“仅仅”或“只有”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.614,
+            0.674,
+            0.628
+          ],
+          "content": "Time alone will tell."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.633,
+            0.663,
+            0.648
+          ],
+          "content": "只有时间能证明。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.652,
+            0.701,
+            0.667
+          ],
+          "content": "② let alone 更不用说"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.673,
+            0.929,
+            0.707
+          ],
+          "content": "Too shy to speak publicly, let alone perform on stage, she therefore often feels lonely."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.71,
+            0.919,
+            0.726
+          ],
+          "content": "羞于公开讲话，更别说登台表演，她因此常感孤独。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.73,
+            0.882,
+            0.746
+          ],
+          "content": "③ alone 表示“孤独的”时，与 lonely 的区别："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.749,
+            0.928,
+            0.784
+          ],
+          "content": "alone 不能放在名词前，强调主观层面的失落感，而 lonely 可以放在名词前，描述客观状态的独自状态。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.789,
+            0.761,
+            0.803
+          ],
+          "content": "A lonely road, but I walk alone."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.807,
+            0.764,
+            0.823
+          ],
+          "content": "一条孤独的路，而我独自前行。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.843,
+            0.686,
+            0.857
+          ],
+          "content": "absurd /əb'sɜːrd/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.862,
+            0.625,
+            0.878
+          ],
+          "content": "adj. 荒谬的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.885,
+            0.929,
+            0.92
+          ],
+          "content": "妙记:ab-（谐音俺不）surd（形似 sure，确定），俺不确定，因为这事太荒谬（absurd）了。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.83,
+            0.934,
+            0.881,
+            0.95
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.884,
+            0.934,
+            0.913,
+            0.951
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.932,
+            0.936,
+            0.956,
+            0.949
+          ],
+          "content": "49"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.027,
+            0.032,
+            0.097,
+            0.063
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.111,
+            0.042,
+            0.371,
+            0.058
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.402,
+            0.042,
+            0.507,
+            0.058
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.196,
+            0.088,
+            0.359,
+            0.197
+          ],
+          "sub_type": "text_image",
+          "content": "这太\n荒得了！",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_3.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.205,
+            0.176,
+            0.225
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.233,
+            0.329,
+            0.248
+          ],
+          "content": "近义词辨析:absurd & ridiculous"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.074,
+            0.251,
+            0.467,
+            0.286
+          ],
+          "sub_type": "text",
+          "content": "- absurd 适用场景偏向观点、理论、主张；\n- ridiculous 偏向于行为、表象、浅层判断，且含贬义。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.312,
+            0.243,
+            0.327
+          ],
+          "content": "sensible /'sensəbl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.331,
+            0.24,
+            0.347
+          ],
+          "content": "adj. 合理的，明智的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.357,
+            0.476,
+            0.373
+          ],
+          "content": "妙记：谐音三思啵，凡事三思是明智的（sensible）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.387,
+            0.174,
+            0.407
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.414,
+            0.256,
+            0.429
+          ],
+          "content": "①与 sensitive 进行辨析"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.433,
+            0.477,
+            0.467
+          ],
+          "content": "sensible (-ible = 能力)→“有感知能力的”→引申为“明智的”;"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.471,
+            0.476,
+            0.506
+          ],
+          "content": "sensitive (-ive = 状态)→“处于易感状态的”→引申为“敏感的”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.51,
+            0.458,
+            0.526
+          ],
+          "content": "②名词形式的 sense 可以表示“道理”，考研常考。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.529,
+            0.327,
+            0.544
+          ],
+          "content": "make sense 有道理，合理，明智"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.548,
+            0.252,
+            0.563
+          ],
+          "content": "nonsense n. 胡说八道"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.568,
+            0.239,
+            0.582
+          ],
+          "content": "common sense 常识"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.61,
+            0.293,
+            0.626
+          ],
+          "content": "optimistic /ˌɑːptɪˈmɪstɪk/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.629,
+            0.174,
+            0.645
+          ],
+          "content": "adj. 乐观的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.655,
+            0.479,
+            0.71
+          ],
+          "content": "妙记:opti-谐音“俺不提”，mistic-发音类似 mistake（错误），俺不提错误，俺很乐观 (optimistic)。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.723,
+            0.176,
+            0.744
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.751,
+            0.16,
+            0.766
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.77,
+            0.289,
+            0.786
+          ],
+          "content": "optimism n. 乐观；乐天派"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.789,
+            0.157,
+            0.804
+          ],
+          "content": "②反义词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.808,
+            0.477,
+            0.843
+          ],
+          "content": "pessimistic adj. 悲观的（pess- 联想为 pass 通过考试 → 通过考试却看到一堆错误 → 悲观）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.848,
+            0.478,
+            0.882
+          ],
+          "content": "The optimistic see the glass half full, while the pessimistic see it half empty."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.885,
+            0.42,
+            0.901
+          ],
+          "content": "乐观者看到杯子半满，悲观者看到杯子半空。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.088,
+            0.657,
+            0.103
+          ],
+          "content": "wrong /rɔːŋ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.106,
+            0.925,
+            0.122
+          ],
+          "content": "adj. 错的 adv. 错误地，不正确地 vt. 不公正地对待"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.127,
+            0.91,
+            0.143
+          ],
+          "content": "妙记：谐音:“嚷”→做错事被人嚷→错误的。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.153,
+            0.634,
+            0.172
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.179,
+            0.921,
+            0.214
+          ],
+          "content": "①该单词常考 wrong 作动词，且通常都是被动态，be wronged 表示被不公正地对待。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.217,
+            0.928,
+            0.251
+          ],
+          "content": "Farmers are wronged by unfair pricing, yet policy protection remains weak."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.254,
+            0.926,
+            0.27
+          ],
+          "content": "农民因价格不公平而受到伤害，但政策保护仍然薄弱。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.274,
+            0.752,
+            0.289
+          ],
+          "content": "②名词派生词:wrongdoing"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.291,
+            0.928,
+            0.346
+          ],
+          "content": "表面义：wrong (错误) + doing (行为) → “错误行为”真题深层义：“不法行为 / 舞弊” (尤指违反法律或道德的行为)。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.35,
+            0.924,
+            0.385
+          ],
+          "content": "Corporations must be held accountable for their wrong doings."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.387,
+            0.762,
+            0.404
+          ],
+          "content": "公司必须对其不当行为负责。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.423,
+            0.711,
+            0.439
+          ],
+          "content": "concept /'kɑːnsept/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.442,
+            0.706,
+            0.458
+          ],
+          "content": "n. 概念；思想，观念"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.464,
+            0.928,
+            0.519
+          ],
+          "content": "妙记:con-（共同，一起），cept-（拿，取），可以理解为把一些相关的想法或观念“拿到一起”，形成一个“概念”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.53,
+            0.634,
+            0.55
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.557,
+            0.614,
+            0.572
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.576,
+            0.743,
+            0.591
+          ],
+          "content": "conception n. 构想；怀孕"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.595,
+            0.786,
+            0.61
+          ],
+          "content": "conceptual adj. 概念的，观念的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.614,
+            0.668,
+            0.629
+          ],
+          "content": "②常考衍生形式："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.634,
+            0.713,
+            0.649
+          ],
+          "content": "misconception n. 误解"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.652,
+            0.631,
+            0.667
+          ],
+          "content": "③固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.671,
+            0.806,
+            0.687
+          ],
+          "content": "core concept 核心概念 / 核心理念"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.69,
+            0.797,
+            0.706
+          ],
+          "content": "④阅读中可能涉及的近义词替换："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.71,
+            0.782,
+            0.726
+          ],
+          "content": "notion, idea, theory, perspective"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.745,
+            0.703,
+            0.76
+          ],
+          "content": "perceive /pər'si:v/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.763,
+            0.829,
+            0.779
+          ],
+          "content": "vt. 感知到，感觉到，感受到，注意到"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.786,
+            0.927,
+            0.822
+          ],
+          "content": "妙记:per-（每一个都）+ ceive-（抓、拿）→ 每个特征都抓住 → 形成感知。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.669,
+            0.828,
+            0.806,
+            0.92
+          ],
+          "sub_type": "text_image",
+          "content": "梦幻",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_57.jpg"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.045,
+            0.932,
+            0.07,
+            0.946
+          ],
+          "content": "50"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.089,
+            0.931,
+            0.118,
+            0.948
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.12,
+            0.933,
+            0.172,
+            0.947
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.86,
+            0.026,
+            0.965,
+            0.061
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.082,
+            0.173,
+            0.102
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.109,
+            0.154,
+            0.123
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.128,
+            0.33,
+            0.143
+          ],
+          "content": "perception n. 感知；感觉；感受"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.147,
+            0.252,
+            0.161
+          ],
+          "content": "perceptive adj. 敏锐的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.165,
+            0.322,
+            0.18
+          ],
+          "content": "② perceive A as B 将 A 视为 B"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.184,
+            0.348,
+            0.199
+          ],
+          "content": "③ be perceived to be... 被认为……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.203,
+            0.334,
+            0.218
+          ],
+          "content": "The policy is perceived to be unfair."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.221,
+            0.297,
+            0.236
+          ],
+          "content": "这项政策被认为是不公平的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.241,
+            0.387,
+            0.256
+          ],
+          "content": "④ perceive that + 从句 意识到 / 认为……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.261,
+            0.474,
+            0.294
+          ],
+          "content": "Scientists perceive that climate change is accelerating.\n科学家们认为气候变化正在加速。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.318,
+            0.22,
+            0.332
+          ],
+          "content": "accord /əˈkɔːrd/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.336,
+            0.472,
+            0.371
+          ],
+          "content": "n. 协议；协定；一致；和谐 v. 一致；给予；相符；协调"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.378,
+            0.474,
+            0.413
+          ],
+          "content": "妙记:ac- = ad-（强调）+ cord- = core（心、核心）→与核心保持一致。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.424,
+            0.168,
+            0.443
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.451,
+            0.15,
+            0.467
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.47,
+            0.318,
+            0.487
+          ],
+          "content": "accordingly adv. 相应地；因此"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.489,
+            0.429,
+            0.505
+          ],
+          "content": "accordance n. 一致，符合; 按照，依据; 授予"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.509,
+            0.402,
+            0.525
+          ],
+          "content": "② according to prep. 根据……, 依照……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.528,
+            0.284,
+            0.544
+          ],
+          "content": "③ accord with 与……一致"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.548,
+            0.391,
+            0.563
+          ],
+          "content": "④ in accordance with 按照；与……一致"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.587,
+            0.256,
+            0.603
+          ],
+          "content": "compose /kəmˈpəʊz/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.606,
+            0.347,
+            0.622
+          ],
+          "content": "vt. 组合，混合，组成; 作文; 作曲"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.629,
+            0.474,
+            0.664
+          ],
+          "content": "妙记:com-（all together）+ pos-（= put 放）→ 放到一起 → 组合、混合、组成。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.186,
+            0.67,
+            0.355,
+            0.786
+          ],
+          "sub_type": "text_image",
+          "content": "compose\nvt.作文",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_24.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.792,
+            0.168,
+            0.813
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.819,
+            0.149,
+            0.835
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.839,
+            0.35,
+            0.855
+          ],
+          "content": "composite adj. 组合成的，混合成的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.858,
+            0.47,
+            0.894
+          ],
+          "content": "composition n. 组成，构成; 组合物，混合物; 作文; 作曲"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.898,
+            0.257,
+            0.914
+          ],
+          "content": "component n. 组成成分"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.081,
+            0.932,
+            0.116
+          ],
+          "content": "② compose 可以表示作文（把一堆文字放到一起）或作曲（把一堆音符放到一起）。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.118,
+            0.67,
+            0.134
+          ],
+          "content": "③常用短语辨析；"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.137,
+            0.931,
+            0.171
+          ],
+          "content": "be composed of(组成，构成) = consist of (由……组成) 整体 + be composed of + 组成部分"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.174,
+            0.933,
+            0.228
+          ],
+          "content": "④ composed 作形容词，除了表示“组成的”，还可以表示“镇定的、镇静的”，只在 2020 年英语（二）考过一次。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.255,
+            0.735,
+            0.269
+          ],
+          "content": "constitute /'ka:nstitu:t/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.274,
+            0.651,
+            0.289
+          ],
+          "content": "vt. 组成，构成"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.296,
+            0.932,
+            0.331
+          ],
+          "content": "妙记:con-（all together）+st-（站）+itute→站到一起→组合、混合、组成。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.641,
+            0.336,
+            0.821,
+            0.46
+          ],
+          "sub_type": "text_image",
+          "content": "constitute vt.\n组成，构成",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_37.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.465,
+            0.628,
+            0.485
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.492,
+            0.61,
+            0.507
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.512,
+            0.79,
+            0.527
+          ],
+          "content": "constitution n. 构成，组成; 宪法"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.531,
+            0.771,
+            0.546
+          ],
+          "content": "constituent n. 组成成分；选民"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.55,
+            0.932,
+            0.585
+          ],
+          "content": "② constitution 最常考“宪法”的含义，constitutional 表示宪法的、合宪的，unconstitutional 表示违宪的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.59,
+            0.917,
+            0.624
+          ],
+          "content": "The California measure may go against the Constitution.\n加州方法可能违宪。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.627,
+            0.929,
+            0.662
+          ],
+          "content": "③ constituent 除了“组成成分”之外，还可以表示“选民”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.69,
+            0.683,
+            0.705
+          ],
+          "content": "consist /kənˈsɪst/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.709,
+            0.778,
+            0.725
+          ],
+          "content": "vi. 由……组成；存在于……中"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.731,
+            0.931,
+            0.768
+          ],
+          "content": "妙记：好妹妹，只要你 con-（谐音肯）和我站在一起（sist-），我们一定能组成（consist）最强姐妹团。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.777,
+            0.627,
+            0.798
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.805,
+            0.728,
+            0.821
+          ],
+          "content": "① consist of 由……组成"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.825,
+            0.918,
+            0.86
+          ],
+          "content": "此搭配强调整体构成，整体 + consist of + 组成部分，永远没有被动语态。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.865,
+            0.805,
+            0.88
+          ],
+          "content": "The committee consists of ten experts."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.883,
+            0.717,
+            0.899
+          ],
+          "content": "委员会由十位专家组成。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.831,
+            0.933,
+            0.883,
+            0.949
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.884,
+            0.933,
+            0.915,
+            0.95
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.933,
+            0.934,
+            0.956,
+            0.948
+          ],
+          "content": "51"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.036,
+            0.032,
+            0.107,
+            0.064
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.119,
+            0.042,
+            0.374,
+            0.058
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.407,
+            0.043,
+            0.51,
+            0.058
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.087,
+            0.301,
+            0.103
+          ],
+          "content": "② consist in 存在于……中"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.106,
+            0.484,
+            0.141
+          ],
+          "content": "此搭配强调本质或核心，抽象概念 + consist in + 核心要素"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.145,
+            0.368,
+            0.16
+          ],
+          "content": "True happiness consists in contentment."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.163,
+            0.254,
+            0.179
+          ],
+          "content": "真正的幸福在于知足。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.182,
+            0.348,
+            0.198
+          ],
+          "content": "③ consist with 与……一致 / 符合"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.201,
+            0.309,
+            0.217
+          ],
+          "content": "事物 A+ consist with + 事物 B"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.221,
+            0.454,
+            0.237
+          ],
+          "content": "The results must consist with the experimental data."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.087,
+            0.72,
+            0.103
+          ],
+          "content": "结果需与实验数据一致。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.106,
+            0.614,
+            0.122
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.126,
+            0.773,
+            0.141
+          ],
+          "content": "consistency n. 一致性，连贯性"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.145,
+            0.92,
+            0.161
+          ],
+          "content": "consistent adj. 一致的，连贯的; 稳定的，始终如一的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.164,
+            0.914,
+            0.197
+          ],
+          "content": "inconsistent adj. 不一致的，矛盾的；反复无常的，不稳定的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.201,
+            0.922,
+            0.235
+          ],
+          "content": "consistently adv. 一致地，连贯地；稳定地，始终如一地"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.08,
+            0.248,
+            0.227,
+            0.268
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.283,
+            0.176,
+            0.299
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.309,
+            0.717,
+            0.325
+          ],
+          "content": "1. Sarah is very \\_\\_\\_\\_ about her weight. She gets easily upset if anyone comments on it."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.329,
+            0.202,
+            0.343
+          ],
+          "content": "A. sensible"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.338,
+            0.329,
+            0.453,
+            0.343
+          ],
+          "content": "B. sentimental"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.548,
+            0.329,
+            0.643,
+            0.343
+          ],
+          "content": "C. sensitive"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.789,
+            0.329,
+            0.876,
+            0.343
+          ],
+          "content": "D. curious"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.353,
+            0.922,
+            0.389
+          ],
+          "content": "2. They gave justices permanent positions so they would be free to \\_\\_\\_\\_ those in power and have no need to cultivate political support."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.392,
+            0.187,
+            0.406
+          ],
+          "content": "A. excite"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.338,
+            0.393,
+            0.409,
+            0.407
+          ],
+          "content": "B. upset"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.548,
+            0.393,
+            0.637,
+            0.405
+          ],
+          "content": "C. concern"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.789,
+            0.393,
+            0.87,
+            0.405
+          ],
+          "content": "D. reflect"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.416,
+            0.921,
+            0.451
+          ],
+          "content": "3. Facing eviction and with no family to turn to, Maria felt \\_\\_\\_\\_. She began selling her few belongings just to buy food."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.455,
+            0.211,
+            0.471
+          ],
+          "content": "A. desperate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.338,
+            0.456,
+            0.425,
+            0.469
+          ],
+          "content": "B. worried"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.548,
+            0.456,
+            0.661,
+            0.469
+          ],
+          "content": "C. determined"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.789,
+            0.456,
+            0.882,
+            0.47
+          ],
+          "content": "D. separate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.48,
+            0.682,
+            0.496
+          ],
+          "content": "4. People expressed deep sympathy \\_\\_\\_\\_ the victims of the natural disaster."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.5,
+            0.166,
+            0.514
+          ],
+          "content": "A. for"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.338,
+            0.501,
+            0.401,
+            0.514
+          ],
+          "content": "B. with"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.548,
+            0.5,
+            0.594,
+            0.513
+          ],
+          "content": "C. to"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.789,
+            0.5,
+            0.864,
+            0.513
+          ],
+          "content": "D. about"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.524,
+            0.92,
+            0.558
+          ],
+          "content": "5. She always \\_\\_\\_\\_ to become a renowned scientist, being dedicated to exploring the mysteries of the universe."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.563,
+            0.193,
+            0.578
+          ],
+          "content": "A. desires"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.338,
+            0.564,
+            0.419,
+            0.578
+          ],
+          "content": "B. aspires"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.548,
+            0.564,
+            0.635,
+            0.578
+          ],
+          "content": "C. inspires"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.789,
+            0.564,
+            0.88,
+            0.578
+          ],
+          "content": "D. requires"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.588,
+            0.898,
+            0.604
+          ],
+          "content": "6. The children \\_\\_\\_\\_ the mysterious package left on the doorstep and were eager to know what was inside."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.607,
+            0.28,
+            0.622
+          ],
+          "content": "A. were curious about"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.338,
+            0.608,
+            0.491,
+            0.622
+          ],
+          "content": "B. aroused curiosity"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.548,
+            0.608,
+            0.706,
+            0.622
+          ],
+          "content": "C. satisfied curiosity"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.789,
+            0.609,
+            0.905,
+            0.622
+          ],
+          "content": "D. curious with"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.632,
+            0.459,
+            0.648
+          ],
+          "content": "7. Be \\_\\_\\_\\_ but realistic, and you will stand out."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.652,
+            0.206,
+            0.666
+          ],
+          "content": "A. adorable"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.338,
+            0.652,
+            0.439,
+            0.665
+          ],
+          "content": "B. contented"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.548,
+            0.652,
+            0.659,
+            0.666
+          ],
+          "content": "C. pessimistic"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.789,
+            0.652,
+            0.892,
+            0.667
+          ],
+          "content": "D. optimistic"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.676,
+            0.918,
+            0.711
+          ],
+          "content": "8. The proposal to build a bridge out of tissue paper was immediately labeled \\_\\_\\_\\_ due to its complete disregard for basic physics."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.714,
+            0.2,
+            0.729
+          ],
+          "content": "A. abstract"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.338,
+            0.715,
+            0.429,
+            0.728
+          ],
+          "content": "B. absolute"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.548,
+            0.715,
+            0.627,
+            0.728
+          ],
+          "content": "C. absurd"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.789,
+            0.716,
+            0.892,
+            0.729
+          ],
+          "content": "D. ridiculous"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.738,
+            0.785,
+            0.755
+          ],
+          "content": "9. \\_\\_\\_\\_ one classical theory of emotion, our feelings are partially rooted in physical reactions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.758,
+            0.237,
+            0.774
+          ],
+          "content": "A. According to"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.338,
+            0.759,
+            0.444,
+            0.773
+          ],
+          "content": "B. As long as"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.548,
+            0.759,
+            0.627,
+            0.772
+          ],
+          "content": "C. So far"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.789,
+            0.76,
+            0.869,
+            0.773
+          ],
+          "content": "D. As for"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.782,
+            0.841,
+            0.799
+          ],
+          "content": "10. The \\_\\_\\_\\_ that humans use only 10% of their brains is false; the actual \\_\\_\\_\\_ is far more complex."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.803,
+            0.247,
+            0.818
+          ],
+          "content": "A. misconception"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.338,
+            0.803,
+            0.423,
+            0.815
+          ],
+          "content": "B. context"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.548,
+            0.803,
+            0.636,
+            0.817
+          ],
+          "content": "C. concept"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.789,
+            0.804,
+            0.87,
+            0.818
+          ],
+          "content": "D. expect"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.828,
+            0.176,
+            0.844
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.079,
+            0.853,
+            0.917,
+            0.918
+          ],
+          "sub_type": "text",
+          "content": "1. The decision to stop weighing myself every day has \\_\\_\\_\\_ wonders for my overall health, fitness and well-being.\n2. There's actually research that shows that advice-seekers are \\_\\_\\_\\_ (perceive) as more competent, not less.\n3. It was a musician who discovered the planet Uranus in the 18th century by making his own telescope with"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.054,
+            0.936,
+            0.081,
+            0.951
+          ],
+          "content": "52"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.097,
+            0.935,
+            0.125,
+            0.952
+          ],
+          "content": "#"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.127,
+            0.937,
+            0.178,
+            0.951
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.863,
+            0.018,
+            0.962,
+            0.054
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.075,
+            0.421,
+            0.091
+          ],
+          "content": "mirrors \\_\\_\\_\\_ (compose) of copper and tin."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.06,
+            0.1,
+            0.928,
+            0.21
+          ],
+          "sub_type": "text",
+          "content": "4. \\_\\_\\_\\_ (constitute) law is political because it results from choices rooted in fundamental social concepts like liberty and property.\n5. True leadership consists \\_\\_\\_\\_ inspiring others through actions, not words.\n6. All employees must act in \\_\\_\\_\\_ (accord) with company policy.\n7. For the experiment to be valid, the methodology must remain \\_\\_\\_\\_ (consist) throughout all trials."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.06,
+            0.221,
+            0.158,
+            0.238
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.063,
+            0.248,
+            0.135,
+            0.264
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.06,
+            0.273,
+            0.752,
+            0.531
+          ],
+          "sub_type": "text",
+          "content": "1. We may be able to sustain the illusion of control through the conscious mind alone.\n2. The proposal might be regarded by some as a sensible compromise.\n3. Young people perceive social media as a double-edged sword.\n4. The meaning of a text depends on its context; ignoring this can cause a contest of opinions."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.063,
+            0.596,
+            0.135,
+            0.612
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.06,
+            0.622,
+            0.93,
+            0.712
+          ],
+          "sub_type": "text",
+          "content": "1. Any guaranteed bonus of top executives could be delayed 10 years if their banks are under investigation for\n [wrongdoing].\n2. In sociological studies,[public sentiment] towards new technologies often significantly shapes policy decisions."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.446,
+            0.792,
+            0.547,
+            0.812
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.063,
+            0.835,
+            0.157,
+            0.853
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.863,
+            0.111,
+            0.877
+          ],
+          "content": "1. C."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.881,
+            0.122,
+            0.897
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.9,
+            0.47,
+            0.918
+          ],
+          "content": "句意：莎拉对自己的体重非常\\_\\_\\_\\_。如果有人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.836,
+            0.781,
+            0.852
+          ],
+          "content": "评论这一点，她很容易感到难过。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.855,
+            0.929,
+            0.927
+          ],
+          "content": "考点：本题考查形容词辨析。从第二句话可知莎拉对自己的体重“很在意，容易受到影响”。A、sensible 意为“明智的，理智的”，与句意相反。B、sentimental 意为“多愁善感的，感伤的”，通常指对"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.828,
+            0.936,
+            0.912,
+            0.954
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.932,
+            0.938,
+            0.955,
+            0.952
+          ],
+          "content": "53"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.029,
+            0.033,
+            0.504,
+            0.064
+          ],
+          "content": "高频词表"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.086,
+            0.476,
+            0.139
+          ],
+          "continues_prev": true,
+          "content": "过去的事物怀有情感。C. sensitive 意为“敏感的，易受影响的”，符合“容易因外界评论而难过”的语境。D. curious 意为“好奇的”，与句意无关。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.151,
+            0.125,
+            0.163
+          ],
+          "content": "2. B."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.168,
+            0.137,
+            0.183
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.186,
+            0.476,
+            0.313
+          ],
+          "content": "句意：他们给予法官终身职位，这样法官们就可以无所顾忌地去\\_\\_\\_\\_当权者，而无须培养政治支持。考点：动词辨析及上下文逻辑。法官被赋予终身职位的目的是司法独立，因此他们可以“无所顾忌地”去做的事，应是对当权者的“挑战或制约”。B. upset 在此处引申为“颠覆，使不安，挑战”，是最佳答案。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.333,
+            0.126,
+            0.346
+          ],
+          "content": "3. A."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.35,
+            0.137,
+            0.365
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.368,
+            0.476,
+            0.42
+          ],
+          "content": "句意：形容词辨析。面对被驱逐且无家可归的困境，玛丽亚感到\\_\\_\\_\\_。她开始变卖自己仅有的财物，只为了买食物。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.424,
+            0.476,
+            0.514
+          ],
+          "content": "考点:desperate 意为“绝望的；铤而走险的；极度渴望的”，形容在绝境中不顾一切的状态。语境中“面临被驱逐”（Facing eviction）、“无家可归”（no family to turn to）以及“变卖仅有的财产只为买食物”都表明 Maria 已经陷入了绝境，感到绝望。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.535,
+            0.126,
+            0.547
+          ],
+          "content": "4. A."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.551,
+            0.138,
+            0.566
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.57,
+            0.476,
+            0.603
+          ],
+          "content": "句意：人们\\_\\_\\_\\_自然灾害的受害者表达了深切的同情。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.607,
+            0.476,
+            0.641
+          ],
+          "content": "考点：固定搭配。表达“对……的同情”应使用固定短语“sympathy for sb./sth.”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.661,
+            0.126,
+            0.673
+          ],
+          "content": "5. B."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.678,
+            0.138,
+            0.692
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.696,
+            0.476,
+            0.73
+          ],
+          "content": "句意：她一直 \\_\\_\\_\\_ 成为一名著名的科学家，致力于探索宇宙的奥秘。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.734,
+            0.476,
+            0.788
+          ],
+          "content": "考点：固定搭配。空格后是“to become”，且语境是追求崇高目标。B. aspires“渴望，有志于”，固定搭配为“aspire to do sth.”，最为贴切。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.808,
+            0.126,
+            0.82
+          ],
+          "content": "6. A."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.824,
+            0.138,
+            0.839
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.843,
+            0.476,
+            0.877
+          ],
+          "content": "句意：固定搭配与主谓一致。孩子们\\_\\_\\_\\_留在门口的神秘包裹，都急切地想知道里面是什么。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.881,
+            0.476,
+            0.915
+          ],
+          "content": "考点：句子结构需要一个谓语来描述主语“The children”的状态。Were curious about 意为“对……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.086,
+            0.919,
+            0.16
+          ],
+          "continues_prev": true,
+          "content": "感到好奇”，直接且语法正确。Aroused curiosity（引起了好奇心）的逻辑主语通常是“物”（the package），而不是“人”（the children）。可以说“The package aroused the children's curiosity”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.174,
+            0.575,
+            0.187
+          ],
+          "content": "7. D."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.191,
+            0.586,
+            0.206
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.21,
+            0.919,
+            0.281
+          ],
+          "content": "句意：既要\\_\\_\\_\\_也要现实，这样你就能脱颖而出。考点：形容词辨析与上下文逻辑。连接词“but”连接一对互补的品质。“现实”(realistic) 通常与“乐观”(optimistic) 形成最佳搭配。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.297,
+            0.575,
+            0.31
+          ],
+          "content": "8. C."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.314,
+            0.586,
+            0.33
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.333,
+            0.919,
+            0.368
+          ],
+          "content": "句意：用纸巾建造桥梁的提议因其完全无视基础物理而被立刻评为\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.37,
+            0.92,
+            0.442
+          ],
+          "content": "考点：形容词辨析。提议“用纸巾造桥”违背基本物理常识，因此是“荒谬的、荒唐的”。C. absurd 强调因不合逻辑而荒谬，比 D. ridiculous(滑稽可笑) 更正式、准确。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.459,
+            0.575,
+            0.472
+          ],
+          "content": "9. A."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.476,
+            0.586,
+            0.491
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.494,
+            0.919,
+            0.528
+          ],
+          "content": "句意:\\_\\_\\_\\_一个经典的情绪理论，我们的感受部分源于生理反应。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.531,
+            0.92,
+            0.585
+          ],
+          "content": "考点：短语辨析。空格后是一个理论，后半句是基于该理论的结论，因此需要表示“根据……”的短语。A. According to 符合句意。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.601,
+            0.584,
+            0.614
+          ],
+          "content": "10. A."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.619,
+            0.586,
+            0.634
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.638,
+            0.919,
+            0.672
+          ],
+          "content": "句意：人类只使用了 10% 的大脑这一\\_\\_\\_\\_是错误的；实际情况要复杂得多。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.676,
+            0.914,
+            0.729
+          ],
+          "content": "考点：名词辨析。分号前的主句是“The... is false”，且由“actual”可知，前面是一种“错误的观念”。A. misconception“误解”最符合语境。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.739,
+            0.623,
+            0.755
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.771,
+            0.595,
+            0.784
+          ],
+          "content": "1. done"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.789,
+            0.587,
+            0.804
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.808,
+            0.92,
+            0.843
+          ],
+          "content": "句意：决定不再每天称体重对我的整体健康、身材和幸福感\\_\\_\\_\\_奇迹。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.846,
+            0.92,
+            0.881
+          ],
+          "content": "考点：固定搭配“do wonders”，意为创造奇迹，产生奇效。“has”后面接动词过去分词，所以填 done。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.898,
+            0.632,
+            0.913
+          ],
+          "content": "2. perceived"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.05,
+            0.935,
+            0.076,
+            0.949
+          ],
+          "content": "54"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.094,
+            0.934,
+            0.123,
+            0.95
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.126,
+            0.936,
+            0.176,
+            0.949
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 8,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.837,
+            0.027,
+            0.949,
+            0.063
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.023,
+            0.079,
+            0.087,
+            0.094
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.023,
+            0.097,
+            0.443,
+            0.131
+          ],
+          "content": "句意：实际上有研究表明，寻求建议的人会被\\_\\_\\_\\_能力更强，而不是更弱。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.023,
+            0.134,
+            0.443,
+            0.17
+          ],
+          "content": "考点：动词的被动语态。主语“advice-seekers”与动词“perceive”之间是被动关系，故用“are perceived”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.023,
+            0.185,
+            0.133,
+            0.199
+          ],
+          "level": 2,
+          "content": "3. composed"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.021,
+            0.202,
+            0.084,
+            0.218
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.021,
+            0.22,
+            0.44,
+            0.254
+          ],
+          "content": "句意：在 18 世纪，是一位音乐家通过自制的铜和锡镜片的望远镜发现了天王星。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.021,
+            0.256,
+            0.44,
+            0.328
+          ],
+          "content": "考点：非谓语动词（过去分词作后置定语）与固定搭配。固定搭配“be composed of”（由……组成），此处用过去分词“composed”作后置定语，修饰“mirrors”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.021,
+            0.344,
+            0.167,
+            0.357
+          ],
+          "level": 2,
+          "content": "4. Constitutional"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.021,
+            0.361,
+            0.083,
+            0.377
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.021,
+            0.38,
+            0.44,
+            0.414
+          ],
+          "content": "句意:\\_\\_\\_\\_法是政治性的，因为它源于根植于自由和财产等基本社会概念的选择。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.02,
+            0.417,
+            0.44,
+            0.47
+          ],
+          "content": "考点：词性转换。空格后是名词“law”，需用形容词形式“Constitutional”构成专有名词“Constitutional law”（宪法）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.021,
+            0.487,
+            0.068,
+            0.499
+          ],
+          "level": 2,
+          "content": "5. in"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.021,
+            0.504,
+            0.083,
+            0.519
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.021,
+            0.522,
+            0.44,
+            0.556
+          ],
+          "content": "句意：真正的领导力 \\_\\_\\_\\_ 通过行动而非言语来激励他人。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.021,
+            0.56,
+            0.44,
+            0.577
+          ],
+          "content": "考点：固定搭配，“consist in”表示“在于，存在于”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.021,
+            0.592,
+            0.143,
+            0.605
+          ],
+          "level": 2,
+          "content": "6. accordance"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.021,
+            0.609,
+            0.083,
+            0.625
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.021,
+            0.628,
+            0.395,
+            0.644
+          ],
+          "content": "句意：所有员工都必须 \\_\\_\\_\\_ 公司政策行事。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.021,
+            0.647,
+            0.438,
+            0.681
+          ],
+          "content": "考点：固定搭配“in accordance with”，表示“与……一致”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.021,
+            0.698,
+            0.131,
+            0.711
+          ],
+          "level": 2,
+          "content": "7. consistent"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.021,
+            0.716,
+            0.083,
+            0.731
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.021,
+            0.733,
+            0.438,
+            0.769
+          ],
+          "content": "句意：为了使实验有效，其方法必须在所有实验中保持\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.021,
+            0.771,
+            0.44,
+            0.825
+          ],
+          "content": "考点：词性转换与系表结构。系动词“remain”后需接形容词作表语，“consist”的形容词形式是“consistent”，一致的。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.021,
+            0.836,
+            0.119,
+            0.852
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.021,
+            0.856,
+            0.096,
+            0.87
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.021,
+            0.874,
+            0.376,
+            0.889
+          ],
+          "content": "1. 我们或许能够仅凭意识维持控制的假象。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.021,
+            0.893,
+            0.414,
+            0.908
+          ],
+          "content": "2. 这个提议可能被一些人视为一个明智的妥协。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.495,
+            0.081,
+            0.775,
+            0.096
+          ],
+          "content": "3. 年轻人认为社交媒体是双刃剑。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.495,
+            0.099,
+            0.909,
+            0.131
+          ],
+          "content": "4. 文本的意义取决于其背景；忽略这一点可能引发意见争论。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.497,
+            0.134,
+            0.573,
+            0.148
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.495,
+            0.152,
+            0.91,
+            0.185
+          ],
+          "content": "1. 如果银行因【不法行为】而受到调查，那么高管的任何保证奖金都可能被推迟 10 年。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.495,
+            0.188,
+            0.91,
+            0.221
+          ],
+          "content": "2. 在社会学研究中，【公众对新技术的舆论】往往显著影响政策决定。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.806,
+            0.935,
+            0.89,
+            0.953
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.911,
+            0.937,
+            0.935,
+            0.951
+          ],
+          "content": "55"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:01:05",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 9,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 841.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 842.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 8,
+          "width_pt": 595.0,
+          "height_pt": 865.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

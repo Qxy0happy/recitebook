@@ -1,0 +1,741 @@
+{
+  "list_no": 18,
+  "title": "保护与免疫",
+  "association": {
+    "outline": "情节发展：湿地危机→科学治理→全民行动",
+    "scenes": [
+      {
+        "title": "湿地危机",
+        "story": "环保专家李教授在湿地 reserve（保护区）observe（观察）时，track（追踪）到非法排污。根据团队 collect（收集）到的污染数据，他发现食物链已 invert（颠倒）。他 stand（站立）在岸边，看着浑浊水面 mirror（映照）出湿地危机。"
+      },
+      {
+        "title": "科学治理",
+        "story": "为了 reverse（逆转）这一切，李教授带领研究团队，打造了一道过滤带 preserve（保护）水质。就这样，湿地逐渐 immune（免疫）污染，物种得以 survive（幸存）。"
+      },
+      {
+        "title": "全民行动",
+        "story": "李教授说:“Save（拯救）自然需要 responsible（负责）的 response（响应），这也是我工作生涯中最重要的 conservation（保护）成果。”他的行动 reflect（反映）了环保者的担当。"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "save",
+      "ipa": "/serv/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "救，拯救；储存；节省"
+        }
+      ],
+      "mnemonic": "平时储存（save）是为了节省（save）出救（save）急资源。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "搭配",
+          "label_raw": "考点点拨",
+          "body": "固定搭配:save for 除了\n\n【2019 年英语（一）】\n\nBut now most colleges, save for many selective campuses, allow all undergraduates, and even graduate students, to get their low grades forgiven.\n\n但是现在，除了一些精英学校，大多数大学都允许所有本科生甚至是毕业生获得分数谅解。"
+        }
+      ]
+    },
+    {
+      "spelling": "preserve",
+      "ipa": "/pri'zɜ:rv/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "保护；保存"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "保留地；专属领域"
+        }
+      ],
+      "mnemonic": "pre-（提前）+ serv-（保护、保存）→ 把所有东西都提前保护、保存起来 → 保护、保存。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "辨析",
+          "label_raw": "名词辨析",
+          "body": "preserve & preservation\n\n- preserve 可以作名词，表示私人保留地或某一类人的专属领域；\n\n【2021 年英语（一）】\n\nA flashing set of healthy and clean, regular “ pearly whites ” was a rare sight in Victorian society, the preserve of the super-rich.\n\n在维多利亚时代的社会中，一排健康、干净且整齐的“珍珠般洁白的牙齿”实属罕见景象，这只属于超级有钱的人。\n\n- preservation 则常表示保护；保存。\n\nHistorical preservation is crucial for maintaining\n\ncultural heritage.\n\n历史保护对于维护文化遗产至关重要。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "preservation n. 保护；保存"
+        }
+      ]
+    },
+    {
+      "spelling": "reserve",
+      "ipa": "/rɪˈzɜːrv/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "保留；预订；储备"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "保护区；储备（量）"
+        }
+      ],
+      "mnemonic": "re（热）+serve（服务），热门的服务需要预订（reserve）。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "辨析",
+          "label_raw": "考点点拨",
+          "body": "名词辨析:reserve & reservation\n\n- reserve 可作名词表示“保护区”或“储备量、储备金”；\n\n【2021 年英语（二）】\n\nnature reserves 自然保护区\n\n【2021 年英语（二）】\n\nfinancial reserves 财务储备金，财务准备金\n\n- reservation 常表示“预订”或“保留意见”。\n\nI made a reservation for two at the Italian restaurant.\n我在那家意大利餐厅预订了两人位。"
+        }
+      ]
+    },
+    {
+      "spelling": "conservation",
+      "ipa": "/ˌkɑːnsərˈveɪʃ(ə)n/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "保护；保存"
+        }
+      ],
+      "mnemonic": "con-（all）+ serv-（= save 保护、保存）→把所有东西都保护、保存起来→保护、保存。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "特定用法",
+          "body": "the Conservatives 保守党\n\n【2016 年英语（一）】\n\nThe Conservatives' planning reform explicitly gives rural development priority over conservation.\n\n保守党的计划改革明确将农村发展置于保护之上。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "conserve vt. 保护；保存\n\nconservative adj. 保守的 n. 保守党人"
+        }
+      ]
+    },
+    {
+      "spelling": "survive",
+      "ipa": "/sərˈvaɪv/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "幸存"
+        }
+      ],
+      "mnemonic": "sur-（上面）+ viv-（生命）→ 处在最顶层的生命 → 食物链最顶层的生命形态，通常最有可能幸存下来。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常见释义",
+          "body": "survive 可作及物动词，表示从……中幸存下来，通常翻译成“挺过、熬过”。\n\n【2015 年英语（一）】\n\nInfants rarely survived the journey.\n\n婴儿很少能挺过这段旅程。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "survival n. 幸存"
+        }
+      ]
+    },
+    {
+      "spelling": "collect",
+      "ipa": "/kə'lekt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "收集；聚集"
+        }
+      ],
+      "mnemonic": "col-（all together）+ lect-（选择）→ 选到一起 → 收集、聚集。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常见释义",
+          "body": "收集\n\n【2024 年英语（一）】\n\n32. collect user information without consent\n在未获得同意的情况下，收集用户信息"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "collection n. 收集；聚集；收集物；作品集\n\n【2010 年英语（一）】\n\na considerable number of the most significant collections of criticism published in the 20th century 20 世纪出版的大量重要评论文集"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "常考",
+          "body": "collective adj. 集体的，共同的\n\n【2012 年英语（一）】\n\nBut it takes collective scrutiny and acceptance to transform a discovery claim into a mature discovery. 但要将一项发现成果宣告转变为成熟的发现成果，需要共同的审视和认可。"
+        }
+      ]
+    },
+    {
+      "spelling": "response",
+      "ipa": "/rɪˈspaːns/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "反应；回应"
+        }
+      ],
+      "mnemonic": "re（热）s（死）ponse（胖子）热死的胖子没有反应（response）了。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "response to 对……的回应\n\n【2023 年英语（二）】\n\nIn response to another petition last year about banning fake lawns, the government responded that it has “no plans to ban the use of artificial grass”.\n\n作为对去年针对有关禁止人造草坪的另一份请愿书的回应，政府作出回应称它“无意禁止使用人造草坪”。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "熟词僻义",
+          "body": "response 既可以表示做出的回应，也可以表示某种反应\n\n【2011 年英语（一）】\n\nEvidence suggests that emotions can flow from muscular responses.\n\n有证据表明，情绪可能源自肌肉反应。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "respond vi. 反应；回应"
+        }
+      ]
+    },
+    {
+      "spelling": "responsible",
+      "ipa": "/rɪˈspaːnsəb(ə)l/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "负有责任的"
+        }
+      ],
+      "mnemonic": "respons-（= response 回应）+ -ble（能）→能够对一件事做出回应的人，必然是对这件事负责的人。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "be responsible for 除了表示“对……负责”，还可以表示“导致”，写作常用。\n\n【2011 年英语（一）】\n\nEarned media may be responsible for fiercer competition.\n\n付费媒体可能会导致更加激烈的竞争。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "responsibility n. 责任"
+        }
+      ]
+    },
+    {
+      "spelling": "stand",
+      "ipa": "/stænd/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "站；位于；存在"
+        },
+        {
+          "pos": "v./n.",
+          "meaning_cn": "（持有某种）态度，观点，立场"
+        }
+      ],
+      "mnemonic": "我们需要站（stand）着发表观点（stand）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "熟词僻义",
+          "body": "stand 可以作名词，表示态度、立场，即站在哪一边常考:take a stand 表示持有某种立场。\n\n【2019 年英语（一）】\n\nNext time you talk with someone who takes a stand,\nask them to give you a reason for their view.\n\n下次你和持有某种立场的人交流，让他们就其观点给你一个理由。"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "- stand (up) for 代表、支持，其实就是为某人站台。\n\n【2024 年英语（一）】\n\nIt is too easy, and misleading, to see such court rulings as merely standing up for the rights of land owners.\n\n将此类法庭裁决仅仅视为支持土地所有者权益的行为，这种看法太过简单且带有误导性。\n\n- stand out 杰出、突出，字面含义为站（stand）出来 (out), 类似中文“鹤立鸡群”的说法；类似的单词 outstanding 表示“突出的；明显的；杰出的”。\n\n【2013 年英语（二）】\n\nTherefore, everyone needs to find their extra — their unique value contribution that makes them stand out in whatever is their field of employment.\n\n因此，每个人都需要找到自己独特的价值贡献——这种贡献能使他们在各自的工作领域中脱颖而出。"
+        }
+      ]
+    },
+    {
+      "spelling": "mirror",
+      "ipa": "/'mɪrər/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "镜子"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "映射出，反射；反映"
+        }
+      ],
+      "mnemonic": "本义表示镜子，照镜子时，镜中会映射出自己的形象，引申表示“反映”。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "考点点拨",
+          "body": "常见释义：反映；映射\n\n【2020 年英语（一）】\n\nFemale participation on corporate boards may not currently mirror the percentage of women in the general population, but so what?\n\n女性在公司董事会中的参与比例或许目前并未映射出与女性在整体人口中的占比相匹配，但这又怎样呢？"
+        }
+      ]
+    },
+    {
+      "spelling": "reflect",
+      "ipa": "/rɪˈflekt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "反射；反映；反思，深思"
+        }
+      ],
+      "mnemonic": "水面映射（reflect）出他深思（reflect）的表情。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "- reflect on/upon sth. 思考、反思某事\n\nBefore making new year resolutions, it's healthy to reflect upon past achievements and shortcomings.\n\n在制订新年计划前，反思过去的成就与不足是很有益的。\n\n- reflect back 物理反射\n\nThe mirror reflects back the sunlight.\n\n镜子将阳光反射回来。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "reflection n. 反射；反映；反思、深思\n\nflexible adj. 易弯曲的；灵活的（flex- = flect- 折叠 + -ble 能 → 能被折叠的 → 易弯曲的、灵活的）\n\nunreflecting adj. 不反思的，缺乏思考的 (un-否定)\n【2009 年】\n\nNot choice, but habit rules the unreflecting herd.\n\n统治缺乏思考的人群的，不是选择，而是习惯。"
+        }
+      ]
+    },
+    {
+      "spelling": "observe",
+      "ipa": "/əb'zɜːrv/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "服从，遵守；观察，注视"
+        }
+      ],
+      "mnemonic": "serv- 来自 see 表示看。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "observe 在考研历史上只考过“观察”之义，“服从、遵守”的含义从未考过。\n\n【2010 年英语（一）】\n\nWhat the researchers have observed recently shows that the power of influence goes with social interactions.\n\n研究人员近期观察到的东西显示，影响力与社会交往密切相关。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "observation n. 服从，遵守；观察，注视\n\nobserver n. 观察者；目击者"
+        }
+      ]
+    },
+    {
+      "spelling": "track",
+      "ipa": "/træk/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "路；轨迹"
+        },
+        {
+          "pos": "v./n.",
+          "meaning_cn": "跟踪，追踪"
+        }
+      ],
+      "mnemonic": "警察在路（track）上追踪（track）逃犯。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "keep track of 跟踪，追踪\n\n【2024 年英语（二）】\n\nMany of us are taking advantage of this technology  $t_{0}$  keep better track of our health.\n\n我们中的很多人都在利用这项技术去更好地追踪我们的健康状况。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "trace vt./n. 追踪；追查；追溯"
+        }
+      ]
+    },
+    {
+      "spelling": "reverse",
+      "ipa": "/rɪˈvɜːrs/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "反转，逆转，颠倒"
+        }
+      ],
+      "mnemonic": "re-（反）+ ver-（转）→反转。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "常见用法",
+          "body": "【2013、2021 年英语（二）】\n\nreverse a trend 逆转趋势\n\n【2012 年英语（一）】\n\nreverse the flow 逆转趋势"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "reversal n. 反转，逆转，颠倒\n\nreversible adj. 可逆转的\n\nirreversible adj. 不可逆转的（ir- = in- 否定）"
+        }
+      ]
+    },
+    {
+      "spelling": "invert",
+      "ipa": "/ɪnˈvɜːrt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "颠倒，倒置"
+        }
+      ],
+      "mnemonic": "in- = en-（使）+ vert-（turn，转）→ 使反转一颠倒、倒置。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常见释义",
+          "body": "颠倒\n\n【2011 年英语（一）】\n\nThe traditional rule was it's safer to stay where you are, but that's been fundamentally inverted.\n\n过去的传统观念是待在原地比较安全，但如今这种观念已经彻底颠倒了。"
+        },
+        {
+          "marker": "②",
+          "kind": "辨析",
+          "label_raw": "近义词辨析",
+          "body": "invert & reverse\n\n- invert 特指上下颠倒或内部结构的翻转，例如将"
+        }
+      ]
+    },
+    {
+      "spelling": "immune",
+      "ipa": "/ɪˈmjuːn/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "免疫的；不受影响的"
+        }
+      ],
+      "mnemonic": "谐音“疫苗”, 疫苗使人能够免疫 (immune)。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "搭配",
+          "label_raw": "考点点拨",
+          "body": "固定搭配:be immune to 不受……的影响\n\n【2010 年英语（一）】\n\nBusiness method patents are immune to legal challenges.\n\n商业方法专利不受法律质疑的影响。"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L18-01",
+      "kind": "single",
+      "stem": "The museum's new exhibition features a ____ of Renaissance paintings donated by a ____ of European art historians, though some critics argue these works were ____ without proper cultural heritage authorization.",
+      "options": [
+        "collection... collective... collected",
+        "collective... collection... collected",
+        "collecting... collective... collection",
+        "collected... collection... collected"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "collect",
+          "bind": "词形"
+        },
+        {
+          "n": 2,
+          "word": "collect",
+          "bind": "词形"
+        },
+        {
+          "n": 3,
+          "word": "collect",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L18-02",
+      "kind": "single",
+      "stem": "The philosopher criticized modern society's ____ approach to digital trends, where constant information consumption leaves no room for ____. He argued that true wisdom comes from ____ thinking, not just passively absorbing data like ____ material bending to external forces.",
+      "options": [
+        "unreflecting... reflection... reflective... flexible",
+        "reflective... flexibility... unreflecting... flexed",
+        "flexible... reflection... unreflecting... reflective",
+        "unreflecting... flexible... reflective... flexed"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "reflect",
+          "bind": "词形"
+        },
+        {
+          "n": 2,
+          "word": "reflect",
+          "bind": "词形"
+        },
+        {
+          "n": 3,
+          "word": "reflect",
+          "bind": "词形"
+        },
+        {
+          "n": 4,
+          "word": "reflect",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L18-03",
+      "kind": "single",
+      "stem": "The controversial politician claimed he was immune ____ public criticism, but his sudden policy shift suggested he wasn't entirely influenced by the pressure from his party.",
+      "options": [
+        "of",
+        "against",
+        "to",
+        "away"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "immune",
+          "bind": "介词"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L18-04",
+      "kind": "fill",
+      "stem": "We canceled our hotel ____ last minute when the flight got delayed.(reserve)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "reservation"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "reserve",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L18-05",
+      "kind": "fill",
+      "stem": "Customers were generally responsible ____ paying the sales tax to the state themselves if they weren't charged it.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "for"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "responsible",
+          "bind": "介词"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L18-06",
+      "kind": "fill",
+      "stem": "I use a fitness app to keep track ____ my daily steps and calorie intake.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "of"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "track",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L18-07",
+      "kind": "fill",
+      "stem": "In 1951 the ____ were returned to power.(conservation)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "conservatives"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "conservation",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L18-08",
+      "kind": "fill",
+      "stem": "If a change is ____, things cannot be changed back to the way they were before.(reverse)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "irreversible"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "reverse",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L18-09",
+      "kind": "fill",
+      "stem": "Through careful ____ of bird migration patterns, researchers discovered subtle climate change indicators.(observe)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "observation"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "observe",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L18-10",
+      "kind": "translate_sentence",
+      "stem": "Traditionally, legal learning has been viewed as the special preserve of lawyers.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "preserve",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L18-11",
+      "kind": "translate_sentence",
+      "stem": "Scientific claims will survive challenges.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "survive",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L18-12",
+      "kind": "translate_sentence",
+      "stem": "The vaccine's antibody response was strong, but the patient's emotional response to the side effects delayed further treatment.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "response",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L18-13",
+      "kind": "translate_sentence",
+      "stem": "The lake's calm surface perfectly mirrored the towering mountains, creating a breathtaking inverted landscape.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "mirror",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L18-14",
+      "kind": "translate_word",
+      "stem": "As the hacking trial concludes, the wider issue of dearth of integrity still [stands].",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "stand",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L18-15",
+      "kind": "translate_word",
+      "stem": "But now most colleges, [save for] many selective campuses, allow all undergraduates, and even graduate students, to get their low grades forgiven.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "save",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L18-16",
+      "kind": "translate_word",
+      "stem": "The scientist [inverted] the test tube, observing how the liquid formed a perfect air bubble at the top.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "invert",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

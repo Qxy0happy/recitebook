@@ -1,0 +1,4174 @@
+{
+ "theme": "经济与就业",
+ "dir_name": "高频词表 经济与就业",
+ "md_path": "pdf/高频词/outputs/高频词表 经济与就业/markdown.md",
+ "lists": [
+  {
+   "list_no": null,
+   "title": null,
+   "words": []
+  },
+  {
+   "list_no": 31,
+   "title": "就业与人力资源管理",
+   "words": [
+    {
+     "seq": 1,
+     "spelling": "bonus",
+     "spelling_raw": "bonus",
+     "ipa_raw": "/'boʊnәs/",
+     "mnemonic": "这笔奖金 (bonus) 是项目的额外奖励 (bonus),也算是分红红利 (bonus)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "奖金；红利；补贴；额外的好处；意外收获"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "额外的好处\nBut actually we' ve got even a bonus thing today.但实际上今天我们甚至还有额外的福利。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "year-end bonus 年终奖金\nas a bonus 作为额外的好处"
+      }
+     ],
+     "examples": [],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 2,
+     "spelling": "career",
+     "spelling_raw": "career",
+     "ipa_raw": "/kə'rı/",
+     "mnemonic": "car (车辆、运输工具) +- eer (从事某职业的人)→出租车司机的职业生涯都是靠开车来谋生的。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "生涯；经历；职业"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "职业的"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "猛冲；疾驶"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "trade & vocation & career\ntrade :意为“行当、行业、手艺”，尤指需技术性劳动的工作；\nvocation : 意为“行业、(职业正规的) 工作、(赖以为生的) 正业”，尤指一个人特别适合或尤其有资格胜任的职业；\ncareer:意为“生涯”，常指终身从事的工作或职业。"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "猛冲\nHis car careered into a river.\n他的车猛地冲进了河里。"
+      }
+     ],
+     "examples": [],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 3,
+     "spelling": "employ",
+     "spelling_raw": "employ",
+     "ipa_raw": "/m'ploi/",
+     "mnemonic": "谐音“应聘咯”→应聘的人都被雇用咯。",
+     "senses": [
+      {
+       "pos": "vt.",
+       "meaning_cn": "雇用；用；使用"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "受雇"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "使用 (某种方法/ 措施)\nAmong other weaknesses, the measures cities must employ when left to tackle dirty air on their own.\n除其他缺陷外，当城市被迫独自应对空气污染问题时，必须要采取的措施也存在诸多不足。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "employee n.雇 员 ; 雇 工 ; 受 雇 者\nemployer n.雇 主 ; 老 板 ; 雇 用 者\nemployment n.就 业 ; 工 作 ; 职 业 ; 受 雇\nunemployment n.失业人数;失业"
+      }
+     ],
+     "examples": [],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 4,
+     "spelling": "employee",
+     "spelling_raw": "employee",
+     "ipa_raw": "/ım'plori:/",
+     "mnemonic": "employ (雇用) +- ee ( 被 …… 的 人 )→ 被 雇用的人。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "雇工；雇员"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "【2023 年英语 (一)】\nWithout enough affordable housing in southern New“Hampshire towns, employers are having a hard time attracting employees, and workers are having a hard time finding a place to live.”Taylor said.\n“新罕布什尔州南部城镇没有足够的经济适用房，雇主难以吸引员工，而劳动者也很难找到住处。”泰勒说。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语 (一)】",
+       "year": 2023,
+       "exam": "英语一",
+       "part": null,
+       "en": "Without enough affordable housing in southern New “ Hampshire towns, employers are having a hard time attracting employees, and workers are having a hard time finding a place to live.” Taylor said.",
+       "cn": "“新罕布什尔州南部城镇没有足够的经济适用房，雇主难以吸引员工，而劳动者也很难找到住处。”泰勒说。"
+      }
+     ],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 5,
+     "spelling": "employer",
+     "spelling_raw": "employer",
+     "ipa_raw": "/ım'plərər/",
+     "mnemonic": "employ (雇用) +- er (表示人)→雇用别人的人",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "雇主"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "雇主\nThe personal grievance provisions of New Zealand's Employment Relations Act2000(ERA) prevent an employer from firing an employee without good cause.新西兰《2000 年雇佣关系法》(ERA) 的个人申诉条款禁止雇主在没有正当理由的情况下解雇雇员。"
+      }
+     ],
+     "examples": [],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 6,
+     "spelling": "employment",
+     "spelling_raw": "employment",
+     "ipa_raw": "/im'ploimənt/",
+     "mnemonic": "employ ( 雇 佣 ) +- ment (表行为或状态)→他签署雇佣合同后，正式入职了",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "雇用；使用；工作；职业；利用"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "使用\nDo you think the employment of force was justified？你想想暴力的使用是正当的吗？"
+      }
+     ],
+     "examples": [],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 7,
+     "spelling": "unemployment",
+     "spelling_raw": "unemployment",
+     "ipa_raw": "/,anim'ploimənt/",
+     "mnemonic": "un- ( 不 ) + employ ( 雇 佣 ) +- ment (名词后缀)→不被雇用的人，就失业了。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "失业；失业人数；失业救济金"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "失业救助金\nApplications for unemployment dropped last month.上个月申请失业救助金的人数下降了。"
+      }
+     ],
+     "examples": [],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 8,
+     "spelling": "interview",
+     "spelling_raw": "interview",
+     "ipa_raw": "/'mtərvju:/",
+     "mnemonic": "inter- ( 相 互 之 间 ) + view ( 看 ) →面试就是相互之间面对面交流。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "采访；面试；审讯"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "接见；会见；采访；面试"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "审讯\nThe police interviewed the driver, but had no evidence to go on.\n警察审讯了司机，但没有得到继续调查的证据。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "interviewer n.采 访 者 ; 进 行 面 试 者"
+      }
+     ],
+     "examples": [],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 9,
+     "spelling": "leadership",
+     "spelling_raw": "leadership",
+     "ipa_raw": "/'li:dərfip/",
+     "mnemonic": "leader ( 领 导 ) +- ship ( 身 份、能 力 )→ 优 秀的领导具备带领团队前进的能力。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "领导；领导层；领导才能"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "领导才能\n【2018 年英语 (一)】\nAmong the children who had not been tricked, the majority were wiling to cooperate with the tester in learning a new skill, demonstrating that they trusted his leadership.\n在没有上当受骗的孩子中，大多数都愿意与测试人员合作学习新技能，表明他们信任他的领导能力。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2018 年英语 (一)】",
+       "year": 2018,
+       "exam": null,
+       "part": null,
+       "en": "Among the children who had not been tricked, the majority were wiling to cooperate with the tester in learning a new skill, demonstrating that they trusted his leadership.",
+       "cn": "在没有上当受骗的孩子中，大多数都愿意与测试人员合作学习新技能，表明他们信任他的领导能力。"
+      }
+     ],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 10,
+     "spelling": "pay",
+     "spelling_raw": "pay",
+     "ipa_raw": "/per/",
+     "mnemonic": "pay(支付) 访问费，pay(付出、给予) 才到位。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "支付；付出；给予；进行访问"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "工资；薪资"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "pay back 偿 还 ; 回 报\npay off 还 清 ( 债 )"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "支付\n【2021 年英语 (一)】\nIt is all very well train operators trumpeting the improvements they are making to the network, but passengers should be able to expect a basic level of service for the substantial sums they are now paying to travel.\n火车运营商固然可以大肆宣传他们正在对铁路网进行的改进，但是乘客们应该能够期望他们现在支付的大笔旅行费用能得到基本的服务水平。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2021 年英语 (一)】",
+       "year": 2021,
+       "exam": "英语一",
+       "part": null,
+       "en": "It is all very well train operators trumpeting the improvements they are making to the network, but passengers should be able to expect a basic level of service for the substantial sums they are now paying to travel.",
+       "cn": "火车运营商固然可以大肆宣传他们正在对铁路网进行的改进，但是乘客们应该能够期望他们现在支付的大笔旅行费用能得到基本的服务水平。"
+      }
+     ],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 11,
+     "spelling": "performance",
+     "spelling_raw": "performance",
+     "ipa_raw": "/pər'fo:rməns/",
+     "mnemonic": "每一次 (per) 在特定场合表现的 form(形式)+ -ance(名词后缀)→表演。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "执行；履行；做；表演；演出；演技；表现；行为；业绩"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "业绩\n【2019 年英语 (一)】\nBritain's new rule is a reminder to bankers that society has an interest in their performance, not just for the short term but for the long term.\n英国的新规定提醒银行家，社会不仅对他们的短期业绩有兴趣，而且对他们的长期业绩也有兴趣。"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "性能\nThe car's performance on road tests was poor.上路测试时，这辆车的性能很糟糕。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2019 年英语 (一)】",
+       "year": 2019,
+       "exam": "英语一",
+       "part": null,
+       "en": "Britain's new rule is a reminder to bankers that society has an interest in their performance, not just for the short term but for the long term.",
+       "cn": "英国的新规定提醒银行家，社会不仅对他们的短期业绩有兴趣，而且对他们的长期业绩也有兴趣。"
+      }
+     ],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 12,
+     "spelling": "profession",
+     "spelling_raw": "profession",
+     "ipa_raw": "/prə'fefn/",
+     "mnemonic": "pro-( 向 前 ) +fe( 谐 音“费”) +ssion( 谐音“神”)→在职业道路上不断向前深耕、是很费心费神的。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "职业；自由职业；同业；同行；宣布；宣称"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "job & work & position & occupation & profession & vocation & career\njob 和 work 都意为“工作、事儿”,一般用语，但前者为可数名词，后者为不可数名词；\nprofession 和 occupation 较为正式，意为“职业、行业、专业”。此外，profession 还指受高等教育和特别训练的工作；\nposition 意为“职业、岗位”，一般指某种特定工作；\nvocation 意为“行业、(职业正规的) 工作、(赖以为生的) 正业”，尤指一个人特别适合或尤其有资格胜任的职业；\ncareer 意为“生涯”，常指终身从事的工作或职业。"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "宣称 (强调公开、正式的声明)\nThe king's profession of allegiance to the new constitution surprised many nobles.\n国王对新宪法效忠的公开声明让许多贵族感到意外。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "professional adj.职 业 的 , 专 业 的 , 内 行 的 , 有 经 验的；n.自由职业者，专业人员"
+      }
+     ],
+     "examples": [],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 13,
+     "spelling": "qualification",
+     "spelling_raw": "qualification",
+     "ipa_raw": "/,kwa:lıfi'keifn/",
+     "mnemonic": "quali ( 谐 音“快 立”) +fi( 谐 音“费”) + -cation ( 表 结 果 )→先快立目标，然后要花费时间努力、才能得到一个好的结果 (合格证)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "资格；合格；限定；限制性条件；合格证"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "资格\n【2020 年英语 (一)】\nRequiring companies to make gender the primary qualification for board membership will inevitably lead to less experienced private sector boards.\n要求公司将性别作为董事会成员的主要任职资格，将不可避免地导致私营部门的董事会经验不足。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "qualification for …… 的 资 格"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语 (一)】",
+       "year": 2020,
+       "exam": null,
+       "part": null,
+       "en": "Requiring companies to make gender the primary qualification for board membership will inevitably lead to less experienced private sector boards.",
+       "cn": "要求公司将性别作为董事会成员的主要任职资格，将不可避免地导致私营部门的董事会经验不足。"
+      }
+     ],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 14,
+     "spelling": "quit",
+     "spelling_raw": "quit",
+     "ipa_raw": "/kwit/",
+     "mnemonic": "他 决 定 戒 掉 (quit ) 烟 瘾 后 , 要 停 止 (quit ) 购烟行为，并且远离 (quit ) 诱发烟瘾的场合。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "停止；放弃；离开；辞去；戒掉"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "quit smoking 戒 烟"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "戒掉\nEventually, she became so badly affected by the drugs that she decided to quit on the spot.\n最终，她受到药物的严重影响，当场决定戒烟。"
+      }
+     ],
+     "examples": [],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 15,
+     "spelling": "recruit",
+     "spelling_raw": "recruit",
+     "ipa_raw": "/ri'kru:t/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "招募（新兵）；招收（新成员）"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "新兵；新成员妙 记 : re-( 再 , 重 新 )+cruit-( 成 长 , 生 长 ) → 团队的重新成长需要招兵买马→recruit 招聘。"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "招募\n【2020 年英语 (二)】\nThat suggests it is in the broader corporate interest to recruit top candidates for increasingly tough jobs.\n这表明，为日益艰难的工作招募顶尖候选人符合公司更广泛的利益。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "recruiter n.招募者，招聘人员"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语 (二)】",
+       "year": 2020,
+       "exam": "英语二",
+       "part": null,
+       "en": "That suggests it is in the broader corporate interest to recruit top candidates for increasingly tough jobs.",
+       "cn": "这表明，为日益艰难的工作招募顶尖候选人符合公司更广泛的利益。"
+      }
+     ],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 16,
+     "spelling": "training",
+     "spelling_raw": "training",
+     "ipa_raw": "/'tremnm/",
+     "mnemonic": "train ( 训 练 ; 培 养 ) +- ing ( 名 词 后 缀 )→训练、培养。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "训练；培养；培训"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "培训\n【2018 年英语 (一)】\nOnline education can supplement the traditional kind. It could make extra training and instruction affordable.\n在线教育可以作为传统教育的补充，它提供了让人们负担得起的额外培训和指导。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2018 年英语 (一)】",
+       "year": 2018,
+       "exam": "英语一",
+       "part": null,
+       "en": "Online education can supplement the traditional kind. It could make extra training and instruction affordable.",
+       "cn": "在线教育可以作为传统教育的补充，它提供了让人们负担得起的额外培训和指导。"
+      }
+     ],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 17,
+     "spelling": "wage",
+     "spelling_raw": "wage",
+     "ipa_raw": "/weidz/",
+     "mnemonic": "谐音“位置”→等你坐到我这个位置，你就能拿更多的工资。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "工资；报酬"
+      },
+      {
+       "pos": "vt.",
+       "meaning_cn": "进行；从事；开展"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "wage(a) war on/ against 对……开战\nIn many rich countries average wages in the state sector are higher than in the private one.\n在许多富裕国家，政府部门的平均收入要高于私营部门。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "辨 析 : wage & salary & pay\nwage :一般指体力劳动者的工资，通常按周支付，按工作时数、天数或劳动成果的数量计算。一般都用复数形式，用其单数形式时，其前往往有定语修饰；\nsalary:指给从事脑力劳动者的薪金以及从事高技能工作的人员获得的工资，通常按月或者按年支付；) pay:指从事任何工作的人所得的收入、报酬，是最通俗的用语。"
+      }
+     ],
+     "examples": [],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 18,
+     "spelling": "work",
+     "spelling_raw": "work",
+     "ipa_raw": "/w3:rk/",
+     "mnemonic": "他的著作 (work) 里记录了多年工作 (work) 的心得，书中提到了许多器械运转 (work) 的原理。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "工作；劳动；职业；产品；成品；工艺品；著作；工厂"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "工作；运转"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "work out 解 决 ; 算 出 ; 制 定 出\nwork up 引 起 ; 激 起 ; 逐 渐 上 升\nout of work 失业"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "作品\nHe recognized the painting as an early work by Degas.他认出了这幅画是德加的早期作品。"
+      }
+     ],
+     "examples": [],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 19,
+     "spelling": "appoint",
+     "spelling_raw": "appoint",
+     "ipa_raw": "/ə'poindt/",
+     "mnemonic": "ap-( 谐 音“安 排”) +point( 位 置 , 点 )→ 安排某个人到指定的岗位上→appoint 任命。",
+     "senses": [],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "任命\n【2018 年英语 (一)】\nIn December of 1869, Congress appointed a commission to select a site and prepare plans and cost estimates for a new State Department Building.\n1869 年 12 月，国会任命一个委员会为新国务院大楼选址、制订计划并进行成本估算。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "appointee n.被任命人;被任命者;被委任者\nappointment n.约 会 ; 预 约 ; 约 定 ; 任 命 ; 委 托 ;职务；职位\ndisappoint v.使 失 望 ; 使 落 空 ; 使 破 灭"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2018 年英语 (一)】",
+       "year": 2018,
+       "exam": "英语一",
+       "part": null,
+       "en": "In December of 1869, Congress appointed a commission to select a site and prepare plans and cost estimates for a new State Department Building.",
+       "cn": "1869 年 12 月，国会任命一个委员会为新国务院大楼选址、制订计划并进行成本估算。"
+      }
+     ],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 20,
+     "spelling": "acquisition",
+     "spelling_raw": "acquisition",
+     "ipa_raw": "/,ækwi'zifn/",
+     "mnemonic": "ac-( 朝 )+quis-( 搜 寻 , 探 寻 )+-ition( 行 为 ,状态，结果)→朝某个目标搜寻一定会有所获得。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "获得；获得物；收购；（知识、技能等的）习得"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "merger and acquisition 收购兼并 language acquisition 语言习得"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "收购\nThey have made acquisitions in several EU countries.他们已在几个欧盟国家里进行了收购。"
+      },
+      {
+       "marker": "③",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "获得\n【2020 年英语 (一)】\nOther scientists perform the specialised work of peer review also for free, because it is a central element in the acquisition of status and the production of scientific knowledge.\n其他科学家也免费从事同行评议的专门工作，因为这是获得地位和创造科学知识的一个核心要素。\n## labo(u)r /'lerbər/"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语 (一)】",
+       "year": 2020,
+       "exam": "英语一",
+       "part": null,
+       "en": "Other scientists perform the specialised work of peer review also for free, because it is a central element in the acquisition of status and the production of scientific knowledge. ## labo(u)r /'lerbər/",
+       "cn": "其他科学家也免费从事同行评议的专门工作，因为这是获得地位和创造科学知识的一个核心要素。"
+      }
+     ],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 21,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "谐音“累不”→工作一天了，你累不？",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "工作；劳动；劳工；劳方（总称)；分娩；阵痛：英国工党"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "劳动；苦干；努力做（困难的事）"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "labo(u)r the point 细 说 , 啰 唆 地 说\nThe humiliations of his father's imprisonment and his labo(u)r in the blacking factory formed Dicken's greatest wound and became his deepest secret.\n父亲入狱和鞋油工厂做工带来的种种羞耻让狄更斯伤痕累累，成为埋藏最深的秘密。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "laborious adj.费力的，辛苦的"
+      }
+     ],
+     "examples": [],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 22,
+     "spelling": "retire",
+     "spelling_raw": "retire",
+     "ipa_raw": "/ri'taiər/",
+     "mnemonic": "re-( 反 复 ) +tire ( 疲 劳 的 )→ 反 反 复 复 感 觉到疲惫的人，也许就是该退休了。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "退休；引退；撤退；退却；就寝；使退休"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "retire into oneself 沉思不语\nretire to 回到……"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "退休\nAbout 72% of“unretire”respondents said that they would return to work once retired to keep mentally fit while 59% said it would be tied to making ends meet.\n约 72% 的“退而不休”受访者表示，退休后会选择重返职场以保持思维活跃，而 59% 的受访者则表示重返工作的原因是维持生计需要。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "retiree n.退休人员\nretirement n.退 休 , 退 职 ; 引 退"
+      }
+     ],
+     "examples": [],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 23,
+     "spelling": "hire",
+     "spelling_raw": "hire",
+     "ipa_raw": "/'haiər/",
+     "mnemonic": "谐音“海尔”→海尔公司要招新员工了。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "雇用；租借；新员工"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "雇用；租借"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "雇用\n【2015 年英语 (一)】\nThis is hacking on an industrial scale, as was acknowledged by Glenn Mulcaire, the man hired by the News of the World in 2001 to be the point person for phone hacking.\n2001 年供职于《世界新闻报》专门负责窃听的格伦•穆尔凯尔承认，此次窃听涉及全行业范围。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "pay for/ buy sth. on hire purchase 以分期付款的方式 (购买某物)\nhire out 出 租 , 受 雇"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2015 年英语 (一)】",
+       "year": 2015,
+       "exam": "英语一",
+       "part": null,
+       "en": "This is hacking on an industrial scale, as was acknowledged by Glenn Mulcaire, the man hired by the News of the World in 2001 to be the point person for phone hacking.",
+       "cn": "2001 年供职于《世界新闻报》专门负责窃听的格伦•穆尔凯尔承认，此次窃听涉及全行业范围。"
+      }
+     ],
+     "list_no": 31,
+     "list_title": "就业与人力资源管理",
+     "theme": "经济与就业"
+    }
+   ],
+   "narrative": {
+    "plot": "求职入行→ 职场发展 → 职业终章",
+    "sections": [
+     {
+      "title": "求职入行",
+      "text": [
+       "李明毕业后，因就业规划报名了职业 training (培训),提升 qualification  (资质)。经 interview (面试) 后 ,employer ( 雇 主 ) 决定 hire (雇佣) 他 ,appoint (任命) 其为技术 employee (员工),劳动合同注明 wage (工资) 与 performance (绩效) 挂钩，他正式获得 employment (工作),成为一名工人。"
+      ]
+     },
+     {
+      "title": "职场发展",
+      "text": [
+       "work( 工 作 ) 中，他勤恳 labo (u) r ( 劳 动 ),employer (雇主) 为激励其 performance (表现),不仅 pay ( 支 付 ) 额外 bonus ( 奖 金 ), 还 提 供 leadership ( 领 导 能 力 ) training(培训)。但其所在 profession (行业) 竞争激烈，有同事被迫 quit (辞职) unemployment(失业),公司一直在持续 recruit (招聘) 新人。"
+      ]
+     },
+     {
+      "title": "职业终章",
+      "text": [
+       "多年后，公司最终完成业务 acquisition (收购)，李明因资历深厚留任，直至 retire( 退 休 ) 。他 回 顾 career ( 职 业 生 涯 ), 从 被 employ ( 雇 佣 ) 到 稳 定 employment(就业)，每一步都离不开能力与机遇的结合。"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "list_no": 32,
+   "title": "企业组织与运营",
+   "words": [
+    {
+     "seq": 1,
+     "spelling": "firm",
+     "spelling_raw": "firm",
+     "ipa_raw": "/f3:rm/",
+     "mnemonic": "这家法律 firm ( 公 司) 以 firm ( 坚 定 的 ) 态度稳固了市场地位，近期正通过优化流程 fi rm up (敲定) 海外合作计划。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "公司；球迷俱乐部"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "坚实的；可靠的"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "使强壮"
+      },
+      {
+       "pos": "adv.",
+       "meaning_cn": "坚定地"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "firm 作名词，表示“公司，商号”，常与其他名词搭配构成专业领域的公司名称，如 law firm 律师事务 所 ;accounting firm 会计师事务所。\n【2007 年】\nUntil California recently passed a law, American firms\ndid not have to tell anyone, even the victim.\n在加利福尼亚州最近通过一项法律之前，美国公司不需要告诉任何人，甚至是受害者。"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "firm 作形容词、表示“坚固的”，用于描述物体具有稳定、坚实的特性。常修饰 foundation,surface。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2007 年】",
+       "year": 2007,
+       "exam": null,
+       "part": null,
+       "en": "Until California recently passed a law, American firms did not have to tell anyone, even the victim.",
+       "cn": "在加利福尼亚州最近通过一项法律之前，美国公司不需要告诉任何人，甚至是受害者。"
+      }
+     ],
+     "list_no": 32,
+     "list_title": "企业组织与运营",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 2,
+     "spelling": "meeting",
+     "spelling_raw": "meeting",
+     "ipa_raw": "/'mi:tm/",
+     "mnemonic": "meet ( 遇 见 )+-ing ( 名 词 后 缀 )= meeting (会面、会议)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "会议；会面；运动会"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "会面"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "meeting 表示“会议”,常用搭配:\nattend a meeting 参加会议\nchair a meeting 主持会议\nurgent meeting 紧急会议\nmeeting minutes 会议记录\nat the meeting 在会议进行中"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "meeting 在表示“具体会议”时为可数名词，如 three meetings this week 本周有三场会;在表示“会议活动”的总称时为不可数名词，如 Time spent in meeting could be more productive.花在会议上的时间可以变得更加高效。"
+      },
+      {
+       "marker": "③",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "meeting & conference & assembly\nmeeting: 泛指各种会议;\nconference: 指正式大型会议，如学术会议;\nassembly :指集会，尤指多人聚集的正式场合。"
+      }
+     ],
+     "examples": [],
+     "list_no": 32,
+     "list_title": "企业组织与运营",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 3,
+     "spelling": "efficiency",
+     "spelling_raw": "efficiency",
+     "ipa_raw": "/r'fif(ə)nsi/",
+     "mnemonic": "ef- (类似 ex-,表示“向外，出”)+fic-(词根，表 示“做”)+-iency ( 名 词 后 缀 ) = 向 外 做 事 , 把事情做出来的能力=效率。",
+     "senses": [],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "efficiency 表示“效率”,常用搭配:\nefficiency in sth. 在某方面的效率\nboost efficiency 提升效率\nimpair efficiency 降低效率"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "efficient adj.效率高的\nWe believe expanding such protections would make the labor market more fair and efficient.\n我们认为，扩大此类保护将使劳动力市场更加公平和高效。"
+      }
+     ],
+     "examples": [],
+     "list_no": 32,
+     "list_title": "企业组织与运营",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 4,
+     "spelling": "productivity",
+     "spelling_raw": "productivity",
+     "ipa_raw": "/.proudak'trvəti,/",
+     "mnemonic": "product ( 生 产 )+-ivity (名词后缀，表示“性质、能力”)=生产力。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "生产力"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "productivity 表示“生产力”,考研中常用 productivity crisis 生产力危机。\nProductivity growth has slowed down in recent years.最近几年，生产力增长下降。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "product n.产 品\nproduction n.生 产 ; 加 工\nproductive adj.多 产 的 ; 有 效 益 的\nIt is productive to break tasks into smaller parts.把任务分成更小的部分是有成效的。\nproduce v.( 自 然 地) 生 产 ; 制 作 ;n. 农产品"
+      }
+     ],
+     "examples": [],
+     "list_no": 32,
+     "list_title": "企业组织与运营",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 5,
+     "spelling": "brand",
+     "spelling_raw": "brand",
+     "ipa_raw": "/brænd/",
+     "mnemonic": "这家公司通过 branding (品牌营销) 将传统工艺 brand ( 打 烙 印 ) 为高端 brand (品牌),成功打入国际市场。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "品牌；一类；伙计"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "给……设计品牌；打烙印于（牲畜）0"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "brand 名词意为“品牌”，常出现在经济、商业话题中，如:\nbrand image 品 牌 形 象\nbrand loyalty 品 牌 忠 诚 度\nwell-known brand 知 名 品 牌"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "brand 用作动词时 ,常用搭配 brand… as… 将……标榜为，如 brand someone as a liar 称某人为骗子"
+      }
+     ],
+     "examples": [],
+     "list_no": 32,
+     "list_title": "企业组织与运营",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 6,
+     "spelling": "choice",
+     "spelling_raw": "choice",
+     "ipa_raw": "/tʃors/",
+     "mnemonic": "cho ( 发 音 似“愁”) + ice (冰)=选择太多愁得大脑发热，需要冰块来冰冰。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "选择"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "上等的；精选的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "choice 作名词表示“选择、选择权”,如:\nThe author's choice of words reflects his attitude toward the issue.\n作者的用词反映了他对这个问题的态度。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "choice 熟词生义“精选品”,如:\nchoice goods 精选商品\nchoice literature 经典文学"
+      },
+      {
+       "marker": "③",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "choice 作形容词，表示“精选的”，仅用于名词前。"
+      },
+      {
+       "marker": "④",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "make a choice 做出选择\nhave no choice but to 别无选择，只能……"
+      },
+      {
+       "marker": "⑤",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "choose v.选 择 ; 挑 选"
+      }
+     ],
+     "examples": [],
+     "list_no": 32,
+     "list_title": "企业组织与运营",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 7,
+     "spelling": "corporation",
+     "spelling_raw": "corporation",
+     "ipa_raw": "/,ko:rpə'reif(ə)n/",
+     "mnemonic": "corpor-(作为词根，表示“身体、整体”)+ -ation=由个体组成的整体，即为公司，团体。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "社团；公司；市政当局"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "易混词辨析:\ncorporation 表 示“公司”;\ncooperation 表示“合作、协作”。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "高频短语:\nmultinational corporation 跨国公司\ncorporation strategy 企业战略\nThe report criticizes corporations for ignoring environmental risks.\n报告批评企业忽视环境风险。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "corporate adj.公司的;共同的;n.公司、集团\n搭配：corporate welfare 政府对企业的补贴\ncorporate social responsibility 企业社会责任 (CSR)\nincorporate adj. 合 成 一 体 的 ; 具 体 化 的 ;v. 包含;\n合并；混合\n搭配：incorporate A into B 将 A 并入 B。"
+      }
+     ],
+     "examples": [],
+     "list_no": 32,
+     "list_title": "企业组织与运营",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 8,
+     "spelling": "factory",
+     "spelling_raw": "factory",
+     "ipa_raw": "/'fækt(ə)ri/",
+     "mnemonic": "fact-( 做、制 造 ) +-ory( 名 词 后 缀 ) = 制 造的地方=工厂。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "工厂"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "factory 本义为“工厂、制造厂”,搭配:\nauto factories 汽车工厂\nbuild a factory 建造工厂\npolluting factory 污染型工厂\nThe factory will rely on robots to reduce labor costs.工厂将依赖机器人降低劳动力成本。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "factory 引申义为“千篇一律的、机械化的地方”\nScientific inquiry becomes a factory process.\n科学探究变成了流水线作业。"
+      }
+     ],
+     "examples": [],
+     "list_no": 32,
+     "list_title": "企业组织与运营",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 9,
+     "spelling": "operation",
+     "spelling_raw": "operation",
+     "ipa_raw": "/,a:pə'reif(ə)n/",
+     "mnemonic": "oper-( 词 根 , 表 示“工 作、劳 动”)+-ation( 名词后缀)=投入劳动的过程，即为“操作、业务”。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "运作；实施；手术；经营"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "operation 常表示操作、运转\n搭配：in operation 在运转中\ncome into operation 开始生效\n还表示“手术”:\nsurgical operation 外科手术"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "熟词生义:operation 根据语境还表示“业务活动”,如:\nIn the context of global operations, cultural differences must be considered.\n在全球业务背景下，必须考虑文化差异。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "operate v.操 作 ; 运 转 ; 动 手 术\noperator n.操 作 员 ; 经 营 者\noperational adj.正 常 运 转 的 ; 可 使 用 的 ; 操 作 的"
+      }
+     ],
+     "examples": [],
+     "list_no": 32,
+     "list_title": "企业组织与运营",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 10,
+     "spelling": "activity",
+     "spelling_raw": "activity",
+     "ipa_raw": "/æek'tivəti/",
+     "mnemonic": "act( 行 动)+-ivity= 活动、行动过程。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "活动；活跃状况"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "activity 表示“具体活动”时为可数 名词、如 outdoor activities;表示“抽象的活动状态”时，为不可数名词。如 economic activity 经济活动。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "activity 还可表示“活性”,如 biological activity 生物活性。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "active adj.好动的;积极主动的\nactivate v.激 活 ; 使 活 化"
+      }
+     ],
+     "examples": [],
+     "list_no": 32,
+     "list_title": "企业组织与运营",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 11,
+     "spelling": "chief",
+     "spelling_raw": "chief",
+     "ipa_raw": "/tfi:f/",
+     "mnemonic": "作为公司的 chief (首领),他 chief (首要的) 任务是制定团队的 chief goal (主要目标)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "领袖；酋长"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "首要的；首席的"
+      },
+      {
+       "pos": "adv.",
+       "meaning_cn": "主要地"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "chief 作形容词，表示“主要的”，修饰名词时强调重要性，如 the chief reason 主要原因 ;还用在商业语境中特指“首席负责人”,如 chief executive officer 首 席执行 官 ;chief financial officer 首席财务官。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "chief 作名词时，表示“领袖、主管”,如:\ndepartment chief 部门主管\nparty chief 政党领袖"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "mischief n.恶 作 剧 ; 捣 乱"
+      }
+     ],
+     "examples": [],
+     "list_no": 32,
+     "list_title": "企业组织与运营",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 12,
+     "spelling": "executive",
+     "spelling_raw": "executive",
+     "ipa_raw": "/ıg'zekjətrv/",
+     "mnemonic": "execut- ( execute, 执 行 ) +- ive (名词后缀) = executive, 执 行 事 务 的 人 , 引 申 为“高 管、决策者”。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "主管；经理"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "行政的；高档的；领导的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "executive 作名词表示“主管”,是可数名词。搭配：senior executives 高管\nexecutive committee 执行委员会\nseveral top executive 几位高层主管"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "executive 作形容词表示“行政的、管理的”,如:\nexecutive decision 管理决策"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "execute v.实 施 ; 处 决 ; 完 成"
+      }
+     ],
+     "examples": [],
+     "list_no": 32,
+     "list_title": "企业组织与运营",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 13,
+     "spelling": "strategy",
+     "spelling_raw": "strategy",
+     "ipa_raw": "/'strætədzi/",
+     "mnemonic": "strategy 发音似“死抓特急”，联想到死抓特别紧急的事，需要“策略”。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "策略；战略"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "近 义 词 辨 析 : strategy & tactics\nstrategy :表示“战略”侧重于长期性、整体性规划，如 corporate strategy 企业战略;\n● tactics :表示“战术”侧重于短期具体手段。\nWhile tactics focus on daily operations, strategy defines the company's long-term direction.\n战术关注的是日常运营，而战略则定义了公司的长期方向。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "常见用法",
+       "body": "Companies need to formulate a clear strategy to adapt to market changes.\n企业需要制定明确的战略来适应市场的变化。\nThe strategy behind the reform aims to boost productivity.\n改革背后的战略旨在提高生产率。"
+      }
+     ],
+     "examples": [],
+     "list_no": 32,
+     "list_title": "企业组织与运营",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 14,
+     "spelling": "office",
+     "spelling_raw": "office",
+     "ipa_raw": "/'a:fis/",
+     "mnemonic": "他去 office ( 办 公 室 ) 和当地政府 office (机构) 讨论这项政策，希望能得到一份符合他 office (官职) 目标的办公室。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "办公室；重要官职"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": null,
+       "body": "office 的不同词义下冠词的用法:office 在表示“办公室”时，需加定冠词，如 he is at the office;office 在表示“官职”时，不加冠词，如 she retired from office."
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "officer n.官 员 ; 军 官\nofficial adj.正 式 的 ; 公 务 的 ;n. 官员"
+      }
+     ],
+     "examples": [],
+     "list_no": 32,
+     "list_title": "企业组织与运营",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 15,
+     "spelling": "service",
+     "spelling_raw": "service",
+     "ipa_raw": "/'s3:rvis/",
+     "mnemonic": "人体 organ ( 器 官 ) 协 同 工 作，就 像 一 个",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "公共服务系统；招待；兵役"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "维修；为……提供服务"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "部队的；员工专用的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "service 作 为 名 词 , 表 示“服 务” 。如 healthcare service 医 疗 服 务 ;in service 在使用中、在服役。service 在表示“政府部门或公共机构”时，用其复数形式 services, 如 social services 社 会 福 利 部 门 ; fire services 消防部门"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "service 作 动 词 时 表 示“为⋯⋯ 提供服务”,如 service a computer 维 修 电 脑; service customers 为客户服务"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "serve v.服 务 ; 为 …… 工 作\nservant n.仆人\norganization /,o:rgənə'zerf(ə)n/ n.组织；配置；筹备工作\n妙记：人体 organ ( 器 官 ) 协 同 工 作，就 像 一 个\norganization( 组 织 ) 里的部门分工。\nIllustration of human heart anatomy with a cartoon illustration of the heart and lungs, accompanied by a classroom scene with students and a computer (no text or symbols visible)\n## 考点点拨"
+      },
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "organization 作可数名词时，表示“具体的机构”.如公司、协会。\nNon-profit organizations are exempt from taxes.非营利组织免税。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "organization 作不可数名词时，表示“组织性、系统性”，如\nGood time organization improves study efficiency.良好的时间规划提升学习效率。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "organize v.组 织 ; 筹 备\norganic adj.有 机 的 ; 生 物 的 ;n. 有机物质\norganism n.有 机 组 织 ; 生 物\norganizational adj.组织的;安排的\norganizational culture 组织文化"
+      }
+     ],
+     "examples": [],
+     "list_no": 32,
+     "list_title": "企业组织与运营",
+     "theme": "经济与就业"
+    }
+   ],
+   "narrative": {
+    "plot": "战略定策→协同推进→严谨审查→服务升级",
+    "sections": [
+     {
+      "title": "战略定策",
+      "text": [
+       "在阳光明媚的周一早晨，一家 firm (公司) 的 meeting (会议室) 里，大家围坐在一起，讨论着如何提升公司的运营 efficiency (效率) 和 productivity (生产力)。首席执行官强调，公司需要打造独特的 brand (品牌)，为 customer ( 客 户 ) 提 供更多的 choice (选择)。经过一番热烈的讨论，高管们制订了详细的 production (生产) 计划。"
+      ]
+     },
+     {
+      "title": "协同推进",
+      "text": [
+       "为了确保计划顺利实施，corporation (公司) 各部门迅速行动起来。生产部门在 factory( 工 厂 ) 里，严格按照 operation ( 操 作 ) 规范进行生产 activity (活动),确保每一个产品都符合高标准。同时，市场营销部门与广告 agency (代理机构) 合作，制定了全面的推广策略，旨在提升品牌知名度。"
+      ]
+     },
+     {
+      "title": "严谨审查",
+      "text": [
+       "在产品即将上市之际，公司的 director (董事) 和 chief (首席) executive (执行官) 召集了 management (管理) 层进行重要 strategy (战略) 会议，并且对整个流程进行了最后的审查。他们走进 office (办公室)，检查各项工作的进展情况，确保每一个环节都严谨无误。在大家的共同努力下，新 product (产品) 顺利推向市场，赢得了客户的广泛好评。"
+      ]
+     },
+     {
+      "title": "服务升级",
+      "text": [
+       "随着业务的不断拓展，公司意识到优质 service (服务) 的重要性。同时，公司也在积极探索新的 organization (组织) 模式，以适应市场的变化和发展，最终 ABC 公司逐渐成为行业内的领军企业。"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "list_no": 33,
+   "title": "经济与市场环境",
+   "words": [
+    {
+     "seq": 1,
+     "spelling": "boom",
+     "spelling_raw": "boom",
+     "ipa_raw": "/bu:m/",
+     "mnemonic": "炸弹 boom 的一声炸了！经济就像炸弹一样“嘣”地爆发了 (代表经济的蓬勃发展)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "低沉有回响的声音；（经济、工商业等）繁荣期；迅速发展；兴起"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "暴涨；激增；迅速发展；繁荣：发出隆隆声"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "(贸易和经济活动的) 激增\n【2014 年英语 (二)】\nAnd yet, it would be a mistake to think we are right now simply experiencing the painful side of a boom and bust cycle.\n然而，如果认为我们现在只是经历着繁荣和萧条周期所带来的痛苦的一面，那就大错特错了。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "booming adj.兴旺发达的，迅速发展的\n【2020 年英语 (二)】\nThe booming economy seems to have done little to assuage this underlying generational sense of anxious urgency, especially for those who have college debt.经济虽呈现蓬勃增长之势，却未能缓解这一代人心底根深蒂固的焦虑性紧迫感，尤其对身负学贷者来说，这种感受更为强烈。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2014 年英语 (二)】",
+       "year": 2014,
+       "exam": "英语二",
+       "part": null,
+       "en": "And yet, it would be a mistake to think we are right now simply experiencing the painful side of a boom and bust cycle.",
+       "cn": "然而，如果认为我们现在只是经历着繁荣和萧条周期所带来的痛苦的一面，那就大错特错了。"
+      },
+      {
+       "source_raw": "【2020 年英语 (二)】",
+       "year": 2020,
+       "exam": "英语二",
+       "part": null,
+       "en": null,
+       "cn": "The booming economy seems to have done little to assuage this underlying generational sense of anxious urgency, especially for those who have college debt.经济虽呈现蓬勃增长之势，却未能缓解这一代人心底根深蒂固的焦虑性紧迫感，尤其对身负学贷者来说，这种感受更为强烈。"
+      }
+     ],
+     "list_no": 33,
+     "list_title": "经济与市场环境",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 2,
+     "spelling": "commerce",
+     "spelling_raw": "commerce",
+     "ipa_raw": "/'ka:m3:rs/",
+     "mnemonic": "com- ( 形 似“come”来 一 起 )+merc- (谐音“摩死”)+-e，做生意就是互相折磨，这也就是贸易。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "商业；贸易（化）"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "freedom of commerce and trade 商贸自由②派生词:\ncommercial adj.商 业 化 的 ; 商 业 的 ;n.( 电 台 或 电视播放的) 广告\nmerchant n.商 人 ; 零 售 商\nmerc-(商品、货物)+-ant (名词后缀表示人)→商人 merchandise n.商 品 ; 货 物"
+      }
+     ],
+     "examples": [],
+     "list_no": 33,
+     "list_title": "经济与市场环境",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 3,
+     "spelling": "commercial",
+     "spelling_raw": "commercial",
+     "ipa_raw": "/kə'm3:rʃl/",
+     "mnemonic": "commerce( 商 业 )+-ial (形容词后缀)→商业的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "商业的；贸易的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "(电台或电视播放的）广告"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": null,
+       "body": "作形容词，固定搭配：lack commercial value 缺乏商业价值"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": null,
+       "body": "作名词，固定搭配：television commercials 电视广告\n【2011 年英语 (一)】\nWhile traditional“paid”media-such as television commercials and print advertisements still play a major role, companies today can exploit many alternative forms of media.\n尽管传统的“付费”媒体，例如电视广告和平面广告，仍然占据重要地位，但当代企业已能够驾驭多种替代性媒体形式。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2011 年英语 (一)】",
+       "year": 2011,
+       "exam": "英语一",
+       "part": null,
+       "en": "While traditional“ paid ” media-such as television commercials and print advertisements still play a major role, companies today can exploit many alternative forms of media.",
+       "cn": "尽管传统的“付费”媒体，例如电视广告和平面广告，仍然占据重要地位，但当代企业已能够驾驭多种替代性媒体形式。"
+      }
+     ],
+     "list_no": 33,
+     "list_title": "经济与市场环境",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 4,
+     "spelling": "competition",
+     "spelling_raw": "competition",
+     "ipa_raw": "/,ka:mpə'tifn/",
+     "mnemonic": "com-(together, 共 同 ) + pet-(seek, 追 寻 ) + -ition(名词后缀)→共同追寻同一样东西→竞争。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "比赛；竞争"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "in competition with 与 ⋯⋯ 竞 争"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "竞争\n【2018 年英语 (二)】\nCompetition Law appears to be the only way to address these imbalances of power.\n竞争法似乎是唯一能解决这些权利失衡的办法。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "compete vi.竞争;参加比赛\ncompetitive adj.竞争的;求胜心切的"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2018 年英语 (二)】",
+       "year": 2018,
+       "exam": "英语二",
+       "part": null,
+       "en": "Competition Law appears to be the only way to address these imbalances of power.",
+       "cn": "竞争法似乎是唯一能解决这些权利失衡的办法。"
+      }
+     ],
+     "list_no": 33,
+     "list_title": "经济与市场环境",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 5,
+     "spelling": "consumption",
+     "spelling_raw": "consumption",
+     "ipa_raw": "/kən'samp∫n/",
+     "mnemonic": "con- (totally 完全。全部) +sump- ( take 拿走)+ -tion (名词后缀)→全部拿走→消耗。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "消费（量）；消耗；（医）肺结核，肺病"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "consumption & assumption\nconsumption: 是客观行为，资源/ 商品的消耗 con- (完全) + sump- ( 拿 取 )→ 消 耗 ;\nassumption:是主观认知，未经证实的推定 as- (朝向) + sump- (拿取)→假设。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "consume vt.消耗 (燃料、能量、时间等);吃;喝;使充满 (强烈的感情)\nconsumer n.消费者"
+      }
+     ],
+     "examples": [],
+     "list_no": 33,
+     "list_title": "经济与市场环境",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 6,
+     "spelling": "economy",
+     "spelling_raw": "economy",
+     "ipa_raw": "/i'ka:nəmi/",
+     "mnemonic": "economy 谐音为“依靠农民”，也就是说经济发展要靠农民。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "节约；节省（金钱、时间、资源等)；（国家的）经济管理；经济制度"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "economic adj.经 济 ( 学 ) 的\neconomics n.经济学\neconomist n.经济学家\neconomical adj.省 钱 的 ; 节 约 的\n【2013 年英语 (一)】\nHere's his advice for economical foodies.\n下面是他的建议，教你如何吃得省钱。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2013 年英语 (一)】",
+       "year": 2013,
+       "exam": "英语一",
+       "part": null,
+       "en": "Here's his advice for economical foodies.",
+       "cn": "下面是他的建议，教你如何吃得省钱。"
+      }
+     ],
+     "list_no": 33,
+     "list_title": "经济与市场环境",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 7,
+     "spelling": "economic",
+     "spelling_raw": "economic",
+     "ipa_raw": "/.i:kə'na:mık/",
+     "mnemonic": "econom(economy, 经济) +- ic (形容词后缀)→经济 (上) 的；超市里打折的商品很 economic，省钱又实用。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "经济上的；经济学的；经济的；有利可图的；可赚钱的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "常见用法",
+       "body": "专 有 名 词 : the World Economic Forum 世 界 经济论坛"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "有利可图的\n【2020 年英语 (二)】\nAccording to the career counselors and experts who study them, Generation Zs are clear-eyed, economic pragmatists.\n根据研究 Z 世代的职业顾问和专家们的观点，他们认为 Z 世代是头脑清醒的、有利可图的实用主义者。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "economical adj.省 钱 的 ; 节 约 的\neconomically adv.在 经 济 上 ; 节 省 地"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语 (二)】",
+       "year": 2020,
+       "exam": "英语二",
+       "part": null,
+       "en": "According to the career counselors and experts who study them, Generation Zs are clear-eyed, economic pragmatists.",
+       "cn": "根据研究 Z 世代的职业顾问和专家们的观点，他们认为 Z 世代是头脑清醒的、有利可图的实用主义者。"
+      }
+     ],
+     "list_no": 33,
+     "list_title": "经济与市场环境",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 8,
+     "spelling": "economics",
+     "spelling_raw": "economics",
+     "ipa_raw": "/,i:kə'na:mıks/",
+     "mnemonic": "econom(economy, 经 济 )+-ics( 名 词 后 缀 ) →经济学；专家们研究数据、讨论规律的学问，叫作 economics( 经 济 学 ) 。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "经济学；经济原则；国家的经济状况"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "经济状况\n【2007 年阅读】\nIn just one generation, millions of mothers have gone to work, transforming basic family economics.\n仅相隔了一代人的时间，数百万母亲外出工作，改变了基本的家庭经济状况。\nimport /1m'pə:rt/ (v.) /'mpə:rt/ (n.)"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2007 年阅读】",
+       "year": 2007,
+       "exam": null,
+       "part": null,
+       "en": "In just one generation, millions of mothers have gone to work, transforming basic family economics. import /1m'pə:rt/ (v.) /'mpə:rt/ (n.)",
+       "cn": "仅相隔了一代人的时间，数百万母亲外出工作，改变了基本的家庭经济状况。"
+      }
+     ],
+     "list_no": 33,
+     "list_title": "经济与市场环境",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 9,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "im-(into, 向 里 面 ) +port-(carry, 携 带 )→带到国境里→进口。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "进口；输入"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "进口；输入；进口商品；进口物资；要旨；意思"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "输入的产品 (或劳务)\n【2019 年英语 (二)】\nLittle more than a decade later, the share of imports was 25.8 percent.\n仅仅十多年之后，(水果) 进口的比例就达到了 25.8%。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "importer n.从事进口业的人或公司\nimportation n.进口 (或输入);进口货"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2019 年英语 (二)】",
+       "year": 2019,
+       "exam": "英语二",
+       "part": null,
+       "en": "Little more than a decade later, the share of imports was 25.8 percent.",
+       "cn": "仅仅十多年之后，(水果) 进口的比例就达到了 25.8%。"
+      }
+     ],
+     "list_no": 33,
+     "list_title": "经济与市场环境",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 10,
+     "spelling": "inflation",
+     "spelling_raw": "inflation",
+     "ipa_raw": "/m'flerfn/",
+     "mnemonic": "in-( 硬 )+flat-( 吹 )+-ion( 名 词 后 缀 ) = 吹入空气使膨胀→inflation (通胀)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "通货膨胀"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "通货膨胀率\n【2021 年英语 (一)】\nThis year's rise, an average of 2.7 percent, may be a fraction lower than last year's, but it is still well above the official Consumer Price Index ( CPI ) measure of inflation.\n今 年 ( 英 国 铁 路 票 价 ) 平 均 涨 幅 为 2.7% ，也许比去年的涨幅小一些，但仍远高于官方用消费者物价指数 (CPI ) 衡量的通货膨胀率。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "inflate v.( 使 ) 涨 高 ;( 使 ) 充 气 ;vt. 吹捧"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2021 年英语 (一)】",
+       "year": 2021,
+       "exam": "英语一",
+       "part": null,
+       "en": "This year's rise, an average of 2.7 percent, may be a fraction lower than last year's, but it is still well above the official Consumer Price Index ( CPI ) measure of inflation.",
+       "cn": "今 年 ( 英 国 铁 路 票 价 ) 平 均 涨 幅 为 2.7% ，也许比去年的涨幅小一些，但仍远高于官方用消费者物价指数 (CPI ) 衡量的通货膨胀率。"
+      }
+     ],
+     "list_no": 33,
+     "list_title": "经济与市场环境",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 11,
+     "spelling": "luxury",
+     "spelling_raw": "luxury",
+     "ipa_raw": "/'lak∫əri/",
+     "mnemonic": "luxu-(luxe 豪 华 , 上 等 , 精 美 ) +-ry( 名 词后缀)→豪华。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "奢侈；豪华；奢侈品"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "奢侈的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "luxury goods 奢侈品\n【2005 年阅读】\nIn the world of capuchins, grapes are luxury goods(and\nmuch preferable to cucumbers) .\n在卷尾猴的世界里，葡萄堪称奢侈品 (远比黄瓜更有吸引力)。"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "难得的自由/ 特权 (抽象的“奢侈”含义)\n【2016 年英语 (二)】\nBut as adults we also have the luxury of being able to control our own diaries and it's important that we schedule in time to enjoy the things we love.\n但作为成年人，我们同样拥有自主安排日程的自由，而重要的是，我们应当留出时间享受自己所热爱的事物。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "luxurious adj.豪 华 的 , 精 美 的"
+      },
+      {
+       "marker": "④",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "luxurious 与 luxury 的形容词义\nluxurious:豪华的、极舒适的，强调感官享受与高品质，常常修饰具体事物，隐含“昂贵但非必要”的暗示；\n真题常见搭配：luxurious hotel 豪 华 酒 店、luxurious room 豪华房间\nluxury :仅用于复合名词中，表示“奢侈属性的、高端的”，注意 luxury 这个词不能单独作表语。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2005 年阅读】",
+       "year": 2005,
+       "exam": null,
+       "part": null,
+       "en": "In the world of capuchins, grapes are luxury goods(and much preferable to cucumbers) .",
+       "cn": "在卷尾猴的世界里，葡萄堪称奢侈品 (远比黄瓜更有吸引力)。"
+      },
+      {
+       "source_raw": "【2016 年英语 (二)】",
+       "year": 2016,
+       "exam": "英语二",
+       "part": null,
+       "en": "But as adults we also have the luxury of being able to control our own diaries and it's important that we schedule in time to enjoy the things we love.",
+       "cn": "但作为成年人，我们同样拥有自主安排日程的自由，而重要的是，我们应当留出时间享受自己所热爱的事物。"
+      }
+     ],
+     "list_no": 33,
+     "list_title": "经济与市场环境",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 12,
+     "spelling": "market",
+     "spelling_raw": "market",
+     "ipa_raw": "/'mɑːrkɪ t/",
+     "mnemonic": "mark 交 易 , 买 ( 来 自 merc-) +-et → market",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "市 场 ; 集 市"
+      },
+      {
+       "pos": "vt.",
+       "meaning_cn": "推销"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "市 场 的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "推销\nCompanies must market themselves differently to different generations.\n企业必须针对不同世代的差异，来采取不同的市场推销手段。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "marketing n.营 销 ; 促 销\n【2021 年英语 (一)】\nAl software can analyze and optimize marketing email subject lines to increase open rates.\n一些人工智能软件可以分析和优化营销电子邮件的主题栏，提高邮件打开率。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2021 年英语 (一)】",
+       "year": 2021,
+       "exam": "英语一",
+       "part": null,
+       "en": "Al software can analyze and optimize marketing email subject lines to increase open rates.",
+       "cn": "一些人工智能软件可以分析和优化营销电子邮件的主题栏，提高邮件打开率。"
+      }
+     ],
+     "list_no": 33,
+     "list_title": "经济与市场环境",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 13,
+     "spelling": "monopoly",
+     "spelling_raw": "monopoly",
+     "ipa_raw": "/mә'nɑːpәli/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "垄断；专卖；独占；专利 (品)；专利者；垄断企业妙 记 : mono-( 独 自 )+poly-( 卖 )→ 独 自 卖 →专卖，垄断。"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "a private monopoly 私人垄断企业"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "垄断\n【2018 年英语 (一)】\nWhat matters is that they will belong to a private monopoly which developed them using public resources.问题的关键在于，这些 (成果) 将归属于某个私人垄断集团，但是该集团是利用公共资源才得以发展起来的。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2018 年英语 (一)】",
+       "year": 2018,
+       "exam": null,
+       "part": null,
+       "en": null,
+       "cn": "What matters is that they will belong to a private monopoly which developed them using public resources.问题的关键在于，这些 (成果) 将归属于某个私人垄断集团，但是该集团是利用公共资源才得以发展起来的。"
+      }
+     ],
+     "list_no": 33,
+     "list_title": "经济与市场环境",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 14,
+     "spelling": "output",
+     "spelling_raw": "output",
+     "ipa_raw": "/'autput/",
+     "mnemonic": "out( 出 )+put( 放 )= 放 出 来 →output( 产 出 ) 。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "产量；输出量"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "hourly output 每小时的产量\n【2010 年英语 (一)】\nAccording to 5 of the experiments, their hourly output rose when lighting was increased, but also when it was dimmed.\n其 中 5 项实验的数据显示，无论光照增强还是减弱，受试者的每小时工作效率均有所提升。\ncarbon -dioxide output 二氧化碳排放量\n【2010 年英语 (二)】\nThey found that the aircraft consumed as much as 15% less fuel(coupled with a reduction in carbon-dioxide output) .\n研究发现，该飞机的燃油消耗量降幅高达 15% (同时二氧化碳排放量也相应减少)。"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "outpu & yieldt\n) output :侧重于人为产出量 (主动生产)，强调总量和结果；\n【2019 年英语 (一)】\nBoiling down an individual's output to simple metrics, such as number of publications or journal impacts, entails considerable savings in time energy and ambiguity.\n如果将个人的学术产出简化为单一量化指标，例如论文发表数量或期刊影响因子，这样虽可大幅节省时间精力并减少评估模糊性，却难免失之偏颇。\n● yield :更侧重于自然生成量 (被动获得)，强调转化率和转化效率。\n描述农业效率的时候，必须用 yield，如 果 是 农 业/化学类阅读题出现的频率很高。\n【2018 年英语 (二)】\nJust as some ants farm the bugs called aphids for the honeydew they produce when they feed, so Google farms us for the data that our digital lives yield.\n正如某些蚂蚁会驯养蚜虫以获取其进食时分泌的蜜露，谷歌也在“驯养”人类，通过收割我们数字生活所产生的数据养分。"
+      },
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "crop yield 作物产量"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2010 年英语 (一)】",
+       "year": 2010,
+       "exam": null,
+       "part": null,
+       "en": "According to 5 of the experiments, their hourly output rose when lighting was increased, but also when it was dimmed.",
+       "cn": "其 中 5 项实验的数据显示，无论光照增强还是减弱，受试者的每小时工作效率均有所提升。carbon -dioxide output 二氧化碳排放量"
+      },
+      {
+       "source_raw": "【2010 年英语 (二)】",
+       "year": 2010,
+       "exam": "英语二",
+       "part": null,
+       "en": "They found that the aircraft consumed as much as 15% less fuel(coupled with a reduction in carbon-dioxide output) .",
+       "cn": "研究发现，该飞机的燃油消耗量降幅高达 15% (同时二氧化碳排放量也相应减少)。"
+      },
+      {
+       "source_raw": "【2019 年英语 (一)】",
+       "year": 2019,
+       "exam": "英语一",
+       "part": null,
+       "en": "Boiling down an individual's output to simple metrics, such as number of publications or journal impacts, entails considerable savings in time energy and ambiguity.",
+       "cn": "如果将个人的学术产出简化为单一量化指标，例如论文发表数量或期刊影响因子，这样虽可大幅节省时间精力并减少评估模糊性，却难免失之偏颇。● yield :更侧重于自然生成量 (被动获得)，强调转化率和转化效率。描述农业效率的时候，必须用 yield，如 果 是 农 业/化学类阅读题出现的频率很高。"
+      },
+      {
+       "source_raw": "【2018 年英语 (二)】",
+       "year": 2018,
+       "exam": "英语二",
+       "part": null,
+       "en": "Just as some ants farm the bugs called aphids for the honeydew they produce when they feed, so Google farms us for the data that our digital lives yield.",
+       "cn": "正如某些蚂蚁会驯养蚜虫以获取其进食时分泌的蜜露，谷歌也在“驯养”人类，通过收割我们数字生活所产生的数据养分。"
+      }
+     ],
+     "list_no": 33,
+     "list_title": "经济与市场环境",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 15,
+     "spelling": "prosperity",
+     "spelling_raw": "prosperity",
+     "ipa_raw": "/pra:'sperəti/",
+     "mnemonic": "pro-(forward, 向 前) +sper- ( = spir-,呼 吸 ) +-ity (名词后缀)→ 经济一路呼吸着向前走→繁荣。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "繁荣"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "繁荣；兴旺\n【2019 年英语 (一)】\nKennedy wrote that the rule“limited states’ability to seek long-term prosperity and has prevented market participants from competing on an even playing field.”肯尼迪还写道，该项规定“限制了国家寻求长期繁荣的能力，并阻碍了市场参与者们在公平的市场环境中互相竞争”。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "prosper vi.繁 荣 , 兴 旺\nprosperous adj.繁荣的\n【2000 年阅读】\nAmerica and Americans were prosperous beyond the dreams of the Europeans and Asians whose economies the war had destroyed.\n当时的美国和美国人所享有的繁荣，是那些被战争摧毁经济的欧亚国家所无法想象的。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2019 年英语 (一)】",
+       "year": 2019,
+       "exam": null,
+       "part": null,
+       "en": null,
+       "cn": "Kennedy wrote that the rule“limited states’ability to seek long-term prosperity and has prevented market participants from competing on an even playing field.”肯尼迪还写道，该项规定“限制了国家寻求长期繁荣的能力，并阻碍了市场参与者们在公平的市场环境中互相竞争”。"
+      },
+      {
+       "source_raw": "【2000 年阅读】",
+       "year": 2000,
+       "exam": null,
+       "part": null,
+       "en": "America and Americans were prosperous beyond the dreams of the Europeans and Asians whose economies the war had destroyed.",
+       "cn": "当时的美国和美国人所享有的繁荣，是那些被战争摧毁经济的欧亚国家所无法想象的。"
+      }
+     ],
+     "list_no": 33,
+     "list_title": "经济与市场环境",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 16,
+     "spelling": "retail",
+     "spelling_raw": "retail",
+     "ipa_raw": "/'ri:terl/",
+     "mnemonic": "re-( 再 )+tail-(尾巴)=反复把尾货卖掉→零售。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "零售"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "零售；详说，述说"
+      },
+      {
+       "pos": "adv.",
+       "meaning_cn": "以零售方式"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "零售的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "retailer n.零售商"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "retail store 零 售 商 店\nretail price 零 售 价\n【2002 年阅读】\nIn Europe, taxes account for up to four-fifths of the retail price, so even quite big changes in the price of crude have a more muted effect on pump prices than in the past.\n在欧洲，税费可占汽油零售价高达五分之四的比重，因此即便原油价格出现较大波动，对加油站终端售价的影响也较以往更为有限。\nretail sales 零 售 额\n【2010 年英语 (一)】\nRetail sales of food and drink in Europe's largest markets are at a standstill, leaving European grocery retailers hungry for opportunities to grow.\n欧洲主要食品饮料零售市场的销售额已陷入停滞。这使得各大杂货零售商亟须寻求新的增长机遇。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2002 年阅读】",
+       "year": 2002,
+       "exam": null,
+       "part": null,
+       "en": "In Europe, taxes account for up to four-fifths of the retail price, so even quite big changes in the price of crude have a more muted effect on pump prices than in the past.",
+       "cn": "在欧洲，税费可占汽油零售价高达五分之四的比重，因此即便原油价格出现较大波动，对加油站终端售价的影响也较以往更为有限。retail sales 零 售 额"
+      },
+      {
+       "source_raw": "【2010 年英语 (一)】",
+       "year": 2010,
+       "exam": "英语一",
+       "part": null,
+       "en": "Retail sales of food and drink in Europe's largest markets are at a standstill, leaving European grocery retailers hungry for opportunities to grow.",
+       "cn": "欧洲主要食品饮料零售市场的销售额已陷入停滞。这使得各大杂货零售商亟须寻求新的增长机遇。"
+      }
+     ],
+     "list_no": 33,
+     "list_title": "经济与市场环境",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 17,
+     "spelling": "trade",
+     "spelling_raw": "trade",
+     "ipa_raw": "/treid/",
+     "mnemonic": "trade (谐音“吹的”)→联想：古代商人边吹嘘商品边交换→贸易。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "贸易；商业；职业"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "从事贸易；进行交换"
+      }
+     ],
+     "notes": [],
+     "examples": [],
+     "list_no": 33,
+     "list_title": "经济与市场环境",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 18,
+     "spelling": "float",
+     "spelling_raw": "float",
+     "ipa_raw": "/floʊt /",
+     "mnemonic": "谐音“浮露他”，他 float(漂浮) 在泳池里面。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "(使) 漂浮，(使) 浮动；提出 (想法或计划)；使 (货币汇率) 自由浮动"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "鱼漂，浮子；(学游泳用的)"
+      }
+     ],
+     "notes": [],
+     "examples": [],
+     "list_no": 33,
+     "list_title": "经济与市场环境",
+     "theme": "经济与就业"
+    }
+   ],
+   "narrative": {
+    "plot": "发展背景 → 矛盾凸显 → 解决办法",
+    "sections": [
+     {
+      "title": "发展背景",
+      "text": [
+       "某小镇曾经历过 economy ( 经 济 ) 的 boom ( 蓬 勃 发 展 ) 期 ,commerce ( 商 业 ) 活动呈现出空前 prosperity (繁荣) 的景象。然而，随着大企业对当地 market (市场) 的逐步 monopoly (垄断),良好的 competition (竞争) 环境遭到了严重破坏。"
+      ]
+     },
+     {
+      "title": "矛盾凸显",
+      "text": [
+       "当地企业过度依赖销售 import (进口) luxury (奢侈品)，这种消费模式推动了整体的 consumption (消费) 水平，最终导致严重的 inflation ( 通 货 膨 胀 ) 问题。最新 economics ( 经 济 学 ) 研究数据表明，这种过度 commercial ( 商 业 化 的 ) 发展模式已经对区域 economic (经济的) 稳定构成了实质性威胁。"
+      ]
+     },
+     {
+      "title": "解决办法",
+      "text": [
+       "于是，当地企业着手改革 retail (零售) 经营模式，通过提升本土 output ( 产 量 ) 以及优化进出口 trade (贸易) 结构，逐步实现了 market ( 市 场 ) 供 需 关 系 的 良性循环，让货币汇率正常 float (浮动)。"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "list_no": 34,
+   "title": "财务与交易（1）",
+   "words": [
+    {
+     "seq": 1,
+     "spelling": "bank",
+     "spelling_raw": "bank",
+     "ipa_raw": "/bænk/",
+     "mnemonic": "在 河 岸 (bank) 的 堤 坝 (bank) 边 , 他 从 库 ( bank) 中取了些钱，转身就存入了不远处的银行 (bank)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "岸，堤；银行；库"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "n.库\n【2023 年英语 (二)】\nTraditionally, this role was fulfilled by data banks, libraries, and other humans.\n传统上，这个角色是由数据库、图书馆和其他人来完成的。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "bankrupt adj.破产的\nbankruptcy n.破产"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语 (二)】",
+       "year": 2023,
+       "exam": "英语二",
+       "part": null,
+       "en": "Traditionally, this role was fulfilled by data banks, libraries, and other humans.",
+       "cn": "传统上，这个角色是由数据库、图书馆和其他人来完成的。"
+      }
+     ],
+     "list_no": 34,
+     "list_title": "财务与交易（1）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 2,
+     "spelling": "account",
+     "spelling_raw": "account",
+     "ipa_raw": "/ә'ka ʊnt/",
+     "mnemonic": "ac-( 加 强)+count( 数 数) →必须反复数数的→账目。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "账目，账户；描述，叙述"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "认为，视为"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常见释义",
+       "body": "n.账目，账户\nopen (close) an account with ( 或 in) a bank 在 一 家银行开立 (结 清) 一个账户\nPlease render(或 send in) your account. 请将账单送来。n.描述，叙述\n【2010 年英语 (二)】\na vivid account of the new book Divorce Talk 对新书《离婚谈话》的生动描述"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "常用搭配",
+       "body": "on all accounts(或 on every account) 无论如何 take into account 考 虑 到 , 顾 及 , 体 谅\nby/ from all accounts 据 说 , 根 据 报 道\naccount(for) 说 明 , 解 释 ; 占 (一定数量或比例) ③派生词:\naccountability n.负 责 ; 问 责 (-ability 能、可 以) accountant n.会 计 (员 ),会 计 师 ; 账 房 , 出 纳"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2010 年英语 (二)】",
+       "year": 2010,
+       "exam": null,
+       "part": null,
+       "en": null,
+       "cn": "a vivid account of the new book Divorce Talk 对新书《离婚谈话》的生动描述"
+      }
+     ],
+     "list_no": 34,
+     "list_title": "财务与交易（1）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 3,
+     "spelling": "dollar",
+     "spelling_raw": "dollar",
+     "ipa_raw": "/'da:lər/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "美元；元"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常见释义",
+       "body": "美元\n【2009 年阅读】\nMore than two dozen companies sell DNA tests directly to the public, ranging in price from a few hundred dollars to more than \\$2, 500.\n二十多家公司直接向公众出售 DNA 检测，价格从几百美元到 2500 多美元不等。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2009 年阅读】",
+       "year": 2009,
+       "exam": null,
+       "part": null,
+       "en": "More than two dozen companies sell DNA tests directly to the public, ranging in price from a few hundred dollars to more than \\$2, 500.",
+       "cn": "二十多家公司直接向公众出售 DNA 检测，价格从几百美元到 2500 多美元不等。"
+      }
+     ],
+     "list_no": 34,
+     "list_title": "财务与交易（1）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 4,
+     "spelling": "estate",
+     "spelling_raw": "estate",
+     "ipa_raw": "/i'steit/",
+     "mnemonic": "音似“一死退特”→一旦死了，房子特快就都退回去了→房地产。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "地产，房地产；遗产"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常见释义",
+       "body": "地产\n【2019 年英语 (二)】\nAaron Norris assumes that many children's views on real estate are influenced by the media.\n亚伦•诺里斯认为，许多孩子对房地产的看法受到媒体的影响。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "常见搭配",
+       "body": "real estate 房 地 产 ; 不 动 产\nestate tax 遗 产 税"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2019 年英语 (二)】",
+       "year": 2019,
+       "exam": "英语二",
+       "part": null,
+       "en": "Aaron Norris assumes that many children's views on real estate are influenced by the media.",
+       "cn": "亚伦•诺里斯认为，许多孩子对房地产的看法受到媒体的影响。"
+      }
+     ],
+     "list_no": 34,
+     "list_title": "财务与交易（1）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 5,
+     "spelling": "fund",
+     "spelling_raw": "fund",
+     "ipa_raw": "/fand/",
+     "mnemonic": "让人开心快乐 (fun) 的东西就是资金 (fund)。",
+     "senses": [
+      {
+       "pos": "vt.",
+       "meaning_cn": "为……提供资金；资助"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "基金；资金；专款"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "fund sth. 资助某事\n【2018 年英语 (二)】\nSome growth stems from a commitment by governments and farsighted businesses to fund cleaner energy sources.\n一些增长源于政府和有远见的企业对资助清洁能源的承诺。\na fund for... 用 于 …… 的 基 金 ( 例 : a fund for disaster relief 救灾基金)"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "fundamental n.基 础 ; 基 本 原 理 ;adj. 十分重大的;根本的"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2018 年英语 (二)】",
+       "year": 2018,
+       "exam": "英语二",
+       "part": null,
+       "en": "Some growth stems from a commitment by governments and farsighted businesses to fund cleaner energy sources.",
+       "cn": "一些增长源于政府和有远见的企业对资助清洁能源的承诺。a fund for... 用 于 …… 的 基 金 ( 例 : a fund for disaster relief 救灾基金)"
+      }
+     ],
+     "list_no": 34,
+     "list_title": "财务与交易（1）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 6,
+     "spelling": "invest",
+     "spelling_raw": "invest",
+     "ipa_raw": "/n'vest/",
+     "mnemonic": "in-( 里 面 ) +vest( 背 心 ) → 投 太 多 钱 进 股市里亏了，穷得只剩下一件背心→投资。",
+     "senses": [
+      {
+       "pos": "vt.",
+       "meaning_cn": "投资；投入（时间、精力等）"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "invest & spend\ninvest :强调“长期回报”(资金/时间投入后预期收益，如投资、自我提升)；\n【2022 年英语 (一)】\nTo make a collaboration work both sides need to invest time and embrace surprise and challenge.\n为了使合作顺利进行，双方都需要投入时间，接受惊喜和挑战。\n·spend :侧 重“消耗”( 时 间/金钱的使用，无明确回报预期，如 spend money on clothes)。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "常见派生词",
+       "body": "investment n.投资; 投 资 额 (a wise investment 明智的投资)\ninvestor n.投资者\ninvestable adj. 可投资的"
+      },
+      {
+       "marker": "③",
+       "kind": "搭配",
+       "label_raw": null,
+       "body": "高阶搭配:\ninvest in oneself 提 升 能 力/形象的自我投资"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语 (一)】",
+       "year": 2022,
+       "exam": "英语一",
+       "part": null,
+       "en": "To make a collaboration work both sides need to invest time and embrace surprise and challenge.",
+       "cn": "为了使合作顺利进行，双方都需要投入时间，接受惊喜和挑战。·spend :侧 重“消耗”( 时 间/金钱的使用，无明确回报预期，如 spend money on clothes)。"
+      }
+     ],
+     "list_no": 34,
+     "list_title": "财务与交易（1）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 7,
+     "spelling": "investment",
+     "spelling_raw": "investment",
+     "ipa_raw": "/mn'vestmənt/",
+     "mnemonic": "invest (投资) +-ment( 名 词 后 缀 )→n. 投 资。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "投资；投资额"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "常见用法",
+       "body": "investment in sth. 在某事上的投资\n【2014 年英语 (二)】\nTo encourage innovation and competition, the report calls for increased investment in research.\n为了鼓励创新和竞争，该报告呼吁增加对研究的投资。\n常出现在经济增长、企业扩张、金融市场分析中 (如 China ' s investment in infrastructure 中 国 基 础 设施投资)。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2014 年英语 (二)】",
+       "year": 2014,
+       "exam": "英语二",
+       "part": null,
+       "en": "To encourage innovation and competition, the report calls for increased investment in research.",
+       "cn": "为了鼓励创新和竞争，该报告呼吁增加对研究的投资。常出现在经济增长、企业扩张、金融市场分析中 (如 China ' s investment in infrastructure 中 国 基 础 设施投资)。"
+      }
+     ],
+     "list_no": 34,
+     "list_title": "财务与交易（1）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 8,
+     "spelling": "loan",
+     "spelling_raw": "loan",
+     "ipa_raw": "/loon/",
+     "mnemonic": "音似“楼”→贷款买楼→贷款。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "贷款；借款；借出的东西（如物品、资金等)"
+      },
+      {
+       "pos": "vt.",
+       "meaning_cn": "借出；贷给（尤指金融机构或正式场合）"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常见释义",
+       "body": "n.贷款\n【2020 年英语 (二)】\nCollege loan balances in the U. S. now stand at a record \\$1.5 trillion, according to the Federal Reserve.\n根据美联储的数据，美国大学贷款余额目前达到创纪 录 的 1.5 美元。\nvt. 借出\n主语多为机构 (银行、图书馆等) 或正式场合，后接双宾语 (loan sb. sth.或 loan sth. to sb.).\nThe library loans books to students for two weeks.\n图书馆借书给学生，期限两周。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "常用搭配",
+       "body": "apply for a loan 申请贷款\npay off a loan 还清贷款"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语 (二)】",
+       "year": 2020,
+       "exam": "英语二",
+       "part": null,
+       "en": "College loan balances in the U. S. now stand at a record \\$1.5 trillion, according to the Federal Reserve. The library loans books to students for two weeks.",
+       "cn": "根据美联储的数据，美国大学贷款余额目前达到创纪 录 的 1.5 美元。vt. 借出主语多为机构 (银行、图书馆等) 或正式场合，后接双宾语 (loan sb. sth.或 loan sth. to sb.).图书馆借书给学生，期限两周。"
+      }
+     ],
+     "list_no": 34,
+     "list_title": "财务与交易（1）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 9,
+     "spelling": "monetary",
+     "spelling_raw": "monetary",
+     "ipa_raw": "/'ma:niteri/",
+     "mnemonic": "monet-(= money, 货 币 )+-ary( 形 容 词 后 缀 ,表示“与⋯⋯ 有关的”)→金钱的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "货币的；金钱的；金融的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "monetary & financial\nmonetary :侧重“与货币直接相关的”，尤其指货币制度、政策、供应等，范围较窄；\n【2020 年英语 (一)】\nScientists need journals in which to publish their research, so they will supply the articles without monetary reward.\n科学家们需要发表研究成果的期刊，所以他们会提供没有金钱奖励的文章。\nfinancial: 范围更广，指“与财务、资金相关的”,涵盖收入、支出、投资、债务等，不限于货币。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语 (一)】",
+       "year": 2020,
+       "exam": "英语一",
+       "part": null,
+       "en": "Scientists need journals in which to publish their research, so they will supply the articles without monetary reward.",
+       "cn": "科学家们需要发表研究成果的期刊，所以他们会提供没有金钱奖励的文章。financial: 范围更广，指“与财务、资金相关的”,涵盖收入、支出、投资、债务等，不限于货币。"
+      }
+     ],
+     "list_no": 34,
+     "list_title": "财务与交易（1）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 10,
+     "spelling": "money",
+     "spelling_raw": "money",
+     "ipa_raw": "/'mani/",
+     "mnemonic": "妈 妈 挣 钱 (money) 给 你 →( 妈 你) money.",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "钱；货币；财富"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "常见用法",
+       "body": "make money 赚钱\n【2023 年英语 (一)】\nIf it's their vacation home anyway, and it's just empty, why can't you make money off it?\n如果这是他们的度假屋，而且是空的，你为什么不能从中赚钱呢？\nsave money 存 钱\nIt's wise to save money for emergencies.\n存钱应急是明智的。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "moneyless adj.没 钱 的 ; 贫 困 的\nmonetary adj.货币的"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语 (一)】",
+       "year": 2023,
+       "exam": "英语一",
+       "part": null,
+       "en": "If it's their vacation home anyway, and it's just empty, why can't you make money off it? It's wise to save money for emergencies.",
+       "cn": "如果这是他们的度假屋，而且是空的，你为什么不能从中赚钱呢？save money 存 钱存钱应急是明智的。"
+      }
+     ],
+     "list_no": 34,
+     "list_title": "财务与交易（1）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 11,
+     "spelling": "price",
+     "spelling_raw": "price",
+     "ipa_raw": "/prais/",
+     "mnemonic": "音似“破 rice”→他在超市买米，大喊这是什么破 rice 价格那么高→价格。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "价格；代价；价值"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "给……定价；询问价格"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "n.代价，指为达成某事所付出的牺牲。\n【2017 年英语 (二)】\npay a price for 付出代价"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "price & cost & expense\nprice: 侧重商品 /服务的“售价”，是卖方设定的金额；\ncost :侧重“成本”或“花费”(时间/金钱等),强调“为得到某物所付出的代价”；\nThe cost of living is high in big cities.\n大城市生活成本高。\nexpense: 侧重“开销、费用”，尤指日常花费或具体支出项目。\nTravel expenses will be covered by the company.\n差旅费由公司承担。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "priced adj.有 定 价 的 ; 价 格 为 …… 的 priceless adj.无 价 的 ; 极 珍 贵 的 ( 由 price + 否 定 后缀 -less 构成)"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2017 年英语 (二)】",
+       "year": 2017,
+       "exam": "英语二",
+       "part": null,
+       "en": null,
+       "cn": "pay a price for 付出代价"
+      }
+     ],
+     "list_no": 34,
+     "list_title": "财务与交易（1）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 12,
+     "spelling": "profit",
+     "spelling_raw": "profit",
+     "ipa_raw": "/'pra:firt/",
+     "mnemonic": "音似“颇肥的”→他欣然答应了对方的合作要求，因为其中的利益颇肥→利益。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "利润；收益；益处"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "获利；得益于"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常见释义",
+       "body": "n. 利润；收益\n【2020 年英语 (二)】\nScientific publishers routinely report profit margins approaching 40% on their operations at a time when the rest of the publishing industry is in an existential crisis.在出版业其他部门陷入生存危机之际，科学出版商经常报告其运营利润率接近 40% 。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "make a profit 获 利\nprofit from/ by 从 ······ 中 获 益"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "profitless adj. 无 利 可 图 的 ; 无 益 的 ( 由 profit + 否定 后 缀 -less 构 成 )"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语 (二)】",
+       "year": 2020,
+       "exam": "英语二",
+       "part": null,
+       "en": null,
+       "cn": "Scientific publishers routinely report profit margins approaching 40% on their operations at a time when the rest of the publishing industry is in an existential crisis.在出版业其他部门陷入生存危机之际，科学出版商经常报告其运营利润率接近 40% 。"
+      }
+     ],
+     "list_no": 34,
+     "list_title": "财务与交易（1）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 13,
+     "spelling": "profitable",
+     "spelling_raw": "profitable",
+     "ipa_raw": "/'pra:fitəbl/",
+     "mnemonic": "profit( 利 润 ) +-able (形容词后缀“可……的”)→可盈利的，有利润的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "可盈利的；有益的；有回报的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "be profitable to/ for sth./ sb.表示“对•••••• 有 利 可 图/有益”\nThe new policy will be profitable for small enterprises.新政策将对小企业有利。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "profitably adv.有利可图地;有益地"
+      }
+     ],
+     "examples": [],
+     "list_no": 34,
+     "list_title": "财务与交易（1）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 14,
+     "spelling": "rich",
+     "spelling_raw": "rich",
+     "ipa_raw": "/rıtʃ/",
+     "mnemonic": "一 位 富 有 的 (rich) 商人捐建了一座富含 (rich) 古籍的图书馆，那里有浓郁的 (rich) 咖啡香。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "富有的；丰富的；浓郁的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "be rich in 富含;在••••••方面丰富\nThis fruit is rich in vitamins.\n这种水果富含维生素。\nthe rich 富 人 ( 复 数 概 念 , 表 一 类 人 )\nThe gap between the rich and the poor is widening.贫富差距在扩大。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "richness n.富 裕 ; 丰 富 ; 浓 郁 ; 深 厚 ( 加名词后缀-ness)"
+      }
+     ],
+     "examples": [],
+     "list_no": 34,
+     "list_title": "财务与交易（1）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 15,
+     "spelling": "subsidy",
+     "spelling_raw": "subsidy",
+     "ipa_raw": "/'sabsədi/",
+     "mnemonic": "sub-( 在 …… 下 ) +sid-( 坐 下 安 置 ) +-y( 名 词后缀)，表示状态→使安置部分群体→subsidy 补贴。",
+     "senses": [],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常见释义",
+       "body": "n.补贴 (复数形式 subsidies 更常用，因补贴常涉及多个领域或对象。)\n【2018 年英语 (一)】\nTaxes on low-wage labor need to be cut, and wage subsidies such as the earned income tax credit should be expanded.\n需要削减对低薪劳动力的税收，并扩大劳动所得税抵免等工资补贴。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "subsidize v.给••••••补贴; 资助 (由名词 subsidy 去掉后缀-y，加动词后缀-ize“使……化；以……方式处理”构成)"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2018 年英语 (一)】",
+       "year": 2018,
+       "exam": "英语一",
+       "part": null,
+       "en": "Taxes on low-wage labor need to be cut, and wage subsidies such as the earned income tax credit should be expanded.",
+       "cn": "需要削减对低薪劳动力的税收，并扩大劳动所得税抵免等工资补贴。"
+      }
+     ],
+     "list_no": 34,
+     "list_title": "财务与交易（1）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 16,
+     "spelling": "tax",
+     "spelling_raw": "tax",
+     "ipa_raw": "/ tæks/",
+     "mnemonic": "出租车 taxi 要交出去 1 点 (i) 税 (tax) 。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "税; 税款"
+      },
+      {
+       "pos": "vt.",
+       "meaning_cn": "对••••••征税"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "常见用法",
+       "body": "by pass tax 绕 开 税 收\n【2023 年英语 (一)】\nIssues arise, however, when developers attempt to create large-scale short-term rental facilities — de facto hotels— to bypass taxes and regulations.\n然而，当开发商试图建造大型短期租赁设施 (事实上的酒店) 来绕过税收和法规时，问题就出现了。\nimpose a tax on+ 征税的对象 (人 / 事 / 物) 对······征税\nThe government decided to impose a tax on single-use plastics to reduce pollution.\n政府决定对一次性塑料制品征税，以减少污染。\ntax rate 税 率"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语 (一)】",
+       "year": 2023,
+       "exam": "英语一",
+       "part": null,
+       "en": "Issues arise, however, when developers attempt to create large-scale short-term rental facilities — de facto hotels— to bypass taxes and regulations. The government decided to impose a tax on single-use plastics to reduce pollution.",
+       "cn": "然而，当开发商试图建造大型短期租赁设施 (事实上的酒店) 来绕过税收和法规时，问题就出现了。impose a tax on+ 征税的对象 (人 / 事 / 物) 对······征税政府决定对一次性塑料制品征税，以减少污染。tax rate 税 率"
+      }
+     ],
+     "list_no": 34,
+     "list_title": "财务与交易（1）",
+     "theme": "经济与就业"
+    }
+   ],
+   "narrative": {
+    "plot": "初启征程→筹谋资金→投产盈利→财责兼收",
+    "sections": [
+     {
+      "title": "初启征程",
+      "text": [
+       "李明站在市中心的 bank (银行) 大楼前，手中紧攥着刚办好的 account(账户) 存折——那是他用大学奖学金和兼职攒下的第一笔 dollar (美元)。作为一名从普通家庭走出的“准 rich (富有的)”创业者，他盯上了城郊一块待开发的 estate (地产)，那里将成为他环保科技公司的起点。"
+      ]
+     },
+     {
+      "title": "筹谋资金",
+      "text": [
+       "启动资金不够，他向银行申请 loan (贷款)，用专利作抵押，同时申请政府的绿色产业 subsidy (补贴)。每笔 money (钱) 都要花在刀刃上。他在笔记本上写下:“price (价格) 谈判要精准，monetary (货币的) 政策要研究。"
+      ]
+     },
+     {
+      "title": "投产盈利",
+      "text": [
+       "团队用 fund (资金) 租下办公楼，开始研发可降解包装。第一批产品大获好评。李明将部分 profit (利润) 重新 invest (投资) 到生产线升级，这个 profitable (盈利的) 决定让公司估值翻倍。"
+      ]
+     },
+     {
+      "title": "财责兼收",
+      "text": [
+       "财务总监递来季度报表:“扣除 tax ( 税 款 ) 后，收 入 比 预 期 高 15%。”看着 investment (投资) 回报曲线，李明明白原来真正的财富密码，是让每个决定都需要在 security  (安全) 的规划中流动。"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "list_no": 35,
+   "title": "财务与交易（2）",
+   "words": [
+    {
+     "seq": 1,
+     "spelling": "budget",
+     "spelling_raw": "budget",
+     "ipa_raw": "/'badzit/",
+     "mnemonic": "bud ( 芽 ) + get ( 得 到 ) → 萌 芽 的 计 划 , 要有预算。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "做预算；按计划花钱"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "预算，财政收支状况"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "government budgets 政府预算 budget for sth. 为某事做预算"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "budgetary adj.预算的"
+      }
+     ],
+     "examples": [],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 2,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "capit-( 头 )+-al (形容词兼名词后缀) → 首位的、首都。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "首都；资本，资金；大写字母"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "首位的，最重要的；应处死的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "foreign capital 外 资\nhuman capital 人力资本\nmake capital of 利用\nHe tried to make capital of his opponent's mistakes in the debate.\n他试图在辩论中利用对手的错误来取得优势。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "capitalism n.资本主义\ncapitalist n.资本家\ncapitalization n.资 本 化 ; 资 本 总 额"
+      }
+     ],
+     "examples": [],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 3,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "cost (花费) +- ly (副词或形容词后缀) → 具有花费性质的，昂贵的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "费钱的，昂贵的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "dear& expensive & costly:\ndear:侧重要价远高于合理价格；\nEverything is so dear in London these days.最近一切在伦敦都太贵了。\nexpensive :侧重价格超过物品本身的价值或超过购买者的支付能力；\ncostly:侧重因物品稀少或珍贵导致的价格高。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "cost n.成 本 ; 费 用 v. 花费\ncostless adj.不花钱的;无须付出代价的"
+      }
+     ],
+     "examples": [],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 4,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "去医院看病，先交费 (fee )。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "债务"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "用 in/ into 表示负债，用 out of 表示不欠债。\nbe in debt 负 债\nget/ run into debt 负 债\nbe out of debt 不 欠 债\nget out of debt 还 清 欠 款"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "debtor n.债务人\ncn. 学费，会费；酬金\n妙记：去医院看病，先交费 (fee )。\nStreet photo showing a customer service counter interaction with visible signage and documents\n## 考点点拨"
+      },
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "fee 是 可 数 名 词 , 表 示 费 用 高 , 要 用 many fees 或 a high fee, 不能用 much fee。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "近 义 词 辨 析 : fee & fare & charge & cost\nfee:侧重教育、专业等服务类费用；\nfare: 侧 重 交 通 费 ;\ncharge :侧重普通费用或账单上的金额；\ncost: 侧重成本、价格。"
+      },
+      {
+       "marker": "③",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "charge a fee 收 取 费 用\npay a fee 支 付 费 用\ntuition fees 学 费\na license fee 执 照 费"
+      }
+     ],
+     "examples": [],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 5,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "fin-( 结 束 , 界 限 ) +- ance (名词后缀)→钱到位，账结清，事结束→财务，金融。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "财政，金融；财务状况"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "为……提供资金"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": null,
+       "body": "## ①固定搭配:\ngovernment finance 政 府 财 政\ndepartment of finance 财 务 部\nfinance sth. 为某事提供资金\nbe financed by sb. 由某人提供资金\nThe scheme is partly financed by a government grant.\n此计划有一部分是政府资助的。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "financial adj.财 务 的 , 金 融 的"
+      }
+     ],
+     "examples": [],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 6,
+     "spelling": "financial",
+     "spelling_raw": "financial",
+     "ipa_raw": "/faI'nænʃl/",
+     "mnemonic": "finance ( 财 务 , 金 融 ) 去 e +- ial (形容词后缀) →财务的，金融的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "财政的，金融的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "financial & economic & fiscal\nfinancial: 表示具体的财务;\neconomic: 表示广义上的经济;\nfiscal: 表示政府财政的。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "a financial center 金 融 中 心\na financial crisis 金 融 危 机"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "financially adv.在财务方面"
+      }
+     ],
+     "examples": [],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 7,
+     "spelling": "income",
+     "spelling_raw": "income",
+     "ipa_raw": "/'mnkam/",
+     "mnemonic": "in (里) + come (来)→来到钱包里→收入。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "收入，收益"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "income 一般是不可数名词，表示总收入。\nHis income is over\\$10 an hour.\n他的收入超过每小时 10 美金。"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "income & salary & wage & revenue\nincome: 表示总收入;\nsalary: 表示月薪;\nwage:表示日薪、月薪、周薪；\nrevenue:表示公司或政府的总收入，更加正式。"
+      },
+      {
+       "marker": "③",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "household income 家 庭 收 入\nlow income 低收入\nhigh income 高收入"
+      }
+     ],
+     "examples": [],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 8,
+     "spelling": "revenue",
+     "spelling_raw": "revenue",
+     "ipa_raw": "/'revənu:/",
+     "mnemonic": "re- ( 回 )+ven- ( 来 )+ue→回来的钱→收入。",
+     "senses": [],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "一般情况下，revenue 是不可数名词，常与动词 generate、boost、lose 搭配。\ngenerate revenue 产生收入"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "annual revenue 年度总收入\ntax revenue 税收收入"
+      }
+     ],
+     "examples": [],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 9,
+     "spelling": "wealth",
+     "spelling_raw": "wealth",
+     "ipa_raw": "/welθ/",
+     "mnemonic": "wealth (财富) 买不来 health (健康)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "财富，财产；大量"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "accumulate wealth 积累财富\ndistribute/ share wealth 分配财富\na wealth of sth. 大 量\nA wealth of examples are given.\n举了大量例子。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "wealthy adj.富裕的，丰富的"
+      }
+     ],
+     "examples": [],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 10,
+     "spelling": "wealthy",
+     "spelling_raw": "wealthy",
+     "ipa_raw": "/'welθi/",
+     "mnemonic": "wealth (财富) +- y (形容词后缀)→富裕的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "富裕的，丰富的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "wealthy & rich\n• wealthy: 更加正式，侧重资产丰富;\nrich:更加口语，侧重有钱。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "the wealthy class 富人阶级\nbecome wealthy 致富"
+      }
+     ],
+     "examples": [],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 11,
+     "spelling": "yield",
+     "spelling_raw": "yield",
+     "ipa_raw": "/ji:ld/",
+     "mnemonic": "这笔投资带来了高额 yield (收益)，但他不得不 yield (屈服) 于董事会的压力。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "生产，产生，带来；放弃，屈服"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "产量，收获"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "high yield 高 产\nlow yield 低 产\nyield results 得出结果\nyield to sb./ sth. 屈 服 于 某 人/ 某事\nyield power 放弃权力"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "yielding adj.柔 顺 的 ; 可 弯 曲 的 ; 容 易 屈 服 的"
+      }
+     ],
+     "examples": [],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 12,
+     "spelling": "cost",
+     "spelling_raw": "cost",
+     "ipa_raw": "/kə:st/",
+     "mnemonic": "post ( 邮 寄 ) 包裹需要 cost (费用)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "成本，费用；代价"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "花费；值（多少钱)；估算成本"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "cost price 成本价格\nat the cost of sth. 以某事为代价\nat all costs 不 惜 任 何 代 价 , 无 论 任 何\nYou must stop the press from finding out at all costs.\n你必须不惜一切代价阻止媒体查明真相。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "costly adj.费钱的，昂贵的"
+      }
+     ],
+     "examples": [],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 13,
+     "spelling": "spend",
+     "spelling_raw": "spend",
+     "ipa_raw": "/ spend/",
+     "mnemonic": "谐音“是笨的”，过度花钱就是笨的。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "度过，花（时间）；花（钱），花费；消耗，用尽（精力等)"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "花费，开销"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "spend+ 时 间/ 金 钱 + on sth.: 在某物上花费时间或金 钱\nspend+ 时 间/ 金 钱+(in ) doing sth. : 花费时间或金钱做某事，其中 in 可以省略"
+      }
+     ],
+     "examples": [],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 14,
+     "spelling": "auction",
+     "spelling_raw": "auction",
+     "ipa_raw": "/'o:k∫n/",
+     "mnemonic": "auction ( 拍 卖 ) 时要 caution (小心) 出价。",
+     "senses": [
+      {
+       "pos": "n/vt.",
+       "meaning_cn": "拍卖"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "sth. be put up for auction 是被动语态，表示“某物被拍卖”。而 sth. go to auction 是主动语态表示被动意义，意思也是“某物被拍卖”。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "auction off sth. 把某物拍卖掉\nat auction 通过拍卖的方式\nauction house 拍 卖 行"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "auctioneer n.拍 卖 人"
+      }
+     ],
+     "examples": [],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 15,
+     "spelling": "bargain",
+     "spelling_raw": "bargain",
+     "ipa_raw": "/'ba:rgən/",
+     "mnemonic": "bar ( 酒 吧 )+gain (获得)→获得酒吧→交易。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "廉价货；交易；契约，合同"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "议价；成交"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "谈判\nbargain about/ over sth. 就某事谈判\nbargain with sb. 与某人谈判"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "drive a hard bargain 使劲讨价还价\nmake/ strike a bargain 达成协议，作成交易\na real bargain 很 划 算 的 东 西\nbargain away 以廉价售出"
+      }
+     ],
+     "examples": [],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 16,
+     "spelling": "bid",
+     "spelling_raw": "bid",
+     "ipa_raw": "/b1d/",
+     "mnemonic": "谐音“必得”，这个古董我必得 (bid )。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "命令，吩咐；祝愿；出价，投标"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "bid for sth. 出价争取\nmake/ place a bi d 出价，提交竞标\nbi d farewell to sb. 与某人告别"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "bidder n.在拍卖中的出价者，竞买者\nbidding n.命 令 , 出 价"
+      }
+     ],
+     "examples": [],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 17,
+     "spelling": "credit",
+     "spelling_raw": "credit",
+     "ipa_raw": "/'kredit/",
+     "mnemonic": "这个想法得到了 credit(赞扬)，但他把功劳归于团队对他的 credit (信任)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "信任；赞扬，荣誉；信用；赊购；学分"
+      },
+      {
+       "pos": "vt.",
+       "meaning_cn": "信任，相信；把……归于；认为……有（某种优点或成就等）"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "give sb. credit for sth. 为某事而称赞某人\nto sb.’s credit 为某人带来荣誉\nadd credit 增添荣誉\ncredit card 信 用 卡"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "credible adj.可信的，可靠的\nincredible adj.不可信的"
+      }
+     ],
+     "examples": [],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 18,
+     "spelling": "payment",
+     "spelling_raw": "payment",
+     "ipa_raw": "/'peimənt/",
+     "mnemonic": "pay (支付) +- ment (名词后缀) →支付。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "支付；付款额"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "payment on delivery 货到付款\nfull payment 全额付款\npartial payment 部分付款"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "prepayment 1 n.预付款\nrepayment n.偿还款"
+      }
+     ],
+     "examples": [],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 19,
+     "spelling": "sale",
+     "spelling_raw": "sale",
+     "ipa_raw": "/serl/",
+     "mnemonic": "这位 male ( 男 士 ) 询问了 sale(促销活动)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "出售，上市；贱卖，促销；销售额"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "put sth. up for sale 将某物挂牌出售\non sale 特价促销"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "salesman n.销售员"
+      }
+     ],
+     "examples": [],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 20,
+     "spelling": "outlet",
+     "spelling_raw": "outlet",
+     "ipa_raw": "/'autlet/",
+     "mnemonic": "out (出去) +let (让) →让••••••出去的地方→出口，发泄口。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "出路，出口；发泄途径"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "品牌折扣店，奥特莱斯\nOutlet mall 奥特莱斯商场"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "retail outlet 零 售 店\npower outlet 电源插座\nan outlet for emotions 情绪的出口\nprovide an outlet for... 提 供 ⋯⋯ 的 出 口"
+      }
+     ],
+     "examples": [],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 21,
+     "spelling": "earn",
+     "spelling_raw": "earn",
+     "ipa_raw": "/3:rn/",
+     "mnemonic": "learn ( 学 习 ) 能够使人 earn (挣钱)。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "赚得，挣钱；盈（利），生（利）；赢得，博得"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "earn one's keep/ living 谋生\n【2013 年英语 (二)】\nIn the past, workers with average skills, doing an\naverage job, could earn an average lifestyle.\n在过去，拥有一般的技能、从事一份普通的工作就能过上一般的生活。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2013 年英语 (二)】",
+       "year": 2013,
+       "exam": "英语二",
+       "part": null,
+       "en": "In the past, workers with average skills, doing an average job, could earn an average lifestyle.",
+       "cn": "在过去，拥有一般的技能、从事一份普通的工作就能过上一般的生活。"
+      }
+     ],
+     "list_no": 35,
+     "list_title": "财务与交易（2）",
+     "theme": "经济与就业"
+    }
+   ],
+   "narrative": {
+    "plot": "创业起点→设备陷阱→负债爆发→新品破局→渠道致富",
+    "sections": []
+   }
+  },
+  {
+   "list_no": 36,
+   "title": "合作与管理",
+   "words": [
+    {
+     "seq": 1,
+     "spelling": "operate",
+     "spelling_raw": "operate",
+     "ipa_raw": "/'a:pəreit/",
+     "mnemonic": "谐音“奥普瑞特”:奥普瑞特 (operate ) 是个修理工，他既能 operate (操控) 机器，又帮朋友 operate(经营) 小 商 店 , 甚 至 自 学 了 给 宠 物 operate (动手术).",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "操纵；运转；运行；手术"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "operate 在表示“操作；经营管理”时，为及物动\n词，如 operate a company 经营一家公司。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "在表示“动手术”时，后常与 on 搭 配 ,operate on sb./身体部位，表示“为某人/身体部位动手术”。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "operation n.运 行 ; 操 纵 ; 手 术"
+      }
+     ],
+     "examples": [],
+     "list_no": 36,
+     "list_title": "合作与管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 2,
+     "spelling": "cooperate",
+     "spelling_raw": "cooperate",
+     "ipa_raw": "/kov'a:poreit/",
+     "mnemonic": "co- (表示“共同”) +operate (操作、工作)=共同工作，即为“协作”。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "合作；协作；配合"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "cooperate 是不及物动词、常与介词 with、in、on 等搭配。cooperate with sb. 与某人合作\ncooperate in sth. 在某方面合作，如 cooperate in environmental protection efforts 在环保工作方面合作；\ncooperate on sth. 就 某 事 合 作 , 如 cooperate on the construction of a new highway 在高速公路的建设上合作。\n【2013 年英语 (一)】\n… encourages state officers to share information and cooperate with federal colleagues.\n……鼓励州官员与联邦同事共享信息并合作。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "cooperation n.合作"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2013 年英语 (一)】",
+       "year": 2013,
+       "exam": "英语一",
+       "part": null,
+       "en": "… encourages state officers to share information and cooperate with federal colleagues.",
+       "cn": "……鼓励州官员与联邦同事共享信息并合作。"
+      }
+     ],
+     "list_no": 36,
+     "list_title": "合作与管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 3,
+     "spelling": "correspond",
+     "spelling_raw": "correspond",
+     "ipa_raw": "/,ko:rə'spa:nd/",
+     "mnemonic": "cor- ( 共 同 ) + respond ( 回 应 )= correspond 共同回应，即为“通信”，“通信”之后大家的思考就“相符”了。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "类似于；相一致；符合；通信"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "correspond 表示“符合; 相一致”\n常用作 correspond with…表示“与……相符、与……一致”，强调“互动性或具体的比较”，常接人、信件、事实。\ncorrespond to… 表示“相当于、对应”,强调“抽象的一致性或匹配关系”，后接抽象概念、标准或者数值。\n【2012 年英语 (一)】\nA process that corresponds to what philosopher Annette Baier has described as the commons of the mind.\n这一过程符合哲学家安妮特•拜尔所描述的心智的共性。"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "correspond & match & accord & coincide\ncorrespond : 强调“相符、匹配”,侧重于事物、人际的信息交流；\nmatch :强调“完全匹配”，常用于形状、颜色、数量等具体层面；\naccord :强调“抽象意义上的一致”，如观点、原则等；\ncoincide 强 调“实践、空间的重合”。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "correspondent n.记者;通信者\ncorrespondence n.信 件 ; 相 似 ; 关 联"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2012 年英语 (一)】",
+       "year": 2012,
+       "exam": "英语一",
+       "part": null,
+       "en": "A process that corresponds to what philosopher Annette Baier has described as the commons of the mind.",
+       "cn": "这一过程符合哲学家安妮特•拜尔所描述的心智的共性。"
+      }
+     ],
+     "list_no": 36,
+     "list_title": "合作与管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 4,
+     "spelling": "interact",
+     "spelling_raw": "interact",
+     "ipa_raw": "/,intər'ækt/",
+     "mnemonic": "inter- (表示“之间”) + act ( 行 动 ) = 在 两者之间行动，即为“互动、互相作用”。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "相互交流；互动；相互作用"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "interact 在表示“(人、物之间的) 互动; 相互作用”时，常用搭配为 interact with sb./ sth.,表示与••互 动/ 相互影响。\nWe often interact with our devices in ways that are designed to draw us in and keep us scrolling.\n我们与电子设备互动的方式往往旨在吸引我们并让我们持续滑动屏幕。\ninteract 在 表 示“观 点/ 因素等相互关联”时，常用搭配为 interact to do sth.共同作用以……"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "interaction n.互动;相互作用\n搭 配 : interaction between A and B A 和 B 之间的相互作用\nSuch interactions can be complex, as seen in the way ants coordinate their efforts.\n这种互动可能很复杂，就像蚂蚁协调行动的方式所显示的那样。"
+      }
+     ],
+     "examples": [],
+     "list_no": 36,
+     "list_title": "合作与管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 5,
+     "spelling": "comply",
+     "spelling_raw": "comply",
+     "ipa_raw": "/kəm'plai/",
+     "mnemonic": "com- ( 共 同 )+ply- (折叠，引申为“迎合”)=共同迎合，即为“遵守”。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "遵从；符合（特定标准）"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "comply 表示“按照外部要求如规则、法律、命令等去做事”。\n常用搭配 comply with 遵 守 , 如\ncomply with the law 遵 守 法 律\ncomply with safety standards 符 合 安 全 标 准\nfail to comply with 未能遵守，是其高频否定结构。\nThe company was fined for failing to comply with data protection laws.\n该公司因未能遵守数据保护法被罚款。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "compliance n.服 从 ; 遵 守\n搭配：in compliance with 根 据"
+      }
+     ],
+     "examples": [],
+     "list_no": 36,
+     "list_title": "合作与管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 6,
+     "spelling": "membership",
+     "spelling_raw": "membership",
+     "ipa_raw": "/'membәrʃIp/",
+     "mnemonic": "member ( 成 员 )+-ship ( 名 词 后 缀 , 表 示 身份)→成员的身份即为“会员身份”。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "会员身份；会员"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "membership 核心意思表示“会员身份”,是一个抽象概念，如 apply for membership 申请会员资格。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "membership 还表示“全体人数; 全体会员”这一集合概念，如 the organization has a membership of over 5000。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "member n.成 员 ; 成 分 ; 议 员\n注意与 membership 的区分，member 指“具体的人”。"
+      }
+     ],
+     "examples": [],
+     "list_no": 36,
+     "list_title": "合作与管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 7,
+     "spelling": "feedback",
+     "spelling_raw": "feedback",
+     "ipa_raw": "/'fi:dbæk/",
+     "mnemonic": "feed ( 喂 养、提 供 )+back ( 回 来 ) = 提 供 回来的东西，即为“反馈”。",
+     "senses": [],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "feedback 为不可数名词，无复数形式，不能加 s。表示多条反馈时，需用 pieces of feedback。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "常用搭配",
+       "body": "feedback on sth. 关于……的反馈\nfeedback from sb. 来自……的反馈\n【2016 年英语 (一) 新题型】\nIf you' re not sure, ask for honest feedback from trusted friends, colleagues and professionals.\n如果你不确定，那就向值得信赖的朋友、同事和专业人士寻求诚实的反馈。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2016 年英语 (一) 新题型】",
+       "year": 2016,
+       "exam": "英语一",
+       "part": null,
+       "en": "If you' re not sure, ask for honest feedback from trusted friends, colleagues and professionals.",
+       "cn": "如果你不确定，那就向值得信赖的朋友、同事和专业人士寻求诚实的反馈。"
+      }
+     ],
+     "list_no": 36,
+     "list_title": "合作与管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 8,
+     "spelling": "embody",
+     "spelling_raw": "embody",
+     "ipa_raw": "/ım'ba:di/",
+     "mnemonic": "em- (词根，表示“进入，使”)+body ( 身 体 )→使进入身体，可联想为将抽象的东西融入具体事务，即为“体现”。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "具体表现；收录；包括"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "embody & represent & incorporate\n● embody :强调“通过具体的人或行为将抽象的思想品质等展现出来”；\n·represent :侧重于“象征或代理”，如鸽子代表和平；\n●incorporate : 侧重“将部分融入整体”,如新政策包含多项改革。\nWe must ensure that our institutions encourage that kind of science, and that they embody the values that support it.\n我们必须确保我们的机构鼓励这种科学，并体现支持这种科学的价值观。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "常用搭配",
+       "body": "embody sth. in sth. 将……体现在……中"
+      }
+     ],
+     "examples": [],
+     "list_no": 36,
+     "list_title": "合作与管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 9,
+     "spelling": "supervise",
+     "spelling_raw": "supervise",
+     "ipa_raw": "/'su:pərvaiz/",
+     "mnemonic": "super- ( 表 示“在 …… 之 上”)+vis- ( 看 ) + e=在上方看着，即为“监督；管理”。",
+     "senses": [],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "supervise 表示“监督、指导”可以直接加宾语，如 supervise a project 监督项目。\nProfessor Smith often supervises graduate students in their research projects.\n史密斯教授经常指导研究生的研究项目。\nsupervise over sth. 对某领域的全面监管，常用于正式语境。\nThe agency is responsible for supervising over environmental protection measures.\n该机构负责监督环境保护措施。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "同义词：oversee 监管、monitor 监视、administer\n管理、direct 指导。"
+      }
+     ],
+     "examples": [],
+     "list_no": 36,
+     "list_title": "合作与管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 10,
+     "spelling": "perform",
+     "spelling_raw": "perform",
+     "ipa_raw": "/pər'fo:rm/",
+     "mnemonic": "per-( 词 根 , 表 示“向 前”) + form ( 形 成 ) =向前把事情做好，即为“执行；表现”。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "表演；演出；执行；起……作用"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": null,
+       "body": "重点释义\nperform 可表示“执行、完成”\nDoctors performed an emergency operation on the patient.\n医生为病人做了紧急手术。\n还可表示“表演、演出”\nThe orchestra will perform Beethoven's Ninth\nSymphony tonight.\n管弦乐队今晚将演奏贝多芬的《第九交响曲》。\n还可以表示“表现 (成绩、状态等)”\nStudents who sleep well tend to perform better in exams.\n睡眠好的学生在考试中往往表现更好。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "performance n.表 现 ; 表 演 ; 业 绩 ;adj. 高性能的\nHer academic performance has improved significantly.她的学业表现有了显著提升。"
+      }
+     ],
+     "examples": [],
+     "list_no": 36,
+     "list_title": "合作与管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 11,
+     "spelling": "tackle",
+     "spelling_raw": "tackle",
+     "ipa_raw": "/'tæk(ə)l/",
+     "mnemonic": "tackle 发音似“太可了”，联想到面对难题时，对自己加油说“太可了”(tackle )，即为“应对、解决”。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "应付；解决；质问；抢断球"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "抢断球；渔具"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "tackle 表示“解决、处理”,tackle sth. with sth.用•方法处理某事。\nScientists are eager to tackle the mystery of dark matter, which has puzzled them for decades.\n科学家们急于解开暗物质的谜团，这个问题已经困扰他们数十年了。\nYoung people need to learn how to tackle financial challenges in adulthood.\n年轻人需要学习如何应对成年后的经济挑战。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "熟词生义:tackle 在体育类话题中，还指“拦截、\n抢断”，有阻止对方进攻的意思。"
+      }
+     ],
+     "examples": [],
+     "list_no": 36,
+     "list_title": "合作与管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 12,
+     "spelling": "handle",
+     "spelling_raw": "handle",
+     "ipa_raw": "/'hænd(ә)l/",
+     "mnemonic": "hand ( 手 ) + le ( 了 ) = handle, “出手了”,即为“处理”。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "处理；拿；经营"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "把手；拉手；途径"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "handle 作动词，表示“处理、应对”，侧重干处理事务或问题以及应对情况。搭配：handle sth. with care 小心处理某事。\nParents need to help their children handle the emotions that come with failure.\n父母需要帮助孩子应对失败带来的情绪。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "handle 作名词表示“把手、柄”。"
+      },
+      {
+       "marker": "③",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "handle & deal with & cope with & manage\nhandle:侧重“操作过程、实际处理具体问题”；\ndeal with :含义更为宽泛，可指“处理问题、应对人或事物”；\ncope with:侧重于“应对压力等有挑战的情况”；\nmanage: 强调“成功处理”。"
+      }
+     ],
+     "examples": [],
+     "list_no": 36,
+     "list_title": "合作与管理",
+     "theme": "经济与就业"
+    },
+    {
+     "seq": 13,
+     "spelling": "endeavor",
+     "spelling_raw": "endeavor",
+     "ipa_raw": "/m'devər/",
+     "mnemonic": "endeavor 发音似“引导我”,联想到“引导我进步”，即为“努力”。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "努力；尽力"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "尽力；努力"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "endeavor 作动词，表示“努力，尽力”、后接动词不定式 endeavor to do sth.努力去做某事。\nScientists around the world are endeavoring to understand the mechanism of the new material.\n•全球科学家正努力了解这种新材料的机理。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "endeavor 作名词，也表示“努力，尽力”。"
+      },
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "常用搭配",
+       "body": "make every endeavor 尽一切努力\nin one’s endeavor to do sth. 在某人努力做某事的过程中\na noble endeavor 崇高的事业"
+      }
+     ],
+     "examples": [],
+     "list_no": 36,
+     "list_title": "合作与管理",
+     "theme": "经济与就业"
+    }
+   ],
+   "narrative": {
+    "plot": "共同协作→培训赋能→现场管控→履职攻坚",
+    "sections": [
+     {
+      "title": "共同协作",
+      "text": [
+       "为了城市马拉松赛事的顺利举办，组委会迅速行动起来。首先，工作人员们紧密 cooperate(合作),与各个部门沟通协调，确保所有安排都能 correspond (对应) 赛事需求。同时，志愿者们也积极与参赛者 interact (互动)，解答他们的疑问，并严格按照组委会规定，确保一切行动都 comply (符合) 安全标准和赛事规则。"
+      ]
+     },
+     {
+      "title": "培训赋能",
+      "text": [
+       "赛事筹备期间，新加入的志愿者需登记成为赛事志愿者协会的 membership (会员)。培训过程中，志愿者们会及时给出自己的 feedback (反馈)，培训导师则通过实际案例，向志愿者们展示如何 embody (体现) 赛事的服务精神，如何提供优质的服务。"
+      ]
+     },
+     {
+      "title": "现场管控",
+      "text": [
+       "赛事当天，后勤团队高效 operate (运作)，精心 manage (管理) 物资调配，确保每一项工作都在掌控之中。赛事指挥中心的工作人员则精准 direct ( 引 导 ) 着各个环节的流程，带领着各自小组的志愿者坚守岗位，supervise (监督) 每一个细节。组委会还通过反复检查和核对，确保所有环节都准备就绪。"
+      ]
+     },
+     {
+      "title": "履职攻坚",
+      "text": [
+       "在赛事进行过程中，志愿者们出色地 perform (履行) 自己的职责，按照预先 plan(计划) 的方案，为他们提供帮助。当遇到突发状况时，志愿者们冷静 handle(处理),积极应对并 tackle ( 解 决 ) 问题。大家齐心协力，endeavour (努力) 为所有参赛者打造一场完美的马拉松赛事。"
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

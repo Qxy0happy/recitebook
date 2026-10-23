@@ -1,0 +1,3718 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.863,
+            0.021,
+            0.972,
+            0.057
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "doc_title",
+          "bbox": [
+            0.41,
+            0.077,
+            0.579,
+            0.107
+          ],
+          "level": 1,
+          "content": "意志行动"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.349,
+            0.152,
+            0.395,
+            0.183
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_2.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.404,
+            0.158,
+            0.616,
+            0.177
+          ],
+          "level": 2,
+          "content": "List 9 给予与释放"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.06,
+            0.191,
+            0.206,
+            0.211
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.218,
+            0.498,
+            0.234
+          ],
+          "content": "情节发展：信任建立→危机四伏→授权行动→总结反思"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.069,
+            0.294,
+            0.142,
+            0.31
+          ],
+          "level": 2,
+          "content": "信任建立"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.313,
+            0.695,
+            0.35
+          ],
+          "content": "科学家艾琳长期 give（给）位于火山附近的小镇的居民们 provide（提供）环境咨询，居民们十分 trust（信任）她的专业知识。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.708,
+            0.246,
+            0.936,
+            0.398
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a medical professional presenting to a seated audience in a rural courtyard (no text or symbols visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_8.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.44,
+            0.143,
+            0.456
+          ],
+          "level": 2,
+          "content": "危机四伏"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.459,
+            0.695,
+            0.515
+          ],
+          "content": "最近，她 deliver（递送）了一份初步报告，表达了她对火山爆发的担忧。她表示，一旦火山 erupt（爆发），被损坏的工厂将 emit（排放）有毒气体，release（释放）污染物，这将引发疾病的 outbreak（暴发）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.708,
+            0.401,
+            0.935,
+            0.553
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior scene of a medical or laboratory setting with a speaker at a podium, audience seated, and a large screen in the background (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_11.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.597,
+            0.144,
+            0.612
+          ],
+          "level": 2,
+          "content": "授权行动"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.615,
+            0.694,
+            0.672
+          ],
+          "content": "为了避免火山爆发，政府 mandate（授权）艾琳领导应对。她 confer（授予）团队技术方案，并与当地政府签订 contract（合同）来 extract（提取）地热能源。在她的领导下，危机成功化解。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.708,
+            0.558,
+            0.935,
+            0.707
+          ],
+          "sub_type": "natural_image",
+          "content": "Woman presenting in a presentation with a presentation screen showing a desert-like structure (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_14.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.761,
+            0.144,
+            0.777
+          ],
+          "level": 2,
+          "content": "总结反思"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.78,
+            0.694,
+            0.816
+          ],
+          "content": "最后，艾琳 share（分享）了一份 summary（摘要）报告，这是一个 abstract（抽象的）总结，帮助其他邻近火山的小镇从这个事件中学习经验。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.708,
+            0.711,
+            0.935,
+            0.864
+          ],
+          "sub_type": "natural_image",
+          "content": "Woman in white coat standing at a conference table with audience in background (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_17.jpg"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.837,
+            0.933,
+            0.891,
+            0.949
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.894,
+            0.933,
+            0.924,
+            0.95
+          ],
+          "content": "#"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.937,
+            0.933,
+            0.976,
+            0.949
+          ],
+          "content": "109"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.05,
+            0.033,
+            0.101,
+            0.053
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.125,
+            0.039,
+            0.377,
+            0.055
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.407,
+            0.038,
+            0.508,
+            0.055
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.088,
+            0.084,
+            0.233,
+            0.104
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.128,
+            0.189,
+            0.144
+          ],
+          "content": "give /gɪv/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.147,
+            0.143,
+            0.161
+          ],
+          "content": "vt. 给"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.168,
+            0.275,
+            0.184
+          ],
+          "content": "妙记：give 谐音“给”。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.227,
+            0.189,
+            0.345,
+            0.272
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_7.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.088,
+            0.277,
+            0.187,
+            0.298
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.084,
+            0.304,
+            0.478,
+            0.356
+          ],
+          "sub_type": "text",
+          "content": "①注意该单词的过去式和过去分词的写法：过去式为 gave，过去分词为 given。\n②该单词常考:given(that)prep.考虑到，鉴于"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.359,
+            0.242,
+            0.375
+          ],
+          "content": "【2021 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.379,
+            0.479,
+            0.431
+          ],
+          "content": "Given their combined market value of more than \\$5.5 trillion, rifling through such small deals might seem beside the point."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.433,
+            0.479,
+            0.468
+          ],
+          "content": "考虑到它们的总市值超过 5.5 万亿美元，浏览这些小交易可能显得无关紧要。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.471,
+            0.185,
+            0.486
+          ],
+          "content": "③短语搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.491,
+            0.195,
+            0.506
+          ],
+          "content": "give up 放弃"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.509,
+            0.247,
+            0.524
+          ],
+          "content": "give out 分发，散发"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.528,
+            0.266,
+            0.543
+          ],
+          "content": "give away 泄露；赠送"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.546,
+            0.19,
+            0.561
+          ],
+          "content": "give in 屈服"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.581,
+            0.238,
+            0.596
+          ],
+          "content": "deliver /dɪˈlɪvər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.6,
+            0.429,
+            0.616
+          ],
+          "content": "vt. 输送；解救；发表（演讲）；接生（孩子）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.094,
+            0.622,
+            0.48,
+            0.677
+          ],
+          "content": "妙记:de-（强调）+ liver（肝脏）→肝脏作为人体代谢器官，会“deliver”（输送）合成的物质（如胆汁、蛋白质）至其他器官。"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.095,
+            0.681,
+            0.34,
+            0.735
+          ],
+          "sub_type": "text",
+          "content": "1. 输送俘虏出去 → 解救；\n2. 输送言论→发表（演讲）;\n3. 输送出 baby → 接生（孩子）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.226,
+            0.741,
+            0.339,
+            0.821
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_27.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.82,
+            0.182,
+            0.84
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.848,
+            0.466,
+            0.883
+          ],
+          "content": "①该单词的翻译非常多，但归根结底就是“释放”,直接翻译成“释放”,都可以看懂。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.887,
+            0.211,
+            0.901
+          ],
+          "content": "常考释义：递送"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.904,
+            0.239,
+            0.92
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.125,
+            0.735,
+            0.141
+          ],
+          "content": "letter delivery“释放”信件"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.144,
+            0.658,
+            0.158
+          ],
+          "content": "常考释义：传达"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.162,
+            0.687,
+            0.177
+          ],
+          "content": "【2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.181,
+            0.854,
+            0.196
+          ],
+          "content": "delivering the content to the target customers"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.198,
+            0.746,
+            0.213
+          ],
+          "content": "将内容“释放”给目标客户"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.217,
+            0.657,
+            0.232
+          ],
+          "content": "常考释义：带来"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.235,
+            0.687,
+            0.251
+          ],
+          "content": "【2024 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.254,
+            0.878,
+            0.269
+          ],
+          "content": "deliver real financial benefits to rural economies"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.272,
+            0.854,
+            0.287
+          ],
+          "content": "将真正的财务利益“释放”给乡村经济体"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.291,
+            0.657,
+            0.306
+          ],
+          "content": "常考释义：输送"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.309,
+            0.686,
+            0.325
+          ],
+          "content": "【2010 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.328,
+            0.918,
+            0.361
+          ],
+          "content": "The three Ds—death, debt and divorce — still deliver works of art to the market."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.364,
+            0.918,
+            0.398
+          ],
+          "content": "三个 D——死亡、债务和离婚——仍然向市场“释放”大量艺术作品。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.401,
+            0.61,
+            0.417
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.421,
+            0.887,
+            0.437
+          ],
+          "content": "delivery n. 递送；演讲方式，演讲风格；分娩"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.462,
+            0.682,
+            0.476
+          ],
+          "content": "confer /kən'fɜːr/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.482,
+            0.765,
+            0.498
+          ],
+          "content": "vi. 商讨，商议 vt. 授予，赋予"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.506,
+            0.918,
+            0.543
+          ],
+          "content": "妙记:con-（一起）+ fer-（拿）→ 把各方意见拿到一起→ 商讨、商议。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.548,
+            0.627,
+            0.568
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.574,
+            0.801,
+            0.59
+          ],
+          "content": "① confer 可以表示“授予、赋予”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.594,
+            0.61,
+            0.609
+          ],
+          "content": "【2002 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.613,
+            0.918,
+            0.683
+          ],
+          "content": "That compulsion has resulted in robotics—the science of conferring various human capabilities on machines. 这种冲动导致了机器人学的产生，机器人学是将各种人类的能力赋予机器的科学。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.69,
+            0.917,
+            0.724
+          ],
+          "content": "②该词本身考频较低，更多的是考查其派生词：conference n. 会议"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.727,
+            0.877,
+            0.744
+          ],
+          "content": "【2010 年英语（一）】小作文导语（Directions）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.747,
+            0.918,
+            0.78
+          ],
+          "content": "You are supposed to write a notice to recruit volunteers for an international conference."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.784,
+            0.871,
+            0.8
+          ],
+          "content": "你需要写一份通知，为国际会议招募志愿者。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.825,
+            0.695,
+            0.841
+          ],
+          "content": "provide /prəˈvaɪd/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.843,
+            0.787,
+            0.859
+          ],
+          "content": "v. 做好准备；预防；供应，供给"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.866,
+            0.918,
+            0.922
+          ],
+          "content": "妙记：pro-（前）+ vid-（看）+e → 往前看，看到前面会发生的事，现在做好准备或提供预防措施，后引申为供应、供给（provide）。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.053,
+            0.935,
+            0.09,
+            0.95
+          ],
+          "content": "110/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.099,
+            0.934,
+            0.127,
+            0.951
+          ],
+          "content": "#"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.13,
+            0.936,
+            0.18,
+            0.95
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.85,
+            0.027,
+            0.954,
+            0.064
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.184,
+            0.086,
+            0.372,
+            0.16
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior view of a modern warehouse or warehouse with shelves stocked with goods and workers handling goods (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_1.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.083,
+            0.162,
+            0.179,
+            0.182
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.189,
+            0.397,
+            0.223
+          ],
+          "content": "① provide sb. with sth. = provide sth. for sb.\n将某物提供给某人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.226,
+            0.234,
+            0.242
+          ],
+          "content": "【2016 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.246,
+            0.393,
+            0.261
+          ],
+          "content": "provide city dwellers with spaces for leisure"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.264,
+            0.328,
+            0.28
+          ],
+          "content": "给城市居住者提供更多休闲空间"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.283,
+            0.43,
+            0.3
+          ],
+          "content": "② provided (that) = providing (that) conj. 如果"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.302,
+            0.234,
+            0.318
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.322,
+            0.474,
+            0.357
+          ],
+          "content": "“Carry a book with you at all times” can actually work, too—providing you dip in often enough."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.359,
+            0.474,
+            0.394
+          ],
+          "content": "“随身携带一本书”实际上也可以奏效——如果你经常沉浸其中。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.398,
+            0.16,
+            0.414
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.417,
+            0.421,
+            0.433
+          ],
+          "content": "provision n. 供应；供应品；【法】法律条款"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.436,
+            0.234,
+            0.453
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.457,
+            0.45,
+            0.491
+          ],
+          "content": "Three provisions of Arizona's plan were overturned.\n亚利桑那州计划的三个条款被推翻了。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.511,
+            0.192,
+            0.525
+          ],
+          "content": "emit /i'mɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.529,
+            0.309,
+            0.545
+          ],
+          "content": "vt. 排放；放射；发出；发行"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.553,
+            0.464,
+            0.59
+          ],
+          "content": "妙记：e-(外)+mit-(扔)→扔出去→排放，放射，发出，发行。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.595,
+            0.179,
+            0.615
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.621,
+            0.474,
+            0.656
+          ],
+          "content": "①该单词的翻译较为灵活，但只需记住它表示“扔出去”，都可以理解。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.66,
+            0.205,
+            0.675
+          ],
+          "content": "常考释义：排放"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.679,
+            0.234,
+            0.695
+          ],
+          "content": "【2019 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.699,
+            0.387,
+            0.714
+          ],
+          "content": "Forests emit more carbon than they absorb."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.717,
+            0.389,
+            0.732
+          ],
+          "content": "森林“扔出”的碳比它们吸收的碳更多。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.736,
+            0.205,
+            0.751
+          ],
+          "content": "常考释义：散发"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.754,
+            0.234,
+            0.77
+          ],
+          "content": "【2011 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.773,
+            0.477,
+            0.807
+          ],
+          "content": "While producing large quantities of CO2, these computers emit a great deal of heat."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.809,
+            0.474,
+            0.844
+          ],
+          "content": "这些计算机在产生大量二氧化碳的同时，还“扔出去”大量的热。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.846,
+            0.452,
+            0.88
+          ],
+          "content": "②派生词:emission n. 排放；放射；发出；发行\ncarbon emissions 碳排放"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.883,
+            0.234,
+            0.899
+          ],
+          "content": "【2025 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.903,
+            0.477,
+            0.917
+          ],
+          "content": "Scientists want to scale back their research in an effort"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.086,
+            0.736,
+            0.099
+          ],
+          "content": "to decrease carbon emissions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.103,
+            0.898,
+            0.119
+          ],
+          "content": "科学家打算缩减其研究规模，以努力减少碳排放。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.142,
+            0.634,
+            0.158
+          ],
+          "content": "share /ʃer/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.161,
+            0.759,
+            0.176
+          ],
+          "content": "v. 分享；分担 n. 份额；股份"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.183,
+            0.918,
+            0.199
+          ],
+          "content": "妙记：上市公司分享（share）给员工股份（share）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.205,
+            0.625,
+            0.225
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.233,
+            0.821,
+            0.248
+          ],
+          "content": "①该单词可以表示“股份”，考研常考。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.25,
+            0.681,
+            0.266
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.269,
+            0.886,
+            0.301
+          ],
+          "content": "Non-lawyers may not own any share of a law firm.\n非律师人士不得拥有律师事务所的任何股份。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.303,
+            0.89,
+            0.319
+          ],
+          "content": "②派生词:shared adj. 共享的，共有的，共同的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.321,
+            0.681,
+            0.336
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.34,
+            0.827,
+            0.355
+          ],
+          "content": "Credibility process requires shared efforts."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.357,
+            0.748,
+            0.372
+          ],
+          "content": "可信性程序需要共同的努力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.392,
+            0.664,
+            0.407
+          ],
+          "content": "release /rɪˈliːs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.411,
+            0.821,
+            0.427
+          ],
+          "content": "vt. 松开；使放松；释放；公布，发布"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.433,
+            0.921,
+            0.469
+          ],
+          "content": "妙记：谐音“瑞丽私” $\\rightarrow$ 在瑞丽的私人旅行总是能帮人释放（release）压力。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.662,
+            0.474,
+            0.786,
+            0.552
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_47.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.562,
+            0.625,
+            0.582
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.588,
+            0.764,
+            0.603
+          ],
+          "content": "①该词多考查“释放”的含义。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.606,
+            0.68,
+            0.621
+          ],
+          "content": "【2020 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.624,
+            0.921,
+            0.655
+          ],
+          "content": "The rats released the social robot because they expected it to do the same."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.658,
+            0.921,
+            0.691
+          ],
+          "content": "老鼠释放了社交机器人，因为它们希望它也能做到同样的事。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.694,
+            0.919,
+            0.727
+          ],
+          "content": "②近义词:publish vt. 公布，发布；出版发行（来自 public 公开的）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.729,
+            0.68,
+            0.745
+          ],
+          "content": "【2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.748,
+            0.921,
+            0.781
+          ],
+          "content": "Each year researchers publish millions of papers in more than 30,000 journals."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.783,
+            0.921,
+            0.816
+          ],
+          "content": "每年，研究人员在 30,000 多份期刊上发表数百万篇论文。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.836,
+            0.654,
+            0.852
+          ],
+          "content": "erupt /ɪˈrʌpt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.855,
+            0.6,
+            0.87
+          ],
+          "content": "vi. 爆发"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.877,
+            0.921,
+            0.913
+          ],
+          "content": "妙记:e-（外）+rupt-（断裂）→地壳断裂，灾害向外爆发。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.825,
+            0.933,
+            0.875,
+            0.948
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.878,
+            0.933,
+            0.907,
+            0.95
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.921,
+            0.934,
+            0.952,
+            0.948
+          ],
+          "content": "111"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.039,
+            0.033,
+            0.108,
+            0.066
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.123,
+            0.043,
+            0.379,
+            0.058
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.41,
+            0.043,
+            0.511,
+            0.058
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.195,
+            0.089,
+            0.376,
+            0.158
+          ],
+          "sub_type": "natural_image",
+          "content": "Explosion scene with flames and smoke, no visible text or symbols",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_3.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.163,
+            0.183,
+            0.183
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.19,
+            0.38,
+            0.205
+          ],
+          "content": "①注意该单词为不及物动词，sth. erupt"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.208,
+            0.24,
+            0.224
+          ],
+          "content": "【2010 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.228,
+            0.483,
+            0.262
+          ],
+          "content": "As this new science of habit has emerged, controversies have erupted."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.265,
+            0.425,
+            0.281
+          ],
+          "content": "随着这种新的习惯科学的出现，争议爆发了。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.284,
+            0.305,
+            0.3
+          ],
+          "content": "②派生词:eruption n. 爆发"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.304,
+            0.38,
+            0.319
+          ],
+          "content": "The volcano's eruption was very violent."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.322,
+            0.236,
+            0.337
+          ],
+          "content": "火山爆发非常猛烈。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.365,
+            0.269,
+            0.379
+          ],
+          "content": "outbreak /'aʊtbreɪk/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.384,
+            0.314,
+            0.4
+          ],
+          "content": "n. 爆发；（疾病的）突然发作"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.407,
+            0.324,
+            0.422
+          ],
+          "content": "妙记：短语 break out（暴发）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.433,
+            0.182,
+            0.453
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.46,
+            0.483,
+            0.514
+          ],
+          "content": "在考研英语写作中，当描述一些社会现象、问题或事件时，可用到“outbreak”这个词。例如，在探讨公共卫生问题时，可以写："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.519,
+            0.485,
+            0.552
+          ],
+          "content": "Measures should be taken to prevent the outbreak of infectious diseases."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.556,
+            0.343,
+            0.572
+          ],
+          "content": "应该采取措施预防传染病的暴发。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.6,
+            0.204,
+            0.613
+          ],
+          "content": "trust /'trʌst/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.618,
+            0.454,
+            0.634
+          ],
+          "content": "vt./n. 信任；委托 n. 信托（财产、基金、机构）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.641,
+            0.483,
+            0.676
+          ],
+          "content": "妙记：基于信任（trust），他将财产委托（trust）给专业的信托机构（trust）管理。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.686,
+            0.182,
+            0.707
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.713,
+            0.483,
+            0.748
+          ],
+          "content": "①区分:trust 和 believe 表示“相信某人”时，含义并不完全相同："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.752,
+            0.483,
+            0.787
+          ],
+          "content": "I trust you. 我相信你这个人。→ trustworthy adj. 值得信任的（形容人）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.79,
+            0.483,
+            0.825
+          ],
+          "content": "I believe you. 我相信你说的话、做的事。→ believable\nadj. 可信的（形容事）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.828,
+            0.483,
+            0.863
+          ],
+          "content": "② trust 作名词，可以表示“信托财产、信托机构、信托基金”, 常考，但通常不会影响做题。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.866,
+            0.24,
+            0.882
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.887,
+            0.483,
+            0.92
+          ],
+          "content": "Ms Denham chose to concentrate the blame on the NHS trust."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.086,
+            0.922,
+            0.121
+          ],
+          "content": "丹汉姆女士选择将责任归咎于国民医疗服务体系信托机构。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.125,
+            0.613,
+            0.139
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.143,
+            0.65,
+            0.158
+          ],
+          "content": "entrust vt. 委托"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.162,
+            0.698,
+            0.177
+          ],
+          "content": "distrust vt./n. 不信任"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.204,
+            0.714,
+            0.219
+          ],
+          "content": "mandate /'mændeɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.223,
+            0.736,
+            0.238
+          ],
+          "content": "v./n. 强制规定，强制执行"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.245,
+            0.915,
+            0.28
+          ],
+          "content": "妙记：mand- 表示“命令”, 命令是必须要遵从的，即强制规定、强制执行 (mandate)。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.287,
+            0.633,
+            0.307
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.313,
+            0.817,
+            0.328
+          ],
+          "content": "该词动词词性和名词词性均有所考查"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.332,
+            0.74,
+            0.348
+          ],
+          "content": "动词:【2023 年英语 (一)】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.353,
+            0.814,
+            0.368
+          ],
+          "content": "The bill mandates they carry insurance."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.37,
+            0.737,
+            0.386
+          ],
+          "content": "该法案规定他们携带保险。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.389,
+            0.74,
+            0.406
+          ],
+          "content": "名词:【2020 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.41,
+            0.901,
+            0.426
+          ],
+          "content": "But are such government mandates even necessary?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.428,
+            0.827,
+            0.444
+          ],
+          "content": "但这样的政府强制规定真的有必要吗？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.471,
+            0.878,
+            0.487
+          ],
+          "content": "contract /'kɑːntrækt/ (n.) /kən'trækt/ (v.)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.49,
+            0.765,
+            0.506
+          ],
+          "content": "n. 合同 vi. 订合同 vt. 使收缩"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.513,
+            0.922,
+            0.548
+          ],
+          "content": "妙记:con-（到一起）+ tract-（抽、拉、拽）→拉着双方到一起，签合同。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.631,
+            0.554,
+            0.834,
+            0.639
+          ],
+          "sub_type": "natural_image",
+          "content": "Three business professionals shaking hands at a conference table (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_47.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.649,
+            0.633,
+            0.67
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.677,
+            0.765,
+            0.692
+          ],
+          "content": "①该词常考查“合同”的意思"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.696,
+            0.688,
+            0.712
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.718,
+            0.924,
+            0.752
+          ],
+          "content": "Proof must be made of concrete benefits, such as approval of a contract or regulation."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.756,
+            0.924,
+            0.791
+          ],
+          "content": "必须拿出证据证明存在具体的好处，比如合同或法规的批准。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.796,
+            0.614,
+            0.812
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.817,
+            0.686,
+            0.832
+          ],
+          "content": "contraction n. 收缩"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.836,
+            0.614,
+            0.851
+          ],
+          "content": "③近义词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.857,
+            0.884,
+            0.873
+          ],
+          "content": "compact vt. 使紧凑，压缩 adj. 紧凑的 n. 合同"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.877,
+            0.722,
+            0.892
+          ],
+          "content": "compress v. 压缩，浓缩"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.896,
+            0.924,
+            0.912
+          ],
+          "content": "④翻译题考过 social contract，通常翻译成“社会契"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.055,
+            0.935,
+            0.091,
+            0.95
+          ],
+          "content": "112/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.1,
+            0.934,
+            0.183,
+            0.951
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.873,
+            0.023,
+            0.986,
+            0.06
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.057,
+            0.081,
+            0.265,
+            0.096
+          ],
+          "content": "约”，而不是“社会合同”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.1,
+            0.177,
+            0.117
+          ],
+          "content": "【1997 年翻译】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.12,
+            0.472,
+            0.153
+          ],
+          "content": "(72) Some philosophers argue that rights exist only within a social contract."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.156,
+            0.414,
+            0.172
+          ],
+          "content": "一些哲学家认为，权利只存在于社会契约中。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.175,
+            0.466,
+            0.191
+          ],
+          "content": "⑤ contract 可以作动词，表示“使收缩”，并不常考。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.194,
+            0.215,
+            0.21
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.215,
+            0.321,
+            0.228
+          ],
+          "content": "Mouths were contracted in a frown."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.233,
+            0.137,
+            0.248
+          ],
+          "content": "嘴巴紧绷。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.272,
+            0.225,
+            0.285
+          ],
+          "content": "extract /ɪkˈstrækt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.29,
+            0.47,
+            0.324
+          ],
+          "content": "vt. 提炼；提取；取出，拔出；摘录；索取，设法得到；获得"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.332,
+            0.47,
+            0.367
+          ],
+          "content": "妙记:ex-（外）+ tract-（抽、拉、拽）→ 拉出来、\n拽出来。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.166,
+            0.373,
+            0.357,
+            0.445
+          ],
+          "sub_type": "natural_image",
+          "content": "Industrial machinery with glowing molten metal pouring, no visible text or symbols",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_12.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.057,
+            0.451,
+            0.156,
+            0.47
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.478,
+            0.47,
+            0.513
+          ],
+          "content": "只需要记住 extract 表示“拉出来、拽出来”，就可以理解考研文章。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.517,
+            0.184,
+            0.532
+          ],
+          "content": "常考释义：提取"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.053,
+            0.536,
+            0.215,
+            0.552
+          ],
+          "content": "【2022 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.557,
+            0.472,
+            0.591
+          ],
+          "content": "The data points extracted from our studies do not, in any way, discount what is learned in a zoo visit."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.594,
+            0.472,
+            0.63
+          ],
+          "content": "从我们的研究中“拽出”的数据点丝毫不会低估我们在动物园参观中所学到的东西的价值。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.633,
+            0.21,
+            0.649
+          ],
+          "content": "常考释义：拔（牙）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.053,
+            0.653,
+            0.137,
+            0.669
+          ],
+          "content": "【2008 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.053,
+            0.673,
+            0.472,
+            0.726
+          ],
+          "content": "So he hired a dentist to transplant nine teeth into his jaw—having extracted them from the mouths of his slaves."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.055,
+            0.747,
+            0.203,
+            0.768
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.053,
+            0.783,
+            0.151,
+            0.8
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.81,
+            0.95,
+            0.843
+          ],
+          "content": "1. Perhaps most importantly, these images \\_\\_\\_\\_ documentary evidence that later made its way to government officials."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.849,
+            0.177,
+            0.863
+          ],
+          "content": "A. emitted"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.32,
+            0.849,
+            0.427,
+            0.864
+          ],
+          "content": "B. provided"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.849,
+            0.652,
+            0.863
+          ],
+          "content": "C. extracted"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.798,
+            0.849,
+            0.889,
+            0.863
+          ],
+          "content": "D. shared"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.053,
+            0.874,
+            0.945,
+            0.89
+          ],
+          "content": "2. The climate change we are hastening could one day leave us with forests that \\_\\_\\_\\_ more carbon than they absorb."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.894,
+            0.167,
+            0.908
+          ],
+          "content": "A. confer"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.32,
+            0.894,
+            0.412,
+            0.908
+          ],
+          "content": "B. deliver"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.894,
+            0.616,
+            0.908
+          ],
+          "content": "C. emit"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.798,
+            0.894,
+            0.9,
+            0.908
+          ],
+          "content": "D. transmit"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.081,
+            0.946,
+            0.116
+          ],
+          "content": "于是他雇了一位牙医，将从他奴隶口中“拽出”的九颗牙齿移植到了自己的颌骨里。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.138,
+            0.898,
+            0.153
+          ],
+          "content": "abstract /'æbstrækt/ (adj.) /æb'strækt/ (v.)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.156,
+            0.896,
+            0.173
+          ],
+          "content": "adj. 抽象的 vt. 使抽象；提取；抽取 n. 摘要"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.179,
+            0.934,
+            0.195
+          ],
+          "content": "妙记:ab-（离开）+ tract-（抽、拉、拽）→ 抽离。"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.539,
+            0.199,
+            0.948,
+            0.27
+          ],
+          "sub_type": "text",
+          "content": "1. 从现实中抽离 → 抽象;\n2. 抽离出来 → 抽取；提取；\n3. 将文中重要的点抽离出来，放在论文的开始 → 摘要。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.282,
+            0.632,
+            0.302
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.309,
+            0.773,
+            0.325
+          ],
+          "content": "①该词常考查“抽象的”含义"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.328,
+            0.691,
+            0.344
+          ],
+          "content": "【2011 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.349,
+            0.89,
+            0.363
+          ],
+          "content": "They shared some characteristics of abstract art."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.367,
+            0.781,
+            0.383
+          ],
+          "content": "他们具有抽象艺术的一些特征。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.387,
+            0.613,
+            0.402
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.406,
+            0.799,
+            0.422
+          ],
+          "content": "abstraction n. 抽象；提取；抽取"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.426,
+            0.714,
+            0.441
+          ],
+          "content": "abstractly adv. 抽象地"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.465,
+            0.714,
+            0.481
+          ],
+          "content": "summary /'sʌməri/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.484,
+            0.648,
+            0.5
+          ],
+          "content": "n. 总结，概要"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.507,
+            0.948,
+            0.543
+          ],
+          "content": "妙记:sum（汇总）+m+-ary（名词后缀）→ 把内容汇总到一起 → 总结、概括。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.554,
+            0.63,
+            0.573
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.581,
+            0.612,
+            0.596
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.601,
+            0.742,
+            0.615
+          ],
+          "content": "summarize vt. 总结，概括"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.62,
+            0.836,
+            0.635
+          ],
+          "content": "②该单词是阅读主旨题常见题目标志。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.638,
+            0.691,
+            0.654
+          ],
+          "content": "【2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.659,
+            0.948,
+            0.693
+          ],
+          "content": "Which of the following best summarizes the last two paragraphs?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.696,
+            0.857,
+            0.713
+          ],
+          "content": "下列哪项最好地总结了最后两段的内容？"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.845,
+            0.937,
+            0.93,
+            0.954
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.945,
+            0.939,
+            0.98,
+            0.953
+          ],
+          "content": "113"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.039,
+            0.04,
+            0.108,
+            0.073
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.121,
+            0.049,
+            0.375,
+            0.066
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.407,
+            0.049,
+            0.511,
+            0.066
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.097,
+            0.74,
+            0.112
+          ],
+          "content": "3. When people place their trust in an individual, their brains \\_\\_\\_\\_ oxytocin, a hormone."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.113,
+            0.116,
+            0.191,
+            0.132
+          ],
+          "content": "A. erupt"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.34,
+            0.116,
+            0.433,
+            0.131
+          ],
+          "content": "B. abstract"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.549,
+            0.116,
+            0.646,
+            0.13
+          ],
+          "content": "C. mandate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.788,
+            0.116,
+            0.874,
+            0.129
+          ],
+          "content": "D. release"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.141,
+            0.917,
+            0.176
+          ],
+          "content": "4. But in addition to those \\_\\_\\_\\_ coworkers, you should expand your horizons and find out about all the people around you."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.113,
+            0.18,
+            0.201,
+            0.194
+          ],
+          "content": "A. trusted"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.339,
+            0.18,
+            0.423,
+            0.193
+          ],
+          "content": "B. shared"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.549,
+            0.18,
+            0.659,
+            0.193
+          ],
+          "content": "C. contracted"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.789,
+            0.18,
+            0.879,
+            0.194
+          ],
+          "content": "D. erupted"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.204,
+            0.91,
+            0.22
+          ],
+          "content": "5. But under anti-bribery laws, proof must be made of concrete benefits, such as approval of a \\_\\_\\_\\_ or regulation."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.113,
+            0.224,
+            0.201,
+            0.239
+          ],
+          "content": "A. extract"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.34,
+            0.225,
+            0.433,
+            0.238
+          ],
+          "content": "B. contract"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.549,
+            0.225,
+            0.641,
+            0.238
+          ],
+          "content": "C. abstract"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.79,
+            0.225,
+            0.887,
+            0.238
+          ],
+          "content": "D. outbreak"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.249,
+            0.917,
+            0.284
+          ],
+          "content": "6. After reading the complex research paper, the professor asked the students to provide a concise \\_\\_\\_\\_ that highlighted the main arguments and findings."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.113,
+            0.288,
+            0.208,
+            0.304
+          ],
+          "content": "A. analysis"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.339,
+            0.289,
+            0.436,
+            0.302
+          ],
+          "content": "B. criticism"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.549,
+            0.289,
+            0.652,
+            0.304
+          ],
+          "content": "C. summary"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.79,
+            0.289,
+            0.88,
+            0.304
+          ],
+          "content": "D. opinion"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.314,
+            0.18,
+            0.33
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.084,
+            0.34,
+            0.917,
+            0.533
+          ],
+          "sub_type": "text",
+          "content": "1. \\_\\_\\_\\_ (give) the advantages of electronic money, you might think that we would move quickly to the cashless society.\n2. Also missing is any discussion of eliminating Saturday letter \\_\\_\\_\\_ (deliver).\n3. You are supposed to write for the Postgraduates Association a notice to recruit volunteers for an international \\_\\_\\_\\_ (confer) on globalization.\n4. Fluid intelligence is the type of intelligence that has to do with short-term memory and the ability to think quickly, logically, and \\_\\_\\_\\_ (abstract) in order to solve new problems.\n5. Though all the subjects were drawn from a population of European \\_\\_\\_\\_ (extract), care was taken to all subjects, friends and strangers, were taken from the same population."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.542,
+            0.18,
+            0.558
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.568,
+            0.452,
+            0.584
+          ],
+          "content": "1. They shared some characteristics of abstract art."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.646,
+            0.671,
+            0.662
+          ],
+          "content": "2. Protests have erupted over construction of the Thirty Meter Telescope (TMT)."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.723,
+            0.885,
+            0.739
+          ],
+          "content": "3. The outbreak of swine flu that was first detected in Mexico was declared a global epidemic on June 11, 2009."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.8,
+            0.915,
+            0.835
+          ],
+          "content": "4. An inflexible policy mandates that with the exception of some advanced courses, homework may no longer count for more than 10% of a student's academic grade."
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.056,
+            0.94,
+            0.097,
+            0.955
+          ],
+          "content": "114/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.101,
+            0.939,
+            0.182,
+            0.956
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.865,
+            0.006,
+            0.976,
+            0.042
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.449,
+            0.065,
+            0.55,
+            0.084
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.062,
+            0.108,
+            0.156,
+            0.125
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.139,
+            0.108,
+            0.153
+          ],
+          "content": "1. B."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.156,
+            0.12,
+            0.172
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.174,
+            0.47,
+            0.208
+          ],
+          "content": "句意：也许最重要的是，这些图像\\_\\_\\_\\_后来传递给政府官员的书面证据。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.211,
+            0.472,
+            0.36
+          ],
+          "content": "考点：动词辨析。图像最可能的功能是“提供”证据。B. provided(提供) 是正确答案。A. emitted(发射，散发) 通常用于光、热、气味等，与“证据”不搭配。C. extracted(提取，榨取) 强调从某物中费力地取出，逻辑上图像是证据的载体而非提取者。D. shared(分享) 虽然可能，但不如“provided”直接和准确，且“share”通常需要共享的对象 (如 with sb.),此处未出现。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.375,
+            0.111,
+            0.389
+          ],
+          "content": "2. C."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.393,
+            0.118,
+            0.409
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.412,
+            0.47,
+            0.447
+          ],
+          "content": "句意：我们正在加速的气候变化可能有一天会让我们面对的森林所 \\_\\_\\_\\_ 的碳比吸收的更多。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.45,
+            0.47,
+            0.543
+          ],
+          "content": "考点：动词辨析。森林与碳的关系是“吸收”和“释放”。C. emit(释放，排放) 是“吸收”的反义词，符合句意。A. confer (授予，给予)、B. deliver (递送，发表)、D. transmit (传输，传播) 均不能准确描述森林与二氧化碳之间的关系。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.56,
+            0.111,
+            0.574
+          ],
+          "content": "3. D."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.578,
+            0.118,
+            0.593
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.597,
+            0.47,
+            0.632
+          ],
+          "content": "句意：当人们信任某个人时，他们的大脑会 \\_\\_\\_\\_一种叫作催产素的激素。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.635,
+            0.47,
+            0.728
+          ],
+          "content": "考点：动词辨析与固定搭配。大脑、腺体等“释放”激素，最地道的动词是 D. release。A. erupt（火山喷发；突然发生）、B. abstract（提取；摘要）、C. mandate（授权，命令）均不符合“大脑释放激素”这一生物学语境。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.745,
+            0.111,
+            0.759
+          ],
+          "content": "4. A."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.763,
+            0.118,
+            0.779
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.781,
+            0.47,
+            0.816
+          ],
+          "content": "句意：但是，除了那些\\_\\_\\_\\_同事之外，你还应该拓宽视野，去了解你身边的所有人。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.819,
+            0.47,
+            0.913
+          ],
+          "content": "考点：动词辨析。空格修饰“coworkers”（同事），需要填入一个形容词词性的词，描述同事的特征。A. trusted（被信任的）最符合语境。B. shared（共享的）、C. contracted（签约的；感染的）、D. erupted（爆发的）均无法合理修饰“同事”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.109,
+            0.574,
+            0.122
+          ],
+          "content": "5. B."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.126,
+            0.587,
+            0.142
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.145,
+            0.926,
+            0.179
+          ],
+          "content": "句意：但根据反贿赂法，必须证明存在具体的好处，例如批准一份 \\_\\_\\_\\_ 或法规。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.181,
+            0.939,
+            0.273
+          ],
+          "content": "考点：名词辨析与上下文语义。空格与“regulation”（法规）由“or”连接，形成并列关系，因此空格处应填入一个与“法规”同类、可能因贿赂而被批准的事物。B. contract（合同）是商业和法律活动中最可能因贿赂而获得批准的具体利益，符合语境。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.289,
+            0.576,
+            0.302
+          ],
+          "content": "6. C."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.306,
+            0.587,
+            0.322
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.325,
+            0.939,
+            0.36
+          ],
+          "content": "句意：在阅读了复杂的研究论文后，教授要求学生们提供一个\\_\\_\\_\\_，突出其主要论点和发现。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.363,
+            0.941,
+            0.493
+          ],
+          "content": "考点：名词辨析。关键修饰词是“concise”（简洁的），并且这个文件需要“突出主要论点和发现”，这是对“摘要”或“概要”的典型定义，因此 C. summary（总结）是正确答案。A. analysis（分析）通常更详细，不一定是“简洁的”。B. criticism（批评）和 D. opinion(观点) 与“突出主要论点和发现”的任务要求不符。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.504,
+            0.624,
+            0.522
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.537,
+            0.603,
+            0.551
+          ],
+          "content": "1. Given"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.555,
+            0.586,
+            0.571
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.574,
+            0.937,
+            0.608
+          ],
+          "content": "句意:\\_\\_\\_\\_电子货币的诸多优势，你或许会认为我们将快速步入无现金社会。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.612,
+            0.937,
+            0.666
+          ],
+          "content": "考点：特殊分词结构。“Given”在此处作介词使用，意为“考虑到，鉴于”，后接名词短语，在句中作状语表示条件或原因。这是考研英语中的高频考点。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.683,
+            0.618,
+            0.698
+          ],
+          "level": 2,
+          "content": "2. delivery"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.7,
+            0.584,
+            0.716
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.719,
+            0.937,
+            0.753
+          ],
+          "content": "句意：同样缺失的是关于取消周六信件\\_\\_\\_\\_的任何讨论。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.757,
+            0.937,
+            0.812
+          ],
+          "content": "考点：词性转换（动词→名词）。介词“of”后需要接名词或动名词作宾语。“letter delivery”是固定搭配，意为“信件投递”，故填名词形式“delivery”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.828,
+            0.639,
+            0.842
+          ],
+          "level": 2,
+          "content": "3. conference"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.846,
+            0.585,
+            0.862
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.865,
+            0.934,
+            0.899
+          ],
+          "content": "句意：你应该为研究生会写一份通知，为一场关于全球化的国际\\_\\_\\_\\_招募志愿者。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.902,
+            0.934,
+            0.918
+          ],
+          "content": "考点：词性转换（动词→名词）。空格前有形容词"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.833,
+            0.935,
+            0.919,
+            0.953
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.934,
+            0.937,
+            0.969,
+            0.951
+          ],
+          "content": "115"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.038,
+            0.036,
+            0.52,
+            0.071
+          ],
+          "content": "高频词表"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.093,
+            0.49,
+            0.128
+          ],
+          "continues_prev": true,
+          "content": "“international”修饰，故需填入名词。将动词“confer”（商议）变为名词“conference”（会议）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.142,
+            0.198,
+            0.157
+          ],
+          "level": 2,
+          "content": "4. abstractly"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.159,
+            0.15,
+            0.175
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.178,
+            0.489,
+            0.212
+          ],
+          "content": "句意：流体智力是一种与短期记忆以及快速、逻辑、\\_\\_\\_\\_思考以解决新问题的能力有关的智力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.214,
+            0.49,
+            0.286
+          ],
+          "content": "考点：词性转换（形容词→副词）。空格处与“quickly”（快速地）、“logically”（逻辑地）由“and”连接，形成平行结构，共同修饰动词“think”。因此需要填入副词形式“abstractly”（抽象地）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.301,
+            0.198,
+            0.315
+          ],
+          "level": 2,
+          "content": "5. extraction"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.318,
+            0.15,
+            0.334
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.336,
+            0.49,
+            0.353
+          ],
+          "content": "句意：尽管所有受试者都选自具有欧洲\\_\\_\\_\\_的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.093,
+            0.919,
+            0.128
+          ],
+          "continues_prev": true,
+          "content": "人群，但仍需注意确保所有受试者，无论是朋友是陌生人，都来自同一人群。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.13,
+            0.919,
+            0.184
+          ],
+          "content": "考点：固定搭配与词性转换。“of Europe extraction”是固定表达，意为“具有欧洲血统的”，其中“extraction”为名词，意为“血统，出身”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.542,
+            0.193,
+            0.64,
+            0.209
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.542,
+            0.212,
+            0.922,
+            0.356
+          ],
+          "sub_type": "text",
+          "content": "1. 他们具有抽象艺术的一些共同特征。\n2. 针对建设三十米望远镜（TMT）的抗议活动爆发。\n3. 2009 年 6 月 11 日，最初在墨西哥被发现的情感疫情被宣布为全球性的流行病。\n4. 一项僵化的政策强制规定，除了一些高级课外，家庭作业在学生学业成绩中的占比不得超过 10%。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.059,
+            0.939,
+            0.102,
+            0.955
+          ],
+          "content": "116/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.107,
+            0.937,
+            0.192,
+            0.955
+          ],
+          "content": "研过过"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:13:23",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 8,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 836.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 841.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 841.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 839.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

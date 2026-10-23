@@ -1,0 +1,2855 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.044,
+            0.018,
+            0.112,
+            0.05
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.126,
+            0.025,
+            0.375,
+            0.042
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.407,
+            0.024,
+            0.511,
+            0.04
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.363,
+            0.073,
+            0.406,
+            0.104
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_3.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.414,
+            0.079,
+            0.636,
+            0.098
+          ],
+          "level": 2,
+          "content": "List 29 复杂与独特"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.092,
+            0.128,
+            0.233,
+            0.148
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.155,
+            0.424,
+            0.172
+          ],
+          "content": "情节发展：资深挑战→温和破局→团结新生"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.101,
+            0.192,
+            0.173,
+            0.206
+          ],
+          "level": 2,
+          "content": "资深挑战"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.211,
+            0.701,
+            0.266
+          ],
+          "content": "实验室里，senior（年长的）张教授面对一个 complex（复杂的）量子模型，它的计算是极其 complicated（复杂的），团队屡次失败。他深知背后的物理定律是 underlie（构成该现象的基础）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.101,
+            0.285,
+            0.173,
+            0.3
+          ],
+          "level": 2,
+          "content": "温和破局"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.305,
+            0.701,
+            0.361
+          ],
+          "content": "张教授 intense（强烈）建议：先做简化，再拆分模型。团队启动 intensive（密集）计算，发现一 fraction（小部分）数据异常——系统竟如 fragile（脆弱的）玻璃，微小误差便崩溃！"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.101,
+            0.379,
+            0.173,
+            0.394
+          ],
+          "level": 2,
+          "content": "团结新生"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.399,
+            0.699,
+            0.455
+          ],
+          "content": "危急时刻，团队 unanimous（全体一致）决定 unite（联合）攻关。他们穿上 uniform（相同的）的实验服，日夜协作，最终找到 unique（独一无二的）算法，化解危机。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.713,
+            0.184,
+            0.915,
+            0.461
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_13.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.092,
+            0.495,
+            0.235,
+            0.516
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.101,
+            0.546,
+            0.276,
+            0.561
+          ],
+          "content": "complex /kəm'pleks/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.101,
+            0.565,
+            0.448,
+            0.581
+          ],
+          "content": "adj. 复杂的，难懂的，费解的 n. 建筑群; 情结"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.101,
+            0.588,
+            0.484,
+            0.624
+          ],
+          "content": "妙记:com-（一起）+ plex-（折叠）→ 很多结构折叠到一起，就会显得“复杂”。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.184,
+            0.63,
+            0.392,
+            0.715
+          ],
+          "sub_type": "natural_image",
+          "content": "Collection of abstract geometric sculptures displayed on a display stand, including a castle and stylized human figures (no text or symbols visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_18.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.093,
+            0.72,
+            0.189,
+            0.74
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.748,
+            0.483,
+            0.764
+          ],
+          "content": "① complex 可以作名词，表示“建筑群”或“情结”:"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.768,
+            0.428,
+            0.783
+          ],
+          "content": "建筑群：很多建筑折叠到一起，形成的群体；"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.787,
+            0.428,
+            0.802
+          ],
+          "content": "情结：很多情感折叠到一起，形成的复合体。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.806,
+            0.245,
+            0.822
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.826,
+            0.484,
+            0.86
+          ],
+          "content": "hundreds of simpler apartment complexes where common people lived"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.864,
+            0.443,
+            0.879
+          ],
+          "content": "数百个普通百姓居住的较为简陋的公寓建筑群"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.884,
+            0.173,
+            0.898
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.903,
+            0.361,
+            0.918
+          ],
+          "content": "complexity n. 复杂，复杂性; 难懂"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.546,
+            0.782,
+            0.563
+          ],
+          "content": "complicated /'ka:mplikeitid/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.566,
+            0.704,
+            0.582
+          ],
+          "content": "adj. 复杂的；难懂的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.589,
+            0.918,
+            0.625
+          ],
+          "content": "妙记：com-（一起）+ plic- = plex-（折叠）+ -ated（形容词后缀）→很多结构折叠到一起，就会显得“复杂”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.536,
+            0.634,
+            0.634,
+            0.656
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.662,
+            0.692,
+            0.678
+          ],
+          "content": "①常考释义：复杂的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.681,
+            0.69,
+            0.697
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.701,
+            0.919,
+            0.735
+          ],
+          "content": "Discovery frequently follows an ambiguous and complicated route."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.738,
+            0.845,
+            0.754
+          ],
+          "content": "发现之路往往充满不确定性且错综复杂。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.757,
+            0.616,
+            0.772
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.776,
+            0.709,
+            0.792
+          ],
+          "content": "complicate vt. 使复杂"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.795,
+            0.77,
+            0.811
+          ],
+          "content": "complication n. 复杂；并发症"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.83,
+            0.679,
+            0.844
+          ],
+          "content": "senior /'si:niər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.849,
+            0.915,
+            0.865
+          ],
+          "content": "adj. 高级的；年长的 n. 高中（生）；大学四年级学生"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.871,
+            0.918,
+            0.926
+          ],
+          "content": "妙记：这位年长的（senior）高级（senior）教师曾是高中的（senior）学霸，如今正指导大学四年级学生（senior）做课题。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.059,
+            0.943,
+            0.097,
+            0.958
+          ],
+          "content": "286/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.107,
+            0.941,
+            0.134,
+            0.959
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.137,
+            0.944,
+            0.187,
+            0.958
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.856,
+            0.013,
+            0.96,
+            0.049
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.182,
+            0.069,
+            0.365,
+            0.141
+          ],
+          "sub_type": "natural_image",
+          "content": "Group of people in a classroom or meeting room, one standing and addressing the others (no visible text or signage)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_1.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.077,
+            0.145,
+            0.173,
+            0.167
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.173,
+            0.234,
+            0.188
+          ],
+          "content": "①常考释义：高级的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.192,
+            0.227,
+            0.207
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.213,
+            0.474,
+            0.246
+          ],
+          "content": "The decision to quit a senior position to look for a better one is unconventional."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.25,
+            0.471,
+            0.267
+          ],
+          "content": "放弃高级职位去寻找更好的工作，这种决定并不常见。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.27,
+            0.152,
+            0.285
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.289,
+            0.453,
+            0.306
+          ],
+          "content": "senate n. 参议院，上院（来自古罗马“元老院”）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.309,
+            0.214,
+            0.324
+          ],
+          "content": "senator n. 参议员"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.329,
+            0.474,
+            0.365
+          ],
+          "content": "junior adj. 初级的；年少的 n. 初中（生）；大学三年级学生（jun- = young 年轻）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.388,
+            0.255,
+            0.403
+          ],
+          "content": "underlie /ˌʌndərˈlaɪ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.407,
+            0.467,
+            0.424
+          ],
+          "content": "vt. 在……的下面；构成……的基础；是……的原因"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.431,
+            0.472,
+            0.467
+          ],
+          "content": "妙记:under（下）+ lie（躺）→ 躺在下面→ 在下面、构成基础；A 是 B 的原因，就是 A 是 B 发生的基础。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.178,
+            0.473,
+            0.367,
+            0.548
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior view of a large archaeological excavation site with exposed structural elements and exposed trenches (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_14.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.553,
+            0.172,
+            0.574
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.581,
+            0.306,
+            0.596
+          ],
+          "content": "①常考释义：构成……的基础"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.601,
+            0.228,
+            0.616
+          ],
+          "content": "【2023 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.621,
+            0.474,
+            0.656
+          ],
+          "content": "Is there some common factor that underlies these\ncontradictory development?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.659,
+            0.461,
+            0.675
+          ],
+          "content": "这些相互矛盾的发展基础是否是某种共同的因素呢？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.679,
+            0.431,
+            0.695
+          ],
+          "content": "②派生词:underlying adj. 在下面的；潜在的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.719,
+            0.223,
+            0.734
+          ],
+          "content": "intense /ɪnˈtens/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.739,
+            0.17,
+            0.754
+          ],
+          "content": "adj. 强烈的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.761,
+            0.419,
+            0.778
+          ],
+          "content": "妙记：谐音“硬疼死”，即非常强烈的疼痛。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.788,
+            0.172,
+            0.809
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.816,
+            0.234,
+            0.831
+          ],
+          "content": "①常考释义：强烈的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.835,
+            0.227,
+            0.851
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.856,
+            0.474,
+            0.89
+          ],
+          "content": "The very things can later be a source of intense gratification."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.894,
+            0.47,
+            0.91
+          ],
+          "content": "恰恰是这些事情，日后可能会成为强烈满足感的来源。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.07,
+            0.608,
+            0.085
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.09,
+            0.661,
+            0.104
+          ],
+          "content": "intensity n. 强度"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.109,
+            0.667,
+            0.123
+          ],
+          "content": "intensify vt. 强化"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.128,
+            0.781,
+            0.143
+          ],
+          "content": "intensely adv. 强烈地；很，非常"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.147,
+            0.781,
+            0.162
+          ],
+          "content": "③考试中曾用 intensely 替换 very"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.166,
+            0.609,
+            0.181
+          ],
+          "content": "【2005 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.186,
+            0.927,
+            0.219
+          ],
+          "content": "These intensely powerful mental events can be brought under conscious control."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.224,
+            0.893,
+            0.24
+          ],
+          "content": "这些非常强大的心理事件可以被有意识地控制。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.264,
+            0.708,
+            0.278
+          ],
+          "content": "intensive /ɪnˈtensɪv/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.283,
+            0.761,
+            0.299
+          ],
+          "content": "adj. 集中的，密集的; 精细的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.306,
+            0.927,
+            0.361
+          ],
+          "content": "妙记：in-（往里）+ tens- = tend-（拉、拽）+-ive（形容词后缀）→ 往里拉，拉到一起 → 集中的，密集的；结构很密集的东西，看起来就会很精细。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.371,
+            0.627,
+            0.393
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.4,
+            0.846,
+            0.415
+          ],
+          "content": "①该单词单独使用，通常表示“精细的”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.419,
+            0.682,
+            0.435
+          ],
+          "content": "【2021 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.44,
+            0.676,
+            0.455
+          ],
+          "content": "intensive agriculture"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.458,
+            0.785,
+            0.474
+          ],
+          "content": "集约型农业（非常精细化的农业）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.478,
+            0.926,
+            0.512
+          ],
+          "content": "②当它前面加上名词构成合成词时，通常表示“密集的”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.517,
+            0.607,
+            0.532
+          ],
+          "content": "【2002 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.537,
+            0.853,
+            0.552
+          ],
+          "content": "energy-intensive industry 能源密集型工业"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.556,
+            0.682,
+            0.571
+          ],
+          "content": "【2019 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.575,
+            0.76,
+            0.59
+          ],
+          "content": "labor-intensive 劳动力密集的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.614,
+            0.708,
+            0.631
+          ],
+          "content": "fraction /'frækʃ(ə)n/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.634,
+            0.736,
+            0.649
+          ],
+          "content": "n. 碎片；片段；一小部分"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.657,
+            0.927,
+            0.692
+          ],
+          "content": "妙记:fr（芙蓉姐姐的缩写）+action（行为）→芙蓉姐姐的行为就是小部分人的行为。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.621,
+            0.698,
+            0.834,
+            0.783
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a female running on a track with spectators watching (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_53.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.788,
+            0.627,
+            0.809
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.816,
+            0.797,
+            0.831
+          ],
+          "content": "①短语搭配:a fraction of 一小部分"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.836,
+            0.608,
+            0.851
+          ],
+          "content": "【2002 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.856,
+            0.927,
+            0.889
+          ],
+          "content": "Robots can recognize the error of a machine panel be a fraction of a millimeter."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.894,
+            0.919,
+            0.909
+          ],
+          "content": "机器人能够识别机器面板上仅几分之一毫米的误差。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.827,
+            0.933,
+            0.879,
+            0.949
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.882,
+            0.933,
+            0.909,
+            0.95
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.919,
+            0.935,
+            0.959,
+            0.949
+          ],
+          "content": "/287"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.042,
+            0.021,
+            0.108,
+            0.054
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.123,
+            0.03,
+            0.375,
+            0.047
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.407,
+            0.03,
+            0.51,
+            0.047
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.078,
+            0.169,
+            0.093
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.096,
+            0.477,
+            0.113
+          ],
+          "content": "fragment n. 碎片；片段；一小部分 v.（使）破碎"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.14,
+            0.248,
+            0.156
+          ],
+          "content": "fragile /'frædʒaɪl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.159,
+            0.254,
+            0.175
+          ],
+          "content": "adj. 易碎的；脆弱的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.096,
+            0.182,
+            0.407,
+            0.199
+          ],
+          "content": "妙记：减肥的 flag 总是易碎的（fragile）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.21,
+            0.204,
+            0.359,
+            0.312
+          ],
+          "sub_type": "text_image",
+          "content": "减肥！",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_8.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.088,
+            0.32,
+            0.186,
+            0.342
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.349,
+            0.229,
+            0.364
+          ],
+          "content": "常考释义：脆弱的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.368,
+            0.24,
+            0.384
+          ],
+          "content": "【2014 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.388,
+            0.482,
+            0.424
+          ],
+          "content": "This phenomenon tends to be most acutely felt during fragile recoveries"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.426,
+            0.395,
+            0.443
+          ],
+          "content": "这种现象往往在脆弱的复苏中最为强烈。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.47,
+            0.303,
+            0.487
+          ],
+          "content": "unanimous /ju'nænɪməs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.096,
+            0.49,
+            0.318,
+            0.506
+          ],
+          "content": "adj. 全体一致的，一致同意的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.513,
+            0.482,
+            0.549
+          ],
+          "content": "妙记：谐音“有你一个 mouse” → 投票时，连老鼠都“有你一个”赞同 → 全体一致的。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.175,
+            0.555,
+            0.393,
+            0.642
+          ],
+          "sub_type": "natural_image",
+          "content": "Group of people seated around a table in a meeting room, one person raising a fist (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_17.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.088,
+            0.651,
+            0.185,
+            0.672
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.679,
+            0.281,
+            0.694
+          ],
+          "content": "①常考释义：全体一致的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.698,
+            0.241,
+            0.714
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.719,
+            0.481,
+            0.753
+          ],
+          "content": "In a rare unanimous ruling, the US Supreme Court has overturned the corruption conviction."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.756,
+            0.481,
+            0.792
+          ],
+          "content": "在一项罕见的一致裁决中，美国最高法院推翻了这一贪腐定罪。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.796,
+            0.356,
+            0.812
+          ],
+          "content": "②形近词:anonymous adj. 匿名的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.839,
+            0.273,
+            0.855
+          ],
+          "content": "uniform /'ju:nifɔ:rm/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.858,
+            0.309,
+            0.875
+          ],
+          "content": "adj. 相同的，一致的 n. 制服"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.094,
+            0.881,
+            0.481,
+            0.917
+          ],
+          "content": "妙记:uni-（一）+ form（形式）→同一个形式 →相同、一致。都穿着制服，就是着装一致。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.623,
+            0.078,
+            0.838,
+            0.164
+          ],
+          "sub_type": "natural_image",
+          "content": "Group of smiling children in school uniforms standing on a track under a clear sky (no text or symbols visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_27.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.533,
+            0.169,
+            0.631,
+            0.19
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.197,
+            0.676,
+            0.212
+          ],
+          "content": "①常考释义：制服"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.216,
+            0.687,
+            0.232
+          ],
+          "content": "【2016 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.237,
+            0.903,
+            0.271
+          ],
+          "content": "Pick a standard work uniform or a few go-to options.\n挑选一套标准的工作制服，或者几种常用的选择。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.275,
+            0.613,
+            0.29
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.295,
+            0.71,
+            0.31
+          ],
+          "content": "uniformly adv. 一致地"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.314,
+            0.729,
+            0.33
+          ],
+          "content": "uniformity n. 相同，一致"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.358,
+            0.664,
+            0.374
+          ],
+          "content": "unite /ju'naɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.377,
+            0.734,
+            0.393
+          ],
+          "content": "v.（使）联合；（使）统一"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.4,
+            0.916,
+            0.436
+          ],
+          "content": "妙记：uni-（一）+ it-（走）+e→走到一起→联合、统一。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.448,
+            0.632,
+            0.469
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.476,
+            0.764,
+            0.492
+          ],
+          "content": "① unite 最常考的是两个国名："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.496,
+            0.895,
+            0.512
+          ],
+          "content": "the United States 美国；the United Kingdom 英国"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.517,
+            0.613,
+            0.532
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.537,
+            0.803,
+            0.553
+          ],
+          "content": "unity n. 团结；统一；完整；整体"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.557,
+            0.814,
+            0.572
+          ],
+          "content": "union n. 联盟，联邦; 工会，联合会"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.577,
+            0.764,
+            0.593
+          ],
+          "content": "union 最常考一个含义：工会；"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.598,
+            0.716,
+            0.613
+          ],
+          "content": "the European Union 欧盟"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.618,
+            0.73,
+            0.634
+          ],
+          "content": "unify vt. 使联合，使统一"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.661,
+            0.68,
+            0.678
+          ],
+          "content": "unique /ju'ni:k/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.68,
+            0.665,
+            0.697
+          ],
+          "content": "adj. 独一无二的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.707,
+            0.919,
+            0.743
+          ],
+          "content": "妙记：谐音“有你可”→有你足够，你就是独一无二的。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.754,
+            0.631,
+            0.775
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.782,
+            0.728,
+            0.798
+          ],
+          "content": "①常考释义：独一无二的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.801,
+            0.687,
+            0.817
+          ],
+          "content": "【2013 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.822,
+            0.919,
+            0.857
+          ],
+          "content": "To be a successful employees, one has to contribute something unique."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.859,
+            0.918,
+            0.876
+          ],
+          "content": "要成为一名成功的员工，就必须贡献一些独特的价值。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.879,
+            0.613,
+            0.894
+          ],
+          "content": "②反义词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.899,
+            0.768,
+            0.915
+          ],
+          "content": "common adj. 普通的、常见的"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.053,
+            0.944,
+            0.09,
+            0.959
+          ],
+          "content": "288/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.1,
+            0.942,
+            0.129,
+            0.959
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.132,
+            0.945,
+            0.181,
+            0.959
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.84,
+            0.035,
+            0.944,
+            0.072
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.091,
+            0.09,
+            0.23,
+            0.111
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.126,
+            0.18,
+            0.142
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.151,
+            0.814,
+            0.166
+          ],
+          "content": "1. It is sure to spark \\_\\_\\_\\_ opposition from the far larger number of motorists who will then be affected."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.113,
+            0.17,
+            0.195,
+            0.184
+          ],
+          "content": "A. senior"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.336,
+            0.17,
+            0.422,
+            0.184
+          ],
+          "content": "B. intense"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.171,
+            0.629,
+            0.186
+          ],
+          "content": "C. unlikely"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.774,
+            0.171,
+            0.865,
+            0.184
+          ],
+          "content": "D. abstract"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.195,
+            0.914,
+            0.228
+          ],
+          "content": "2. They did not always prioritize the protection of Mauna Kea's\\_\\_\\_\\_ ecosystems or its holiness to the island's inhabitants."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.113,
+            0.234,
+            0.199,
+            0.249
+          ],
+          "content": "A. gradual"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.336,
+            0.235,
+            0.445,
+            0.248
+          ],
+          "content": "B. unanimous"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.235,
+            0.619,
+            0.25
+          ],
+          "content": "C. fragile"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.775,
+            0.235,
+            0.844,
+            0.248
+          ],
+          "content": "D. false"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.26,
+            0.816,
+            0.275
+          ],
+          "content": "3. It needs someone who can \\_\\_\\_\\_ the interdisciplinary team and keep them on course for improvement."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.113,
+            0.279,
+            0.187,
+            0.293
+          ],
+          "content": "A. unite"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.34,
+            0.28,
+            0.424,
+            0.293
+          ],
+          "content": "B. finance"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.28,
+            0.619,
+            0.293
+          ],
+          "content": "C. follow"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.775,
+            0.28,
+            0.859,
+            0.293
+          ],
+          "content": "D. choose"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.304,
+            0.715,
+            0.32
+          ],
+          "content": "4. We aim to be objective, but we cannot escape the context of our \\_\\_\\_\\_ life experiences."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.113,
+            0.324,
+            0.187,
+            0.338
+          ],
+          "content": "A. finite"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.336,
+            0.324,
+            0.439,
+            0.338
+          ],
+          "content": "B. confident"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.324,
+            0.64,
+            0.338
+          ],
+          "content": "C. intensive."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.775,
+            0.324,
+            0.859,
+            0.339
+          ],
+          "content": "D. unique"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.349,
+            0.914,
+            0.384
+          ],
+          "content": "5. It's important to keep a \\_\\_\\_\\_ pace when studying for exams—neither too fast nor too slow, so that you can absorb knowledge effectively."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.113,
+            0.388,
+            0.187,
+            0.403
+          ],
+          "content": "A. rapid"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.336,
+            0.388,
+            0.433,
+            0.402
+          ],
+          "content": "B. moderate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.388,
+            0.612,
+            0.402
+          ],
+          "content": "C. fierce"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.775,
+            0.388,
+            0.867,
+            0.403
+          ],
+          "content": "D. irregular"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.413,
+            0.914,
+            0.447
+          ],
+          "content": "6. The committee reached a(n) \\_\\_\\_\\_ decision to approve the new project, with all members agreeing without any objection."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.113,
+            0.451,
+            0.223,
+            0.466
+          ],
+          "content": "A. unanimous"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.336,
+            0.452,
+            0.463,
+            0.465
+          ],
+          "content": "B. controversial"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.452,
+            0.632,
+            0.467
+          ],
+          "content": "C. arbitrary"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.775,
+            0.452,
+            0.887,
+            0.467
+          ],
+          "content": "D. ambiguous"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.476,
+            0.179,
+            0.492
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.501,
+            0.914,
+            0.536
+          ],
+          "content": "1. Up until a few decades ago, our visions of the future were largely — though by no means \\_\\_\\_\\_ (uniform) — glowingly positive."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.545,
+            0.914,
+            0.58
+          ],
+          "content": "2. The booming economy seems to have done little to assuage this \\_\\_\\_\\_ (underlie) generational sense of anxious urgency, especially for those who have college debt."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.589,
+            0.914,
+            0.625
+          ],
+          "content": "3. Teenagers are paradoxical. That's a\\_\\_\\_\\_ (mild) and detached way of saying something that parents often express with considerably stronger language."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.633,
+            0.914,
+            0.669
+          ],
+          "content": "4. Increase time, distance, and intensity\\_\\_\\_\\_(gradual). \"This isn't something you can do overnight,\" says Keri L. Denay, MD."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.678,
+            0.179,
+            0.694
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.088,
+            0.706,
+            0.158,
+            0.72
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.731,
+            0.673,
+            0.747
+          ],
+          "content": "1. When you are making complex decisions, it is advisable to follow your feelings."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.807,
+            0.663,
+            0.823
+          ],
+          "content": "2. The decision to quit a senior position to look for a better one is unconventional."
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.815,
+            0.942,
+            0.893,
+            0.959
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.906,
+            0.944,
+            0.941,
+            0.958
+          ],
+          "content": "'289"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.042,
+            0.035,
+            0.502,
+            0.067
+          ],
+          "content": "高频词表"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.089,
+            0.911,
+            0.124
+          ],
+          "content": "3. Something that should be simple and transparent can be complicated, intentionally or unintentionally, in ways that impair consumer choice."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.186,
+            0.871,
+            0.202
+          ],
+          "content": "4. Intensive chemical farming has reduced many species to tiny fragments of habitat and small nature reserves."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.265,
+            0.914,
+            0.3
+          ],
+          "content": "5. This year's rise, an average of 2.7 per cent, may be a fraction lower than last year's, but it is still well above the official Consumer Price Index (CPI) measure of inflation."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.452,
+            0.408,
+            0.548,
+            0.428
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.451,
+            0.182,
+            0.468
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.483,
+            0.136,
+            0.497
+          ],
+          "content": "1. B."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.5,
+            0.148,
+            0.516
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.519,
+            0.474,
+            0.553
+          ],
+          "content": "句意：这项政策肯定会引发\\_\\_\\_\\_反对，来自数量更多、届时将受影响的驾车者们。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.556,
+            0.477,
+            0.721
+          ],
+          "content": "考点：形容词辨析及上下文逻辑。空格处需填入形容词修饰“opposition”（反对意见），描述其性质或程度。前文“sure to spark”（必定引发）提示这种反对是强烈且必然的。A. senior（资深的/高级的）多修饰人或职位，与“反对意见”搭配不当；B. intense（强烈的）可形容反对的激烈程度，符合“受影响人群扩大导致反对加剧”的语境；C. unlikely（不可能的）与“sure”矛盾；D. abstract（抽象的）与反对意见的具体性和现实性不符。故选 B.。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.736,
+            0.136,
+            0.75
+          ],
+          "content": "2. C."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.753,
+            0.148,
+            0.769
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.773,
+            0.474,
+            0.806
+          ],
+          "content": "句意：他们并不总是优先保护莫纳克亚山\\_\\_\\_\\_的生态系统或其在岛民心中的神圣性。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.81,
+            0.476,
+            0.918
+          ],
+          "content": "考点：形容词辨析及上下文语义搭配。空格修饰“ecosystems”（生态系统），并与“需要被保护”（protection）构成逻辑关联。A. gradual（逐渐的）无法直接修饰生态系统的特性；B. unanimous（全体一致的）通常修饰意见、决定等，与生态系统搭配不当；C. fragile（脆弱的）指容易受到破坏的，"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.451,
+            0.91,
+            0.504
+          ],
+          "content": "正因生态系统脆弱，才需要优先保护，符合语境；D. false(错误的、假的) 与“神圣性”并列，语义矛盾。故选 C.。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.52,
+            0.571,
+            0.533
+          ],
+          "content": "3. A."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.537,
+            0.582,
+            0.553
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.556,
+            0.91,
+            0.589
+          ],
+          "content": "句意：它需要一个能够 \\_\\_\\_\\_ 这个跨学科团队并使其持续改进的人。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.593,
+            0.914,
+            0.74
+          ],
+          "content": "考点：动词辨析及上下文逻辑。由“and”连接的后半句“keep them on course for improvement”（引领他们持续改进）可知，空格动词应体现“领导、团结、凝聚”的含义。A. unite（团结、联合）符合“将不同学科的人凝聚起来为一个目标努力”的语境；B. finance（资助）与团队管理无关；C. follow（跟随）与“需要领导者”的语境相反；D. choose（选择）不符合“已有团队需要管理”的上下文。故选 A."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.755,
+            0.571,
+            0.769
+          ],
+          "content": "4. D."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.773,
+            0.582,
+            0.789
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.791,
+            0.914,
+            0.825
+          ],
+          "content": "句意：我们力求客观，但无法摆脱我们\\_\\_\\_\\_人生经历所构成的背景。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.828,
+            0.915,
+            0.918
+          ],
+          "content": "考点：形容词辨析及上下文逻辑。由转折词“but”可知，后半句表示“无法完全客观”的原因，即每个人的经历都是不同的、个人化的，这构成了我们认知的独特背景。A. finite（有限的）虽为事实，但并非无法客观的主要原因；B. confident（自信的）"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.058,
+            0.942,
+            0.092,
+            0.956
+          ],
+          "content": "290"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.105,
+            0.94,
+            0.184,
+            0.957
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.04,
+            0.048,
+            0.082,
+            0.973
+          ],
+          "content": "“连接线”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”“语域”“语义新语”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.121,
+            0.09,
+            0.495,
+            0.161
+          ],
+          "content": "无法修饰“经历”；C. intensive（密集的、强化的）与语境无关；D. unique（独特的）强调每个人经历的独一无二性，这正是无法达成绝对客观的根本原因，最符合句意。故选 D.。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.12,
+            0.177,
+            0.164,
+            0.19
+          ],
+          "level": 2,
+          "content": "5. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.12,
+            0.194,
+            0.177,
+            0.21
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.12,
+            0.213,
+            0.495,
+            0.247
+          ],
+          "content": "句意：备考时保持一个 \\_\\_\\_\\_ 的节奏非常重要——既不能太快也不能太慢，这样才能有效吸收知识。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.12,
+            0.25,
+            0.495,
+            0.396
+          ],
+          "content": "考点：形容词辨析及上下文逻辑。破折号后的解释“neither too fast nor too slow”（既不太快也不太慢）直接定义了空格处的词义。A. rapid(快速的) 与“not too fast”矛盾；B. moderate（适中的、温和的）恰好对应“既不太快也不太慢”的定义；C. fierce(激烈的、凶猛的）通常形容竞争、攻击等，与学习节奏搭配不当；D. irregular（不规律的）与“有效吸收知识”的目标相悖。故选 B.。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.12,
+            0.412,
+            0.165,
+            0.425
+          ],
+          "level": 2,
+          "content": "6. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.12,
+            0.429,
+            0.176,
+            0.444
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.121,
+            0.447,
+            0.492,
+            0.481
+          ],
+          "content": "句意：委员会达成了一个\\_\\_\\_\\_的决定，批准了这个新项目，所有成员都同意，没有任何异议。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.121,
+            0.484,
+            0.493,
+            0.628
+          ],
+          "content": "考点：形容词辨析及上下文逻辑。后半句“with all members agreeing without any objection”（所有成员一致同意，没有任何异议）直接解释了空格处形容词的含义。A. unanimous（全体一致的）正是对此情况的准确描述；B. controversial（有争议的）与“无异议”意思相反；C. arbitrary（武断的、任意的）和 D. ambiguous（模糊的、不明确的）均带有负面含义，与“一致同意”的积极结果不符。故选 A.。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.12,
+            0.638,
+            0.21,
+            0.654
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.12,
+            0.67,
+            0.219,
+            0.684
+          ],
+          "level": 2,
+          "content": "1. uniformly"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.12,
+            0.687,
+            0.176,
+            0.702
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.121,
+            0.705,
+            0.492,
+            0.739
+          ],
+          "content": "句意：直到几十年前，我们对未来的构想大体上是——尽管绝非——一片光明的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.121,
+            0.742,
+            0.493,
+            0.868
+          ],
+          "content": "考点：词性转换（形容词→副词）。括号中给出的形容词 uniform（一致的）在破折号插入语中修饰形容词 positive，因此需转换为副词形式 uniformly（一致地）。“by no means uniformly”意为“绝非一致地”，与主句“largely... positive”（大体上是积极的）构成让步转折关系，强调虽然主流是积极的，但并非所有人的看法都完全相同。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.12,
+            0.884,
+            0.227,
+            0.899
+          ],
+          "level": 2,
+          "content": "2. underlying"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.12,
+            0.901,
+            0.176,
+            0.916
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.84,
+            0.033,
+            0.938,
+            0.07
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.091,
+            0.905,
+            0.143
+          ],
+          "content": "句意：蓬勃发展的经济似乎未能缓解这种\\_\\_\\_\\_世代性的焦虑紧迫感，尤其对于那些身负大学债务的人而言。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.147,
+            0.906,
+            0.237
+          ],
+          "content": "考点：词性转换（动词→形容词）。括号中给出的动词 underlie（构成……的基础）在句中修饰名词短语 generational sense，需转换为形容词 underlying（潜在的、根本的），意为“这种深层次的、潜在的世代焦虑感”。此空考查对动词派生形容词用法的掌握。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.54,
+            0.252,
+            0.6,
+            0.265
+          ],
+          "level": 2,
+          "content": "3. mild"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.54,
+            0.269,
+            0.594,
+            0.284
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.288,
+            0.905,
+            0.34
+          ],
+          "content": "句意：青少年是矛盾的。这是一种\\_\\_\\_\\_且超脱的说法，而父母们表达同样的意思时常用强烈得多的语言。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.343,
+            0.907,
+            0.451
+          ],
+          "content": "考点：词义辨析及形容词原级使用。括号中给出的 mild(温和的) 本身即为形容词，与 detached(超脱的) 由 and 连接，共同修饰 way（说法）。句中将其与“stronger language”（更强烈的语言）对比，说明这是一种“温和的”表达方式，因此直接使用形容词原级 mild。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.539,
+            0.467,
+            0.635,
+            0.482
+          ],
+          "level": 2,
+          "content": "4. gradually"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.539,
+            0.484,
+            0.594,
+            0.499
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.502,
+            0.905,
+            0.555
+          ],
+          "content": "句意:\\_\\_\\_\\_地增加时间、距离和强度。“这不是你一夜之间就能做到的事情。”医学博士 Keri L. Denay 说。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.557,
+            0.906,
+            0.666
+          ],
+          "content": "考点：词性转换（形容词→副词）。括号中给出的形容词 gradual（逐渐的）在句中修饰动词 Increase，因此需转换为副词形式 gradually（逐渐地）。下文医生的话“这不是一夜之间就能完成的”进一步印证了需要“循序渐进”的核心含义，考查考生对副词修饰动词这一基本语法点的掌握。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.539,
+            0.676,
+            0.627,
+            0.692
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.541,
+            0.696,
+            0.607,
+            0.709
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.539,
+            0.713,
+            0.905,
+            0.875
+          ],
+          "sub_type": "text",
+          "content": "1. 当你在做复杂决定的时候，最好遵循你的感觉。\n2. 辞去高管职位去寻找更好机会的决定实属非传统之举。\n3. 本应简单透明的事物，却可能因有意或无意的因素变得复杂，进而损害消费者的选择权。\n4. 集约化的化学农业已将许多物种的栖息地缩减为零星碎片和小型自然保护区。\n5. 今年的涨幅平均为 2.7%, 虽比去年略低，但仍远高于官方衡量通胀的消费者价格指数 (CPI)。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.814,
+            0.937,
+            0.887,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.899,
+            0.939,
+            0.93,
+            0.952
+          ],
+          "content": "291"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:15:00",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 6,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

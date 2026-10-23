@@ -1,0 +1,1022 @@
+{
+  "list_no": 22,
+  "title": "测量与评估",
+  "association": {
+    "outline": "情节发展：发现盲区→察觉问题→评估调整→解决方案",
+    "scenes": [
+      {
+        "title": "发现盲区",
+        "story": "生态学家李博士的日常 routine（惯例）就是沿固定 route（路线）measure（测量）水质。他 count（计数）鱼类数量，examine（检查）pH level（水平），但是他 discount（不重视）偶然波动，认为这不 matter（要紧）。"
+      },
+      {
+        "title": "察觉问题",
+        "story": "某日 frequent（频繁的）暴雨后，数据 mean（平均值）异常升高。他切换 approach（方法），用新 means（手段）estimate（估算）污染源的范围，发现曾被 discount（忽视）的农田径流实为关键。"
+      },
+      {
+        "title": "评估调整",
+        "story": "李博士 evaluate（评估）所有 account（账户 / 数据），并且 esteem（尊重）团队意见，调整了 practice（实践流程）。他们 reexamine（复检）样本，确认污染物对生态系统存在危害。"
+      },
+      {
+        "title": "解决方案",
+        "story": "团队建立动态监测 means（方法），将暴雨纳入 account（考虑）。新 approach（方法）证明：真正 valuable（有价值的）是 measure（测量）与 evaluate（评估）结合的思维 level（水平）。"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "mean",
+      "ipa": "/miːn/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "意思是，意味着，本意是"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "平均数"
+        },
+        {
+          "pos": "adj.",
+          "meaning_cn": "平均的;吝啬的，小气的"
+        }
+      ],
+      "mnemonic": "mean（谐音“命”），意思是（mean）生命很短，要花在有意义（meaning）的事情上，不要对别人吝啬（mean）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "考查其基本义：意思是；意味着",
+          "body": "【2019 年英语（一）】\nBut that doesn't mean crucial ethical issues involving AI aren't at hand.\n但这并不意味着涉及人工智能的重要伦理问题尚未出现。"
+        },
+        {
+          "marker": "②",
+          "kind": "常考释义",
+          "label_raw": "考查其基本义：意欲；打算",
+          "body": "【2018 年英语（一）】\nBoth sides mean well.\n双方的本意都是好的。"
+        },
+        {
+          "marker": "③",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配:mean to do sth. 打算做某事",
+          "body": "I meant to call you, but I forgot.\n我本想打电话给你，但忘记了。"
+        },
+        {
+          "marker": "④",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "meanwhile adv. 同时；当时 = in the meantime\nmeaningful adj. 有意义的；重要的\nmean-minded adj. 思想狭隘的"
+        }
+      ]
+    },
+    {
+      "spelling": "measure",
+      "ipa": "/'meʒər/",
+      "senses": [
+        {
+          "pos": "v./n.",
+          "meaning_cn": "测量；衡量"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "测量尺度，衡量标准；方法，措施"
+        }
+      ],
+      "mnemonic": "measure 音似“买这”，我要买这块地，快来给我测量测量（measure）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "固定搭配",
+          "label_raw": "常见搭配:take measures to do sth. 采取措施做某事",
+          "body": "【2015 年英语（一）】\nAuthorities could take reasonable measures to ensure that phone data are not erased or altered while waiting for a warrant.\n当局可以采取合理措施确保在等待搜查令期间手机数据不会被删除或篡改。"
+        },
+        {
+          "marker": "②",
+          "kind": "常考释义",
+          "label_raw": "考查其作名词时的含义：尺度，标准，程度",
+          "body": "a measure of sth. 某事物的一种衡量 / 尺度；一定程度的某物\nin some / large / great measure 在某种 / 很大 / 极大程度上\n【2017 年英语（一）】\nWhile GDP has been the most common method for measuring the economic activity of nations, as a measure, it is no longer enough.\n虽然 GDP 一直是衡量各国经济活动的最常用方法，\n但作为一种衡量标准，它已经不够了。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "measurement n. 测量，衡量\nmeasurable adj. 可测量的；显著的；重要的\n【2011 年英语（一）】\nA good laugh is unlikely to have measurable benefits the way, say, walking or jogging does.\n大笑不太可能像散步或慢跑那样有显著的成效。\nimmeasurable adj. 无法衡量的；巨大的；无限的"
+        }
+      ]
+    },
+    {
+      "spelling": "means",
+      "ipa": "/mi:nz/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "方法，途径，手段"
+        }
+      ],
+      "mnemonic": "means 与 mean 无关，它来自 measure(方法)。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "means 是单复同形，与可数名词 measure 和 method 不同。",
+          "body": "【2020 年英语（二）】\n23. A. tried to practice a means of escape\n试图寻找一种逃跑的方法"
+        },
+        {
+          "marker": "②",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配:by means of 通过……方法",
+          "body": "【2014 年英语（一）】\nMost archaeological sites have been located by mean of careful searching.\n大多数考古遗址都是通过仔细搜寻的方式被发现的。"
+        },
+        {
+          "marker": "③",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配:by all means 当然",
+          "body": "【2024 年英语（一）】\nAncient art that is displayed in foreign countries by all means should be returned to the original country.\n在外国展出的古代艺术品，无论如何都应该被归还给其原属国。"
+        },
+        {
+          "marker": "④",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配：by no means 绝不意味着",
+          "body": "【2013 年英语（一）】\nOur visions of the future were largely — though by no means uniformly — glowingly positive.\n我们对未来的看法在很大程度上——尽管绝不一致——都是乐观的。"
+        }
+      ]
+    },
+    {
+      "spelling": "examine",
+      "ipa": "/ɪɡˈzæmɪn/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "考，测验；检测，检验，检查；调查，考查"
+        }
+      ],
+      "mnemonic": "来自 exam（考试），引申为检验、调查。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "考查其基本义：检查；检验",
+          "body": "【2012 年英语（一）】\nA discovery claim becomes credible after it has been examined by the scientific community.\n一项发现在被科学界检验之后变得可信。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "表示“考试”的单词，通常都可以引申表示“检测、检验”，如:test。",
+          "body": "【2012 年英语（一）】\nThe Vermont case will test the limits of states' powet over nuclear issues.\n佛蒙特州的案例将检测各州在核问题上的权力极限："
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "examination n. 考试，检查"
+        }
+      ]
+    },
+    {
+      "spelling": "count",
+      "ipa": "/kaunt/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "数，计算，算入; 重要"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "计数; 总数"
+        }
+      ],
+      "mnemonic": "本义表示“计数”, 能够被计算进来的东西，通常是重要的东西，故而引申表示“重要”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "单词可以表示“……很重要”，写作常用。",
+          "body": "In the pursuit of success, hard work counts, but emotional intelligence often counts for even more.\n在追求成功的过程中，努力很重要，但情商往往更重要。"
+        },
+        {
+          "marker": "②",
+          "kind": "固定搭配",
+          "label_raw": "常见搭配:count for 占（比例）",
+          "body": "【2012 年英语（二）】\nHomework may no longer count for more than 10% of a student's academic grade.\n家庭作业在学生的学术成绩评定中的占比可能不会再超过 10%。"
+        },
+        {
+          "marker": "③",
+          "kind": "固定搭配",
+          "label_raw": "常见搭配:count on 依靠，指望",
+          "body": "【2019 年英语（二）】\nEven as we humans count on forests to soak up a good share of the carbon dioxide we produce, we are threatening their ability to do so.\n即便我们人类指望森林能够吸收我们所排放的大量二氧化碳，但我们却在威胁着它们的能力。"
+        },
+        {
+          "marker": "④",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "countless adj. 数不清的，数不尽的，无数的"
+        }
+      ]
+    },
+    {
+      "spelling": "discount",
+      "ipa": "/'dɪskaʊnt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "折扣"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "打折；不重视，低估"
+        }
+      ],
+      "mnemonic": "dis-（否定）+ count（计数）→ 不计算进来的部分 → 折扣、打折。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "该单词可以表示“不重视、低估”",
+          "body": "【2022 年英语（一）】\nThe data points extracted from our studies do not discount what is learned in a zoo visit.\n从我们的研究中提取的数据点并未低估我们在动物园参观中所学到的东西的价值。\ndiscount the importance of evidence\n低估证据的重要性"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "同根词对比（阅读干扰项）",
+          "body": "account v. 记账；描述 n. 账户，账目\ncounter v. 反对 n. 柜台"
+        }
+      ]
+    },
+    {
+      "spelling": "matter",
+      "ipa": "/'mætər/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "问题；事情；物质"
+        },
+        {
+          "pos": "v.",
+          "meaning_cn": "重要"
+        }
+      ],
+      "mnemonic": "物质（matter）质量是一个重要（matter）的物理概念。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "matter = count = be important 重要",
+          "body": "matter to sb. 对某人来说很重要\n【2012 年英语（二）】\nA key question unanswered about homework is whether it counts much in schooling.\n关于家庭作业的一个悬而未决的关键问题是：它在学校教育中是否很重要。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "no matter 不重要，无所谓；无论",
+          "body": "no matter + 疑问词（无论）:引导让步状语从句，不可用于名词性从句。\n【2016 年英语（一）】\nNo matter how formal or informal the work environment, the way you present yourself has an impact.\n无论工作环境是正式还是非正式，你展现自己的方式都会产生影响。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "写作常用句型:What matters is... 很重要……",
+          "body": "In education, what matters is cultivating critical thinking rather than memorizing facts.\n在教育中，重要的是培养批判性思维，而非死记硬背。\n【2024 年英语（一）】\nAgain, the story an exhibit is trying to tell is what matters.\n再次强调，展品试图讲述的故事才是关键所在。"
+        },
+        {
+          "marker": "④",
+          "kind": "常考释义",
+          "label_raw": "考查其作名词时的基本义：问题，事情",
+          "body": "【2014 年英语（一）】\nThe Heart of Matter 事情的核心；问题的关键"
+        },
+        {
+          "marker": "⑤",
+          "kind": "常考释义",
+          "label_raw": "考查其作名词时的生僻义：物质",
+          "body": "【2011 年英语（一）】\nThere is no gap between mind and matter.\n意识与物质之间并无隔阂。"
+        }
+      ]
+    },
+    {
+      "spelling": "account",
+      "ipa": "/ə'kaunt/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "记账；描述"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "账户，账目；描述；解释"
+        }
+      ],
+      "mnemonic": "ac- = ad-（一再）+ count（计数）→ 一再计数 → 记账 → 账户、账目。记账是对账目的描述，引申为描述。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "accountable = responsible adj. 负有责任的\n【2015 年英语（一）】\nWell-paid executives should not be accountable for what happens in the organisations that they run.\n高薪的高管不应为他们所管理的组织内部所发生的事情负责。"
+        },
+        {
+          "marker": "②",
+          "kind": "固定搭配",
+          "label_raw": "常见搭配：",
+          "body": "account for 占；导致\n【2012 年英语（二）】\nConversely, if homework matters, it should account for a significant portion of the grade.\n相反，如果家庭作业很重要，那么它就应该在成绩中占相当大的比重。\n【2007 年】\nWhat might account for this strange phenomenon?\n是什么导致了这一奇怪的现象呢？"
+        },
+        {
+          "marker": "③",
+          "kind": "固定搭配",
+          "label_raw": "常见搭配:take...into account = take account of 考虑，顾及",
+          "body": "【2018 年英语（一）】\na vague agreement which took far too little account of the patients' rights and their expectations of privacy\n一项含混不清的协议，这项协议几乎没有考虑患者的权利以及他们对隐私的期望"
+        },
+        {
+          "marker": "④",
+          "kind": "固定搭配",
+          "label_raw": "常见搭配：",
+          "body": "by all accounts 据说，大家都说\n【2014 年英语（一）】\nBy all accounts he was a freethinking person.\n大家都说他是一个思想自由的人。"
+        },
+        {
+          "marker": "⑤",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "accounting n. 会计\naccountant n. 会计人员，会计师"
+        }
+      ]
+    },
+    {
+      "spelling": "level",
+      "ipa": "/'levl/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "水平；质量；程度；级别"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "使相等，使平等"
+        },
+        {
+          "pos": "adj.",
+          "meaning_cn": "相等的，平等的"
+        }
+      ],
+      "mnemonic": "level 这个单词两边对称，即是水平（level）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "固定搭配",
+          "label_raw": "常见搭配:level out 趋于稳定；平稳；（地面等）变平坦",
+          "body": "【2021 年英语（一）】\nIt peaks in young adulthood, levels out for a period of time, and then generally starts to slowly decline as we age.\n它在青年时期达到顶峰，会稳定一段时间，然后通常会随着我们年龄的增长而开始慢慢下降。"
+        },
+        {
+          "marker": "②",
+          "kind": "常考释义",
+          "label_raw": "考查其作动词时的含义：使相等，使平等",
+          "body": "level the playing field 创造平等的竞争环境\n【2019 年英语（一）】\nThe ruling levels the playing field for local and online businesses.\n该判决为当地和网络公司创造了平等的竞争环境。"
+        }
+      ]
+    },
+    {
+      "spelling": "frequent",
+      "ipa": "/'fri:kwənt/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "经常的，频繁的"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "常去 (某地)"
+        }
+      ],
+      "mnemonic": "frequent 谐音“夫人困的” → 夫人非常容易困，常常犯困 → 频繁的。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "考查 frequent 作动词时的含义：常去（某地）",
+          "body": "【2019 年英语（一）】\nYou're lost in an area humans tend to frequent.\n你在人们经常去的地方迷路了。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "frequency n. 频率；频繁\nfrequently adv. 经常，频繁地\ninfrequent adj. 不经常的，很少发生的 (in-否定)"
+        }
+      ]
+    },
+    {
+      "spelling": "evaluate",
+      "ipa": "/ɪˈvæljueɪt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "评估，评价"
+        }
+      ],
+      "mnemonic": "e- = ex-（出）+ valu-（=value 价）→ 出价→评估、评价（evaluate）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常考“重新评估”, 可以写成 reevaluate, 也可以写成 re-evaluate",
+          "body": "【2010 年英语（一）】\n36. D. reevaluate some of their assets\n重新评估它的一些资产"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "evaluation n. 评估，评价"
+        }
+      ]
+    },
+    {
+      "spelling": "estimate",
+      "ipa": "/'estiment/",
+      "senses": [
+        {
+          "pos": "vt./n.",
+          "meaning_cn": "评估，评价"
+        }
+      ],
+      "mnemonic": "评估（estimate）一下最高价，然后最高价（est 最高级）买（音似，ma）它（音似 te）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "该单词通常与 over 或 under 连用进行考查，且经常出现在阅读的选项中。",
+          "body": "【2011 年英语（一）】\n23. D. overestimate the value of live performances\n高估现场演出的价值\n【2020 年英语（一）】\n34. A. the underestimation of elite women's role\n低估精英女性的角色"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "estimation n. 评估，评价\nunderestimate v. 低估，对……估计不足；轻视\noverestimate v. 过高估计（能力、影响或价值）"
+        }
+      ]
+    },
+    {
+      "spelling": "esteem",
+      "ipa": "/ɪˈstiːm/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "评价（某人）；尊重"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "好评；尊重"
+        }
+      ],
+      "mnemonic": "esteem 是 estimate（评价）的变写，本义表示评价，后引申为好的评价或高度评价，即好评或尊重。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "考查其作动词的基本义：尊重",
+          "body": "【2017 年英语（一）】\nStar watchers were among the most esteemed members of Hawaiian society.\n观星人是夏威夷社会中最受人尊敬的成员。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "复合词:self-esteem 自尊",
+          "body": "【2025 年英语（二）】\nIf you struggle with low self-esteem, you might find it especially difficult to reach out for help because you have the added worry of the other person declining your request.\n如果你饱受自卑之苦，你可能会发现寻求帮助格外困难，因为你还会额外担心对方拒绝你的请求。"
+        }
+      ]
+    },
+    {
+      "spelling": "valuable",
+      "ipa": "/'væljuəbl/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "值钱的，宝贵的"
+        }
+      ],
+      "mnemonic": "valuable 音似“挖了宝” →宝藏是宝贵的，值钱的（valuable）。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "分清下列单词是值钱还是不值钱，特别是 invaluable,",
+          "body": "虽然很少考，但极易造成误解：\nvalueless adj. 没有价值的，不值钱的 (-less 没有 + value 价值 → 没有价值的 → 不值钱的)\npriceless adj. 无价的，宝贵的（-less 没有 + price 价格 → 没有价格的 → 无价之宝）\ninvaluable adj. 宝贵的，极具价值的 (in-否定 + val-价 + able 能 → 不能用价格衡量的)"
+        }
+      ]
+    },
+    {
+      "spelling": "practice",
+      "ipa": "/'præktɪs/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "练习；实践，做法；惯例"
+        }
+      ],
+      "mnemonic": "pr 联想成胖人，act 表演，ice 冰，一个胖人（pr）的表演（act）在冰（ice）上练习（practice）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "最常考的含义：实践、惯例",
+          "body": "【2010 年英语（一）】\nIt may change the legal practices in the U.S.\n它可能改变美国的法律实践惯例。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "名词衍生形式 malpractice 特指“玩忽职守”，但直接理解成“不好的（mal-）做法”，也完全没问题。",
+          "body": "【2023 年英语（一）】\nScopus itself has all the data necessary to detect this malpractice.\nScopus 本身就有检测这种“不好的做法”所需的全部数据。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "常考其副词形式：practically 几乎（通常接 every, 翻译成“几乎每个”）",
+          "body": "【2008 年】\nAlvarez paid practically everything by check.\n阿尔瓦雷斯几乎每个东西都是用支票支付的。\n【2011 年英语（一）】\nPractically every week features at least one celebrity mom, or mom-to-be, smiling on the newsstands.\n几乎每周都有至少一位明星妈妈或准妈妈微笑着出现在报摊上。"
+        },
+        {
+          "marker": "④",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "practical adj. 实际的，实用的\nimpractical adj. 不实际的，不实用的\nroutine/ru: 'ti:n/\nn. 惯例 adj. 惯例的，惯常的\n妙记:routine 音似“路停”，路上停车进行常规的（routine）检查。"
+        },
+        {
+          "marker": "①",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配:break the routine 打破常规",
+          "body": ""
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词:routinely adv. 照例，通常",
+          "body": "【2020 年英语（一）】\nScientific publishers routinely report profit margins approaching 40% on their operations.\n科学出版商通常会报告其业务运营的利润率接近 40%。"
+        }
+      ]
+    },
+    {
+      "spelling": "approach",
+      "ipa": "/əˈprəʊtʃ/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "方法"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "接近；处理，应对"
+        }
+      ],
+      "mnemonic": "approach 谐音“鹅扑肉吃”，鹅扑肉吃就是在接近（approach）肉。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "考查其作名词时的基本义：方法",
+          "body": "【2019 年英语（一）】\n24. C. the approaches to promoting“long-termism”促进“长期主义”的方法"
+        },
+        {
+          "marker": "②",
+          "kind": "常考释义",
+          "label_raw": "考查其作动词时的基本义：接近",
+          "body": "【2020 年英语（一）】\nScientific publishers routinely report profit margins approaching 40%.\n科学出版商通常会报告其业务运营的利润率接近 40%。"
+        },
+        {
+          "marker": "③",
+          "kind": "常考释义",
+          "label_raw": "考查其作动词时的基本义：处理应对",
+          "body": "【2009 年】\nHumans are born with the capacity to approach challenges in four primary ways.\n人类生来就有四种主要的方式来应对挑战的能力。"
+        },
+        {
+          "marker": "④",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "approachable adj. 易接近的；友好的"
+        }
+      ]
+    },
+    {
+      "spelling": "route",
+      "ipa": "/raʊt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "常规路线；路线；途径"
+        }
+      ],
+      "mnemonic": "来自 road（路）→路线、途径→常规路线。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "核心常考含义：途径、渠道（抽象概念）",
+          "body": "【2022 年英语（一）】\nEducation was no longer a secure route of social mobility.\n教育不再是一条确保社会流动性的可靠途径。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "routine n. 惯例 adj. 惯例的，惯常的"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L22-01",
+      "kind": "single",
+      "stem": "He didn't ____ to hurt you; it was an accident.",
+      "options": [
+        "mean",
+        "means",
+        "meaning",
+        "meant"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "mean",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L22-02",
+      "kind": "single",
+      "stem": "The phrase “by no means” is closest in meaning to ____.",
+      "options": [
+        "absolutely",
+        "not at all",
+        "partially",
+        "inevitably"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "means",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L22-03",
+      "kind": "single",
+      "stem": "The sentence “Up until a few decades ago, our visions of the future were largely — though by no means uniformly — glowingly positive” implies that ____",
+      "options": [
+        "all future visions were consistently optimistic.",
+        "positive outlooks dominated but varied in degree.",
+        "uniformity was the key feature of past predictions.",
+        "negativity began to emerge only recently."
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "means",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L22-04",
+      "kind": "single",
+      "stem": "The store manager agreed to give me a 20% ____ because I was a regular customer.",
+      "options": [
+        "account",
+        "discount",
+        "count",
+        "counter"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "discount",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L22-05",
+      "kind": "single",
+      "stem": "In international negotiations, each party should be ____ for their commitments, as trust is what ____ in building long-term cooperation. When disputes occur, both sides need to put forward practical ____ instead of blaming each other.",
+      "options": [
+        "accountable; counts; countermeasures",
+        "unaccountable; discounts; counterparts",
+        "countable; recounts; court",
+        "countless; miscounts; encounters"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "account",
+          "bind": "词形"
+        },
+        {
+          "n": 2,
+          "word": "count",
+          "bind": "词形"
+        },
+        {
+          "n": 3,
+          "word": "measure",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L22-06",
+      "kind": "single",
+      "stem": "____ how much they give away, this excess leads to waste.",
+      "options": [
+        "No matter",
+        "Even if",
+        "Although",
+        "Despite"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "matter",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L22-07",
+      "kind": "single",
+      "stem": "Many beginners ____ the difficulty of learning a programming language and end up struggling later.",
+      "options": [
+        "underestimated",
+        "overestimating",
+        "underestimate",
+        "overestimated"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "estimate",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L22-08",
+      "kind": "single",
+      "stem": "Online courses have become a practical ____ to higher education for working professionals.",
+      "options": [
+        "routine",
+        "path",
+        "route",
+        "root"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "route",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L22-09",
+      "kind": "fill",
+      "stem": "The ____ (frequent) of extreme weather events has increased significantly in recent decades.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "frequency"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "frequent",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L22-10",
+      "kind": "fill",
+      "stem": "A large part of ____(evaluate) is calling out bad arguments, but we also need to admit good arguments by opponents and to apply the same critical standards to ourselves.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "evaluation"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "evaluate",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L22-11",
+      "kind": "fill",
+      "stem": "You need a thorough medical ____ (examine) before the trip.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "examination"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "examine",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L22-12",
+      "kind": "fill",
+      "stem": "The old family photo album may seem ordinary to others, but to us, it holds memories that are____(value) no amount of money could replace them. On the contrary, the fake diamond necklace I bought by mistake turned out to be____(value); it's not even worth a dollar. As for the rare manuscript passed down from the 18th century, its cultural significance makes it____(price) in the eyes of collectors.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "invaluable",
+        "valueless",
+        "priceless"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "valuable",
+          "bind": "词形"
+        },
+        {
+          "n": 2,
+          "word": "valuable",
+          "bind": "词形"
+        },
+        {
+          "n": 3,
+          "word": "valuable",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L22-13",
+      "kind": "fill",
+      "stem": "Although the idea sounds perfect in theory, it is not ____ (practice) due to high costs.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "practical"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "practice",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L22-14",
+      "kind": "fill",
+      "stem": "Customers now ____(routine) see menus of suggested default options — often well above 20% of what they owe.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "routinely"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "practice",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L22-15",
+      "kind": "translate_sentence",
+      "stem": "But we have at least drawn nearer the point of admitting that birds should continue as a matter of intrinsic right, regardless of the presence or absence of economic advantage to us.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "但至少我们更接近于承认这样一个观点：基于其固有的内在权利，鸟类应该继续存在，无论其对我们是否存在经济利益。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "matter",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L22-16",
+      "kind": "translate_sentence",
+      "stem": "Those societies came out of the war with levels of enrollment that had been roughly constant at 3%—5% of the relevant age groups during the decades before the war.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "那些社会在战后呈现的入学率水平，在战前几十年间一直保持基本稳定，占相关年龄群体的 3%~5%。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "level",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L22-17",
+      "kind": "translate_sentence",
+      "stem": "The way consumers now approach the process of making purchase decisions means that marketing's impact stems from a broad range of factors beyond conventional paid media.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "如今消费者做出购买决策的方式意味着，营销的影响力源自一系列广泛的因素，而非仅仅局限于传统的付费媒体。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "approach",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L22-18",
+      "kind": "translate_word",
+      "stem": "This may not only do damage to your relationship with your child but also affect your child's [self-esteem].",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "这不仅可能会损害你与孩子的关系，还会影响孩子的【自尊心】。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "esteem",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L22-19",
+      "kind": "translate_word",
+      "stem": "Lawmakers and regulators are slowly starting to address the ambiguity around dark patterns, most recently at the\n【state level】.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "立法者和监管机构正逐步着手解决暗黑模式的法律模糊性问题，最近主要在【州级层面】推进相关工作。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "level",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L22-20",
+      "kind": "translate_word",
+      "stem": "By most [measures], corporate governance has become a lot tighter and more rigorous since the 1970s.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "从大多数【标准】来看，自 20 世纪 70 年代以来，公司治理已变得更加严格和规范。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "measure",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

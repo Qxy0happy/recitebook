@@ -1,0 +1,712 @@
+{
+  "list_no": 12,
+  "title": "建议与选择",
+  "association": {
+    "outline": "情节发展：提议评估→ 要求落实→影响行动",
+    "scenes": [
+      {
+        "title": "提议评估",
+        "story": "有专家 suggest/propose（提议）翻新旧城区，市长很 interest（感兴趣）。他们 consider（考虑）了大家的意见，知道这事 require（需要）一大笔钱。"
+      },
+      {
+        "title": "要求落实",
+        "story": "居民们强烈 request/demand（要求）修好设施，并且 insist（坚持）过程要公开。于是，政府举行公开听证会，展示所有筹钱的 option（方案）。经过多方讨论后，最终由政府和居民代表共同 select/elect（选定）了让企业和政府一起出钱的模式。"
+      },
+      {
+        "title": "影响行动",
+        "story": "负责人努力 inspire（激励）大家参与，并 convince/persuade（说服）公司来投资。虽然一开始有人 resist（反对）改变，但看到新公园建好后，想法就变了。"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "suggest",
+      "ipa": "/sə'dʒest/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "暗示；建议；认为，表示，表明"
+        }
+      ],
+      "mnemonic": "谐音“射箭死的？”→谁叫你不听 suggest（建议）！",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "阅读中更多考查“认为、表示、表明”的含义，而不是“建议”。\n\n【2017 年英语（一）】\n\nThe court did suggest that accepting favors in return for opening doors is “distasteful” and “nasty”.\n\n法院确实表示，接受帮助作为敞开大门的回报是“令人厌恶的”和“肮脏的”。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "在图表作文中，常用于描述趋势隐含的意义。\n\nThe sharp decline in green space suggests uncontrolled\n\nurbanization.\n\n绿地面积的急剧减少表明城市化进程失控了。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "suggestion n. 暗示；建议；意见"
+        }
+      ]
+    },
+    {
+      "spelling": "interest",
+      "ipa": "/'mtrəst/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "兴趣；利益；【经】利息"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "使感兴趣"
+        }
+      ],
+      "mnemonic": "本义是“兴趣” → 人们最感兴趣的 → 是“利益”和“利息”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "考研最常考“利益”的含义。\n\n【2020 年英语（一）】\n\nThe French Senate has passed a bill to protect French companies' interests.\n\n法国参议院通过了一项旨在保护法国公司利益的法案。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "在经济领域可以表示“利息”。\n\n【2013 年英语（二）】\n\nThe writer of the check can earn interest on the funds in the meantime.\n\n这张支票的开具者可以同时赚取这笔资金所产生的利息。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "作动词时，表示“使某人感兴趣”，所以，“某事有趣、令人感兴趣”叫作 sth. be interesting；而“某人感兴趣”则叫作 sb. be interested。\n\n【2014 年英语（一）】\n\nThe Fundamental Physics Prize is indeed an interesting experiment.\n\n“基础物理学奖”确实是一项有趣的尝试。\n\n【2013 年英语（一）】\n\nPeople are more interested in unaffordable garments.\n\n人们对那些买不起的服装更感兴趣。"
+        }
+      ]
+    },
+    {
+      "spelling": "require",
+      "ipa": "/rɪˈkwaɪər/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "需要，要求"
+        }
+      ],
+      "mnemonic": "re-（反复）+quire-（=quest 寻求）→反复寻求，说明有需求、有要求。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "表示“需要”\n\n【2013 年英语（一）】\n\nThe industry also points out that real grass requires considerable amounts of water.\n\n行业还指出，真草需要大量的水。"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "",
+          "body": "表示“要求”时，可使用两种结构：\n\nrequire sb. to do sth. 要求某人做某事\n\nThe teacher requires the students to finish the homework by Friday.\n\n老师要求学生们在周五之前完成作业。\n\n虚拟语气用法 require that + (should) do\n\nThe rules require that all members (should) attend the meeting.\n\n这些规则要求所有成员都必须参加这次会议。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "requirement n. 需要，要求; 需要或要求的东西\nrequired adj. 必需的; 必修的"
+        }
+      ]
+    },
+    {
+      "spelling": "request",
+      "ipa": "/rɪˈkwest/",
+      "senses": [
+        {
+          "pos": "v./n.",
+          "meaning_cn": "请求，要求"
+        }
+      ],
+      "mnemonic": "与 require 同源。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "辨析",
+          "label_raw": "考点点拨",
+          "body": "近义词辨析:request & require\n\n- request 既可以作动词，也可以作名词; 而 require 仅作动词;\n- require 既可以表示某人提出“要求”，也可以表示某事物“需要”什么。request 只能表示“提出要求”。\n\n【2013 年英语（一）】\n\nMicrosoft will comply with DNT requests.\n\n微软会遵守 DNT 的要求。"
+        }
+      ]
+    },
+    {
+      "spelling": "demand",
+      "ipa": "/dɪˈmænd/",
+      "senses": [
+        {
+          "pos": "v./n.",
+          "meaning_cn": "要求；需要"
+        }
+      ],
+      "mnemonic": "de-（强调）+ mand-（命令）→ 下达命令，就是提出“要求”，引申为“需要”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "辨析",
+          "label_raw": "",
+          "body": "考研阅读中 demand 经常与 require 进行同义替换。\n\n【2015 年英语（一）】\n\nNew, disruptive technology sometimes demands novel applications of the Constitution's protections.\n\n新的、颠覆性的技术有时确实需要对宪法所规定的保护措施做出新的应用。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "demanding adj. 要求高的；费力的\n\n【2017 年英语（一）】\n\nNursing is a physically and emotionally demanding profession.\n\n护理是对体力和情绪要求都很高的职业。"
+        }
+      ]
+    },
+    {
+      "spelling": "option",
+      "ipa": "/'ɑːpʃn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "选择（权）"
+        }
+      ],
+      "mnemonic": "谐音“我不选”→“选项”太多导致无法“选择”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "表示“选择”\n\n【2022 年英语（一）】\n\nThis is not to say that there is no point in getting a degree, but rather stress that a degree is not for everyone, that the switch from classroom to lecture hall is not an inevitable one and that other options are available.\n\n这并不是说获得学位没有意义，而是强调，学位并非适用于所有人，从中学课堂到大学讲堂的转变并非必需，还有其他的选择可以选。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "option 在经济领域可以表示“期权”\n\n【2010 年英语（一）】\n\nrules on stock options and pensions\n\n股票期权和养老金制度"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "opt v. 选择，挑选;\n\noptional adj. 选择的，可以选择的; 选修的\n\nopt to do sth. 选择做某事\n\n【2022 年英语（二）】\n\nMore Americans are opting to work well into retirement.\n更多美国人选择在退休后仍继续工作。"
+        }
+      ]
+    },
+    {
+      "spelling": "propose",
+      "ipa": "/prəˈpəʊz/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "提议，建议，提出"
+        }
+      ],
+      "mnemonic": "pro-（前）+ pos-（放）+e→ 把意见、方案放到前面来→ 提议、建议（propose）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "表示“提议”\n\n【2013 年英语（一）】\n\nIn December 2010 America's Federal Trade Commission (FTC) proposed adding a “do not track” (DNT) option to internet browsers, so that users could tell advertisers that they did not want to be followed.\n\n2010 年 12 月，美国联邦贸易委员会（FTC）提议，在互联网浏览器中添加“禁止追踪”（DNT）选项，这样，用户就可以告诉广告商，他们不想被追踪。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "常考 proposed 作形容词，表示“被提出的、所提出的”，特别是它作后置定语时，需要注意。\n\n【2022 年英语（一）】\n\nHowever, the mechanisms proposed were unwieldy and the Bill was voted down.\n\n然而，所提出的这些机制难以操作，且该法案也未获得通过。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "proposal n. 提议，建议;\n\nproposition n. 主张；商业提案"
+        }
+      ]
+    },
+    {
+      "spelling": "consider",
+      "ipa": "/kənˈsɪdər/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "考虑；认为"
+        }
+      ],
+      "mnemonic": "谐音“肯思的”→肯思考就是在“考虑”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "consider A (as) B = view A as B 将 A 视为 B\n\n【2011 年英语（一）】\n\nWe should consider being happy as a past-tense condition.\n我们应当将快乐视为一种过去式的状态。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "considering conj./prep. 考虑到，鉴于\n\n【2011 年英语（一）】\n\nNo shock there, considering how much work it is to raise a kid without a partner to lean on.\n\n考虑到一个人独自抚养孩子是多么大的工作量，这没什么值得惊讶的。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "considerable adj. 相当大（或多）的；值得考虑的\nconsiderate adj. 考虑周到的\n\nconsideration n. 考虑；需要考虑的事\n\ntake ... into consideration 考虑到\n\n【2013 年英语（一）】\n\nThis scale took numerous factors into consideration.\n这个量表考虑到了众多因素。"
+        }
+      ]
+    },
+    {
+      "spelling": "select",
+      "ipa": "/sɪˈlekt/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "选择，挑选"
+        },
+        {
+          "pos": "adj.",
+          "meaning_cn": "精选的"
+        }
+      ],
+      "mnemonic": "se-（separate 分开）+ lect-（选择）→ 分开 选出 → 挑选。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "select 可作形容词，表示“精选的”。\n\n【2010 年英语（一）】\n\nMarketers have embraced the two-step flow because it suggests that if they can just find and influence the influentials, those select people will do most of the work for them.\n\n市场营销人员已经接受了这种两步流理论，因为它表明，只要他们能找到并影响那些有影响力的人，那么这些精选出来的人就会替他们完成大部分工作。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "selection n. 选择，挑选\n\nselective adj. 选择性的，有选择的\n\nselective school 择优录取的学校，名校\n\n【2019 年英语（一）】\n\nBut now most colleges, save for many selective campuses, allow all undergraduates, and even graduate students, to get their low grades forgiven.\n\n但如今，除了很多择优录取的名校之外，大多数高校都允许所有本科生，甚至研究生免除他们的低分成绩。"
+        }
+      ]
+    },
+    {
+      "spelling": "elect",
+      "ipa": "/ɪˈlekt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "选举；选出，选择"
+        }
+      ],
+      "mnemonic": "$e- = ex- (out) + lect-$ （选择）→ 选出来 → 选举，选择。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "elect A as B 将 A 选为 B\n\n【2006 年翻译】\n\nI shall define him as an individual who has elected as his primary duty and pleasure in life the activity of thinking about moral problems.\n\n我将把他定义为：他将思考道德问题选为自己人生的主要职责和乐趣。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "elective adj./n. 选修的；选修课\n\nelectoral adj. 选举的\n\nelection n. 选举"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "【2020 年英语（二）】\n\nmayoral election 市长选举"
+        }
+      ]
+    },
+    {
+      "spelling": "inspire",
+      "ipa": "/ɪnˈspaɪər/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "启发，赋予灵感; 激发，引发"
+        }
+      ],
+      "mnemonic": "谐音“因失败”→因为失败很颓废，需要“启发、激发”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "表示“启发”\n\n【2022 年英语（一）】\n\nPreservation of plastic artifacts will inspire future scientific research.\n\n塑料制品的保存将会启发未来的科学研究。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "inspire 可表示激发、引发，相当于 produce。\n\n【2017 年英语（二）】\n\nThe Parkrun phenomenon began with a dozen friends and has inspired 400 events in the UK and more abroad. 开始于十几个朋友的公园跑现象已在英国引发了 400 场活动，并在其他国家引发了更多活动。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "形容词形式 inspiring 可以表示“启发灵感的”，也可以表示“鼓舞人心的”。\n\n【2023 年英语（二）翻译】\n\nPoems can be dramatic, funny, beautiful, moving and inspiring.\n\n诗歌可以充满戏剧化、诙谐幽默、优美动人、感人至深且鼓舞人心。"
+        },
+        {
+          "marker": "④",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "inspiration n. 启发，灵感\n\nrespire vi. 呼吸\n\nexpire vi. 到期；断气"
+        }
+      ]
+    },
+    {
+      "spelling": "persuade",
+      "ipa": "/pərˈsweɪd/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "说服"
+        }
+      ],
+      "mnemonic": "谐音“破思维的”→打破一个人固有思维的→就是“说服”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "persuade sb. to do sth. (说服某人做某事)\n\n【2011 年英语（一）】\n\nIf that happens, passionate consumers would try to persuade others to boycott products, putting the reputation of the target company at risk.\n\n如果出现这种情况，那些热情的消费者就会试图说服其他人抵制相关产品，从而危及目标公司的声誉。"
+        },
+        {
+          "marker": "②",
+          "kind": "辨析",
+          "label_raw": "",
+          "body": "辨析与 convince 的区别：\n\npersuade 强调劝说动作（过程）;\n\nconvince 强调说服结果（成功）。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "persuasive adj. 有说服力的"
+        }
+      ]
+    },
+    {
+      "spelling": "insist",
+      "ipa": "/ɪnˈsɪst/",
+      "senses": [
+        {
+          "pos": "vi.",
+          "meaning_cn": "坚持"
+        }
+      ],
+      "mnemonic": "in-（进入）+ sist-（站）→ 让一个人进入一直站着的状态，这个人需要坚持。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "最常考",
+          "body": "insist that 坚持宣称，坚持认为\n\n【2014 年英语（一）】\n\nOpponents of change among there gulators insist that keeping outsiders out of a law firm isolates lawyers from the pressure to make money.\n\n监管部门中反对改革的人坚称，不让外部人士涉足法律事务所业务可避免律师迫于压力只顾挣钱。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "persist vi. 坚持；持续\n\ninsistent = persistent adj. 坚持的；持续的"
+        }
+      ]
+    },
+    {
+      "spelling": "resist",
+      "ipa": "/rɪ'zɪst/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "反对；抵抗，反抗；抵制"
+        }
+      ],
+      "mnemonic": "re-（反对、反向）+ sist-（站）→反向站立，站在对立面→反对。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "表示“抵制”\n\n【2020 年英语（一）】\n\nThe OECD's current work is being resisted by US companies.\n\n经合组织（OECD）目前的工作遭到了美国公司的抵制。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "resistant adj. 反对的；反抗的；抵制的\n\nresistance n. 反对；反抗；抵制\n\n- be resistant to sth. 反对某事物；抵制某事物\n【2006 年阅读】\n\nToday's immigration is neither at unprecedented levels nor resistant to assimilation.\n\n如今的移民规模既未达到史无前例的水平，移民群体也并非抗拒同化。\n\n- resistance 和 opposition 可以进行同义替换。\n\n【2020 年英语（二）】\n\n原文:...it is sure to spark intense opposition\n\n这肯定会引发强烈的反对\n\n正确选项:arouse strong resistance 引发强烈的反对"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L12-01",
+      "kind": "single",
+      "stem": "A new study suggests that contrary to most surveys, people are actually more stressed at home than at work. The word “suggests” here means ____.",
+      "options": [
+        "advises",
+        "indicates",
+        "demands",
+        "opposes"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "suggest",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L12-02",
+      "kind": "single",
+      "stem": "If Sadiq Khan extends the ultra-low emission zone (Ulez), it is sure to spark intense opposition. The word “opposition” can be replaced by ____.",
+      "options": [
+        "resistance",
+        "proposal",
+        "interest",
+        "option"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "resist",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L12-03",
+      "kind": "single",
+      "stem": "The industry points out that real grass requires considerable amounts of water. The word “requires” is closest in meaning to ____.",
+      "options": [
+        "demands",
+        "suggests",
+        "inspires",
+        "resists"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "require",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L12-04",
+      "kind": "single",
+      "stem": "If passionate consumers persuade others to boycott products, the company's reputation may be at risk. The word \"persuade\" implies ____.",
+      "options": [
+        "force someone to act",
+        "convince someone to agree",
+        "oppose someone's decision",
+        "ignore someone's opinion"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "persuade",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L12-05",
+      "kind": "single",
+      "stem": "The switch from classroom to lecture hall is not inevitable, and other options are available. The word “options” refers to ____.",
+      "options": [
+        "demands",
+        "choices",
+        "resistances",
+        "interests"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "option",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L12-06",
+      "kind": "fill",
+      "stem": "The court did ____ (suggest) that accepting favors is “distasteful”.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "suggest"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "suggest",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L12-07",
+      "kind": "fill",
+      "stem": "The OECD's work is being ____ (resist) by US companies.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "resisted"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "resist",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L12-08",
+      "kind": "fill",
+      "stem": "We should consider being happy ____ a past-tense condition. (填写介词)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "as"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "consider",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L12-09",
+      "kind": "fill",
+      "stem": "The FTC proposed ____ (add) a “do not track” option to browsers.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "adding"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "propose",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L12-10",
+      "kind": "fill",
+      "stem": "I shall define him as an individual who has elected ____ his primary duty the activity of thinking. (填写介词)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "as"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "elect",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L12-11",
+      "kind": "translate_sentence",
+      "stem": "Preservation of plastic artifacts will inspire future scientific research.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "inspire",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L12-12",
+      "kind": "translate_sentence",
+      "stem": "The Fundamental Physics Prize is indeed an interesting experiment.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "interest",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L12-13",
+      "kind": "translate_word",
+      "stem": "New technology sometimes [demands] novel applications of the Constitution's protections.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "demand",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L12-14",
+      "kind": "translate_word",
+      "stem": "Opponents [insist] that keeping outsiders out of a law firm isolates lawyers from the pressure to make money.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "insist",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L12-15",
+      "kind": "translate_word",
+      "stem": "Microsoft will comply with DNT [requests].",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "request",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

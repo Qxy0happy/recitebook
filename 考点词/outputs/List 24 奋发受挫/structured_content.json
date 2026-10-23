@@ -1,0 +1,4926 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.043,
+            0.033,
+            0.112,
+            0.064
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.127,
+            0.04,
+            0.379,
+            0.058
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.407,
+            0.04,
+            0.508,
+            0.057
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.363,
+            0.088,
+            0.408,
+            0.119
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_3.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.413,
+            0.093,
+            0.628,
+            0.113
+          ],
+          "level": 2,
+          "content": "List 24 增强与减弱"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.141,
+            0.236,
+            0.16
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.168,
+            0.519,
+            0.185
+          ],
+          "content": "情节发展：奋发受挫→喜获良机→精准调整→拾级而上"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.101,
+            0.237,
+            0.175,
+            0.252
+          ],
+          "level": 2,
+          "content": "奋发受挫"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.256,
+            0.692,
+            0.31
+          ],
+          "content": "Tom 努力想 enhance（增强）英语能力，通过阅读 enrich（丰富）词汇。但巨大的压力反而 reduce（削弱）了他的动力，导致成绩开始 decline（下滑），这让他非常沮丧。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.703,
+            0.195,
+            0.911,
+            0.35
+          ],
+          "sub_type": "natural_image",
+          "content": "Man sitting at a desk in a study or reading room, surrounded by books and papers (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_9.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.101,
+            0.386,
+            0.175,
+            0.401
+          ],
+          "level": 2,
+          "content": "喜获良机"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.405,
+            0.692,
+            0.48
+          ],
+          "content": "他获得一个 precious（珍贵的）chance（机会）参加一个 perfect（完美的）备考研讨会。虽然资料是 abundant（充足的），但很快发现其中很多内容是 superfluous（多余的）。更糟的是，他只有刚好 sufficient（足够的）时间来消化真正有用的信息。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.703,
+            0.355,
+            0.911,
+            0.509
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior scene of a man reading documents while seated and standing with people in the background (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_12.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.101,
+            0.553,
+            0.175,
+            0.569
+          ],
+          "level": 2,
+          "content": "精准调整"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.573,
+            0.691,
+            0.628
+          ],
+          "content": "导师强调 precise（精确的）练习是关键，建议付出 moderate（适度的）努力，选择 medium(中等) 难度的材料，并且要避免拖延，即使是 mild(轻微的)。因此，他需要 balance（平衡）强度与休息。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.704,
+            0.515,
+            0.911,
+            0.666
+          ],
+          "sub_type": "natural_image",
+          "content": "Two men walking in a dimly lit room with a window and table (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_15.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.101,
+            0.71,
+            0.174,
+            0.726
+          ],
+          "level": 2,
+          "content": "拾级而上"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.729,
+            0.691,
+            0.785
+          ],
+          "content": "Tom 慢慢学会 weigh（权衡）任务的优先级，采取 gradual（渐进的）学习步骤。这种 modest（稳妥的）方法最终 raise（提升）了他的成绩，成功阻止了成绩的 drop/descend（下降）趋势。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.704,
+            0.67,
+            0.911,
+            0.823
+          ],
+          "sub_type": "natural_image",
+          "content": "Man in blue shirt celebrating while standing beside a large whiteboard with handwritten text (no visible text on board or background)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_18.jpg"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.058,
+            0.936,
+            0.099,
+            0.951
+          ],
+          "content": "244/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.105,
+            0.935,
+            0.134,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.136,
+            0.937,
+            0.185,
+            0.951
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.848,
+            0.009,
+            0.955,
+            0.046
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.066,
+            0.223,
+            0.087
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.115,
+            0.246,
+            0.129
+          ],
+          "content": "enhance /ɪnˈhæns/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.134,
+            0.246,
+            0.149
+          ],
+          "content": "vt. 提高，增强，提升"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.16,
+            0.474,
+            0.196
+          ],
+          "content": "妙记:en-（使）+ hanc-（= height 高）+e → 使变高 → 提高、增强。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.206,
+            0.176,
+            0.226
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.235,
+            0.368,
+            0.251
+          ],
+          "content": "① enhanced adj. 被提高的，被增强的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.255,
+            0.231,
+            0.271
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.276,
+            0.474,
+            0.352
+          ],
+          "content": "Enhanced security measures since then, combined with a rise in airline travel due to the improving economy and and low oil prices, have resulted in long waits at major airports."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.356,
+            0.473,
+            0.412
+          ],
+          "content": "从那时起加强的安检措施，加上经济改善和低油价带来的航空旅客人数的增加，导致了各大机场长时间的等待。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.417,
+            0.34,
+            0.433
+          ],
+          "content": "② self-enhancing adj. 自我提升的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.436,
+            0.231,
+            0.452
+          ],
+          "content": "【2014 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.458,
+            0.474,
+            0.514
+          ],
+          "content": "We have a deep-seated need to feel good about ourselves and we naturally employ a number of self-enhancing strategies to achieve this."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.518,
+            0.472,
+            0.574
+          ],
+          "content": "我们有着强烈的需求，想要对自己感到满意，于是，我们自然而然地采用多种自我提升的策略来达成这一目标。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.602,
+            0.214,
+            0.619
+          ],
+          "content": "enrich /ɪnˈrɪtʃ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.622,
+            0.285,
+            0.638
+          ],
+          "content": "vt. 使富有；使丰富，充实"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.645,
+            0.46,
+            0.681
+          ],
+          "content": "妙记:en-（使）+ rich（丰富、富裕）→使丰富，使富有。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.691,
+            0.176,
+            0.712
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.72,
+            0.421,
+            0.737
+          ],
+          "content": "常考释义：丰富，可以表示抽象意义上的丰富"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.741,
+            0.293,
+            0.757
+          ],
+          "content": "enrich knowledge 丰富知识"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.762,
+            0.291,
+            0.778
+          ],
+          "content": "enrich experience 丰富经历"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.782,
+            0.264,
+            0.797
+          ],
+          "content": "enrich culture 丰富文化"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.803,
+            0.314,
+            0.818
+          ],
+          "content": "enrich understanding 深化理解"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.823,
+            0.267,
+            0.838
+          ],
+          "content": "enrich content 丰富内容"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.842,
+            0.231,
+            0.859
+          ],
+          "content": "【2015 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.864,
+            0.472,
+            0.899
+          ],
+          "content": "30. C. social class greatly helps enrich educational experiences"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.903,
+            0.343,
+            0.919
+          ],
+          "content": "社会阶层非常有助于丰富教育经历"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.116,
+            0.634,
+            0.129
+          ],
+          "content": "raise /reɪz/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.134,
+            0.908,
+            0.169
+          ],
+          "content": "vt. 举起；提高，增加；提出；导致，引起；养育，抚养"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.176,
+            0.908,
+            0.211
+          ],
+          "content": "妙记：本义表示“举起”, 如 raise your hands (举手), 引申为“提高、增加”。"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.535,
+            0.215,
+            0.766,
+            0.27
+          ],
+          "sub_type": "text",
+          "content": "1. 把问题举起来 → 提出问题；\n2. 把担忧举起来 → 引发担忧；\n3. 把孩子举起来 → 抚养孩子。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.28,
+            0.625,
+            0.302
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.309,
+            0.918,
+            0.325
+          ],
+          "content": "①增加，提高（水平、标准、数量、价格、意识等）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.33,
+            0.715,
+            0.346
+          ],
+          "content": "raise the price 提高价格"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.351,
+            0.727,
+            0.365
+          ],
+          "content": "raise awareness 提高意识"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.37,
+            0.817,
+            0.387
+          ],
+          "content": "②提出（问题、议题、观点、疑问等）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.391,
+            0.796,
+            0.407
+          ],
+          "content": "raise question 提出问题，引发质疑"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.411,
+            0.812,
+            0.427
+          ],
+          "content": "③引起，激起（反应、情绪、关注等）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.432,
+            0.717,
+            0.447
+          ],
+          "content": "raise concerns 引发担忧"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.452,
+            0.808,
+            0.467
+          ],
+          "content": "raise suspicion 引起怀疑；引发猜疑"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.472,
+            0.69,
+            0.489
+          ],
+          "content": "④抚养，养育（孩子）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.493,
+            0.711,
+            0.508
+          ],
+          "content": "raise children 抚养孩子"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.513,
+            0.679,
+            0.529
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.534,
+            0.923,
+            0.57
+          ],
+          "content": "Jennifer Senior suggests in her article that raising a child can bring happiness in retrospect."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.573,
+            0.921,
+            0.609
+          ],
+          "content": "詹妮弗在其文章中指出，抚养孩子的过程在回顾的时候会带来快乐。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.614,
+            0.64,
+            0.629
+          ],
+          "content": "⑤形近词区分："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.634,
+            0.777,
+            0.65
+          ],
+          "content": "rise vi. 升起，上升，上涨；起身"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.654,
+            0.863,
+            0.67
+          ],
+          "content": "raise 是及物动词 (vt.): 必须带宾语 (raise sth.)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.675,
+            0.855,
+            0.691
+          ],
+          "content": "rise 是不及物动词 (vi.): 不带宾语 (sth. rises)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.719,
+            0.67,
+            0.733
+          ],
+          "content": "reduce /rɪˈduːs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.737,
+            0.87,
+            0.754
+          ],
+          "content": "v.（使）减少；（使）缩小；（使）降低；简化"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.761,
+            0.921,
+            0.797
+          ],
+          "content": "妙记:re-（back）+ duc-（引导）+e→ 往回引导→ 减少、缩小、降低。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.807,
+            0.623,
+            0.829
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.836,
+            0.869,
+            0.852
+          ],
+          "content": "①该单词可以表示“简化”，相当于 simplify"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.857,
+            0.869,
+            0.873
+          ],
+          "content": "The problem can be reduced to a few key points."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.876,
+            0.78,
+            0.892
+          ],
+          "content": "这个问题可以简化为几个关键点。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.822,
+            0.933,
+            0.902,
+            0.95
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.913,
+            0.935,
+            0.951,
+            0.949
+          ],
+          "content": "/245"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.031,
+            0.035,
+            0.102,
+            0.069
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.116,
+            0.044,
+            0.504,
+            0.061
+          ],
+          "content": "考研英语 高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.091,
+            0.47,
+            0.126
+          ],
+          "content": "②派生词:reduction n. 减少；缩小；降低；简化\n【2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.13,
+            0.476,
+            0.163
+          ],
+          "content": "Waterstones branches suffer a severe reduction in revenue."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.167,
+            0.338,
+            0.183
+          ],
+          "content": "水石书店的分店的营收大幅减少。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.206,
+            0.286,
+            0.24
+          ],
+          "content": "decline /dɪˈklam/\nvi./n. 下降，衰退 vt. 拒绝"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.246,
+            0.476,
+            0.282
+          ],
+          "content": "妙记:de-（下）+ clin-（=climb 爬）+e→往下爬→下降，衰退。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.292,
+            0.18,
+            0.313
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.319,
+            0.374,
+            0.335
+          ],
+          "content": "①常考释义：作名词，表示下降/衰退"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.338,
+            0.236,
+            0.354
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.357,
+            0.415,
+            0.373
+          ],
+          "content": "overall population decline 总人口数量的减少"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.376,
+            0.236,
+            0.392
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.396,
+            0.309,
+            0.411
+          ],
+          "content": "economic decline 经济的衰退"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.414,
+            0.474,
+            0.449
+          ],
+          "content": "②该单词可以表示“拒绝”，且特指“婉拒”，即给人一个台阶爬（clin-）下去（de-）。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.452,
+            0.162,
+            0.468
+          ],
+          "content": "【2008 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.473,
+            0.476,
+            0.507
+          ],
+          "content": "Depending on the comments received, the editor would accept the paper for publication or decline it."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.51,
+            0.474,
+            0.544
+          ],
+          "content": "根据收到的评论，编辑会决定接受或拒绝这篇论文的发表。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.547,
+            0.236,
+            0.563
+          ],
+          "content": "【2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.568,
+            0.361,
+            0.582
+          ],
+          "content": "PRH declined to comment on the issue."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.586,
+            0.39,
+            0.601
+          ],
+          "content": "企鹅兰登书屋拒绝对这个问题做出评论。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.628,
+            0.202,
+            0.644
+          ],
+          "content": "drop /dra:p/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.647,
+            0.371,
+            0.663
+          ],
+          "content": "v.(使) 下降，(使) 落下 n.滴; 下降"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.669,
+            0.468,
+            0.686
+          ],
+          "content": "妙记：谐音“抓破”→抓破气球，使下降（drop）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.214,
+            0.691,
+            0.345,
+            0.782
+          ],
+          "sub_type": "natural_image",
+          "content": "Cartoon bear character flying with a balloon in the sky (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_23.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.787,
+            0.18,
+            0.808
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.814,
+            0.476,
+            0.849
+          ],
+          "content": "①常考动词短语 drop out 或名词 dropout, 表示辍学。\n【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.853,
+            0.476,
+            0.887
+          ],
+          "content": "Up to half of all doctoral students drop out before getting their degrees."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.89,
+            0.373,
+            0.905
+          ],
+          "content": "高达半数的博士生在获得学位前辍学。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.089,
+            0.68,
+            0.106
+          ],
+          "content": "【2015 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.11,
+            0.903,
+            0.143
+          ],
+          "content": "Their grades are lower and their dropout rates are higher.\n他们的成绩更低，辍学率更高。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.147,
+            0.909,
+            0.182
+          ],
+          "content": "②派生词:backdrop n. 背景（back 背后 + drop 落 → 从背后落下来的大幕 → 背景）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.204,
+            0.688,
+            0.24
+          ],
+          "content": "descend /dɪˈsend/\nvi. 下去；下降"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.246,
+            0.909,
+            0.281
+          ],
+          "content": "妙记：descend“第三的”, 那就是水平下降 (descend) 了。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.662,
+            0.287,
+            0.789,
+            0.374
+          ],
+          "sub_type": "text_image",
+          "content": "15cm\n~150cm\n120cm\n2\n1\ndescend\n(下同)\n3",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_33.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.379,
+            0.625,
+            0.4
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.407,
+            0.907,
+            0.441
+          ],
+          "content": "①固定搭配:descend from A to B 从 A 逐渐下降到 B，从 A 逐渐堕落到 B"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.445,
+            0.68,
+            0.461
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.465,
+            0.907,
+            0.518
+          ],
+          "content": "Priestly explains how the deep blue color of the assistant's sweater descended from fashion shows to department stores and to the bargain bin."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.521,
+            0.907,
+            0.574
+          ],
+          "content": "普赖斯蒂尔（Priestly）解释了助理那件深蓝色的毛衣是如何从时装秀逐渐堕落到百货商店，再到廉价货架上的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.578,
+            0.856,
+            0.594
+          ],
+          "content": "②形近词区分:decent adj. 得体的；像样的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.598,
+            0.806,
+            0.612
+          ],
+          "content": "We descend the stairs to a decent meal."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.616,
+            0.784,
+            0.632
+          ],
+          "content": "我们走下楼梯去吃一顿像样的饭。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.636,
+            0.607,
+            0.651
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.655,
+            0.653,
+            0.669
+          ],
+          "content": "descent n. 下降"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.674,
+            0.776,
+            0.689
+          ],
+          "content": "descendant n. 后裔，后代，晚辈"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.693,
+            0.784,
+            0.708
+          ],
+          "content": "ascend vi. 登高；升高（a- 强调）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.712,
+            0.831,
+            0.727
+          ],
+          "content": "transcend vt. 超越（trans- 穿越、跨越）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.751,
+            0.68,
+            0.767
+          ],
+          "content": "precise /pri'saɪs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.77,
+            0.761,
+            0.785
+          ],
+          "content": "adj. 精确的，准确的；严谨的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.792,
+            0.913,
+            0.828
+          ],
+          "content": "妙记:pre-（提前）+ cise-（联想:size，尺码），提前知道尺码就准确（precise）了。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.661,
+            0.834,
+            0.793,
+            0.924
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of two children interacting with toys in a retail store (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_50.jpg"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.05,
+            0.936,
+            0.087,
+            0.95
+          ],
+          "content": "246"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.097,
+            0.935,
+            0.125,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.129,
+            0.937,
+            0.178,
+            0.95
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.842,
+            0.032,
+            0.947,
+            0.068
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.091,
+            0.089,
+            0.182,
+            0.11
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.116,
+            0.417,
+            0.13
+          ],
+          "content": "①强调句 It is precisely... that/who 正是……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.134,
+            0.236,
+            0.148
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.154,
+            0.471,
+            0.186
+          ],
+          "content": "It is precisely these superfluous things that define human culture and ultimately what it is to be human."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.191,
+            0.471,
+            0.223
+          ],
+          "content": "正是这些多余的东西定义了人类文化，并最终定义了什么是人类。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.229,
+            0.162,
+            0.242
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.248,
+            0.27,
+            0.262
+          ],
+          "content": "precision n. 准确；严谨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.286,
+            0.243,
+            0.302
+          ],
+          "content": "precious /'prefəs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.094,
+            0.305,
+            0.243,
+            0.32
+          ],
+          "content": "adj. 珍贵的，贵重的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.328,
+            0.47,
+            0.343
+          ],
+          "content": "妙记：以前的（previous）记忆都很珍贵（precious）。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.348,
+            0.247,
+            0.361
+          ],
+          "content": "v→忘不了→以前的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.367,
+            0.246,
+            0.38
+          ],
+          "content": "c→藏起来→很珍贵"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.393,
+            0.179,
+            0.413
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.42,
+            0.178,
+            0.433
+          ],
+          "content": "形近词辨析："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.44,
+            0.242,
+            0.454
+          ],
+          "content": "previous adj. 以前的;"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.46,
+            0.214,
+            0.473
+          ],
+          "content": "precise adj. 准确。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.094,
+            0.502,
+            0.219,
+            0.516
+          ],
+          "content": "chance /tʃæns/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.094,
+            0.52,
+            0.287,
+            0.534
+          ],
+          "content": "n. 机会；可能性；偶然性"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.543,
+            0.47,
+            0.576
+          ],
+          "content": "妙记：谐音“趁此” →趁此机会（chance），我会好好学习英语。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.588,
+            0.179,
+            0.609
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.085,
+            0.616,
+            0.418,
+            0.648
+          ],
+          "sub_type": "text",
+          "content": "① by chance 偶然 = accidentally\n② take a chance、take chances 冒险，碰运气"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.654,
+            0.233,
+            0.667
+          ],
+          "content": "【2020 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.674,
+            0.47,
+            0.706
+          ],
+          "content": "Generation Zs aren't interested in taking any chances.\nZ 世代对冒险不感兴趣。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.094,
+            0.736,
+            0.237,
+            0.751
+          ],
+          "content": "perfect /'pɜːrfɪkt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.094,
+            0.755,
+            0.254,
+            0.769
+          ],
+          "content": "adj. 完美的 vt. 使完美"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.777,
+            0.47,
+            0.812
+          ],
+          "content": "妙记:per-（每一个都）+ fect-（做）→ 每一件事都做到了 → 完美（perfect）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.203,
+            0.818,
+            0.348,
+            0.921
+          ],
+          "sub_type": "natural_image",
+          "content": "Portrait of a smiling man holding a notepad (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_29.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.09,
+            0.62,
+            0.11
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.117,
+            0.748,
+            0.13
+          ],
+          "content": "①考查形容词基本义：完美的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.136,
+            0.673,
+            0.149
+          ],
+          "content": "【2016 年英语（一）】"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.52,
+            0.155,
+            0.836,
+            0.205
+          ],
+          "sub_type": "text",
+          "content": "24. A. pursuing perfect physical conditions\n追求完美的身体状况\n②考查 perfect 作动词：使完美，即完善"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.211,
+            0.674,
+            0.224
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.52,
+            0.231,
+            0.898,
+            0.301
+          ],
+          "sub_type": "text",
+          "content": "It took Beaumont decades to perfect her craft.\n贝蒙特花了好几十年去完善她的技艺。\n③ perfectly 除了“完美地”，也可以表示“非常”，相当于 very 或 badly"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.306,
+            0.674,
+            0.32
+          ],
+          "content": "【2021 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.326,
+            0.87,
+            0.358
+          ],
+          "content": "Many people are actually perfectly willing to talk.\n很多人实际上非常愿意交流。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.383,
+            0.689,
+            0.417
+          ],
+          "content": "sufficient /səˈfɪʃnt/\nadj. 充足的，足够的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.425,
+            0.911,
+            0.477
+          ],
+          "content": "妙记：suf- = sub- (向下、往下) + fic- = fect- (做) + -ient(形容词后缀) → 一直往下做，总有一天能做到“足够”。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.631,
+            0.485,
+            0.801,
+            0.576
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a bear wearing a yellow helmet and blue overalls digging in a field (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_44.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.522,
+            0.582,
+            0.619,
+            0.602
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.609,
+            0.803,
+            0.623
+          ],
+          "content": "① self-sufficient 表示“自给自足的”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.628,
+            0.673,
+            0.641
+          ],
+          "content": "【2021 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.648,
+            0.911,
+            0.68
+          ],
+          "content": "Some people argue that food self-sufficiency in the UK would contribute to the nation's well-being."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.686,
+            0.91,
+            0.718
+          ],
+          "content": "一些人争论说，英国食物的自给自足会对国家的幸福做出贡献。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.724,
+            0.6,
+            0.737
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.744,
+            0.717,
+            0.757
+          ],
+          "content": "sufficiency n. 充足，足够"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.763,
+            0.91,
+            0.794
+          ],
+          "content": "The village's food sufficiency allowed them to weather the harsh winter."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.8,
+            0.807,
+            0.814
+          ],
+          "content": "村庄的食物充足使他们得以度过严冬。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.82,
+            0.781,
+            0.833
+          ],
+          "content": "insufficient adj. 不足的（in-否定）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.839,
+            0.673,
+            0.852
+          ],
+          "content": "【2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.859,
+            0.909,
+            0.889
+          ],
+          "content": "23. A. climate education is insufficient at state public schools."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.895,
+            0.799,
+            0.909
+          ],
+          "content": "在国有公立学校，气候教育不够充分。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.813,
+            0.935,
+            0.864,
+            0.95
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.866,
+            0.935,
+            0.893,
+            0.951
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.904,
+            0.937,
+            0.94,
+            0.95
+          ],
+          "content": "/247"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.039,
+            0.033,
+            0.108,
+            0.066
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.123,
+            0.042,
+            0.375,
+            0.059
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.406,
+            0.042,
+            0.507,
+            0.058
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.088,
+            0.48,
+            0.122
+          ],
+          "content": "deficient adj. 不足的（de-低、下→做事效率低下→不足）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.127,
+            0.457,
+            0.161
+          ],
+          "content": "His diet is deficient in vitamin D, leading to fatigue.\n他的饮食缺乏维生素 D，导致疲劳。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.192,
+            0.314,
+            0.209
+          ],
+          "content": "superfluous /su: 'pɜːrfluəs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.211,
+            0.25,
+            0.228
+          ],
+          "content": "adj. 多余的，过剩的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.234,
+            0.48,
+            0.269
+          ],
+          "content": "妙记:super-（顶部）+ flu-（流）+-ous（形容词后缀）→从顶部流出来→过多、过剩。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.279,
+            0.186,
+            0.301
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.308,
+            0.185,
+            0.323
+          ],
+          "content": "考查基本义："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.326,
+            0.241,
+            0.342
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.346,
+            0.481,
+            0.38
+          ],
+          "content": "It is precisely these superfluous things that define human culture and ultimately what it is to be human."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.383,
+            0.48,
+            0.419
+          ],
+          "content": "正是这些多余的元素定义了人类文化，并最终决定了什么是人类。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.45,
+            0.282,
+            0.464
+          ],
+          "content": "abundant /əˈbʌndənt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.468,
+            0.314,
+            0.484
+          ],
+          "content": "adj. 大量的，丰富的，充足的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.096,
+            0.491,
+            0.479,
+            0.507
+          ],
+          "content": "妙记：abundant“啊半吨的”，就是大量的（abundant）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.518,
+            0.186,
+            0.537
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.545,
+            0.353,
+            0.56
+          ],
+          "content": "①近义词辨析:abundant & enough"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.564,
+            0.359,
+            0.579
+          ],
+          "content": "\\- abundant 通常只能表示数量充足；"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.583,
+            0.477,
+            0.598
+          ],
+          "content": "\\- enough 既可以表示数量充足，也可以表示程度足够。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.602,
+            0.241,
+            0.617
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.622,
+            0.48,
+            0.656
+          ],
+          "content": "An awareness that they were being experimented upon seemed to be \\_\\_\\_\\_ to alter workers' behavior."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.659,
+            0.48,
+            0.694
+          ],
+          "content": "意识到自己正在被试验这一点似乎 \\_\\_\\_\\_ 改变工人的行为。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.698,
+            0.391,
+            0.714
+          ],
+          "content": "C. enough 足够的 D. abundant 充足的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.717,
+            0.155,
+            0.732
+          ],
+          "content": "答案：C"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.736,
+            0.159,
+            0.751
+          ],
+          "content": "②近义词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.756,
+            0.251,
+            0.771
+          ],
+          "content": "abound vi. 大量存在"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.775,
+            0.481,
+            0.809
+          ],
+          "content": "affluent adj. 大量的，丰富的 (af- = ad- 强调 + flu-\n水流 + ent 形容词后缀→ 强调水很多→ 大量、丰富)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.836,
+            0.261,
+            0.85
+          ],
+          "content": "medium /'mi:diəm/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.854,
+            0.432,
+            0.87
+          ],
+          "content": "adj. 中等的，中号的 n.(pl.media) 媒介；媒体"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.88,
+            0.478,
+            0.896
+          ],
+          "content": "妙记：med- = middle（中间）→ 中等的（medium）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.089,
+            0.627,
+            0.11
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.117,
+            0.911,
+            0.151
+          ],
+          "content": "①它的复数形式 media 才能表示“媒体”，而它的建数形式 medium 只能表示“媒介”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.155,
+            0.684,
+            0.17
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.175,
+            0.912,
+            0.267
+          ],
+          "content": "For the past half-century, much of the world's media culture has been defined by a single medium — television — and television is defined by downloading. 在过去半个世纪里，全世界大部分媒体文化都由单一媒介——电视所主导，而电视是被下载所定义的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.27,
+            0.906,
+            0.304
+          ],
+          "content": "②固定搭配:in the short/medium/long term 短/中长期来看"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.308,
+            0.683,
+            0.324
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.329,
+            0.91,
+            0.363
+          ],
+          "content": "But in the medium term, middle-class workers may need a lot of help adjusting."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.366,
+            0.91,
+            0.401
+          ],
+          "content": "但从中期来看，中产阶级劳动者可能需要大量帮助来适应这种变化。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.405,
+            0.61,
+            0.42
+          ],
+          "content": "③近义词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.424,
+            0.807,
+            0.44
+          ],
+          "content": "amid prep. 在……中间，在……之中"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.444,
+            0.688,
+            0.459
+          ],
+          "content": "midst n. 中间，当中"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.486,
+            0.65,
+            0.5
+          ],
+          "content": "mild /maɪld/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.505,
+            0.848,
+            0.521
+          ],
+          "content": "adj. 温和的；不强烈的，轻微的；不浓的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.527,
+            0.909,
+            0.562
+          ],
+          "content": "妙记：来自 middle（中间），中间的往往都比较温和（mild）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.569,
+            0.627,
+            0.589
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.596,
+            0.91,
+            0.631
+          ],
+          "content": "该单词的各种含义，归根结底都是“适中的、适度的”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.635,
+            0.683,
+            0.651
+          ],
+          "content": "【2010 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.655,
+            0.91,
+            0.689
+          ],
+          "content": "The majority of patients experienced only mild symptoms."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.693,
+            0.785,
+            0.709
+          ],
+          "content": "大多数患者仅经历了轻微的症状。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.736,
+            0.69,
+            0.75
+          ],
+          "content": "modest /'ma:dist/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.755,
+            0.845,
+            0.771
+          ],
+          "content": "adj. 适中的，适度的，不太大的; 谦虚的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.777,
+            0.91,
+            0.811
+          ],
+          "content": "妙记:mod- = middle（中间）→ 适中的、适度的谦虚的。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.822,
+            0.627,
+            0.842
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.849,
+            0.689,
+            0.864
+          ],
+          "content": "考查基本义：适度的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.868,
+            0.682,
+            0.883
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.888,
+            0.767,
+            0.902
+          ],
+          "content": "keeping the pay increases modest"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.905,
+            0.724,
+            0.92
+          ],
+          "content": "保持适度的薪酬增长幅度"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.057,
+            0.937,
+            0.093,
+            0.951
+          ],
+          "content": "248"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.104,
+            0.936,
+            0.131,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.134,
+            0.938,
+            0.184,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.853,
+            0.03,
+            0.957,
+            0.066
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.089,
+            0.27,
+            0.102
+          ],
+          "content": "moderate /'ma:dərət/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.107,
+            0.474,
+            0.142
+          ],
+          "content": "adj. 中等的，适度的；不极端的；不偏激的，温和的 vt. 缓和，使适中"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.148,
+            0.474,
+            0.184
+          ],
+          "content": "妙记:mode（模式）+ rate（频率、比率）→ 把模式调到一个合适的频率上 → 适度的。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.194,
+            0.176,
+            0.214
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.221,
+            0.327,
+            0.236
+          ],
+          "content": "考查其作动词时的基本义：缓和"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.24,
+            0.231,
+            0.256
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.26,
+            0.478,
+            0.295
+          ],
+          "content": "Such bodily reaction might help moderate the effects of psychological stress."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.298,
+            0.47,
+            0.315
+          ],
+          "content": "这种生理反应或许有助于缓和心理压力所带来的影响。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.337,
+            0.256,
+            0.353
+          ],
+          "content": "gradual /'grædʒuəl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.356,
+            0.242,
+            0.372
+          ],
+          "content": "adj. 逐步的，逐渐的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.379,
+            0.476,
+            0.414
+          ],
+          "content": "妙记:grad- 来自 grade（级），一级一级地改变，就是逐步的、逐渐的。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.217,
+            0.42,
+            0.336,
+            0.503
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_body_12.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.507,
+            0.176,
+            0.528
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.535,
+            0.352,
+            0.551
+          ],
+          "content": "派生词:gradually adv. 逐渐，逐步"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.554,
+            0.233,
+            0.57
+          ],
+          "content": "【2010 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.574,
+            0.474,
+            0.609
+          ],
+          "content": "Habits like hand washing with soap should be changed gradually."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.612,
+            0.387,
+            0.629
+          ],
+          "content": "像用肥皂洗手这样的习惯应当逐渐改变。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.652,
+            0.239,
+            0.666
+          ],
+          "content": "balance /'bæləns/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.67,
+            0.382,
+            0.687
+          ],
+          "content": "n. 天平；平衡；余额 v. 使平衡；权衡"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.693,
+            0.474,
+            0.729
+          ],
+          "content": "妙记:ba- = bi-（二）+ lance-（谐音“篮子”）→天平就是由两个篮子构成的，引申为平衡、权衡。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.216,
+            0.735,
+            0.332,
+            0.816
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_body_21.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.82,
+            0.176,
+            0.842
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.848,
+            0.471,
+            0.882
+          ],
+          "content": "① balance 可以表示“余额”，即一段时间的收支平衡状况。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.886,
+            0.231,
+            0.901
+          ],
+          "content": "【2020 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.905,
+            0.474,
+            0.92
+          ],
+          "content": "College loan balances in the U.S. now stand at a record"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.089,
+            0.861,
+            0.104
+          ],
+          "content": "\\$1.5 trillion, according to the Federal Reserve."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.107,
+            0.923,
+            0.161
+          ],
+          "content": "美国联邦储备委员会（Federal Reserve）的数据显示，美国大学贷款余额目前达到创纪录的 1.5 万亿美元。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.165,
+            0.923,
+            0.18
+          ],
+          "content": "②固定搭配:balance A with/and B 兼顾，同等重视"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.184,
+            0.681,
+            0.199
+          ],
+          "content": "【2013 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.203,
+            0.836,
+            0.219
+          ],
+          "content": "balance work and family 兼顾工作和家庭"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.222,
+            0.608,
+            0.238
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.242,
+            0.923,
+            0.276
+          ],
+          "content": "counterbalance vt. 平衡，抗衡，抵消 n. 制衡因素 (counter 表示“相反”)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.28,
+            0.681,
+            0.296
+          ],
+          "content": "【2017 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.3,
+            0.924,
+            0.335
+          ],
+          "content": "People use their free time to counterbalance the intellectual and emotional demands of their jobs."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.337,
+            0.923,
+            0.373
+          ],
+          "content": "人们利用业余时间来抵消工作带来的智力和情感方面的压力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.396,
+            0.643,
+            0.412
+          ],
+          "content": "weigh /weɪ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.415,
+            0.758,
+            0.431
+          ],
+          "content": "vt. 称……重量；vt./vi. 权衡"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.437,
+            0.878,
+            0.455
+          ],
+          "content": "妙记:weigh“胃”，胃好能吃，就重 (weigh)。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.464,
+            0.625,
+            0.484
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.491,
+            0.915,
+            0.526
+          ],
+          "content": "① weigh in（在讨论、辩论等中）发表重量级的意见\n【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.53,
+            0.925,
+            0.584
+          ],
+          "content": "A federal appeals court weighed in again Tuesday, but instead of providing a badly needed resolution, it only prolonged the fight."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.586,
+            0.924,
+            0.622
+          ],
+          "content": "周二，联邦上诉法庭再次介入此事，但这却让这场争论进一步拖延下去，而不是提供急需的解决方案。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.625,
+            0.607,
+            0.64
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.644,
+            0.776,
+            0.661
+          ],
+          "content": "weight n. 重量；负担；重要性"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.663,
+            0.681,
+            0.679
+          ],
+          "content": "【2022 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.684,
+            0.924,
+            0.757
+          ],
+          "content": "As the latest crop of students pen their undergraduate application form and weigh up their options, it may be worth considering just how the point, purpose and value of a degree has changed."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.759,
+            0.923,
+            0.814
+          ],
+          "content": "随着最新一批学生填写本科入学申请表并权衡自己的选择，或许有必要思考一下学位的内涵、目的以及价值究竟发生了怎样的变化。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.817,
+            0.921,
+            0.852
+          ],
+          "content": "outweigh vt. 比……更重；(在重要性或意义上) 超过\n【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.856,
+            0.923,
+            0.89
+          ],
+          "content": "The White House claims that its power of enforcement outweighs that held by the states."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.893,
+            0.916,
+            0.909
+          ],
+          "content": "白宫宣称其执法权凌驾于各州所拥有的执法权之上。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.825,
+            0.938,
+            0.906,
+            0.955
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.918,
+            0.94,
+            0.954,
+            0.954
+          ],
+          "content": "249"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.036,
+            0.024,
+            0.109,
+            0.058
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.122,
+            0.033,
+            0.375,
+            0.05
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.406,
+            0.032,
+            0.51,
+            0.049
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.08,
+            0.232,
+            0.101
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.116,
+            0.186,
+            0.133
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.141,
+            0.916,
+            0.177
+          ],
+          "content": "1. This perspective makes sense if you simplify the workings of a complex brain, \\_\\_\\_\\_ it to an array of electrical pulses."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.11,
+            0.18,
+            0.214,
+            0.198
+          ],
+          "content": "A. attaching"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.337,
+            0.18,
+            0.437,
+            0.197
+          ],
+          "content": "B. reducing"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.181,
+            0.65,
+            0.197
+          ],
+          "content": "C. returning"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.788,
+            0.181,
+            0.889,
+            0.197
+          ],
+          "content": "D. exposing"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.206,
+            0.786,
+            0.222
+          ],
+          "content": "2. Which sentence correctly uses a word to mean sufficient in degree or extent (not just quantity)?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.11,
+            0.226,
+            0.455,
+            0.24
+          ],
+          "content": "A. We have abundant time to finish the project."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.11,
+            0.246,
+            0.431,
+            0.26
+          ],
+          "content": "B. The garden has an abundance of flowers."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.11,
+            0.265,
+            0.431,
+            0.279
+          ],
+          "content": "C. Do we have enough chairs for everyone?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.11,
+            0.285,
+            0.545,
+            0.299
+          ],
+          "content": "D. The instructions were clear enough for me to understand."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.31,
+            0.564,
+            0.326
+          ],
+          "content": "3. She \\_\\_\\_\\_ of college last year to pursue her passion for music."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.11,
+            0.33,
+            0.207,
+            0.345
+          ],
+          "content": "A. drop out"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.338,
+            0.33,
+            0.434,
+            0.346
+          ],
+          "content": "B. dropped"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.547,
+            0.33,
+            0.668,
+            0.346
+          ],
+          "content": "C. dropped out"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.696,
+            0.33,
+            0.815,
+            0.345
+          ],
+          "content": "D. drop out of"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.355,
+            0.44,
+            0.371
+          ],
+          "content": "4. Time is very \\_\\_\\_\\_, we should use it wisely."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.11,
+            0.375,
+            0.211,
+            0.391
+          ],
+          "content": "A. precious"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.339,
+            0.375,
+            0.41,
+            0.389
+          ],
+          "content": "B. little"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.547,
+            0.375,
+            0.61,
+            0.389
+          ],
+          "content": "C. fast"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.787,
+            0.375,
+            0.857,
+            0.39
+          ],
+          "content": "D. long"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.4,
+            0.877,
+            0.416
+          ],
+          "content": "5. The adventurous entrepreneur was always willing to \\_\\_\\_\\_ to start a new business in an untested market."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.11,
+            0.42,
+            0.247,
+            0.434
+          ],
+          "content": "A. take a chance"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.339,
+            0.42,
+            0.461,
+            0.435
+          ],
+          "content": "B. accidentally"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.547,
+            0.42,
+            0.655,
+            0.435
+          ],
+          "content": "C. by chance"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.787,
+            0.42,
+            0.911,
+            0.434
+          ],
+          "content": "D. have a chance"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.445,
+            0.913,
+            0.48
+          ],
+          "content": "6. To \\_\\_\\_\\_ her presentation skills before the important conference, Sarah practiced daily. Her manager thought she was \\_\\_\\_\\_ prepared."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.11,
+            0.484,
+            0.76,
+            0.5
+          ],
+          "content": "A. perfect; perfect B. perfect; perfectly C. perfectly; perfect D. perfectly; perfectly"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.509,
+            0.641,
+            0.525
+          ],
+          "content": "7. The project failed because there was \\_\\_\\_\\_ funds to complete it on time."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.11,
+            0.528,
+            0.214,
+            0.543
+          ],
+          "content": "A. deficient"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.339,
+            0.529,
+            0.474,
+            0.542
+          ],
+          "content": "B. self-sufficient"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.547,
+            0.529,
+            0.641,
+            0.542
+          ],
+          "content": "C. efficient"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.787,
+            0.529,
+            0.887,
+            0.542
+          ],
+          "content": "D. sufficient"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.553,
+            0.906,
+            0.569
+          ],
+          "content": "8. The manager asked the team to remove all \\_\\_\\_\\_ details from the report, focusing only on essential information."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.11,
+            0.573,
+            0.22,
+            0.589
+          ],
+          "content": "A. necessary"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.339,
+            0.574,
+            0.45,
+            0.588
+          ],
+          "content": "B. superficial"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.547,
+            0.573,
+            0.665,
+            0.588
+          ],
+          "content": "C. superfluous"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.787,
+            0.573,
+            0.887,
+            0.587
+          ],
+          "content": "D. abundant"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.598,
+            0.915,
+            0.633
+          ],
+          "content": "9. \\_\\_\\_\\_ such as television and newspapers play a crucial role in shaping public opinion, while digital \\_\\_\\_\\_ are becoming increasingly dominant."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.11,
+            0.637,
+            0.258,
+            0.652
+          ],
+          "content": "A. Medium; media"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.339,
+            0.638,
+            0.489,
+            0.652
+          ],
+          "content": "B. Media; mediums"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.11,
+            0.657,
+            0.242,
+            0.671
+          ],
+          "content": "C. Media; media"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.339,
+            0.658,
+            0.487,
+            0.671
+          ],
+          "content": "D. Medium; medium"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.682,
+            0.789,
+            0.697
+          ],
+          "content": "10. The new policy aims to \\_\\_\\_\\_ the negative impact of climate change on coastal communities."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.11,
+            0.701,
+            0.208,
+            0.716
+          ],
+          "content": "A. motivate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.339,
+            0.702,
+            0.446,
+            0.715
+          ],
+          "content": "B. accelerate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.547,
+            0.702,
+            0.649,
+            0.715
+          ],
+          "content": "C. moderate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.787,
+            0.702,
+            0.888,
+            0.715
+          ],
+          "content": "D. eliminate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.726,
+            0.796,
+            0.743
+          ],
+          "content": "11. To ensure economic stability, the government plans to keep the budget deficit \\_\\_\\_\\_ this year."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.113,
+            0.746,
+            0.203,
+            0.759
+          ],
+          "content": "A. modest"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.339,
+            0.747,
+            0.438,
+            0.759
+          ],
+          "content": "B. excessive"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.547,
+            0.747,
+            0.642,
+            0.761
+          ],
+          "content": "C. generous"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.787,
+            0.747,
+            0.874,
+            0.76
+          ],
+          "content": "D. modern"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.119,
+            0.77,
+            0.899,
+            0.787
+          ],
+          "content": "Most patients with the common cold experience only \\_\\_\\_\\_ symptoms, such as a runny nose or slight cough."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.113,
+            0.79,
+            0.192,
+            0.804
+          ],
+          "content": "A. severe"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.339,
+            0.791,
+            0.409,
+            0.804
+          ],
+          "content": "B. acute"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.551,
+            0.791,
+            0.616,
+            0.804
+          ],
+          "content": "C. mild"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.787,
+            0.791,
+            0.872,
+            0.804
+          ],
+          "content": "D. chronic"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.815,
+            0.185,
+            0.832
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.842,
+            0.698,
+            0.858
+          ],
+          "content": "1. Reading widely can \\_\\_\\_\\_ (rich) your knowledge, making you intellectually rich."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.867,
+            0.545,
+            0.883
+          ],
+          "content": "2. Interpersonal links can be \\_\\_\\_\\_ (hance) through the media."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.892,
+            0.694,
+            0.907
+          ],
+          "content": "3. The elevator will descend \\_\\_\\_\\_ the 10th floor \\_\\_\\_\\_ the lobby in seconds."
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.052,
+            0.942,
+            0.089,
+            0.957
+          ],
+          "content": "250"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.1,
+            0.94,
+            0.129,
+            0.957
+          ],
+          "content": "[NO TEXT]"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.132,
+            0.942,
+            0.182,
+            0.956
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.845,
+            0.032,
+            0.949,
+            0.067
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.08,
+            0.087,
+            0.911,
+            0.128
+          ],
+          "sub_type": "text",
+          "content": "4. The machine can cut with high\\_\\_\\_\\_(precise).\n5. To adapt to the new environment, the company decided to implement the policy \\_\\_\\_\\_ (gradual) rather than all at once."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.138,
+            0.178,
+            0.154
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.165,
+            0.151,
+            0.18
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.191,
+            0.915,
+            0.226
+          ],
+          "content": "1. Although only a research project at this stage, the request has raised the prospect of regulators wading into early stage tech markets that until now have been beyond their reach."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.29,
+            0.915,
+            0.325
+          ],
+          "content": "2. The sharp hit to growth predicted around the world and in the UK could lead to a decline in the everyday services we depend on for our well-being and for growth."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.388,
+            0.915,
+            0.423
+          ],
+          "content": "3. Ideally, different kinds of reading inform each other, and act as useful reference points for and counterbalances to one another."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.489,
+            0.151,
+            0.504
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.513,
+            0.799,
+            0.53
+          ],
+          "content": "Some people argue that food [self-sufficiency] in the UK would contribute to the nation's well-being."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.449,
+            0.611,
+            0.546,
+            0.631
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.655,
+            0.171,
+            0.672
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.688,
+            0.124,
+            0.701
+          ],
+          "level": 2,
+          "content": "1. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.705,
+            0.136,
+            0.721
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.724,
+            0.47,
+            0.759
+          ],
+          "content": "句意：这个观点是有意义的，如果你简化一个复杂的大脑的工作，\\_\\_\\_\\_它的电脉冲阵列。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.761,
+            0.472,
+            0.926
+          ],
+          "content": "考点：动词辨析及固定搭配。空格前的“simplify”（简化）是关键提示词，空格后的“to”表示“简化或还原的方向或结果”。A. attaching（附上，贴上）常与 to 连用，但意为“将 A 附在 B 上”，与“简化”语义不连贯。B. reducing（减少，简化）与 to 构成固定搭配 reduce A to B，意为“将 A 简化为/归结为 B”，完美契合“将复杂大脑运作简化为电脉冲”的语境。C. returning（归还，返回）与 to 连用意为“返回到”，与句意不符。D. exposing（暴露，使接触）与"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.687,
+            0.911,
+            0.703
+          ],
+          "continues_prev": true,
+          "content": "to 连用意为“使暴露于”，与句意不符。故 B. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.718,
+            0.57,
+            0.732
+          ],
+          "level": 2,
+          "content": "2. D."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.736,
+            0.581,
+            0.752
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.755,
+            0.915,
+            0.789
+          ],
+          "content": "句意：哪个句子正确使用了一个词来表示程度或范围上（而不仅仅是数量上）的足够？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.792,
+            0.916,
+            0.92
+          ],
+          "content": "考点：词语辨析。题干要求找出表示“程度足够”的用法。A. “abundant time”（充足的时间）和 B. “an abundance of flowers”（大量的花）中 abundant/abundance 均表示“数量充足”。C. “enough chairs”（足够的椅子）中 enough 表示“数量足够”。D. “clear enough”（足够清晰）中 enough 作副词，修饰形容词 clear，表示“清晰的程度足够”，符合题"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.82,
+            0.944,
+            0.869,
+            0.96
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.873,
+            0.944,
+            0.9,
+            0.96
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.907,
+            0.945,
+            0.945,
+            0.959
+          ],
+          "content": "/251"
+        }
+      ]
+    },
+    {
+      "page_idx": 8,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.06,
+            0.032,
+            0.502,
+            0.064
+          ],
+          "content": "高频词表"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.11,
+            0.088,
+            0.266,
+            0.104
+          ],
+          "content": "目要求。故 D.正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.107,
+            0.119,
+            0.152,
+            0.133
+          ],
+          "level": 2,
+          "content": "3. C."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.107,
+            0.136,
+            0.163,
+            0.152
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.154,
+            0.478,
+            0.284
+          ],
+          "content": "句意：她去年从大学\\_\\_\\_\\_，去追求她对音乐的热情。\n考点：动词短语及时态。Drop out of college/school 是固定搭配，意为“从大学/学校辍学”。主语是“She”，时间状语是“last year”，故需用一般过去时。因此，动词需用过去式 dropped 并与 out 连用。A. 和 D.时态错误（drop 是原形），B.缺少 out。故 C. dropped out 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.107,
+            0.298,
+            0.152,
+            0.312
+          ],
+          "level": 2,
+          "content": "4. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.107,
+            0.315,
+            0.163,
+            0.331
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.334,
+            0.438,
+            0.351
+          ],
+          "content": "句意：时间非常\\_\\_\\_\\_，我们应该明智地利用它。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.353,
+            0.478,
+            0.463
+          ],
+          "content": "考点：形容词辨析及上下文逻辑。逗号后的句子“我们应该明智地利用它”解释了原因：因为时间很宝贵。A. precious（珍贵的，宝贵的）符合逻辑。B. little（少的）、C. fast（快的）、D. long（长的）虽然可以描述时间，但均无法直接推出“应明智使用”的必然结论。故 A. 最准确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.107,
+            0.478,
+            0.152,
+            0.491
+          ],
+          "level": 2,
+          "content": "5. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.107,
+            0.495,
+            0.163,
+            0.51
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.513,
+            0.478,
+            0.548
+          ],
+          "content": "句意：这位爱冒险的企业家总是愿意\\_\\_\\_\\_在一个未经考验的市场创办新业务。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.55,
+            0.478,
+            0.66
+          ],
+          "content": "考点：固定搭配辨析。A. take a chance（冒险，碰运气）符合“爱冒险”和“未经考验的市场”的语境。B. accidentally（意外地，偶然地）是副词，不能作谓语。C. by chance（偶然地）是介词短语，不能作谓语。D. have a chance（有机会）与“愿意冒险”的语义不符。故 A. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.107,
+            0.675,
+            0.152,
+            0.688
+          ],
+          "level": 2,
+          "content": "6. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.107,
+            0.692,
+            0.163,
+            0.708
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.711,
+            0.478,
+            0.746
+          ],
+          "content": "句意：为了在重要会议前\\_\\_\\_\\_她的演讲技巧，莎拉每天都练习。她的经理认为她准备得\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.748,
+            0.478,
+            0.84
+          ],
+          "content": "考点：同根词词性辨析。Perfect 既可以是形容词（完美的），也可以是动词（使完美）。第一空，to 后需要动词原形，表示目的，故用 perfect（使完美）。第二空，修饰形容词 prepared，需要副词，故用 perfectly（完美地）。故 B. perfect; perfectly 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.107,
+            0.853,
+            0.152,
+            0.867
+          ],
+          "level": 2,
+          "content": "7. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.107,
+            0.87,
+            0.163,
+            0.886
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.888,
+            0.478,
+            0.924
+          ],
+          "content": "句意：项目失败了，因为\\_\\_\\_\\_资金来按时完成它。\n• 咪：形容词辨析及上下文逻辑。项目失败的原因"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.087,
+            0.903,
+            0.16
+          ],
+          "continues_prev": true,
+          "content": "是资金“不足”。A. deficient（不足的，缺乏的）符合语境。B. self-sufficient（自给自足的）与句意相反。C. efficient（高效的）与资金数量无关。D. sufficient（充足的）与“failed”矛盾。故 A. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.524,
+            0.175,
+            0.569,
+            0.189
+          ],
+          "level": 2,
+          "content": "8. C."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.524,
+            0.193,
+            0.58,
+            0.209
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.211,
+            0.893,
+            0.246
+          ],
+          "content": "句意：经理要求团队从报告中删除所有 \\_\\_\\_\\_ 细节，只关注基本信息。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.248,
+            0.901,
+            0.377
+          ],
+          "content": "考点：形容词辨析及上下文逻辑。经理要求“删除”的是“非必要”的细节。A. necessary（必要的）与要求删除矛盾。B. superficial（表面的，肤浅的）虽可能被删，但不如 C. 准确。C. superfluous（多余的，过剩的）最直接对应“remove”和“focusing only on essential”。D. abundant（大量的，丰富的）是中性词，不一定是需要删除的。故 C. 最准确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.524,
+            0.392,
+            0.569,
+            0.405
+          ],
+          "level": 2,
+          "content": "9. C."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.524,
+            0.409,
+            0.58,
+            0.425
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.428,
+            0.897,
+            0.48
+          ],
+          "content": "句意:\\_\\_\\_\\_，如电视和报纸，在塑造公众舆论方面起着至关重要的作用，而数字\\_\\_\\_\\_正变得越来越占主导地位。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.483,
+            0.897,
+            0.648
+          ],
+          "content": "考点：名词单复数辨析。medium 侧重单一媒介或具体载体，media 是 medium 的标准复数形式，指代传播媒介的集合体或广义的传播方式。mediums 作为非标准复数，仅在特定领域（如灵媒）适用。第一空：主语是“television and newspapers”的统称，是多种传统媒体，且谓语“play”是复数形式，故需用复数名词 Media。第二空：同样指代各种数字平台（如网站、app 等），是多种新兴媒体，也需用复数形式 media。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.524,
+            0.663,
+            0.578,
+            0.677
+          ],
+          "level": 2,
+          "content": "10. C."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.524,
+            0.68,
+            0.58,
+            0.696
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.699,
+            0.897,
+            0.734
+          ],
+          "content": "句意：新政策旨在\\_\\_\\_\\_气候变化对沿海社区的负面影响。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.736,
+            0.897,
+            0.845
+          ],
+          "content": "考点：动词辨析。政策的目标通常是“减轻、缓和”负面影响。A. motivate（激励）。B. accelerate（加速）会使影响更糟。C. moderate（使缓和，减轻）符合政策目的。D. eliminate（消除）是理想结果，但气候变化的影响难以完全“消除”，“减轻”更符合实际。故 C. 最准确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.524,
+            0.86,
+            0.578,
+            0.874
+          ],
+          "level": 2,
+          "content": "11. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.524,
+            0.877,
+            0.58,
+            0.893
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.895,
+            0.897,
+            0.912
+          ],
+          "content": "句意：为了确保经济稳定，政府计划今年将预算赤"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.136,
+            0.942,
+            0.199,
+            0.959
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 9,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.848,
+            0.03,
+            0.953,
+            0.067
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.088,
+            0.252,
+            0.103
+          ],
+          "content": "字保持在 \\_\\_\\_\\_ 水平。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.105,
+            0.477,
+            0.214
+          ],
+          "content": "考点：形容词辨析及上下文逻辑。“确保经济稳定”是目的，因此赤字不能太大。A. modest（适中的，不过分的）符合“稳定经济”的逻辑。B. excessive（过度的）和 C. generous（慷慨的，大量的）会导致不稳定。D. modern（现代的）与赤字大小无关。故 A. 正确。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.23,
+            0.139,
+            0.244
+          ],
+          "content": "12. C."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.247,
+            0.142,
+            0.264
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.265,
+            0.474,
+            0.3
+          ],
+          "content": "句意：大多数患普通感冒的病人仅表现出\\_\\_\\_\\_症状，例如流鼻涕或轻微咳嗽。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.302,
+            0.474,
+            0.393
+          ],
+          "content": "考点：形容词辨析。“流鼻涕或轻微咳嗽”是“普通感冒”的典型特征，即“不严重的”症状。A. severe（严重的）。B. acute（急性的）。C. mild（轻微的）最符合“普通感冒”的症状描述。D. chronic（慢性的）。故 C. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.403,
+            0.182,
+            0.419
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.435,
+            0.16,
+            0.448
+          ],
+          "content": "1. enrich"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.452,
+            0.142,
+            0.468
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.47,
+            0.473,
+            0.504
+          ],
+          "content": "句意：广泛阅读可以\\_\\_\\_\\_你的知识，使你在智力上富有。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.507,
+            0.474,
+            0.56
+          ],
+          "content": "考点：词性转换（形容词→动词）。情态动词 can 后需接动词原形。形容词 rich（富有的）的动词形式为 enrich（使丰富，充实）。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.579,
+            0.184,
+            0.593
+          ],
+          "content": "2. enhanced"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.596,
+            0.142,
+            0.612
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.615,
+            0.403,
+            0.63
+          ],
+          "content": "句意：人际联系可以通过媒体得到\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.633,
+            0.475,
+            0.705
+          ],
+          "content": "考点：词性转换及被动语态。空格前为 can be，构成被动语态，后需接过去分词。名词 hance 并非独立单词，需根据语境判断其为 enhance（加强，提高）的变体。故填 enhanced。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.09,
+            0.623,
+            0.103
+          ],
+          "level": 2,
+          "content": "3. from, to"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.106,
+            0.584,
+            0.122
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.125,
+            0.886,
+            0.141
+          ],
+          "content": "句意：电梯将在几秒钟内\\_\\_\\_\\_10 楼\\_\\_\\_\\_大堂。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.143,
+            0.919,
+            0.195
+          ],
+          "content": "考点：介词固定搭配 (from...to...)。描述电梯“下降”的路径，需用 from... (起点) to... (终点)。故填 from 和 to。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.526,
+            0.211,
+            0.623,
+            0.226
+          ],
+          "level": 2,
+          "content": "4. precision"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.228,
+            0.584,
+            0.244
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.247,
+            0.851,
+            0.264
+          ],
+          "content": "句意：这台机器可以以高 \\_\\_\\_\\_ 进行切割。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.266,
+            0.919,
+            0.319
+          ],
+          "content": "考点：词性转换（形容词→名词）。介词 with 后需要接名词。形容词 precise（精确的）的名词形式为 precision（精确度）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.526,
+            0.338,
+            0.627,
+            0.353
+          ],
+          "level": 2,
+          "content": "5. gradually"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.355,
+            0.584,
+            0.371
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.374,
+            0.919,
+            0.408
+          ],
+          "content": "句意：为了适应新环境，公司决定\\_\\_\\_\\_实施这项政策，而不是一次性全部推行。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.411,
+            0.92,
+            0.464
+          ],
+          "content": "考点：词性转换（形容词→副词）。空格处修饰动词“implement”（实施），因此需要副词。形容词 gradual（逐渐的）的副词形式为 gradually（逐渐地）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.473,
+            0.623,
+            0.489
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.493,
+            0.597,
+            0.507
+          ],
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.524,
+            0.511,
+            0.919,
+            0.656
+          ],
+          "sub_type": "text",
+          "content": "1. 尽管目前这只是一个研究项目，但该请求引发了一种可能性，即监管机构将涉足此前他们无法触及的早期科技市场。\n2. 全球以及英国预计会遭受的经济增长严重冲击，可能会导致我们日常生活中赖以维持幸福生活和推动经济增长的服务出现衰退。\n3. 理想情况下，不同类型的阅读可以相互启发，互为有用的参考点，并且相互制衡。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.659,
+            0.597,
+            0.673
+          ],
+          "content": "单词翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.677,
+            0.918,
+            0.711
+          ],
+          "content": "一些人争论说，英国食物的【自给自足】会对国家的幸福做出贡献。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.05,
+            0.757,
+            0.061,
+            0.769
+          ],
+          "content": "作"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.821,
+            0.935,
+            0.902,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.91,
+            0.937,
+            0.949,
+            0.951
+          ],
+          "content": "/253"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:14:37",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 10,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 8,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 9,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

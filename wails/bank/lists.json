@@ -1,0 +1,33 @@
+{
+  "lists": [
+    { "list_no": 1, "title": "智慧与本质" },
+    { "list_no": 2, "title": "感知与组成" },
+    { "list_no": 3, "title": "差异与价值观" },
+    { "list_no": 4, "title": "机构与法规" },
+    { "list_no": 5, "title": "经济与资本" },
+    { "list_no": 6, "title": "身份与学术" },
+    { "list_no": 7, "title": "网络与交通" },
+    { "list_no": 8, "title": "科学与娱乐" },
+    { "list_no": 9, "title": "给予与释放" },
+    { "list_no": 10, "title": "维持与拓展" },
+    { "list_no": 11, "title": "主张与表达" },
+    { "list_no": 12, "title": "建议与选择" },
+    { "list_no": 13, "title": "采纳与执行" },
+    { "list_no": 14, "title": "吸引与推荐" },
+    { "list_no": 15, "title": "参与与能力" },
+    { "list_no": 16, "title": "包含与驱动" },
+    { "list_no": 17, "title": "询问与处理" },
+    { "list_no": 18, "title": "保护与免疫" },
+    { "list_no": 19, "title": "放弃与禁止" },
+    { "list_no": 20, "title": "压抑与表达" },
+    { "list_no": 21, "title": "怀疑与依赖" },
+    { "list_no": 22, "title": "测量与评估" },
+    { "list_no": 23, "title": "来源与情况" },
+    { "list_no": 24, "title": "增强与减弱" },
+    { "list_no": 25, "title": "共识与创新" },
+    { "list_no": 26, "title": "继承与超越" },
+    { "list_no": 27, "title": "想象与展望" },
+    { "list_no": 28, "title": "背景与可能" },
+    { "list_no": 29, "title": "复杂与独特" }
+  ]
+}

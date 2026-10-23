@@ -1,0 +1,878 @@
+{
+  "list_no": 26,
+  "title": "继承与超越",
+  "association": {
+    "outline": "情节发展：临危受命→溯流求变→破茧超越→薪火永续",
+    "scenes": [
+      {
+        "title": "临危受命",
+        "story": "公司深陷 recession（衰退），新 CEO succeed（继任）predecessor（前任）。她 review（审阅）历史 precedent（先例），发现旧 process（流程）难以 proceed（推进）。"
+      },
+      {
+        "title": "溯流求变",
+        "story": "团队 probe（深挖）症结，explore（探索）改革 path（路径）。为匹配发展 pace（节奏），她果断 revise（修订）战略，access（调用）所有资源。"
+      },
+      {
+        "title": "破茧超越",
+        "story": "创新方案 exceed（超出）预期，效能 surpass（超越）对手。虽初期压力 overwhelm（压垮）团队，仍加速 process（流程）迭代。"
+      },
+      {
+        "title": "薪火永续",
+        "story": "公司最终 succeed（成功）逆转危机，成就 exceed（超越）历代 predecessor（前人），树立行业新标杆。"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "proceed",
+      "ipa": "/prəʊˈsiːd/",
+      "senses": [
+        {
+          "pos": "vi.",
+          "meaning_cn": "前进；继续；进行；进展；前往；产生"
+        }
+      ],
+      "mnemonic": "pro-（前）+ceed-（走）→往前走。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "proceed 的翻译非常灵活，但只需要记住它表示“往前走”, 都可以理解。",
+          "body": "常考释义：进行\n【2015 年英语（一）】\nHow does your reading proceed?\n你的阅读是如何“往前走”的？\n常考释义：前往\n【2010 年英语（二）】\nAll jets could have a turn in the most favorable positions, and proceed to London.\n所有飞机都可以转到最有利的位置，朝着伦敦“往前走”。\nWe now proceed to the next item on the agenda. 我们现在朝着议事日程上的下一个议题“往前走”。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "写作常用表达:proceed from 源自……",
+          "body": "## 【名人名言】\nA thought which does not result in an action is nothing much, and an action which does not proceed from a thought is nothing at all.\n一种想法若不转化为行动，那它就不值太多钱；而一种行动若不是源自某种想法，那它就一文不值。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "proceeding n. 诉讼；(会议、活动等的) 进程，过程；会议记录 (常用复数形式 proceedings)\n【2015 年英语（一）】\nThat is what a study, published from the University of California and Yale University in the Proceedings of the National Academy of Sciences, has concluded.\n这是由加利福尼亚大学和耶鲁大学发表在《美国国家科学院院刊》上的一项研究所得出的结论。\n(注:“Proceedings”在这里的意思是会议记录；学报；刊物汇编)"
+        },
+        {
+          "marker": "④",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "procedure n. 过程，程序;【医】手术\nFollow the safety procedure step by step.\n逐步遵循安全程序。"
+        }
+      ]
+    },
+    {
+      "spelling": "process",
+      "ipa": "/'pra:ses/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "过程，程序"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "加工；处理"
+        }
+      ],
+      "mnemonic": "pro-（前）+ cess- = ceed-（走）→ 往前走 → 过程、程序。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "考查基本义：过程",
+          "body": "【2021 年英语（一）】\nThe process of a study.\n一项研究的过程。\nin the process (of doing sth.) 在做某事的过程中\nI'm in the process of writing my thesis.\n我正在写论文的过程中。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "process 可以作动词，表示“加工”或“处理”，其实就是让……往前走。",
+          "body": "让食品往前走→加工食品\n【2021 年英语（一）】\nhighly processed foods 高度加工的食品\n让信息、检测结果等往前走→处理信息、检测结果\n【2021 年英语（二）】\nThey had a lot of information to process.\n他们有大量的信息需要处理。"
+        },
+        {
+          "marker": "③",
+          "kind": "常考释义",
+          "label_raw": "考查基本义：程序",
+          "body": "due process (of law) 正当法律程序\nEveryone is entitled to due process.\n每个人都有权获得正当法律程序。"
+        }
+      ]
+    },
+    {
+      "spelling": "precedent",
+      "ipa": "/'presidənt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "先例"
+        }
+      ],
+      "mnemonic": "pre-（前）+ ced-（走）→ 走在前面的事 → 先例。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "precedent 在英美法系中可以表示“判例”，即判例法（case law）的先例。",
+          "body": "【2012 年英语（一）】\nVermont case will offer a precedent-setting test of how far those powers extend.\n佛蒙特州案将为这些权力的范围提供一个判例设定测试。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词:precede vt. 先于（precede 既可以表示时间上领先，也可以表示地位上优先。）",
+          "body": "【2011 年英语（一）】\nSadness precedes tears.\n悲伤先于流泪。\n【2013 年英语（一）】\nFederal laws precede state laws.\n联邦法律优先于州法律。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "preceding 后面接一段时间，表示“在先前的……”\n【2008 年】\nIn two or three respects, his mind had changed during the preceding twenty or thirty years.\n在先前的二三十年里，他的思想在两三个方面发生了变化。\nunprecedented adj. 前所未有的"
+        }
+      ]
+    },
+    {
+      "spelling": "recession",
+      "ipa": "/rɪˈseʃn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "（经济）衰退；后退，消退"
+        }
+      ],
+      "mnemonic": "re-（back）+ cess-（走）+-ion（名词后缀）→ 往回走→后退，引申为衰退、消退。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "economic recessions 经济衰退",
+          "body": "【2012 年英语（二）】\nEconomic recessions may bring out more evils of human nature.\n经济衰退可能会带来更多人性的恶。"
+        }
+      ]
+    },
+    {
+      "spelling": "succeed",
+      "ipa": "/sək'siːd/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "接替，继任"
+        },
+        {
+          "pos": "vi.",
+          "meaning_cn": "成功"
+        }
+      ],
+      "mnemonic": "suc- = sub-（下）+ceed（seed 种子）→我继承（succeed）了爷爷的林园，播下无数种子，它们成功 (succeed) 长成了参天大树→成功；继承。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配：",
+          "body": "succeed in (doing) sth. 在……取得成功 /succeed as sth. 作为……成功\n【2014 年英语（一）】\nThese benefactors have succeeded in their chosen fields.\n这些捐助者在自己的领域取得了成功。"
+        },
+        {
+          "marker": "②",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配：",
+          "body": "a succession of 一连串，一系列\n【2010 年英语（二）】\n21. A. the art market had witnessed a succession of victories\n艺术品市场见证了一连串的成功"
+        },
+        {
+          "marker": "③",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配：表示继承/接替",
+          "body": "succeed sb. (as sth.) 接替某人（担任某职）\nsucceed to sth. 继承（头衔、财产、王位等）\nMr. Smith succeeded Mr. Jones as manager.\n史密斯先生接替琼斯先生担任经理。\nThe eldest son succeeded to the title.\n长子继承了爵位。"
+        },
+        {
+          "marker": "④",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "success n. 成功\nsuccessful adj. 成功的\nsuccession n. 接替，继任；一连串，一系列\nsuccessive adj. 继任的；连续的\nsuccessor n. 接替者，继任者"
+        }
+      ]
+    },
+    {
+      "spelling": "predecessor",
+      "ipa": "/'predəsesər/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "前辈，前任"
+        }
+      ],
+      "mnemonic": "pre-(前) + de-(分离) + cess-(走) + -or(人) → 先走开的人 → 前辈、前任。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "前任：在某个职位、角色或位置上被另一个人取代的人。",
+          "body": "The new manager introduced several changes that his predecessor had resisted.\n新经理推行了几项他的前任曾抵制的变革。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "前身：被另一个更新或更先进的事物所取代的事物（如机器、系统、组织、理论等）。",
+          "body": "This treaty replaced its predecessor signed ten years earlier.\n该条约取代了十年前签署的前身条约。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "祖先，前辈：(较正式或学术) 家族中的先人; 在某个领域或活动中的早期人物。",
+          "body": "【2022 年英语（一）】\nThankfully, there are signs that this is already happening, with Generation Z seeking to learn from their millennial predecessors.\n值得庆幸的是，有迹象表明，这种情况已经在发生，Z 世代正试图向他们的千禧一代前辈们学习。"
+        }
+      ]
+    },
+    {
+      "spelling": "access",
+      "ipa": "/'ækses/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "到达；进入；使用"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "通道；入口；权利；机会"
+        }
+      ],
+      "mnemonic": "ac- = ad-（强调、一再）+ cess-（走）→ 一再走 → 进入、到达，引申为通道、入口；有权或有机会进入一个区域，就是拥有进入这个区域的通道或入口。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配：",
+          "body": "have/gain access to 拥有 / 获得……的权利或机会\n【2013 年英语（一）】\nEvery American has access to post-high school education.\n每个美国人都有权接受后高中教育。\n【2017 年英语（一）】\nMerely helping a gift-giver gain access to other officials is not corruption.\n仅仅帮助送礼的人获得接近其他官员的机会，并不是腐败。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "access 作动词时，access + 直接宾语，通常表示信息、文件、系统、位置",
+          "body": "The software makes it easy to access large amounts of data.\n该软件使得访问大量数据变得容易。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "accessible a. 可到达的；可进入的；可使用的（-ble = able 能、可以）\nThe building is wheelchair — accessible.\n这座建筑允许轮椅进入。\nThe book is written in an accessible style.\n这本书的写作风格通俗易懂。\nOur manager is very accessible.\n我们的经理很容易接近。"
+        }
+      ]
+    },
+    {
+      "spelling": "exceed",
+      "ipa": "/ɪkˈsiːd/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "超出，超过"
+        }
+      ],
+      "mnemonic": "ex-（out）+ceed-（走）→走到界限之外→超出、超过。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "考查基本义",
+          "body": "【2018 年英语（一）】\nIts expenses have exceeded revenue.\n它的开销超过了收入。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "excess adj. 过多的，过度的 n. 过度，过多\nexcessive adj. 过多的，过度的"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "excess 和 excessive 含义并不完全相同：",
+          "body": "excess 通常表示数量上过多\nexcessive 通常表示程度上过多\n【2021 年英语（一）】\nexcess abdominal fat 过多的腹部脂肪\n【2022 年英语（一）】\nexcessive employment protections 过度的雇佣保护"
+        },
+        {
+          "marker": "④",
+          "kind": "其他",
+          "label_raw": "写作常用:exceedingly adv. 非常 = very",
+          "body": "【2000 年】\nThe American society is established on an exceedingly shaky foundation of natural resources.\n美国社会是建立在一个非常不稳固的自然资源的基础之上的。"
+        }
+      ]
+    },
+    {
+      "spelling": "surpass",
+      "ipa": "/sər'pæs/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "超过，胜过"
+        }
+      ],
+      "mnemonic": "sur-（上面）+ pass（通过）→ 从上面通过 → 超过、胜过。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "考查基本义：超过/胜过",
+          "body": "【2010 年英语（二）】\nThe art market surpassed many other industries in momentum.\n艺术市场的发展势头超过了许多其他行业。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "近义词辨析:surpass 与 exceed 都可以翻译成“超过”，但含义不同",
+          "body": "\\- surpass 表示胜过，即它只能表示比……更好；\n\\- exceed 表示数量或程度上超过，这种“超过”可以是更好，也可以是更坏。\n【2000 年】\nThe divorce rate in Japan exceeds that in the U.S..\n日本的离婚率超过美国。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "unsurpassed adj. 无与伦比的\nHe has unsurpassed skills in this field.\n他在这个领域有着无与伦比的技能。"
+        }
+      ]
+    },
+    {
+      "spelling": "overwhelm",
+      "ipa": "/ˌəʊvərˈwelm/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "击败，击溃，征服，压倒"
+        }
+      ],
+      "mnemonic": "over 在……之下，whelm(wheel 车轮)，在车轮下，被车轮压到→被征服（overwhelm）在战车车轮之下。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配:be overwhelmed by 被彻底击败，被彻底征服，被彻底压倒",
+          "body": "【2018 年英语（二）】\nStudents are overwhelmed by a broken bike chain.\n学生被一条损坏的自行车链条难倒。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "overwhelming 通常和 majority 连用，表示“压倒性的大多数”或“绝大多数”",
+          "body": "【2016 年英语（二）】\nOverwhelming majorities of both groups said they believe it is harder for young people today to get started in life than it was for earlier generations.\n两组中的绝大多数人都表示，他们认为如今的年轻人在人生起步阶段要比前辈们面临更大的困难。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "overwhelm 属于及物动词，后面必须跟宾语",
+          "body": "Work overwhelmed her.\n工作压垮了她。\nShe was overwhelmed by work.\n她被工作压垮了。"
+        },
+        {
+          "marker": "④",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "overwhelming adj. 压倒性的"
+        }
+      ]
+    },
+    {
+      "spelling": "explore",
+      "ipa": "/ɪkˈsplɔːr/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "探索；搜索；研究，探究"
+        }
+      ],
+      "mnemonic": "plor 发音很像“捕捞”，捞出来 (ex- = out),就是探索、搜索，引申为研究、探究。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "考查基本义：探索",
+          "body": "【2015 年英语（一）】\nExploring one's smartphone is more like entering his or her home.\n搜索一个人的手机更像是进入他或她的家。\n【2013、2024 年英语（一）】\nexplore the possibility 探索可能性\n【2013 年英语（一）】\nIt's perhaps best left to science fiction writers and futurologists to explore the many possibilities we can envisage.\n或许最好还是留给科幻作家和未来学家去探索我们所能设想的众多可能性。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "exploration n. 探索；搜索；研究，探究\nexplorer n. 探索者；探险家"
+        }
+      ]
+    },
+    {
+      "spelling": "probe",
+      "ipa": "/prəʊb/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "探查，探索，探究"
+        }
+      ],
+      "mnemonic": "形似“problem 问题”，→有问题需要探索、调查→探查，探索。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "probe 可以和 explore 进行同义替换",
+          "body": "【2012 年英语（一）】\nJoin the Club is filled with too much irrelevant detail and not enough exploration of the social and biological factors that make peer pressure so powerful.\n《加入俱乐部》一书充斥着过多无关紧要的细节，却未能充分探索那些使朋辈压力如此强大的社会和生物学因素。\n23. In the author's view, Rosenberg's book fails to adequately probe social and biological factors.\n在作者看来，罗森伯格的书没能充分探索社会和生物学因素。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "space probe 太空探测器",
+          "body": "The NASA space probe successfully entered Jupiter's orbit last month, beginning its mission to study the gas giant's atmosphere.\n美国国家航空航天局的太空探测器上月成功进入木星轨道，开启了研究这颗气态巨行星大气的任务。"
+        },
+        {
+          "marker": "③",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配:probe into 深入探究（事件、原因）",
+          "body": "They will probe deeply into the matter.\n他们将深入调查此事。"
+        },
+        {
+          "marker": "④",
+          "kind": "其他",
+          "label_raw": "同根词:probable adj. 可能的",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "spelling": "pace",
+      "ipa": "/peɪs/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "速度；节奏"
+        }
+      ],
+      "mnemonic": "走到那个 place(地方) 要很快的 pace(速度)。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "keep pace with 与……保持同步 = 跟得上……的节奏",
+          "body": "【2021 年英语（一）】\nThis year's increase in rail passenger fares has kept pace with inflation.\n今年铁路乘客费用的增长与通货膨胀保持同步。\n【2018 年英语（二）】\nCompetition law cannot keep pace with the changing market.\n竞争法案没能跟上不断变化的市场。"
+        }
+      ]
+    },
+    {
+      "spelling": "path",
+      "ipa": "/pæθ/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "路；路径，途径"
+        }
+      ],
+      "mnemonic": "path 很像 pass (通过、经过), 路就是用来通行的。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生词",
+          "label_raw": "派生词:pathway = path = way n. 路径，途径",
+          "body": "Education remains the most effective pathway out of poverty for marginalized communities worldwide.\n对全球边缘社区而言，教育仍是摆脱贫困最有效的途径。"
+        },
+        {
+          "marker": "②",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配:pathway to 表示通向……的路，可以表示因果关系（前因后果），可以与 result from 同义替换，如：努力学习是通向成功的路，其实就是努力学习是成功的原因。",
+          "body": "【2019 年英语（二）】\nGuilt and sympathy may represent different pathways to cooperation and sharing.\n愧疚感和同情心可能代表了通向合作和分享的不同路径。\ncooperation and sharing can result from either\nsympathy or guilt\n合作和分享可能源自同情心或愧疚感"
+        }
+      ]
+    },
+    {
+      "spelling": "revise",
+      "ipa": "/rɪˈvaɪz/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "修订，校订；复习；重新审视"
+        }
+      ],
+      "mnemonic": "re-（再次）+vis-（看）→再看一次、重看。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "revise 的翻译较为灵活，但只需记住它表示“再看一次、重看”, 都可以理解。",
+          "body": "常考释义：修改\n【2008 年】\nDo not attempt to compose a perfectly correct draft the first time around. Grammar, punctuation, and spelling can wait until you revise.\n不要试图一开始就写出一篇完美的初稿。语法、标点和拼写可以留到你“再看一次”的时候。\n常考释义：重新审视\n【2016 年英语（二）】\nSchool districts across the country are revising their thinking on this educational ritual.\n全国各地的学区都在“重看”他们对这一教育仪式的看法。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "revision n. 修订，校订; 复习\nThis is a new revision of the dictionary.\n这是该词典的一个新修订版。"
+        }
+      ]
+    },
+    {
+      "spelling": "review",
+      "ipa": "/rɪˈvjuː/",
+      "senses": [
+        {
+          "pos": "vt./n.",
+          "meaning_cn": "回顾；复习；审核"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "评论"
+        }
+      ],
+      "mnemonic": "re-（再次）+ view（看）→再看一次。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "该单词的翻译较为灵活，但只需要记住它表示“再看一次”，都可以理解。",
+          "body": "常考释义：审核\n【2012 年英语（一）】\nThe Nuclear Regulatory Commission (NRC) reviews the company's application.\n核管理委员会（NRC）“再看一次”该公司的申请。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "该单词可以作名词，表示报纸杂志发表的“评论”文章。",
+          "body": "【2010 年英语（一）】\nWe are even farther removed from the newspaper reviews published in England.\n我们甚至远离了那些在英国发表的报纸评论。"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L26-01",
+      "kind": "single",
+      "stem": "The researcher's argument ____ the basic premise that all human behavior is learned.",
+      "options": [
+        "proceeds from",
+        "results in",
+        "depends on",
+        "leads to"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "proceed",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L26-02",
+      "kind": "single",
+      "stem": "To view the confidential files, you need special permission to ____ the company's internal system.",
+      "options": [
+        "access",
+        "access to",
+        "approach",
+        "entrance"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "access",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L26-03",
+      "kind": "single",
+      "stem": "The sales figures for the new product ____ our wildest expectations last quarter.",
+      "options": [
+        "exceed",
+        "expect",
+        "access",
+        "Change"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "exceed",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L26-04",
+      "kind": "single",
+      "stem": "The Supreme Court's ruling on environmental protection ____, which may influence future similar cases significantly.",
+      "options": [
+        "broke a president",
+        "set a precedent",
+        "followed an example",
+        "proceeded a routine"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "precedent",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L26-05",
+      "kind": "single",
+      "stem": "During the global financial crisis, many countries ____ a deep economic ____, characterized by falling GDP, rising unemployment, and declining consumer spending.",
+      "options": [
+        "experienced... downturn",
+        "recovered... recovery",
+        "entered... recession",
+        "controlled... inflation"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "recession",
+          "bind": "搭配"
+        },
+        {
+          "n": 2,
+          "word": "recession",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L26-06",
+      "kind": "single",
+      "stem": "Unlike his cautious ____, the new CEO announced bold expansion plans immediately after taking office.",
+      "options": [
+        "successor",
+        "predecessor",
+        "ancestor",
+        "partner"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "predecessor",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L26-07",
+      "kind": "single",
+      "stem": "“The latest climate report provides extensive data on rising sea levels but lacks substantial exploration of how coastal ecosystems adapt to these changes.”\n\nAccording to the text, the climate report fails to adequately ____ the adaptation mechanisms of coastal ecosystems.",
+      "options": [
+        "probe",
+        "predict",
+        "simplify",
+        "ignore"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "probe",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L26-08",
+      "kind": "single",
+      "stem": "Hard work ____ success.",
+      "options": [
+        "causes",
+        "is a pathway to",
+        "happens during"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "path",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L26-09",
+      "kind": "single",
+      "stem": "Before finalizing the new regulations, the committee decided to ____ all public feedback carefully.",
+      "options": [
+        "review",
+        "repeat",
+        "remember",
+        "revise"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "review",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L26-10",
+      "kind": "fill",
+      "stem": "While ____(proceed) foods like canned soups and frozen meals are very convenient, they often contain more salt, sugar, and unhealthy fats than fresh foods.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "processed"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "process",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L26-11",
+      "kind": "fill",
+      "stem": "Ms. Jones will succeed Mr. Smith ____ head of the department next month. (填入介词)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "as"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "succeed",
+          "bind": "介词"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L26-12",
+      "kind": "fill",
+      "stem": "The prince is next in line to succeed ____ the throne after his father. (填入介词)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "to"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "succeed",
+          "bind": "介词"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L26-13",
+      "kind": "fill",
+      "stem": "There are many reasons for this. One is the costs of a legal ____ (exceed) education.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "excessive"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "exceed",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L26-14",
+      "kind": "fill",
+      "stem": "Technology keeps pace ____ modern needs.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "with"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "pace",
+          "bind": "介词"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L26-15",
+      "kind": "fill",
+      "stem": "After careful ____(revise) of the contract, the lawyer submitted the final version to the client.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "revision"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "revise",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L26-16",
+      "kind": "translate_sentence",
+      "stem": "Join the Club is filled with too much irrelevant detail and not enough exploration of the social and biological factors that make peer pressure so powerful.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "《加入俱乐部》一书充斥着过多无关紧要的细节，却未能充分探索那些使朋辈压力如此强大的社会和生物学因素。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "explore",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L26-17",
+      "kind": "translate_sentence",
+      "stem": "Conditions allow telescopes to obtain images of unsurpassed clarity.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "在条件允许的情况下，望远镜能够获取到清晰度无与伦比的图像。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "surpass",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L26-18",
+      "kind": "translate_sentence",
+      "stem": "The overwhelming majority of the population supports the reform.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "绝大多数人支持这项改革。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "overwhelm",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

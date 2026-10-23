@@ -1,0 +1,4739 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.026,
+            0.033,
+            0.095,
+            0.064
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.111,
+            0.04,
+            0.371,
+            0.058
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.402,
+            0.04,
+            0.508,
+            0.057
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.356,
+            0.088,
+            0.401,
+            0.12
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_3.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.409,
+            0.093,
+            0.633,
+            0.113
+          ],
+          "level": 2,
+          "content": "List 19 放弃与禁止"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.141,
+            0.223,
+            0.162
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.168,
+            0.51,
+            0.186
+          ],
+          "content": "情节发展：初始压力→备考阻碍→外力干扰→心态调整"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.212,
+            0.16,
+            0.228
+          ],
+          "level": 2,
+          "content": "初始压力"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.23,
+            0.699,
+            0.287
+          ],
+          "content": "王明决定考研，但他面临着两方面的 burden（重担）:一方面他无法 afford（负担得起）高昂的辅导费，只能加大自学力度，except（除了）吃饭睡觉，几乎不休息。另一方面学校自习室 prohibit（禁止）喧哗，所以他坚持早起在外晨读。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.711,
+            0.197,
+            0.932,
+            0.3
+          ],
+          "sub_type": "text_image",
+          "content": "早餐、乡村\n辅导费用",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_9.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.33,
+            0.16,
+            0.347
+          ],
+          "level": 2,
+          "content": "备考阻碍"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.349,
+            0.698,
+            0.386
+          ],
+          "content": "学习中他遭遇重重 obstacle（障碍），有时不小心 delay（延迟）了学习计划，就会因为自己的高 criterion（标准）陷入自我 criticism（批评）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.712,
+            0.304,
+            0.931,
+            0.41
+          ],
+          "sub_type": "text_image",
+          "content": "高标准",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_12.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.431,
+            0.16,
+            0.447
+          ],
+          "level": 2,
+          "content": "外力干扰"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.45,
+            0.698,
+            0.506
+          ],
+          "content": "环境有时也 interfere/disturb（干扰）学习:家人无意 interrupt（打断）他思考，学校活动 intervene（干预）其安排，社交媒体 distract（分散注意力）。还有关于报考院校的负面传闻 threaten（威胁）动力，harm（伤害）心态。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.713,
+            0.414,
+            0.931,
+            0.52
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a classroom scene with students studying, a teacher at a desk, and a smartphone displaying a game (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_15.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.545,
+            0.16,
+            0.56
+          ],
+          "level": 2,
+          "content": "心态调整"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.563,
+            0.698,
+            0.619
+          ],
+          "content": "他一度想 retreat（撤退），甚至 withdraw（撤回）报名。但他觉得不能 neglect（无视）初心，有时需要 overlook/ignore（忽略）小错误。最终他 cut（切断）无效社交，消除其对信心 undermine（削弱）影响，重回正轨。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.711,
+            0.523,
+            0.932,
+            0.637
+          ],
+          "sub_type": "text_image",
+          "content": "考研报名",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_18.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.074,
+            0.658,
+            0.221,
+            0.678
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.702,
+            0.24,
+            0.717
+          ],
+          "content": "burden /'bɜːrdən/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.72,
+            0.353,
+            0.737
+          ],
+          "content": "n. 负重；负担 vt. 使负重；使担负"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.743,
+            0.478,
+            0.76
+          ],
+          "content": "妙记：(bur) 百 (den) 吨的重担 (burden) 压在我身上。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.22,
+            0.765,
+            0.334,
+            0.844
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_23.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.078,
+            0.848,
+            0.177,
+            0.869
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.875,
+            0.383,
+            0.89
+          ],
+          "content": "①最常考释义：经济、财务方面的负担"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.894,
+            0.437,
+            0.911
+          ],
+          "content": "【2018、2020 年英语（一）、2017 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.914,
+            0.286,
+            0.929
+          ],
+          "content": "financial burden 经济负担"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.701,
+            0.612,
+            0.717
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.72,
+            0.724,
+            0.737
+          ],
+          "content": "burdensome adj. 繁重的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.74,
+            0.934,
+            0.756
+          ],
+          "content": "overburdened adj. 负担过重的（over-过度的，过头的）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.779,
+            0.674,
+            0.794
+          ],
+          "content": "afford /ə'fɔ:rd/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.798,
+            0.817,
+            0.814
+          ],
+          "content": "vt. 负担得起；买得起；提供，给予"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.82,
+            0.919,
+            0.837
+          ],
+          "content": "妙记：谐音“俺付的”，表示承担得起（afford）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.669,
+            0.842,
+            0.799,
+            0.93
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior scene of a restaurant counter with customers and staff interacting (no visible text or signage)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_34.jpg"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.045,
+            0.939,
+            0.087,
+            0.954
+          ],
+          "content": "196/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.092,
+            0.937,
+            0.123,
+            0.954
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.124,
+            0.939,
+            0.175,
+            0.953
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.845,
+            0.023,
+            0.949,
+            0.06
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.08,
+            0.179,
+            0.102
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.108,
+            0.472,
+            0.144
+          ],
+          "content": "①常见用法：与 can 或 can't 连用，表示负担得起或负担不起。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.147,
+            0.234,
+            0.163
+          ],
+          "content": "【2016 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.167,
+            0.474,
+            0.202
+          ],
+          "content": "People will only start shopping more sustainably when they can't afford not to."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.205,
+            0.473,
+            0.241
+          ],
+          "content": "只有当人们负担不起不可持续的购物时，他们才会开始可持续地购物。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.244,
+            0.336,
+            0.26
+          ],
+          "content": "②常见释义：表示“提供、给予”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.264,
+            0.311,
+            0.28
+          ],
+          "content": "afford sth. to sb. 把某物给某人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.284,
+            0.234,
+            0.3
+          ],
+          "content": "【2011 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.305,
+            0.384,
+            0.319
+          ],
+          "content": "The Internet affords anonymity to its users."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.323,
+            0.3,
+            0.338
+          ],
+          "content": "互联网为其用户提供匿名性。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.342,
+            0.16,
+            0.358
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.362,
+            0.376,
+            0.378
+          ],
+          "content": "affordable adj. 负担得起的；买得起的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.401,
+            0.25,
+            0.437
+          ],
+          "content": "prohibit /prəˈhɪbɪt/\nvt. 阻止，禁止，限制"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.443,
+            0.473,
+            0.48
+          ],
+          "content": "妙记:“破（发音似“pro”），习惯（hibit 形似 habit）！”朋友阻止（prohibit）他的坏习惯。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.222,
+            0.485,
+            0.334,
+            0.565
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_15.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.569,
+            0.179,
+            0.59
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.597,
+            0.472,
+            0.632
+          ],
+          "content": "①固定搭配:prohibit sb. from doing sth. 禁止某人做某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.636,
+            0.234,
+            0.652
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.656,
+            0.473,
+            0.69
+          ],
+          "content": "26. D. prohibit suspects from using their mobile phones"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.694,
+            0.294,
+            0.71
+          ],
+          "content": "禁止嫌疑犯使用他们的手机"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.713,
+            0.33,
+            0.73
+          ],
+          "content": "②近义词辨析:prohibit & inhibit"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.733,
+            0.401,
+            0.749
+          ],
+          "content": "\\- prohibit: 来自外界的限制，如法律法规;"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.753,
+            0.363,
+            0.768
+          ],
+          "content": "\\- inhibit: 自己对自己的限制和抑制。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.771,
+            0.234,
+            0.788
+          ],
+          "content": "【2022 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.792,
+            0.367,
+            0.807
+          ],
+          "content": "33. C. their creativity may be inhibited"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.81,
+            0.472,
+            0.845
+          ],
+          "content": "他们的创造力可能被抑制=(自身的原因抑制了他们的创造力，而不是外界阻止他们创新)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.848,
+            0.163,
+            0.864
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.868,
+            0.36,
+            0.883
+          ],
+          "content": "• prohibitive adj. 限制性的，禁止的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.886,
+            0.472,
+            0.921
+          ],
+          "content": "prohibitive cost/price 奇高无比的价格，而不是被限制的价格"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.081,
+            0.915,
+            0.116
+          ],
+          "content": "The cost of housing in the city center is prohibitive for most young professionals."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.119,
+            0.914,
+            0.153
+          ],
+          "content": "市中心的房价对大多数年轻专业人士来说过于高昂。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.158,
+            0.915,
+            0.193
+          ],
+          "content": "\\- inhibit vt. 限制，抑制 (in- 内心 + hibit- 保留 → 内心保留的观念对外在行为的抑制)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.224,
+            0.665,
+            0.239
+          ],
+          "content": "except /ɪkˈsept/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.244,
+            0.663,
+            0.259
+          ],
+          "content": "prep. 除……之外"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.266,
+            0.896,
+            0.283
+          ],
+          "content": "妙记:ex-（外）+ cept-（拿）→拿出去→除外。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.291,
+            0.622,
+            0.314
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.321,
+            0.831,
+            0.337
+          ],
+          "content": "①常见用法:everything except 唯独没有"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.34,
+            0.675,
+            0.356
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.36,
+            0.915,
+            0.414
+          ],
+          "content": "Robert F. Kennedy once said that a country's GDP measures “everything except that which makes life worthwhile.”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.418,
+            0.915,
+            0.453
+          ],
+          "content": "罗伯特·F.肯尼迪（Robert F. Kennedy）曾经说过，一个国家的 GDP 唯独没有衡量让生活有价值的东西。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.457,
+            0.881,
+            0.473
+          ],
+          "content": "②固定搭配:with the exception of = except 除了"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.476,
+            0.674,
+            0.492
+          ],
+          "content": "【2012 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.497,
+            0.915,
+            0.551
+          ],
+          "content": "With the exception of some advanced courses, homework may no longer count for more than 10% of a student's academic grade."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.554,
+            0.914,
+            0.588
+          ],
+          "content": "除了一些高级课程，家庭作业可能不会再占学生学术成绩的 10% 以上。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.592,
+            0.601,
+            0.607
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.611,
+            0.709,
+            0.627
+          ],
+          "content": "exception n. 例外，除外"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.631,
+            0.773,
+            0.647
+          ],
+          "content": "exceptional adj. 特殊的；卓越的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.669,
+            0.711,
+            0.686
+          ],
+          "content": "obstacle /'a:bstək(ə)l/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.689,
+            0.589,
+            0.704
+          ],
+          "content": "n. 障碍"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.711,
+            0.915,
+            0.747
+          ],
+          "content": "妙记:ob-（对抗）+sta-（站立）+cle（名词后缀）→“站在对立面的东西”即障碍物（obstacle）"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.756,
+            0.62,
+            0.779
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.786,
+            0.818,
+            0.801
+          ],
+          "content": "固定搭配:obstacle to sth. ……的障碍"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.805,
+            0.675,
+            0.821
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.826,
+            0.788,
+            0.842
+          ],
+          "content": "21. C. an obstacle to social progress"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.845,
+            0.646,
+            0.86
+          ],
+          "content": "社会进步的障碍"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.864,
+            0.674,
+            0.88
+          ],
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.885,
+            0.89,
+            0.9
+          ],
+          "content": "24. A. the obstacles to preventing “short-termism”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.904,
+            0.714,
+            0.919
+          ],
+          "content": "阻止“短期主义”的障碍"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.815,
+            0.937,
+            0.864,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.866,
+            0.937,
+            0.894,
+            0.954
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.907,
+            0.939,
+            0.942,
+            0.953
+          ],
+          "content": "'197"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.039,
+            0.032,
+            0.108,
+            0.064
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.123,
+            0.042,
+            0.371,
+            0.058
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.403,
+            0.042,
+            0.504,
+            0.058
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.089,
+            0.275,
+            0.104
+          ],
+          "content": "criticism /'kritiSizəm/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.108,
+            0.205,
+            0.123
+          ],
+          "content": "n. 批评；评论"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.13,
+            0.477,
+            0.184
+          ],
+          "content": "妙记:crit- 来自 Cross（十字架），最早表示来自天主教廷的批判，后引申为各种批评、评论（criticism）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.205,
+            0.19,
+            0.359,
+            0.299
+          ],
+          "sub_type": "natural_image",
+          "content": "Black-and-white photo of a large cross-shaped object with carved figures at the base, surrounded by a crowd (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_6.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.304,
+            0.182,
+            0.324
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.332,
+            0.227,
+            0.347
+          ],
+          "content": "①常见释义：批评"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.351,
+            0.245,
+            0.367
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.372,
+            0.441,
+            0.388
+          ],
+          "content": "Childless folks are constantly exposed to criticism."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.391,
+            0.287,
+            0.407
+          ],
+          "content": "没有孩子的人总是被批评。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.411,
+            0.184,
+            0.427
+          ],
+          "content": "②熟词僻义："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.431,
+            0.476,
+            0.466
+          ],
+          "content": "criticism 可表示对艺术作品（图书、音乐等）的评论文章。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.47,
+            0.239,
+            0.487
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.491,
+            0.478,
+            0.567
+          ],
+          "content": "It is difficult to the point of impossibility for the average reader under the age of forty to imagine a time when high-quality arts criticism could be found in most big-city newspapers."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.57,
+            0.476,
+            0.626
+          ],
+          "content": "对于 40 岁以下的普通读者来说，要想象曾经在大多数大城市报纸上都能看到高质量文学评论的世代，是很难的，甚至可以说是不可能的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.63,
+            0.165,
+            0.646
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.65,
+            0.337,
+            0.666
+          ],
+          "content": "criticize(criticise) vt. 批评；评论"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.67,
+            0.28,
+            0.686
+          ],
+          "content": "critic n. 批评家；评论家"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.717,
+            0.269,
+            0.731
+          ],
+          "content": "criterion /kraɪˈtɪriən/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.736,
+            0.2,
+            0.751
+          ],
+          "content": "n. 标准，尺度"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.094,
+            0.762,
+            0.476,
+            0.797
+          ],
+          "content": "妙记:crit-（判断）+-er（人/工具）+-ion（名词后缀）→“用于判断的依据”即标准（criterion）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.808,
+            0.182,
+            0.828
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.835,
+            0.212,
+            0.85
+          ],
+          "content": "复数形式 criteria"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.854,
+            0.238,
+            0.87
+          ],
+          "content": "【2021 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.874,
+            0.469,
+            0.908
+          ],
+          "content": "Most jobs are multidimensional, with multiple criteria.\n大多数工作都是多维度的，有多个评判标准。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.089,
+            0.648,
+            0.104
+          ],
+          "content": "delay /dɪˈleɪ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.108,
+            0.709,
+            0.123
+          ],
+          "content": "v./n. 推迟，延期；耽搁"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.129,
+            0.916,
+            0.184
+          ],
+          "content": "妙记:de-（下）+ lay（放）→ 放到底下 → 把一个提案放到一摞提案的底下，就是推迟（delay）这个提案。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.656,
+            0.188,
+            0.788,
+            0.282
+          ],
+          "sub_type": "natural_image",
+          "content": "Portrait of a man in formal attire holding a document, seated at a desk (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_30.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.287,
+            0.624,
+            0.308
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.315,
+            0.607,
+            0.33
+          ],
+          "content": "①近义词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.334,
+            0.916,
+            0.369
+          ],
+          "content": "defer vt. 推迟（de- 下 + fer- 拿 → 把一个提案拿到底下）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.373,
+            0.748,
+            0.389
+          ],
+          "content": "②近义词辨析:delay & defer"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.392,
+            0.916,
+            0.446
+          ],
+          "content": "\\- delay 既可以表示 sth. 的推迟，也可以表示 sb. 被耽搁。侧重意外因素导致的时间滞后，也可指有意推迟;"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.45,
+            0.68,
+            0.466
+          ],
+          "content": "【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.47,
+            0.813,
+            0.485
+          ],
+          "content": "delay this type of decline 推迟这种衰退"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.49,
+            0.871,
+            0.504
+          ],
+          "content": "Many commuters were delayed for over an hour."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.508,
+            0.852,
+            0.523
+          ],
+          "content": "很多乘车上下班的人被耽搁了一个多小时。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.527,
+            0.915,
+            0.562
+          ],
+          "content": "\\- defer 只能表示 sth. 的推迟。正式用词，多指故意拖延。\n【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.566,
+            0.911,
+            0.582
+          ],
+          "content": "deferring vital modernization 推迟重要的现代化进程"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.604,
+            0.699,
+            0.619
+          ],
+          "content": "interfere /ˌɪntərˈfɪr/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.623,
+            0.65,
+            0.638
+          ],
+          "content": "vi. 干涉；干扰"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.646,
+            0.916,
+            0.7
+          ],
+          "content": "妙记:inter-（两者之间）+ fer-（拿）→ 把一个人拿到两者之间，就是干涉、干扰（interfere）两个人的交流。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.656,
+            0.706,
+            0.788,
+            0.8
+          ],
+          "sub_type": "natural_image",
+          "content": "Three people in a dimly lit room, one gesturing while two others hold hands (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_45.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.804,
+            0.624,
+            0.825
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.832,
+            0.623,
+            0.848
+          ],
+          "content": "①固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.852,
+            0.679,
+            0.867
+          ],
+          "content": "\\- interfere with 干扰"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.87,
+            0.678,
+            0.886
+          ],
+          "content": "【2023 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.891,
+            0.916,
+            0.925
+          ],
+          "content": "There is no experimental evidence showing that Internet interferes with our ability to focus."
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.055,
+            0.938,
+            0.093,
+            0.953
+          ],
+          "content": "198/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.1,
+            0.937,
+            0.128,
+            0.954
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.131,
+            0.939,
+            0.18,
+            0.953
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.843,
+            0.022,
+            0.949,
+            0.059
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.076,
+            0.465,
+            0.093
+          ],
+          "content": "目前尚无实验证据表明互联网会干扰我们的专注力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.096,
+            0.217,
+            0.111
+          ],
+          "content": "\\- interfere in 干涉"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.116,
+            0.474,
+            0.15
+          ],
+          "content": "He does not want to interfere in the internal affairs of another country."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.153,
+            0.3,
+            0.169
+          ],
+          "content": "他不想干涉他国的内部事务。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.173,
+            0.16,
+            0.189
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.192,
+            0.289,
+            0.208
+          ],
+          "content": "interference n. 干涉；干扰"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.235,
+            0.27,
+            0.251
+          ],
+          "content": "intervene /ˌɪntərˈviːn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.255,
+            0.197,
+            0.27
+          ],
+          "content": "vi. 干涉，介入"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.282,
+            0.471,
+            0.318
+          ],
+          "content": "妙记:inter-（两者之间）+ ven-（走）→走到两者之间→干涉、介入（intervene）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.328,
+            0.177,
+            0.349
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.36,
+            0.223,
+            0.376
+          ],
+          "content": "①常见释义：介入"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.379,
+            0.233,
+            0.396
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.4,
+            0.472,
+            0.431
+          ],
+          "content": "37. D. Congress's intervention in immigration enforcement."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.435,
+            0.283,
+            0.451
+          ],
+          "content": "国会介入移民法规的执行。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.455,
+            0.16,
+            0.471
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.475,
+            0.285,
+            0.491
+          ],
+          "content": "intervention n. 干涉，介入"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.495,
+            0.353,
+            0.51
+          ],
+          "content": "③近义词辨析:interfere & intervene"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.514,
+            0.17,
+            0.529
+          ],
+          "content": "\\- 用法不同"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.533,
+            0.461,
+            0.549
+          ],
+          "content": "interfere 通常带有贬义，指未经允许的干涉或妨碍;"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.554,
+            0.327,
+            0.569
+          ],
+          "content": "Someone interfered with my work."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.572,
+            0.214,
+            0.588
+          ],
+          "content": "有人打扰我工作。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.591,
+            0.471,
+            0.627
+          ],
+          "content": "intervene 多为中性或褒义，强调调停争端或积极干预以改善局面。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.632,
+            0.36,
+            0.646
+          ],
+          "content": "The teacher intervened in the argument."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.65,
+            0.195,
+            0.665
+          ],
+          "content": "老师调解争吵。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.669,
+            0.17,
+            0.685
+          ],
+          "content": "\\- 词性不同"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.688,
+            0.472,
+            0.724
+          ],
+          "content": "interfere 是不及物动词，常接介词 with (妨碍) 或 in (干涉他人事务);"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.727,
+            0.46,
+            0.763
+          ],
+          "content": "intervene 可作及物或不及物动词，接 in 表调停，\nbetween 表调解双方。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.767,
+            0.322,
+            0.782
+          ],
+          "content": "The UN intervened in the conflict."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.786,
+            0.212,
+            0.802
+          ],
+          "content": "联合国介入冲突。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.829,
+            0.264,
+            0.846
+          ],
+          "content": "interrupt /ˌɪntəˈrʌpt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.849,
+            0.199,
+            0.864
+          ],
+          "content": "v. 打扰；打断"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.875,
+            0.471,
+            0.911
+          ],
+          "content": "妙记:inter-（在……中间）+rupt-（断）→在中间断开→打扰、打断。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.645,
+            0.08,
+            0.789,
+            0.183
+          ],
+          "sub_type": "natural_image",
+          "content": "Black and white photo of a row of parked vehicles on a road, no visible text or symbols",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_33.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.192,
+            0.62,
+            0.213
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.219,
+            0.664,
+            0.235
+          ],
+          "content": "①常见释义：打断"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.238,
+            0.674,
+            0.255
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.259,
+            0.915,
+            0.294
+          ],
+          "content": "It is not simply that one is interrupted; it is that one is actually inclined to interruption."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.297,
+            0.915,
+            0.332
+          ],
+          "content": "这并非只是说某人被打断了而已；而是说某人实际上本来就容易被打断。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.336,
+            0.602,
+            0.351
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.355,
+            0.729,
+            0.371
+          ],
+          "content": "interruption n. 打扰；打断"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.399,
+            0.689,
+            0.413
+          ],
+          "content": "distract /dɪˈstrækt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.418,
+            0.786,
+            0.434
+          ],
+          "content": "vt. 使分心；转移 / 分散（注意力）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.441,
+            0.914,
+            0.476
+          ],
+          "content": "妙记:dis-（分开）+ tract-（拉、拽）→ 把注意力\n拽开→使分心。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.642,
+            0.482,
+            0.793,
+            0.59
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of two children sitting at a desk, one writing and the other standing (no text or symbols visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_44.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.599,
+            0.619,
+            0.619
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.626,
+            0.68,
+            0.642
+          ],
+          "content": "①常考释义：使分心"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.647,
+            0.915,
+            0.68
+          ],
+          "content": "The loud noise outside distracted the students during the exam."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.685,
+            0.863,
+            0.701
+          ],
+          "content": "外面的噪声在考试时分散了学生们的注意力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.704,
+            0.602,
+            0.72
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.724,
+            0.861,
+            0.739
+          ],
+          "content": "distraction n. 分散注意力的事，使人分心的事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.743,
+            0.674,
+            0.759
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.763,
+            0.915,
+            0.797
+          ],
+          "content": "You could limit distractions by reading only physical books."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.801,
+            0.908,
+            0.817
+          ],
+          "content": "你可以通过只阅读实体书籍的方式来减少分心的情况。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.844,
+            0.693,
+            0.86
+          ],
+          "content": "threaten /'θret(ə)n/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.864,
+            0.64,
+            0.879
+          ],
+          "content": "vt. 恐吓，威胁"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.886,
+            0.914,
+            0.921
+          ],
+          "content": "妙记：谐音“嘶锐疼”→蛇发出尖锐嘶鸣让人疼痛，象征威胁。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.817,
+            0.937,
+            0.868,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.869,
+            0.937,
+            0.897,
+            0.953
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.9,
+            0.938,
+            0.946,
+            0.952
+          ],
+          "content": "/199"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.031,
+            0.015,
+            0.102,
+            0.048
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.116,
+            0.023,
+            0.374,
+            0.04
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.406,
+            0.022,
+            0.51,
+            0.04
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.219,
+            0.071,
+            0.345,
+            0.159
+          ],
+          "sub_type": "natural_image",
+          "content": "Monochrome illustration of a person standing in a forest with fallen leaves and a bird in flight (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_3.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.165,
+            0.18,
+            0.185
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.192,
+            0.226,
+            0.206
+          ],
+          "content": "①常见释义：威胁"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.212,
+            0.237,
+            0.226
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.232,
+            0.404,
+            0.245
+          ],
+          "content": "Who will be most threatened by automation?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.251,
+            0.306,
+            0.264
+          ],
+          "content": "谁会受到自动化最大的威胁？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.27,
+            0.43,
+            0.283
+          ],
+          "content": "②后缀:en-（使），常考的前缀后置单词如下："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.29,
+            0.36,
+            0.303
+          ],
+          "content": "shorten vt. 缩短，缩小（short 短的）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.31,
+            0.359,
+            0.323
+          ],
+          "content": "heighten vt. 提高，升高 (height 高)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.33,
+            0.321,
+            0.343
+          ],
+          "content": "harden vt. 使变硬（hard 硬的）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.349,
+            0.481,
+            0.382
+          ],
+          "content": "worsen vt. 使变得更坏、变得更糟，恶化（worse 更糟的）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.389,
+            0.363,
+            0.402
+          ],
+          "content": "weaken vt. 削弱，减弱（weak 弱的）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.408,
+            0.481,
+            0.442
+          ],
+          "content": "victim n. 受害者；牺牲品（vict-胜利 + im-否定 → 战争中没有胜利的一方 → 受害者）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.447,
+            0.158,
+            0.46
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.467,
+            0.422,
+            0.481
+          ],
+          "content": "threat n. 威胁；恐吓；构成威胁的人 / 事物"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.507,
+            0.214,
+            0.52
+          ],
+          "content": "harm /ha:rm/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.526,
+            0.219,
+            0.54
+          ],
+          "content": "n./vt. 损害，伤害"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.549,
+            0.481,
+            0.584
+          ],
+          "content": "妙记：用手（hand → h）拿着武器（arm）想要伤害（harm）他人。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.08,
+            0.595,
+            0.18,
+            0.615
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.622,
+            0.48,
+            0.655
+          ],
+          "content": "①常考释义：作动词表示损害、损伤，且经常出现在选项中，与解题直接相关。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.662,
+            0.237,
+            0.675
+          ],
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.682,
+            0.37,
+            0.695
+          ],
+          "content": "38. C. harmed fair market competition"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.7,
+            0.242,
+            0.714
+          ],
+          "content": "损害公平的市场竞争"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.72,
+            0.236,
+            0.734
+          ],
+          "content": "【2021 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.741,
+            0.338,
+            0.754
+          ],
+          "content": "33. C. harm the national economy"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.759,
+            0.189,
+            0.773
+          ],
+          "content": "损害国家经济"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.779,
+            0.16,
+            0.792
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.799,
+            0.24,
+            0.812
+          ],
+          "content": "harmful adj. 有害的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.838,
+            0.243,
+            0.852
+          ],
+          "content": "disturb /dɪˈstɜːrb/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.857,
+            0.2,
+            0.871
+          ],
+          "content": "vt. 干扰，打扰"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.88,
+            0.467,
+            0.914
+          ],
+          "content": "妙记：地上（dis）有只兔子（tu）进入日本（rb），扰乱（disturb）人们生活。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.667,
+            0.068,
+            0.801,
+            0.162
+          ],
+          "sub_type": "natural_image",
+          "content": "Black-and-white illustration of a rabbit running through rubble, with no visible text or symbols",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_34.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.164,
+            0.634,
+            0.185
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.192,
+            0.68,
+            0.206
+          ],
+          "content": "①常见释义：打扰"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.211,
+            0.691,
+            0.226
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.232,
+            0.925,
+            0.304
+          ],
+          "content": "It would not prosecute landowner or businesses that unintentionally kill, harm, or disturb the bird, as long as they had signed a range-wide management plan to restore prairie chicken habitat."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.309,
+            0.925,
+            0.363
+          ],
+          "content": "只要土地所有者或企业签署了覆盖整个区域的管理计划以恢复草原鸡栖息地，那么即便他们无意间导致草原鸡死亡、受伤或受到惊扰，也不会受到起诉。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.369,
+            0.615,
+            0.382
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.387,
+            0.849,
+            0.422
+          ],
+          "content": "disturbing adj. 使人不安的；使人苦恼的\ndisturbance n.(受) 打扰，干扰；骚乱"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.448,
+            0.677,
+            0.461
+          ],
+          "content": "retreat /rɪˈtriːt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.466,
+            0.865,
+            0.481
+          ],
+          "content": "vi./n. 撤退；逃避；退缩；跌价 n. 隐居处"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.49,
+            0.924,
+            0.525
+          ],
+          "content": "妙记:re-（back）+ treat- = tract-（拉、拽）→ 往回\n拉→撤退、逃避、退缩、跌价。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.537,
+            0.634,
+            0.558
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.565,
+            0.924,
+            0.599
+          ],
+          "content": "熟词僻义：表示“隐居处”，可以理解为“逃避现实的地方”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.604,
+            0.69,
+            0.62
+          ],
+          "content": "【2013 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.625,
+            0.925,
+            0.678
+          ],
+          "content": "When Dr. Gottman really wants to assess whether a couple will stay together, he invites them to his island retreat for a much longer evaluation."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.682,
+            0.925,
+            0.736
+          ],
+          "content": "当戈特曼博士真正想要评估一对夫妻能否携手共渡难关时，他会邀请他们前往自己的岛屿隐居处接受更长时间的评估。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.762,
+            0.718,
+            0.775
+          ],
+          "content": "withdraw /wɪðˈdrɔː/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.781,
+            0.784,
+            0.795
+          ],
+          "content": "v. 撤退；撤回；退出；取（钱）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.804,
+            0.925,
+            0.819
+          ],
+          "content": "妙记：小偷带着 (with) 名画 (draw) 撤退 (withdraw)。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.665,
+            0.826,
+            0.803,
+            0.922
+          ],
+          "sub_type": "natural_image",
+          "content": "Silhouette of a person walking through a gallery hallway with framed artworks on walls (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_53.jpg"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.045,
+            0.938,
+            0.087,
+            0.952
+          ],
+          "content": "200/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.094,
+            0.936,
+            0.123,
+            0.953
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.126,
+            0.938,
+            0.177,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.856,
+            0.0,
+            0.963,
+            0.037
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.059,
+            0.169,
+            0.079
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.086,
+            0.195,
+            0.102
+          ],
+          "content": "常见释义：撤退"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.105,
+            0.223,
+            0.121
+          ],
+          "content": "【2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.125,
+            0.471,
+            0.16
+          ],
+          "content": "Why had the Romans buried a million nails? The likely explanation is that the withdrawal was rushed."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.163,
+            0.471,
+            0.199
+          ],
+          "content": "罗马人为何埋下了上百万枚钉子？可能的原因是撤退行动过于仓促。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.222,
+            0.225,
+            0.239
+          ],
+          "content": "neglect /nɪ'glekt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.242,
+            0.212,
+            0.257
+          ],
+          "content": "vt./n. 忽视；忽略"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.265,
+            0.471,
+            0.302
+          ],
+          "content": "妙记:neg-（否定）+ lect-（选）→ 选人的时候没有选你，你就被忽视（neglect）了。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.197,
+            0.307,
+            0.34,
+            0.408
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior scene with people in a public setting and a person in a raincoat (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_body_9.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.068,
+            0.412,
+            0.166,
+            0.433
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.44,
+            0.439,
+            0.457
+          ],
+          "content": "①常见用法:neglect 通常表示并非故意的忽视。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.46,
+            0.223,
+            0.476
+          ],
+          "content": "【2017 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.481,
+            0.471,
+            0.517
+          ],
+          "content": "If you're failing to expose your child to 30,000 words you are neglecting them."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.52,
+            0.471,
+            0.556
+          ],
+          "content": "如果你没能让孩子接触到 30,000 个单词，那你就是忽视了他们。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.559,
+            0.148,
+            0.575
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.579,
+            0.471,
+            0.615
+          ],
+          "content": "negligible adj. 可忽略不计的，微不足道的 (lig- = lect- 选)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.639,
+            0.212,
+            0.656
+          ],
+          "content": "ignore /ɪɡˈnɔːr/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.659,
+            0.194,
+            0.675
+          ],
+          "content": "vt. 忽略；忽视"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.682,
+            0.471,
+            0.72
+          ],
+          "content": "妙记：谐音“一个闹”，对待一个闹脾气的人有时要选择忽视（ignore）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.068,
+            0.73,
+            0.168,
+            0.751
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.758,
+            0.473,
+            0.795
+          ],
+          "content": "①常见用法:ignore 通常表示故意的忽视，常用 can/should not ignore（不能、不应忽视）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.798,
+            0.27,
+            0.815
+          ],
+          "content": "【2020 年英语（一）翻译】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.819,
+            0.473,
+            0.875
+          ],
+          "content": "More explanations for how the universe functioned were being made at a rate that the people could no longer ignore."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.878,
+            0.471,
+            0.915
+          ],
+          "content": "关于宇宙如何运行的更多解释正在以一种人们再也无法忽视的速度不断涌现出来。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.058,
+            0.608,
+            0.073
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.077,
+            0.885,
+            0.094
+          ],
+          "content": "ignorant adj. 无知的（什么都不知道→无知）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.113,
+            0.721,
+            0.128
+          ],
+          "content": "overlook /ˌoʊvərˈlʊk/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.132,
+            0.708,
+            0.147
+          ],
+          "content": "vt. 监督；俯瞰；忽视"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.155,
+            0.86,
+            0.171
+          ],
+          "content": "妙记:over（在上面；跨过）+ look（看）。"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.535,
+            0.174,
+            0.929,
+            0.229
+          ],
+          "sub_type": "text",
+          "content": "1. 站在山上看山下的风景 → 俯瞰；\n2. 身居高位，看下面的人干活 → 监督;\n3. 跨过这个词，直接看下一个词 → 这个词被忽视。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.239,
+            0.627,
+            0.261
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.268,
+            0.674,
+            0.284
+          ],
+          "content": "①常见释义：忽视"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.286,
+            0.685,
+            0.303
+          ],
+          "content": "【2016 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.307,
+            0.932,
+            0.34
+          ],
+          "content": "35. C. Its negative effects on businesses are often overlooked."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.343,
+            0.789,
+            0.36
+          ],
+          "content": "它对企业的负面影响经常被忽视。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.363,
+            0.626,
+            0.379
+          ],
+          "content": "②常见用法："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.382,
+            0.932,
+            0.417
+          ],
+          "content": "overlook 既可以表示故意的忽视，也可以表示非故意的忽视，常与 ignore, neglect 进行同义替换。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.42,
+            0.609,
+            0.436
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.439,
+            0.904,
+            0.455
+          ],
+          "content": "oversee vt. 监督 (over 在上面 + see 看 → 监督)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.458,
+            0.932,
+            0.475
+          ],
+          "content": "supervise vt. 监督（super- 在上面 + vis- 看 → 监督）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.496,
+            0.618,
+            0.51
+          ],
+          "content": "cut /kʌt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.514,
+            0.905,
+            0.53
+          ],
+          "content": "n./v. 切，割，削，砍; 砍掉; 削减 n. 切口，伤口"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.537,
+            0.851,
+            0.554
+          ],
+          "content": "妙记：伤口（cut）是被切割（cut）开的。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.564,
+            0.626,
+            0.586
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.593,
+            0.673,
+            0.609
+          ],
+          "content": "①常见释义：削减"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.611,
+            0.684,
+            0.628
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.632,
+            0.82,
+            0.647
+          ],
+          "content": "Taxes on low-wage labor need to be cut."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.65,
+            0.789,
+            0.666
+          ],
+          "content": "低工资劳动者的税负需要被削减。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.669,
+            0.626,
+            0.685
+          ],
+          "content": "②固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.689,
+            0.92,
+            0.724
+          ],
+          "content": "cut down = cut back = scale back = scale down 削减，\n减小，缩小"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.726,
+            0.684,
+            0.743
+          ],
+          "content": "【2022 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.747,
+            0.932,
+            0.782
+          ],
+          "content": "You might have to cut down on the amount of exercise or sport you do."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.785,
+            0.771,
+            0.801
+          ],
+          "content": "你可能不得不减少你的运动量。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.805,
+            0.609,
+            0.82
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.824,
+            0.918,
+            0.86
+          ],
+          "content": "【2024 年英语（一）、2023 年和 2025 年英语（二）】\nshortcut n. 捷径"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.864,
+            0.836,
+            0.881
+          ],
+          "content": "【2016 年英语（一）、2015 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.884,
+            0.762,
+            0.901
+          ],
+          "content": "clear-cut adj. 明确的，确切的"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.833,
+            0.933,
+            0.885,
+            0.95
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.887,
+            0.933,
+            0.917,
+            0.951
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.921,
+            0.935,
+            0.962,
+            0.95
+          ],
+          "content": "/201"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.036,
+            0.027,
+            0.107,
+            0.061
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.121,
+            0.037,
+            0.375,
+            0.053
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.407,
+            0.037,
+            0.51,
+            0.053
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.083,
+            0.346,
+            0.1
+          ],
+          "content": "【2021、2023、2024 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.103,
+            0.226,
+            0.118
+          ],
+          "content": "undercut vt. 削弱"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.142,
+            0.307,
+            0.157
+          ],
+          "content": "undermine /ˌʌndərˈmaɪn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.161,
+            0.28,
+            0.176
+          ],
+          "content": "vt. 暗中破坏；逐渐削弱"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.183,
+            0.482,
+            0.219
+          ],
+          "content": "妙记:under-（下）+ mine（地雷）→ 在下面埋地雷→ 暗中破坏、逐渐削弱。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.225,
+            0.224,
+            0.341,
+            0.307
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_6_image_body_8.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.085,
+            0.634,
+            0.105
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.112,
+            0.659,
+            0.127
+          ],
+          "content": "常见释义：削弱"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.131,
+            0.689,
+            0.147
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.152,
+            0.918,
+            0.205
+          ],
+          "content": "But demanding too much of air travelers or providing too little security in return undermines public support for the process."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.208,
+            0.918,
+            0.244
+          ],
+          "content": "但是，对航空旅客提出太多要求或者提供太少的安保措施，都会削弱公众对于该程序的支持。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.327,
+            0.229,
+            0.348
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.363,
+            0.179,
+            0.379
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.389,
+            0.918,
+            0.426
+          ],
+          "content": "1.【2015 年英语 (二)】However, there is another important part of the jobs picture that was largely overlooked. There was a big jump in the number of people who report voluntarily working part-time."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.11,
+            0.429,
+            0.438,
+            0.445
+          ],
+          "content": "Which part of the jobs picture was neglected?"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.11,
+            0.449,
+            0.432,
+            0.523
+          ],
+          "sub_type": "text",
+          "content": "A. The prospect of a thriving job market\nB. The increase of voluntary part-time jobs\nC. The possibility of full employment\nD. The acceleration of job creation"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.533,
+            0.918,
+            0.569
+          ],
+          "content": "2. The manager admitted having \\_\\_\\_\\_ the safety violations in the factory inspection report, but insisted it was an unintentional omission rather than a deliberate attempt to \\_\\_\\_\\_ the issue."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.11,
+            0.573,
+            0.295,
+            0.646
+          ],
+          "sub_type": "text",
+          "content": "A. ignored ... supervise\nB. overlooked ... ignore\nC. neglected ... oversee\nD. supervised ... neglect"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.656,
+            0.918,
+            0.692
+          ],
+          "content": "3. The board decided to \\_\\_\\_\\_ the final decision until next quarter, as they needed more time to evaluate the potential risks of this \\_\\_\\_\\_ but crucial infrastructure upgrade."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.11,
+            0.696,
+            0.309,
+            0.77
+          ],
+          "sub_type": "text",
+          "content": "A. delay... deferred\nB. defer... delayed\nC. postpone... postponing\nD. delay... delaying"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.779,
+            0.918,
+            0.834
+          ],
+          "content": "4. The \\_\\_\\_\\_ news about the pandemic caused widespread panic, while the \\_\\_\\_\\_ individual was sent to a psychiatric hospital for treatment. The government declared a state of emergency due to the violent \\_\\_\\_\\_ in the capital."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.109,
+            0.838,
+            0.391,
+            0.911
+          ],
+          "sub_type": "text",
+          "content": "A. disturbed; disturbing; disturbances\nB. disturbances; disturbed; disturbing\nC. disturbing; disturbed; disturbances\nD. disturbed; disturbances; disturbing"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.049,
+            0.95,
+            0.087,
+            0.964
+          ],
+          "content": "202/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.097,
+            0.948,
+            0.127,
+            0.965
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.129,
+            0.949,
+            0.178,
+            0.964
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.848,
+            0.018,
+            0.955,
+            0.055
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.077,
+            0.701,
+            0.092
+          ],
+          "content": "5. The rising sea levels \\_\\_\\_\\_ to submerge coastal cities by 2050 if no action is taken."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.107,
+            0.096,
+            0.201,
+            0.167
+          ],
+          "sub_type": "text",
+          "content": "A. pretend\nB. intend\nC. threaten\nD. extend"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.179,
+            0.172,
+            0.196
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.079,
+            0.205,
+            0.922,
+            0.497
+          ],
+          "sub_type": "text",
+          "content": "1. Companies can also optimize their own energy use and cut \\_\\_\\_\\_ on the cost of electricity. (填入介词)\n2. Soviet citizens were prohibited from\\_\\_\\_\\_ abroad.(travel)\n3. Unfortunately, L.A. Unified has produced an inflexible policy which mandates that with the \\_\\_\\_\\_ of some advanced courses, homework may no longer count for more than 10% of a student's academic grade.(except)\n4. The police are very unwilling to interfere\\_\\_\\_\\_family problems. (填入介词)\n5. The selection committee established three key\\_\\_\\_\\_ for the scholarship: academic excellence, leadership potential, and financial need.(criterion)\n6. Lack of funding remains the biggest obstacle \\_\\_\\_\\_ the completion of this research project. (填入介词)\n7. The constant barrage of smartphone notifications has become a pervasive\\_\\_\\_\\_ in modern workplaces, significantly eroding employees' cognitive focus and productivity.(distract)\n8. The pervasive use of algorithmic recommendation systems, while enhancing user engagement, may cultivate\\_\\_\\_\\_ information cocoons that systematically exclude dissenting viewpoints and ultimately erode democratic discourse. (harm)"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.508,
+            0.166,
+            0.525
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.536,
+            0.151,
+            0.551
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.08,
+            0.556,
+            0.917,
+            0.886
+          ],
+          "sub_type": "text",
+          "content": "1. Many older drivers don't see eye doctors or can't afford to.\n2. Why had the Romans buried a million nails? The likely explanation is that the withdrawal was rushed.\n3. The CEO tolerated no interruption during board meetings, insisting all questions be submitted in writing beforehand.\n4. Many students experience increased academic burden during final exam weeks, requiring effective stress management techniques."
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.814,
+            0.936,
+            0.863,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.865,
+            0.936,
+            0.892,
+            0.953
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.904,
+            0.938,
+            0.939,
+            0.952
+          ],
+          "content": "203"
+        }
+      ]
+    },
+    {
+      "page_idx": 8,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.036,
+            0.036,
+            0.511,
+            0.069
+          ],
+          "content": "高频词表"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.093,
+            0.606,
+            0.108
+          ],
+          "content": "5. Constant criticism can undermine a child's self-confidence over time."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.173,
+            0.158,
+            0.188
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.082,
+            0.192,
+            0.925,
+            0.448
+          ],
+          "sub_type": "text",
+          "content": "1. Germany〔insists〕that economic co-ordination should involve all 27 members of the EU club.\n2. Our bodies know how to heal a [cut] or mend a broken bone.\n3. The New York Times published a penetrating [criticism] of the novelist's latest work, analyzing its postmodern narrative techniques.\n4. The mountain cabin served as her perfect [ retreat ] from the chaos of city life, where she could paint undisturbed for weeks.\n5. The UN's armed [intervention] in the regional conflict, though ostensibly aimed at peacekeeping, inadvertently prolonged the humanitarian crisis by disrupting local supply chains."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.459,
+            0.531,
+            0.556,
+            0.551
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.577,
+            0.181,
+            0.593
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.609,
+            0.133,
+            0.622
+          ],
+          "level": 2,
+          "content": "1. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.626,
+            0.146,
+            0.641
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.644,
+            0.482,
+            0.696
+          ],
+          "content": "句意：然而，就业形势中还有一个重要的方面却在很大程度上被忽视了。自愿从事兼职工作的人数大幅增加。就业形势中的哪个方面被忽略了呢？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.7,
+            0.482,
+            0.79
+          ],
+          "content": "考点：细节题定位与同义替换。题干中的“neglected”与原文中的“overlooked”为同义替换，意为“忽视”。解题关键在于定位到“overlooked”后的一句，故 B.“自愿兼职工作的增加”是唯一与原文信息对应的选项。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.805,
+            0.133,
+            0.818
+          ],
+          "level": 2,
+          "content": "2. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.822,
+            0.145,
+            0.838
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.841,
+            0.482,
+            0.894
+          ],
+          "content": "句意：经理承认\\_\\_\\_\\_了工厂检查报告中的安全隐患行为，但坚称这是无意的疏漏，而非故意\\_\\_\\_\\_这个问题。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.897,
+            0.482,
+            0.913
+          ],
+          "content": "考点：近义词辨析。第一空需要表示“疏忽、没注"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.578,
+            0.928,
+            0.706
+          ],
+          "continues_prev": true,
+          "content": "意到”的动词过去分词。A. ignored(故意忽视)、B. overlooked（无意的疏漏）和 C. neglected（长期玩忽职守）中，overlooked 最符合“无意的疏漏”（unintentional omission）的语境。第二空需要表示“忽视”的原形动词，与“deliberate attempt”（故意企图）连用，ignore(故意不理不睬）最准确。故 B. overlooked ... ignore 为最佳组合。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.72,
+            0.58,
+            0.734
+          ],
+          "level": 2,
+          "content": "3. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.737,
+            0.593,
+            0.753
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.756,
+            0.929,
+            0.809
+          ],
+          "content": "句意：董事会决定将最终决定\\_\\_\\_\\_到下个季度，因为他们需要更多时间来评估这次\\_\\_\\_\\_但至关重要的基础设施升级的潜在风险。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.812,
+            0.929,
+            0.92
+          ],
+          "content": "考点：近义词辨析及词性搭配。delay, defer, postpone 都有“推迟”之意，但 defer 更正式，特指“有意推迟至特定时间”，常与“until”连用，最符合“推迟到下季度”的语境。第二空需要形容词修饰“upgrade”。A. deferred（被推迟的）和 B. delayed（被延误的）是形容词，但“被推迟的升级”与“需要评估风险"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.053,
+            0.943,
+            0.091,
+            0.957
+          ],
+          "content": "204/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.1,
+            0.941,
+            0.182,
+            0.959
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 9,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.848,
+            0.024,
+            0.95,
+            0.06
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.081,
+            0.471,
+            0.173
+          ],
+          "continues_prev": true,
+          "content": "后才做决定”的逻辑矛盾。C. postponing（正在推迟的）和 D. delaying（正在延误的）是现在分词，不作形容词。此处 delayed 应取其“延期的”引申义，表示“这项升级本身已被延期多次”，从而解释为何需要更多时间评估。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.189,
+            0.13,
+            0.202
+          ],
+          "content": "4. C."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.206,
+            0.141,
+            0.222
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.224,
+            0.474,
+            0.277
+          ],
+          "content": "句意：关于疫情的 \\_\\_\\_\\_ 消息引发了广泛的恐慌，而那个 \\_\\_\\_\\_ 的个人被送往精神病院治疗。政府因首都发生的暴力 \\_\\_\\_\\_ 而宣布进入紧急状态。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.279,
+            0.474,
+            0.408
+          ],
+          "content": "考点：同根词词义与词性辨析。第一空：修饰“news”（消息），需要表示“令人不安的”形容词。disturbing 符合。第二空：修饰“individual”（个人），需要表示“心理不安的、精神紊乱的”形容词。disturbed 符合。第三空：作介词 due to 的宾语，需要表示“骚乱、动乱”的名词。disturbances（常用复数）符合。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.419,
+            0.13,
+            0.433
+          ],
+          "content": "5. C."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.436,
+            0.141,
+            0.452
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.454,
+            0.476,
+            0.489
+          ],
+          "content": "句意：如果不采取行动，海平面上升 \\_\\_\\_\\_ 在 2050 年前淹没沿海城市。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.491,
+            0.476,
+            0.6
+          ],
+          "content": "考点：动词辨析。句子表达的是海平面上升带来的潜在危险。A. pretend（假装）与句意无关。B. intend（打算）主语通常是人。C. threaten（威胁，预示危险）常与“to do”连用，表示“有……的危险”，完美符合语境。D. extend（延伸，扩展）与“to do”连用时表示“目的”，不符合句意。故 C. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.61,
+            0.176,
+            0.626
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.638,
+            0.152,
+            0.652
+          ],
+          "content": "1. down"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.655,
+            0.14,
+            0.671
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.674,
+            0.474,
+            0.708
+          ],
+          "content": "句意：公司也可以优化自身的能源使用并\\_\\_\\_\\_电力成本。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.711,
+            0.474,
+            0.746
+          ],
+          "content": "考点：固定搭配（cut down on）。“Cut down on”是固定短语，意为“减少，削减”。故填介词 down。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.083,
+            0.762,
+            0.184,
+            0.777
+          ],
+          "level": 2,
+          "content": "2. travelling"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.779,
+            0.141,
+            0.794
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.797,
+            0.354,
+            0.814
+          ],
+          "content": "句意：苏联公民被禁止\\_\\_\\_\\_国外。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.816,
+            0.474,
+            0.889
+          ],
+          "content": "考点：固定搭配（prohibit from doing）。动词“prohibit”的固定搭配是“prohibit someone from doing something”，意为“禁止某人做某事”。故动词 travel 需变为动名词形式 travelling。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.903,
+            0.183,
+            0.918
+          ],
+          "content": "3. exception"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.082,
+            0.584,
+            0.098
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.1,
+            0.917,
+            0.153
+          ],
+          "content": "句意：不幸的是，洛杉矶联合学区制定了一项不灵活的政策，规定\\_\\_\\_\\_一些高级课程，作业在学生的学业成绩中所占比例可能不再超过 10%。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.156,
+            0.917,
+            0.21
+          ],
+          "content": "考点：固定搭配（with the exception of）。“With the exception of”是固定短语，意为“除……之外”。故填 exception。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.225,
+            0.57,
+            0.238
+          ],
+          "content": "4. in"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.242,
+            0.583,
+            0.257
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.261,
+            0.917,
+            0.315
+          ],
+          "content": "句意：警方非常不愿意\\_\\_\\_\\_家庭问题加以干涉。\n考点：固定搭配（interfere in）。“Interfere in”是固定短语，意为“干预，干涉（某事）”。故填介词 in。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.33,
+            0.611,
+            0.343
+          ],
+          "content": "5. criteria"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.347,
+            0.584,
+            0.362
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.365,
+            0.917,
+            0.4
+          ],
+          "content": "句意：遴选委员会为这项奖学金设立了三个关键\\_\\_\\_\\_:学术卓越、领导潜力和经济需求。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.403,
+            0.917,
+            0.456
+          ],
+          "content": "考点：名词的单复数。数词“three”表明空格处需要复数名词。criterion（标准）的复数形式是 criteria。故填 criteria。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.472,
+            0.571,
+            0.485
+          ],
+          "content": "6. to"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.489,
+            0.584,
+            0.504
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.507,
+            0.916,
+            0.541
+          ],
+          "content": "句意：资金缺乏仍然 \\_\\_\\_\\_ 完成该研究项目的最大障碍。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.544,
+            0.916,
+            0.579
+          ],
+          "content": "考点：固定搭配（obstacle to）。“Obstacle to”是固定搭配，意为“是……的障碍”。故填介词 to。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.594,
+            0.636,
+            0.608
+          ],
+          "content": "7. distraction"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.611,
+            0.584,
+            0.627
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.63,
+            0.917,
+            0.682
+          ],
+          "content": "句意：智能手机通知的持续轰炸已成为现代职场中一种普遍的\\_\\_\\_\\_，显著地侵蚀了员工的认知专注力和生产力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.685,
+            0.917,
+            0.757
+          ],
+          "content": "考点：词性转换（动词→名词）。不定冠词“a”和形容词“pervasive”后需要接单数名词。动词 distract（使分心）的名词形式为 distraction（使人分心的事物）。故填 distraction。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.774,
+            0.618,
+            0.787
+          ],
+          "content": "8. harmful"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.79,
+            0.584,
+            0.806
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.809,
+            0.916,
+            0.862
+          ],
+          "content": "句意：算法推荐系统的普遍使用，在提高用户参与度的同时，也可能培育出\\_\\_\\_\\_信息茧房，这种茧房系统性地排斥异议观点，并最终侵蚀民主话语。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.864,
+            0.917,
+            0.917
+          ],
+          "content": "考点：词性转换（名词→形容词）。空格处修饰名词短语“information cocoons”（信息茧房），需要形容词。名词 harm（危害）的形容词形式为 harmful（有"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.821,
+            0.935,
+            0.9,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.911,
+            0.937,
+            0.948,
+            0.952
+          ],
+          "content": "/205"
+        }
+      ]
+    },
+    {
+      "page_idx": 10,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.042,
+            0.033,
+            0.117,
+            0.066
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.131,
+            0.04,
+            0.404,
+            0.058
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.439,
+            0.04,
+            0.551,
+            0.057
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.088,
+            0.273,
+            0.103
+          ],
+          "content": "害的)。故填 harmful。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.113,
+            0.195,
+            0.129
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.093,
+            0.132,
+            0.172,
+            0.146
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.09,
+            0.15,
+            0.52,
+            0.313
+          ],
+          "sub_type": "text",
+          "content": "1. 很多更老的司机都不看眼科医生，或者他们负担不起看眼科医生。\n2. 罗马人为何埋下了上百万枚钉子？可能的原因是撤退行动过于仓促。\n3. 首席执行官在董事会期间不容忍任何打断，坚持要求所有问题必须提前书面提交。\n4. 许多学生在期末考试周承受着加重的学业负担，需要有效的压力管理技巧。\n5. 持续的批评会逐渐削弱孩子的自信心。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.093,
+            0.317,
+            0.171,
+            0.332
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.089,
+            0.335,
+            0.52,
+            0.517
+          ],
+          "sub_type": "text",
+          "content": "1. 德国【坚持宣称】, 经济的协调应该涵盖欧盟俱乐部全部 27 个成员。\n2. 我们的身体知道如何治愈【伤口】或修复骨折。\n3.《纽约时报》发表了针对这位小说家新作的深刻【评论】,解析了其中的后现代叙事手法。\n4. 这间山林小屋是她逃离城市喧嚣的理想【隐居处】，能让她不受打扰地连续作画数周。\n5. 联合国对该地区冲突的【武装干预】，尽管表面以维和为目的，却因破坏当地供应链而意外延长了人道主义危机。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.055,
+            0.937,
+            0.099,
+            0.952
+          ],
+          "content": "206/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.107,
+            0.935,
+            0.195,
+            0.953
+          ],
+          "content": "研过过"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:14:15",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 11,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 8,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 9,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 10,
+          "width_pt": 595.0,
+          "height_pt": 929.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

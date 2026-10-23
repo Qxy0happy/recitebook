@@ -1,0 +1,2737 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.868,
+            0.0,
+            0.999,
+            0.016
+          ],
+          "content": "考点词<"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.352,
+            0.038,
+            0.398,
+            0.071
+          ],
+          "content": "#"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.406,
+            0.044,
+            0.631,
+            0.064
+          ],
+          "level": 2,
+          "content": "List 10 维持与拓展"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.06,
+            0.077,
+            0.212,
+            0.097
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.105,
+            0.414,
+            0.123
+          ],
+          "content": "情节发展：艰难维持→创新融合→意外转机"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.177,
+            0.148,
+            0.193
+          ],
+          "level": 2,
+          "content": "艰难维持"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.197,
+            0.701,
+            0.255
+          ],
+          "content": "老张的“记忆咖啡馆”几十年如一日，供应着 contain/include（包含）几种稀有香料的咖啡。虽然客流稀少，但他一直努力 sustain/maintain（维持）着运营，让这家店一直 remain/retain（保持）原来的模样。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.713,
+            0.136,
+            0.937,
+            0.296
+          ],
+          "sub_type": "natural_image",
+          "content": "Watercolor painting of an elderly man looking at a window with plants and a lamp (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_7.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.343,
+            0.148,
+            0.359
+          ],
+          "level": 2,
+          "content": "创新融合"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.363,
+            0.701,
+            0.421
+          ],
+          "content": "今年，老张终于决定革新菜单，他将传统咖啡与本地花果茶大胆 combine（结合）。作为核心产品的 supplement（补充），手工烘焙点心的 addition（添加），能恰到好处地 complement（补足）咖啡的风味。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.712,
+            0.302,
+            0.937,
+            0.462
+          ],
+          "sub_type": "natural_image",
+          "content": "Portrait of an elderly man smiling while holding a document at a café counter (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_10.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.507,
+            0.148,
+            0.524
+          ],
+          "level": 2,
+          "content": "意外转机"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.528,
+            0.701,
+            0.585
+          ],
+          "content": "此外，老张还决定将营业时间 extend（延长）至深夜，并计划 continue（继续）优化服务。在那份核心秘方的指导下，老张确保品质与责任同行，他的咖啡馆终于迎来转机。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.712,
+            0.468,
+            0.936,
+            0.626
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior scene of a café with a smiling man in a blue shirt, surrounded by seated customers and a framed picture on the wall (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_13.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.062,
+            0.669,
+            0.21,
+            0.691
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.721,
+            0.253,
+            0.737
+          ],
+          "content": "maintain /meɪnˈteɪn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.741,
+            0.245,
+            0.758
+          ],
+          "content": "vt. 维持；赡养；认为"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.765,
+            0.473,
+            0.782
+          ],
+          "content": "妙记：main-（保持）+ tain-（保持）→保持、维持。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.786,
+            0.394,
+            0.801
+          ],
+          "content": "1. 赡养：维持某人的生活或家庭的生计；"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.806,
+            0.265,
+            0.822
+          ],
+          "content": "2. 认为：保持某种观点。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.062,
+            0.832,
+            0.163,
+            0.855
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.861,
+            0.144,
+            0.877
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.882,
+            0.383,
+            0.898
+          ],
+          "content": "maintenance n. 维持，保持; 维护，保养"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.719,
+            0.594,
+            0.736
+          ],
+          "content": "②区分："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.74,
+            0.94,
+            0.776
+          ],
+          "content": "maintain 与 claim 都可以表示“认为”, 但含义并不完全相同："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.78,
+            0.936,
+            0.817
+          ],
+          "content": "maintain 通常表示充满信心、立场坚定的“认为”。【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.822,
+            0.942,
+            0.877
+          ],
+          "content": "Young people were more likely to maintain that children are best served by two parents working outside the home."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.881,
+            0.94,
+            0.918
+          ],
+          "content": "年轻人更倾向于认为，孩子最好由在外工作的父母双方来抚养。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.839,
+            0.933,
+            0.892,
+            0.949
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.894,
+            0.933,
+            0.922,
+            0.95
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.937,
+            0.933,
+            0.974,
+            0.949
+          ],
+          "content": "'117"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.036,
+            0.016,
+            0.107,
+            0.049
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.121,
+            0.023,
+            0.379,
+            0.042
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.409,
+            0.023,
+            0.513,
+            0.04
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.072,
+            0.483,
+            0.108
+          ],
+          "content": "【潜台词】年轻人对自己的观点充满信心、立场坚定。\nclaim 通常表示证据不足甚至缺乏证据的“认为”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.113,
+            0.242,
+            0.129
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.133,
+            0.485,
+            0.189
+          ],
+          "content": "In effect, the White House claimed that it could invalidate any otherwise legitimate state law that it disagrees with."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.192,
+            0.484,
+            0.229
+          ],
+          "content": "实际上，白宫是在宣称，它可以使自己不赞同的任何其他合法的州法律无效。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.233,
+            0.336,
+            0.25
+          ],
+          "content": "【潜台词】白宫的观点缺乏证据。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.273,
+            0.241,
+            0.288
+          ],
+          "content": "remain /rɪˈmeɪn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.291,
+            0.481,
+            0.308
+          ],
+          "content": "v-link. 保持，仍然是，依旧是 vi. 继续存在，仍然存在"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.314,
+            0.484,
+            0.351
+          ],
+          "content": "妙记:re-（反复）+ main-（保持）→反复保持，就是保持、仍然是或仍然存在。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.361,
+            0.182,
+            0.382
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.389,
+            0.265,
+            0.405
+          ],
+          "content": "①该词可以用作系动词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.409,
+            0.241,
+            0.425
+          ],
+          "content": "【2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.431,
+            0.358,
+            0.446
+          ],
+          "content": "33. A. Their customers remain royal."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.449,
+            0.291,
+            0.466
+          ],
+          "content": "他们的顾客仍然是忠诚的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.47,
+            0.348,
+            0.487
+          ],
+          "content": "②派生词:remaining adj. 剩余的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.49,
+            0.241,
+            0.506
+          ],
+          "content": "【2019 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.512,
+            0.484,
+            0.546
+          ],
+          "content": "But the remaining trees draw a greater share of the available moisture."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.55,
+            0.327,
+            0.567
+          ],
+          "content": "但剩下的树吸收了更多的水分。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.595,
+            0.221,
+            0.609
+          ],
+          "content": "retain /rɪˈteɪn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.613,
+            0.204,
+            0.629
+          ],
+          "content": "vt. 保留，保持"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.636,
+            0.455,
+            0.653
+          ],
+          "content": "妙记：re-（回）+tain-（持有）→往回拿→保留。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.664,
+            0.182,
+            0.684
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.69,
+            0.483,
+            0.726
+          ],
+          "content": "历年真题中对于该词的考查集中于完形填空、阅读，大家掌握意思即可。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.73,
+            0.239,
+            0.746
+          ],
+          "content": "【2025 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.75,
+            0.438,
+            0.766
+          ],
+          "content": "The NHS can barely retain its current employees."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.768,
+            0.483,
+            0.805
+          ],
+          "content": "英国国家医疗服务体系（NHS）几乎难以留住现有员工。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.833,
+            0.246,
+            0.847
+          ],
+          "content": "contain /kən'teɪn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.851,
+            0.25,
+            0.867
+          ],
+          "content": "vt. 包括，包含，容纳"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.874,
+            0.483,
+            0.909
+          ],
+          "content": "妙记：con-(一起)+tain-(拿)→拿到一起→包括、包含。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.654,
+            0.069,
+            0.814,
+            0.183
+          ],
+          "sub_type": "natural_image",
+          "content": "Glass jar filled with colorful candies on a wooden shelf (no text or symbols visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_31.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.536,
+            0.189,
+            0.634,
+            0.21
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.217,
+            0.744,
+            0.232
+          ],
+          "content": "派生词:container n. 容器"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.235,
+            0.691,
+            0.252
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.256,
+            0.918,
+            0.291
+          ],
+          "content": "Half of them found a toy; the other half discovered the container was empty."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.294,
+            0.918,
+            0.33
+          ],
+          "content": "他们中一半人发现了一个玩具，而另一半发现容器是空的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.358,
+            0.691,
+            0.372
+          ],
+          "content": "sustain /səˈsteɪn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.377,
+            0.661,
+            0.393
+          ],
+          "content": "vt. 支撑；维持"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.4,
+            0.918,
+            0.436
+          ],
+          "content": "妙记:sus- = sub-（下）+ tain-（保持）→ 在下面保持 → 支撑、维持。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.626,
+            0.442,
+            0.842,
+            0.528
+          ],
+          "sub_type": "natural_image",
+          "content": "Stage performance scene with a person in a colorful outfit under a circular trophy, surrounded by audience and warm lighting (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_40.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.534,
+            0.634,
+            0.555
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.562,
+            0.597,
+            0.577
+          ],
+          "content": "派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.582,
+            0.734,
+            0.598
+          ],
+          "content": "sustainable adj. 可持续的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.601,
+            0.819,
+            0.617
+          ],
+          "content": "sustainable development 可持续发展"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.62,
+            0.69,
+            0.636
+          ],
+          "content": "【2016 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.64,
+            0.918,
+            0.676
+          ],
+          "content": "The concept of sustainable development has been defined as profitable."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.678,
+            0.812,
+            0.695
+          ],
+          "content": "可持续发展的概念被定义为可盈利。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.722,
+            0.696,
+            0.737
+          ],
+          "content": "include /ɪnˈkluːd/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.742,
+            0.649,
+            0.758
+          ],
+          "content": "v. 包括，包含"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.544,
+            0.765,
+            0.919,
+            0.801
+          ],
+          "content": "妙记:in-（里面）+ clud-（关）+e→关在里面→包括、包含。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.653,
+            0.807,
+            0.817,
+            0.922
+          ],
+          "sub_type": "natural_image",
+          "content": "Three cats inside a wire cage on a wooden surface, no visible text or symbols",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_51.jpg"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.05,
+            0.936,
+            0.087,
+            0.952
+          ],
+          "content": "118/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.095,
+            0.935,
+            0.125,
+            0.953
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.128,
+            0.937,
+            0.178,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.858,
+            0.0,
+            0.963,
+            0.01
+          ],
+          "content": "考点词"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.032,
+            0.17,
+            0.053
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.061,
+            0.134,
+            0.076
+          ],
+          "content": "派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.081,
+            0.312,
+            0.096
+          ],
+          "content": "inclusive adj. 包含的；广泛的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.101,
+            0.227,
+            0.117
+          ],
+          "content": "【2017 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.122,
+            0.474,
+            0.156
+          ],
+          "content": "Conversations about wildfires need to be more inclusive."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.161,
+            0.295,
+            0.177
+          ],
+          "content": "有关野火的讨论需要更广泛。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.211,
+            0.252,
+            0.226
+          ],
+          "content": "combine /kəmˈbaɪn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.23,
+            0.368,
+            0.247
+          ],
+          "content": "v.（使）结合；（使）联合；（使）合并"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.254,
+            0.472,
+            0.292
+          ],
+          "content": "妙记:com-（一起）+ bin-（= bind 捆绑）+e → 绑到一起 → 结合、联合、合并。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.151,
+            0.298,
+            0.387,
+            0.396
+          ],
+          "sub_type": "natural_image",
+          "content": "Group of musicians performing on stage under stage lights with colorful lighting and confetti (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_10.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.411,
+            0.166,
+            0.433
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.44,
+            0.147,
+            0.456
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.46,
+            0.341,
+            0.477
+          ],
+          "content": "combination n. 结合；联合；合并"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.481,
+            0.312,
+            0.497
+          ],
+          "content": "combined adj. 联合的，共同的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.501,
+            0.225,
+            0.518
+          ],
+          "content": "【2021 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.523,
+            0.279,
+            0.538
+          ],
+          "content": "their combined market value"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.542,
+            0.179,
+            0.558
+          ],
+          "content": "它们的总市值"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.563,
+            0.167,
+            0.579
+          ],
+          "content": "②短语搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.584,
+            0.361,
+            0.599
+          ],
+          "content": "combine A with B = A combine with B"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.603,
+            0.312,
+            0.62
+          ],
+          "content": "(使) A 与 B 结合、联合在一起"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.623,
+            0.149,
+            0.64
+          ],
+          "content": "【2003 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.645,
+            0.474,
+            0.702
+          ],
+          "content": "In recent years, railroads have been combining with each other, merging into supersystems, causing heightened concerns about monopoly."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.705,
+            0.472,
+            0.742
+          ],
+          "content": "近年来，铁路公司之间不断合并，逐渐形成超级系统，这引发了对垄断更高的担忧。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.746,
+            0.472,
+            0.782
+          ],
+          "content": "③常考 combined with 作状语，通常翻译为“加上……”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.786,
+            0.225,
+            0.804
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.809,
+            0.474,
+            0.866
+          ],
+          "content": "Enhanced security measures since then, combined with a rise in airline travel, have resulted in long waits at major airports."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.869,
+            0.472,
+            0.907
+          ],
+          "content": "从那之后加强了安保措施，加上航空旅行人数的增加，导致各大机场出现了长时间的候机现象。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.033,
+            0.682,
+            0.049
+          ],
+          "content": "addition /ə'dɪʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.053,
+            0.767,
+            0.069
+          ],
+          "content": "n. 加法；增加，添加；添加物"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.08,
+            0.905,
+            0.097
+          ],
+          "content": "妙记：来自 add, 表示“加”, 引申为“添加物”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.107,
+            0.626,
+            0.129
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.136,
+            0.608,
+            0.152
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.157,
+            0.703,
+            0.173
+          ],
+          "content": "additional adj. 额外的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.177,
+            0.916,
+            0.213
+          ],
+          "content": "②短语搭配:in addition(to)=besides 除了……也，\n除了……还"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.217,
+            0.683,
+            0.234
+          ],
+          "content": "【2020 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.239,
+            0.931,
+            0.276
+          ],
+          "content": "In addition to those trusted coworkers, you should find out about all the people around you."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.278,
+            0.931,
+            0.315
+          ],
+          "content": "除了那些值得信赖的同事，你还应该了解你周围的所有人。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.345,
+            0.744,
+            0.362
+          ],
+          "content": "supplement /'sʌplɪmənt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.365,
+            0.84,
+            0.382
+          ],
+          "content": "vt. 增补，补充 n. 补充 (物), 增补 (物)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.393,
+            0.931,
+            0.452
+          ],
+          "content": "妙记：sup- = sub- (下) + ple- (推动、加) +-ment (名词后缀) → 在下面加一些 → 补充、增补 (supplement)。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.625,
+            0.457,
+            0.83,
+            0.542
+          ],
+          "sub_type": "natural_image",
+          "content": "Person cooking at a stove in a dimly lit kitchen (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_41.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.551,
+            0.626,
+            0.574
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.581,
+            0.709,
+            0.597
+          ],
+          "content": "①常考释义：补充（v.）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.601,
+            0.683,
+            0.617
+          ],
+          "content": "【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.623,
+            0.931,
+            0.657
+          ],
+          "content": "People may clear land to plant more rice to supplement their harvest."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.662,
+            0.931,
+            0.699
+          ],
+          "content": "人们可能会开垦土地来种植更多水稻，以补充他们的收成。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.703,
+            0.608,
+            0.719
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.724,
+            0.768,
+            0.741
+          ],
+          "content": "supply vt./n. 补给，供给，供应"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.745,
+            0.677,
+            0.762
+          ],
+          "content": "supplier n. 供应商"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.794,
+            0.772,
+            0.811
+          ],
+          "content": "complement /'ka:mpliment/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.814,
+            0.738,
+            0.831
+          ],
+          "content": "vt. 补充，补足 n. 补充物"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.838,
+            0.931,
+            0.897
+          ],
+          "content": "妙记：com-（所有）+ ple-（plus 加）+-ment（名词后缀）→ 把所有的都加上 → 补足、补充 (complement)。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.83,
+            0.935,
+            0.88,
+            0.951
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.883,
+            0.935,
+            0.912,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.919,
+            0.936,
+            0.961,
+            0.951
+          ],
+          "content": "/119"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.031,
+            0.022,
+            0.102,
+            0.055
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.118,
+            0.031,
+            0.38,
+            0.048
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.411,
+            0.031,
+            0.517,
+            0.047
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.079,
+            0.183,
+            0.1
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.107,
+            0.146,
+            0.122
+          ],
+          "content": "派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.126,
+            0.368,
+            0.142
+          ],
+          "content": "complementary adj. 补充的，互补的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.145,
+            0.239,
+            0.161
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.165,
+            0.488,
+            0.2
+          ],
+          "content": "A stand-alone media promotes complementary and even competitive products."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.203,
+            0.417,
+            0.219
+          ],
+          "content": "独立的媒体促进了互补甚至竞争性的产品。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.243,
+            0.24,
+            0.258
+          ],
+          "content": "extend /ɪkˈstend/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.262,
+            0.338,
+            0.278
+          ],
+          "content": "v. 延长，延伸；扩展，延展；给"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.284,
+            0.476,
+            0.32
+          ],
+          "content": "妙记:ex-（外）+ tend-（拉）→ 往外拉 → 延长，\n延展。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.08,
+            0.33,
+            0.182,
+            0.352
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.359,
+            0.485,
+            0.374
+          ],
+          "content": "① extend 可以表示“给”, 把 A 给 B, 叫作 extend A to B。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.378,
+            0.239,
+            0.394
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.398,
+            0.487,
+            0.433
+          ],
+          "content": "Write an email in the name of the Students' Union to extend your welcome."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.436,
+            0.482,
+            0.453
+          ],
+          "content": "以学生会的名义给他们写一封电子邮件表达欢迎之意。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.456,
+            0.163,
+            0.471
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.476,
+            0.371,
+            0.491
+          ],
+          "content": "extension n. 延长；扩大；电话分机"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.495,
+            0.39,
+            0.511
+          ],
+          "content": "extensive adj. 广大的，广阔的，广泛的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.55,
+            0.079,
+            0.726,
+            0.094
+          ],
+          "content": "continue /kən'tmju:/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.551,
+            0.097,
+            0.662,
+            0.112
+          ],
+          "content": "v. 持续；继续"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.55,
+            0.119,
+            0.924,
+            0.155
+          ],
+          "content": "妙记：con-（共同、一起）+tin-（持有、保持）+ue\n共同保持某种状态，延伸为“继续、持续”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.541,
+            0.165,
+            0.642,
+            0.186
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.193,
+            0.794,
+            0.208
+          ],
+          "content": "①区分:continuous 和 continual:"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.212,
+            0.919,
+            0.247
+          ],
+          "content": "continuous 通常只能用来表示完全没有间断的持续，如持续的雨水，指的是雨一直在下，从未停过。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.251,
+            0.699,
+            0.267
+          ],
+          "content": "【2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.271,
+            0.925,
+            0.305
+          ],
+          "content": "Wetlands protected by the EPA must have a “continuous surface connection” to bodies of water."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.309,
+            0.924,
+            0.344
+          ],
+          "content": "受美国环境保护署（EPA）保护的湿地必须“与水域保持持续的表面连通”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.348,
+            0.924,
+            0.384
+          ],
+          "content": "continual 既可以表示没有间断的持续，也可以表示有间断的反复重复，即“连续的”, 如连续考了三次研。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.388,
+            0.698,
+            0.403
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.408,
+            0.924,
+            0.443
+          ],
+          "content": "In reality we are continually faced with a question:\n“Why cannot I make myself do this or achieve that?”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.446,
+            0.923,
+            0.482
+          ],
+          "content": "实际上，我们总是会面临这样一个问题:“为什么我总是做不到这样或无法达成那样的目标呢？”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.486,
+            0.623,
+            0.501
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.505,
+            0.804,
+            0.52
+          ],
+          "content": "discontinue v. 停止；终止；中断"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.525,
+            0.723,
+            0.54
+          ],
+          "content": "continuous adj. 持续的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.544,
+            0.712,
+            0.56
+          ],
+          "content": "continual adj. 连续的"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.58,
+            0.229,
+            0.6
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.616,
+            0.178,
+            0.632
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.636,
+            0.924,
+            0.671
+          ],
+          "content": "1. A smartphone may \\_\\_\\_\\_ an arrestee's reading history, financial history, medical history and comprehensive records of recent correspondence."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.676,
+            0.199,
+            0.69
+          ],
+          "content": "A. sustain"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.342,
+            0.676,
+            0.422,
+            0.689
+          ],
+          "content": "B. retain"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.556,
+            0.676,
+            0.656,
+            0.689
+          ],
+          "content": "C. maintain"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.799,
+            0.676,
+            0.885,
+            0.689
+          ],
+          "content": "D. contain"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.695,
+            0.783,
+            0.71
+          ],
+          "content": "2. This will help to grow your internal network, in \\_\\_\\_\\_ to being a nice break in the work day."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.715,
+            0.228,
+            0.73
+          ],
+          "content": "A. supplement"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.342,
+            0.715,
+            0.47,
+            0.729
+          ],
+          "content": "B. complement"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.556,
+            0.714,
+            0.653,
+            0.728
+          ],
+          "content": "C. addition"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.799,
+            0.714,
+            0.914,
+            0.728
+          ],
+          "content": "D. combination"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.734,
+            0.908,
+            0.749
+          ],
+          "content": "3. To \\_\\_\\_\\_ forests as valuable “carbon sinks”, we may need to lower their present carbon-absorbing capacity."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.754,
+            0.207,
+            0.768
+          ],
+          "content": "A. maintain"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.342,
+            0.754,
+            0.428,
+            0.767
+          ],
+          "content": "B. extend"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.556,
+            0.754,
+            0.655,
+            0.767
+          ],
+          "content": "C. continue"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.799,
+            0.754,
+            0.886,
+            0.767
+          ],
+          "content": "D. include"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.773,
+            0.919,
+            0.807
+          ],
+          "content": "4. We recommend using real grass because of its environmental benefits, which \\_\\_\\_\\_ supporting wildlife, alleviating flooding and cooling the environment."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.812,
+            0.198,
+            0.826
+          ],
+          "content": "A. remain"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.342,
+            0.812,
+            0.433,
+            0.826
+          ],
+          "content": "B. include"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.556,
+            0.812,
+            0.655,
+            0.826
+          ],
+          "content": "C. continue"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.799,
+            0.812,
+            0.875,
+            0.825
+          ],
+          "content": "D. retain"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.838,
+            0.178,
+            0.854
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.079,
+            0.864,
+            0.586,
+            0.905
+          ],
+          "sub_type": "text",
+          "content": "1. Its coverage needs to be \\_\\_\\_\\_ (extend).\n2. Online education can \\_\\_\\_\\_ (supplement) the traditional kind."
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.049,
+            0.94,
+            0.087,
+            0.955
+          ],
+          "content": "120/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.095,
+            0.938,
+            0.126,
+            0.955
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.129,
+            0.94,
+            0.18,
+            0.954
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.874,
+            0.0,
+            0.983,
+            0.011
+          ],
+          "content": "考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.052,
+            0.035,
+            0.818,
+            0.052
+          ],
+          "content": "3. Sensor types are chosen to \\_\\_\\_\\_ (complement) the different environments they are needed in."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.052,
+            0.061,
+            0.936,
+            0.097
+          ],
+          "content": "4. Yet this enormous resource is not contributing enough to today's global challenges, including climate change, security, \\_\\_\\_\\_ (sustain) development and health."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.052,
+            0.108,
+            0.152,
+            0.125
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.051,
+            0.136,
+            0.95,
+            0.446
+          ],
+          "sub_type": "text",
+          "content": "1. High-quality newspapers retain a large body of readers.\n2. Citizens still have a right to expect private documents to remain private.\n3. The use of this little-known practice has accelerated in recent years, as colleges continue to do their utmost to keep students in school (and paying tuition) and improve their graduation rates.\n4. In previous eras of drastic technological change, entrepreneurs smoothed the transition by dreaming up ways to combine labor and machines."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.446,
+            0.562,
+            0.549,
+            0.584
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.053,
+            0.608,
+            0.151,
+            0.626
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.053,
+            0.643,
+            0.106,
+            0.657
+          ],
+          "level": 2,
+          "content": "1. D."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.053,
+            0.661,
+            0.113,
+            0.678
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.053,
+            0.68,
+            0.47,
+            0.854
+          ],
+          "content": "句意：一部智能手机可能 \\_\\_\\_\\_ 被捕者的阅读历史、财务历史、医疗历史以及近期通信的完整记录。\n考点：动词辨析。四个选项都有“保持，持有”的含义，但侧重点不同。智能手机的功能是“存储、包含”这些信息。D. contain 意为“包含，容纳”，是正确答案。A. sustain（维持，支撑）、B. retain（保留，保持）、C. maintain（维持，维护）均强调“使持续下去”，而手机是“装有”这些信息，而非“维持”它们。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.053,
+            0.87,
+            0.101,
+            0.884
+          ],
+          "level": 2,
+          "content": "2. C."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.053,
+            0.888,
+            0.112,
+            0.904
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.908,
+            0.457,
+            0.926
+          ],
+          "content": "句意：这将有助于扩展你的内部人际网络，\\_\\_\\_\\_，"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.641,
+            0.794,
+            0.658
+          ],
+          "content": "它也是工作日中一个很好的休息。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.662,
+            0.948,
+            0.758
+          ],
+          "content": "考点：固定搭配。“in addition to”意为“除……之外（还）”，在句中作状语，表示追加说明。其他选项均不能构成此固定搭配:A. supplement（补充物），B. complement（补充物，补足物），D. combination（结合），常见的搭配是“in combination with”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.774,
+            0.576,
+            0.788
+          ],
+          "level": 2,
+          "content": "3. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.524,
+            0.792,
+            0.588,
+            0.809
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.812,
+            0.945,
+            0.907
+          ],
+          "content": "句意：为了\\_\\_\\_\\_森林作为有价值的“碳汇”的功能，我们可能需要降低它们目前的碳吸收能力。\n考点：动词辨析。句子的逻辑是：为了“使森林保持作为碳汇的状态”，我们需要怎么做。A. maintain 意为“维持，保持”，是正确答案。B."
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.84,
+            0.939,
+            0.924,
+            0.959
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.934,
+            0.94,
+            0.974,
+            0.956
+          ],
+          "content": "121"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.029,
+            0.0,
+            0.102,
+            0.035
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.113,
+            0.008,
+            0.371,
+            0.027
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.403,
+            0.009,
+            0.507,
+            0.026
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.058,
+            0.479,
+            0.113
+          ],
+          "content": "extend（扩展）、C. continue（继续）、D. include（包含）均不如“maintain”准确地表达“维持某种状态或功能”的含义。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.077,
+            0.129,
+            0.124,
+            0.143
+          ],
+          "level": 2,
+          "content": "4. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.077,
+            0.147,
+            0.137,
+            0.163
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.166,
+            0.478,
+            0.202
+          ],
+          "content": "句意：我们推荐使用真草，因为它对环境有益，其好处\\_\\_\\_\\_支持野生动物、缓解洪水和冷却环境。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.204,
+            0.479,
+            0.337
+          ],
+          "content": "考点：动词辨析。空格引导一个非限定性定语从句，对前面的“环境益处”进行举例说明。B. include（包括）用于引出所包含的具体内容，是正确答案。A. remain（保持）、C. continue（继续）均为不及物动词，后面不能直接接宾语。D. retain（保留）虽然可接宾语，但意为“保住不放”，与“举例”的语境不符。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.077,
+            0.348,
+            0.174,
+            0.365
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.381,
+            0.178,
+            0.395
+          ],
+          "level": 2,
+          "content": "1. extended"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.399,
+            0.139,
+            0.415
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.418,
+            0.361,
+            0.435
+          ],
+          "content": "句意：它的覆盖范围需要被\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.438,
+            0.479,
+            0.51
+          ],
+          "content": "考点：动词的被动语态。主语“coverage”（覆盖范围）与动词“extend”（扩展）之间是被动关系（覆盖范围被扩展），且位于“to be”之后，故用过去分词“extended”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.077,
+            0.526,
+            0.197,
+            0.542
+          ],
+          "level": 2,
+          "content": "2. supplement"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.544,
+            0.137,
+            0.559
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.563,
+            0.384,
+            0.579
+          ],
+          "content": "句意：在线教育可以\\_\\_\\_\\_传统教育。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.582,
+            0.479,
+            0.636
+          ],
+          "content": "考点：词性转换（名词→动词）与情态动词后接动词原形。情态动词“can”后需接动词原形。故将名词“supplement”直接用作动词原形"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.059,
+            0.7,
+            0.076
+          ],
+          "content": "“supplement”(补充)。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.091,
+            0.655,
+            0.106
+          ],
+          "level": 2,
+          "content": "3. complement"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.109,
+            0.59,
+            0.125
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.128,
+            0.923,
+            0.163
+          ],
+          "content": "句意：选择传感器类型是为了\\_\\_\\_\\_ 它们所需的不同环境。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.166,
+            0.925,
+            0.242
+          ],
+          "content": "考点：词性转换（名词→动词）与不定式。动词不定式“to”后需接动词原形。故将名词“complement”直接用作动词原形“complement”（补足，与……相配）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.259,
+            0.646,
+            0.273
+          ],
+          "level": 2,
+          "content": "4. sustainable"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.277,
+            0.59,
+            0.293
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.296,
+            0.925,
+            0.351
+          ],
+          "content": "句意：然而，这一巨大的资源并未对当今的全球性挑战做出足够的贡献，这些挑战包括气候变化、安全问题、\\_\\_\\_\\_发展和健康问题。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.353,
+            0.925,
+            0.448
+          ],
+          "content": "考点：词性转换（动词→形容词）。空格处需要填入一个形容词来修饰“development”。将动词“sustain”变为形容词“sustainable”（可持续的）。“sustainable development”是固定术语，意为“可持续发展”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.459,
+            0.625,
+            0.475
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.529,
+            0.478,
+            0.923,
+            0.607
+          ],
+          "sub_type": "text",
+          "content": "1. 高质量的报纸仍然拥有大量的读者。\n2. 公民仍有权期望私人文件保持私密性。\n3. 近年来，这种鲜为人知的做法的应用有所加速，因为各高校在继续不遗余力地留住学生（让他们持续缴纳学费）并提高毕业率。\n4. 在以往技术发生剧烈变革的时代，企业家们通过构想将劳动力与机器相结合的方式，推动过渡的进程。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.042,
+            0.939,
+            0.083,
+            0.955
+          ],
+          "content": "122/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.089,
+            0.938,
+            0.117,
+            0.956
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.119,
+            0.941,
+            0.17,
+            0.956
+          ],
+          "content": "研过过"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:13:30",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 6,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 836.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

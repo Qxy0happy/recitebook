@@ -1,0 +1,655 @@
+{
+  "list_no": 20,
+  "title": "压抑与表达",
+  "association": {
+    "outline": "情节发展：初遇压力→自我克制→积极管理",
+    "scenes": [
+      {
+        "title": "初遇压力",
+        "story": "李明是一名高三学生，面对高考 stress（压力），他感到 depress（沮丧）。一天，他在课堂上公开 express（表达）了对考试的负面 impression（印象），被老师批评影响班级氛围，让他更加沮丧。"
+      },
+      {
+        "title": "自我克制",
+        "story": "李明决定自我克制：他试图 suppress（抑制）负面情绪，restrict（限制）课外活动，restrain（克制）消遣的念头，并努力 curb（控制）焦虑情绪。但过度自律效果反而不佳，这让他很 discourage（气馁）。"
+      },
+      {
+        "title": "积极管理",
+        "story": "在好友的 encourage（鼓励）下，李明重新振作，他意识到精力 finite（有限），将学习时段 confine（限制）在特定时间，为科目设定时间 limit（上限），这种高效安排帮他找回自信，也让他重新 define（定义）了学习方法的意义。"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "depress",
+      "ipa": "/dɪˈpres/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "压，下压; 降低; 使抑郁，使沮丧; 使萧条"
+        }
+      ],
+      "mnemonic": "de-（下）+press（压）→下压，压低。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常见释义",
+          "body": "- 使沮丧\n\nThe rainy weather always seems to depress her mood.\n\n阴雨天似乎总是让她的心情变得沮丧。\n\n## - 使萧条\n\nThe pandemic depressed the tourism industry for years.\n疫情使旅游业多年陷入萧条。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "depression n. 抑郁；萧条\n\n## 【2011 年英语（二）】\n\nDuring the Depression and the war, Americans had learned to live with less.\n\n在经济大萧条和战争期间，美国人学会了极简生活。"
+        }
+      ]
+    },
+    {
+      "spelling": "express",
+      "ipa": "/ɪkˈspres/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "表达，表示，表现"
+        },
+        {
+          "pos": "adj.",
+          "meaning_cn": "快速的; 明确 (表示) 的"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "快递"
+        }
+      ],
+      "mnemonic": "ex-（出）+ press（压）→ 把脑中想法压出来 → 表达、表示、表现。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "明确的，直白的，就是直接表达出来的。\n\n【2024 年英语（二）】\n\nFTC requires the company to get app users' express affirmative consent before sharing their health information.\n\nFTC 要求公司在分享 app 用户的健康信息之前，先要获得用户明确、肯定的同意。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "熟词僻义",
+          "body": "快速的，被压出来，速度必然很快。\n\nexpress way 高速公路\n\n【1986 年】\n\nthe construction of a new express way\n\n一条新的高速公路的建设"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "expression n. 表达，表现\n\nexpressive adj. 富于表现力的"
+        }
+      ]
+    },
+    {
+      "spelling": "impression",
+      "ipa": "/ɪmˈpreʃn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "压痕；印象"
+        }
+      ],
+      "mnemonic": "im- = in-（进入）+ press（压）→ 压进去 → 压痕；压进大脑 → 形成印象 → 压痕，印象。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常见释义",
+          "body": "印象\n\n【2021 年英语（二）】\n\nWe're fairly good at judging people based on first impressions.\n\n我们相当善于根据初步印象对人们做出评判。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "impress vt. 压印；使印象深刻\n\nimpressive adj. 令人印象深刻的"
+        }
+      ]
+    },
+    {
+      "spelling": "suppress",
+      "ipa": "/sə'pres/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "镇压，压制；阻止；压抑，抑制"
+        }
+      ],
+      "mnemonic": "sup- = sub-（下）+ press（压）→ 压下去→ 镇压，抑制。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "常见用法",
+          "body": "既可表示来自外界的镇压、压制、阻止，也可表示自己对于自己的压抑、抑制。\n\n【2012 年英语（二）】\n\nGene patents suppress innovation rather than reward it.\n基因专利会阻止创新，而不是奖励创新。\n\n【2016 年英语（二）】\n\nAs we grow up, we learn to control our emotions. But too often we take this process too far and end up suppressing emotions.\n\n长大后，我们学会控制自己的情绪。但我们总是过度地进行这个过程，并最终压抑自己的情绪。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "oppress vt. 压迫；压抑（op- = ob- 反 + press 压 → 压回去）\n\nrepress v. 镇压；压迫；压抑（re- 反 + press 压 → 压回去）"
+        }
+      ]
+    },
+    {
+      "spelling": "stress",
+      "ipa": "/stres/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "紧张，精神压力"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "强调"
+        }
+      ],
+      "mnemonic": "stress（谐音“死拽”），死拽你给你很大的压力（stress）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常见释义",
+          "body": "动词“强调”\n\n【2022 年英语（一）】\n\nThis is not to say that there is no point in getting a degree, but rather stress that a degree is not for everyone.\n\n这并不是说获得学位毫无意义，而是要强调学位并非适合所有人。"
+        },
+        {
+          "marker": "②",
+          "kind": "辨析",
+          "label_raw": "近义词辨析",
+          "body": "pressure & stress\n\n- pressure 可以表示任何压力，而 stress 通常特指精\n\n神压力。\n\n【2011 年英语（一）】\n\npsychological stress 心理压力\n\n【2011 年英语（一）、2011 年英语（二）】\n\nstress-free 毫无压力的"
+        }
+      ]
+    },
+    {
+      "spelling": "restrict",
+      "ipa": "/rɪˈstrikt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "限制"
+        }
+      ],
+      "mnemonic": "re-（前缀，表“反复”）+ strict（严格的）→反复严格对待就是一种限制（restrict）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "- restrict to... 把……限制\n\nThe rules will restrict speeds to 25 kilometers an hour.\n该规定将车速限制在每小时 25 公里以内。\n\n- restriction on 对于……的限制\n\n【2014 年英语（一）】\n\n22. B. to accept the government's restrictions on the allowance\n\n接受政府对于津贴的限制"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "restriction n. 限制\n\nrestrictive adj. 限制性的"
+        }
+      ]
+    },
+    {
+      "spelling": "restrain",
+      "ipa": "/rɪˈstreɪn/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "限制"
+        }
+      ],
+      "mnemonic": "休息（rest）的时候下雨（rain），是老天想阻止（restrain）我们出去玩。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "辨析",
+          "label_raw": "近义词辨析",
+          "body": "restrict & restrain\n\n- restrict 只能表示来自外界的限制；\n\n- restrain 既可以表示来自外界的限制，也可以表示自己对自己的控制或抑制。\n\n【2004 年】\n\nSchooling and rigorous book learning put unnatural restraints on children.\n\n学校和严格的书本学习会对孩子施加不自然的限制。\n\n【2000 年完形填空选项】\n\nself-restrained 自控的，有自制力的"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "restraint n. 限制"
+        }
+      ]
+    },
+    {
+      "spelling": "curb",
+      "ipa": "/kɜːrb/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "限制；抑制"
+        }
+      ],
+      "mnemonic": "谐音“刻薄”，刻薄的老板会限制（curb）员工休息。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "搭配",
+          "label_raw": "考点点拨",
+          "body": "常见用法：既可指自外界的限制，也可指自己对自己的控制或抑制。\n\n【2013 年英语（一）】\n\n34. curb our ambition to reshape history\n\n限制我们重塑历史的雄心壮志\n\nShe decided to curb her impulsive shopping habits by setting a strict monthly budget.\n\n她决定通过设定严格的月度预算来克制自己冲动的购物习惯。"
+        }
+      ]
+    },
+    {
+      "spelling": "encourage",
+      "ipa": "/ɪnˈkɜːrɪdʒ/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "鼓励；促进"
+        }
+      ],
+      "mnemonic": "en-（使）+ courage（勇气）→使鼓起勇气→使一个人鼓起勇气需要鼓励（encourage）他。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "表示“促进”，常与 promote（促进）进行同义替换。"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "常见用法",
+          "body": "encourage sb. to do sth. 鼓励……做……\n\nParents should encourage children to explore their interests.\n\n家长应该鼓励孩子探索自己的兴趣。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "encouragement n. 鼓励"
+        }
+      ]
+    },
+    {
+      "spelling": "discourage",
+      "ipa": "/dis'kɜːrɪdʒ/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "使泄气，使丧失信心；阻碍，阻止"
+        }
+      ],
+      "mnemonic": "dis-（否定）+ courage（勇气）→使失去勇气→使泄气、丧失信心。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "阻碍、阻止，是 encourage（促进）的反义词。\n\n【2024 年英语（二）】\n\nThe existing health privacy law has discouraged medical misconduct.\n\n现行的健康隐私法阻止了医学的不当行为。"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "discourage sb. from doing sth. 阻碍 / 阻止某人做某事\n\n【2012 年英语（二）】\n\ndiscourage students from doing homework\n\n阻碍学生做作业"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "discouragement n. 气馁；挫折；劝阻"
+        }
+      ]
+    },
+    {
+      "spelling": "define",
+      "ipa": "/dɪˈfam/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "下定义，界定"
+        }
+      ],
+      "mnemonic": "de-（下）+ fin-（界限）+e → define（下定界限）→界定，下定义。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "define A as B 将 A 定义为 B\n\n【2014 年英语（二）翻译】\n\nMost people would define optimism as being endlessly happy.\n\n大部分人会将乐观定义为无止境的快乐。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "常考派生词",
+          "body": "redefine vt. 重新定义\n\n【2016 年英语（一）】\n\n21. A. Physical beauty would be redefined.\n\n形体美会被重新定义。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "其他派生词",
+          "body": "definition n. 定义\n\ndefinite adj. 明确的；确定的\n\nindefinite adj. 不明确的；不确定的（in-否定）"
+        }
+      ]
+    },
+    {
+      "spelling": "confine",
+      "ipa": "/kən'fain/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "限制"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "(pl.) 边界，界限"
+        }
+      ],
+      "mnemonic": "一起（con）变好（fine），必须限制和约束（confine）自己。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "考点点拨",
+          "body": "名词区分：\n\n- confinement, 表示“限制”。\n\nDuring the pandemic, strict home confinement was\n\nimposed to control the virus spread.\n\n疫情期间实施了严格的居家隔离以控制病毒传播。\n\n• confines 直接作名词，表示“边界、界限”。\n\n【2014 年英语（二）】\n\nA range of new forms, including Body Art, Performance Art and Action Art, pushed art beyond the traditional confines of the studio and gallery.\n\n一系列新的艺术形式，包括身体艺术、行为艺术和行动艺术，推动艺术超越了工作室和画廊的传统界限。"
+        }
+      ]
+    },
+    {
+      "spelling": "limit",
+      "ipa": "/'lɪmɪt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "限制"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "限制，限度，局限"
+        }
+      ],
+      "mnemonic": "limit（谐音“力没的”）→力气没了→达到了精力的限度（limit）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "辨析",
+          "label_raw": "近义词辨析",
+          "body": "limit & confine\n\n- limit 既可以表示 来自自身因素的限制，也可以表示来自外界（如法律法规）的限制;\n- confine 通常只能表示来自外界的限制。\n\nHis fear of failure limits his willingness to take risks.\n他对失败的恐惧限制了他冒险的意愿。(此处不可用\nconfine 替换)"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "limited adj. 有限的；受限的\n\nlimitation n. 限制，制约"
+        }
+      ]
+    },
+    {
+      "spelling": "finite",
+      "ipa": "/'fainait/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "有限的"
+        }
+      ],
+      "mnemonic": "finite（谐音“犯难的”），令人犯难的是资源有限（finite）。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "考点点拨",
+          "body": "常见释义:fin- 既可以表示“界限”，也可以表示“终点”，所以，finite 和 infinite 既可以表示有 / 没有界限，也可以表示有 / 没有终点。\n\n【2022 年英语（二）】\n\nTime is finite.\n\n时间是有限的。(时间有终点，会用完，而不是有界限)\n【2015 年英语（二）】\n\nNot only are the tasks apparently infinite, the co-workers are much harder to motivate.\n\n不仅任务明显是无穷无尽的，而且同事们也更难被激励。"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L20-01",
+      "kind": "single",
+      "stem": "Much more could be done to encourage “long-termism”, such as changes in the tax code and quicker disclosure of stock acquisitions. The US and France examples are used to illustrate ____.",
+      "options": [
+        "the obstacles to preventing “short-termism”",
+        "the significance of long-term thinking",
+        "the approaches to promoting “long-termism”",
+        "the prevalence of short-term thinking"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "encourage",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L20-02",
+      "kind": "single",
+      "stem": "This means that our noses are ____ to perceiving those smells which float through the air.",
+      "options": [
+        "limited",
+        "committed",
+        "dedicated",
+        "confined"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "limit",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L20-03",
+      "kind": "single",
+      "stem": "The strict education system tends to ____ children's natural curiosity, while self-discipline helps individuals ____ their impulses in social situations.",
+      "options": [
+        "restrict; restrain",
+        "restrain; restrict",
+        "restrict; restrict",
+        "restrain; restraining"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "restrict",
+          "bind": "词义"
+        },
+        {
+          "n": 2,
+          "word": "restrain",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L20-04",
+      "kind": "fill",
+      "stem": "High school students who have an ____ personal project they are working on independently often impress colleges.(impress)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "impressive"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "impression",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L20-05",
+      "kind": "fill",
+      "stem": "Long-term ____ can affect both mental and physical health, requiring professional treatment.(depress)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "depression"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "depress",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L20-06",
+      "kind": "fill",
+      "stem": "The early study was restricted ____ laboratory conditions and needed field validation. (填入介词)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "to"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "restrict",
+          "bind": "介词"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L20-07",
+      "kind": "fill",
+      "stem": "In quantum computing, we define“decoherence” — the disruptive phenomenon where quantum superposition states collapse due to environmental interactions—____ the primary technical obstacle preventing reliable qubit operations and scalable quantum error correction in practical implementations. (填入介词)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "as"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "define",
+          "bind": "介词"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L20-08",
+      "kind": "fill",
+      "stem": "Her feeling of ____ in the small apartment grew stronger after months of remote work.(confine)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "confinement"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "confine",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L20-09",
+      "kind": "translate_sentence",
+      "stem": "The French Senate has passed a bill to curb the influence of advertising.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "curb",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L20-10",
+      "kind": "translate_sentence",
+      "stem": "Not only are the tasks apparently infinite, the co-workers are much harder to motivate.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "finite",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L20-11",
+      "kind": "translate_sentence",
+      "stem": "The government tried to suppress the protest by imposing a media blackout.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "suppress",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L20-12",
+      "kind": "translate_word",
+      "stem": "The witness provided [express] testimony that contradicted the defendant's alibi.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "express",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L20-13",
+      "kind": "translate_word",
+      "stem": "The professor [stressed] that accurate data collection is crucial for this experiment.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "stress",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L20-14",
+      "kind": "translate_word",
+      "stem": "The teacher [discouraged] cheating by making students sit far apart during exams.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "discourage",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

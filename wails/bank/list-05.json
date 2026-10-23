@@ -1,0 +1,957 @@
+{
+  "list_no": 5,
+  "title": "经济与资本",
+  "association": {
+    "outline": "情节发展：创业起步→财务挑战→改变策略→成功转型",
+    "scenes": [
+      {
+        "title": "创业起步",
+        "story": "张伟决定开始自己的 business（生意），他注册了一家 company（公司）。他的大学同学李明决定 accompany（陪同）他一起创业。他们选择进入互联网 industry（行业），开始了 corporate（企业）的筹备工作。"
+      },
+      {
+        "title": "财务挑战",
+        "story": "为了扩大规模，他们决定注册成立股份有限 incorporate（公司）。在整理公司 asset（资产）时，他们发现公司存在不少 liability（负债）。通过发行 stock（股票），他们增加了 equity（股权）资本。"
+      },
+      {
+        "title": "改变策略",
+        "story": "然而，由于 expense（开支）过大，核算过 bill（账单）后，公司一度濒临 bankrupt（破产）。关键时刻，他们与供应商 negotiate（谈判），改为 wholesale（批发）采购模式，成功降低了成本。"
+      },
+      {
+        "title": "成功转型",
+        "story": "公司起死回生后，他们不仅 compensate（补偿）了员工的损失，还设立了 reward（奖励）机制。年底时，张伟获得了“最佳创业者”的 award(奖项)。庆功会上，他们用抛 coin（硬币）的方式决定谁来切蛋糕，大家都享受到了公司成功转型带来的 benefit（好处）。"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "business",
+      "ipa": "/ˈbɪznəs/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "商业，生意；公司，企业；事情"
+        }
+      ],
+      "mnemonic": "busi- = busy（忙）+-ness（名词后级）→让你很忙的东西→商业、生意，引申为“事情”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词表示“商业”时，是不可数名词；表示“公司、企业”时，是可数名词。 【2022 年英语（一）】 These provisions create difficulties for businesses. 这些条款给企业制造了困难。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词可以表示“事情”，如口语中常说:It's none of your business. 不关你事。 【2018 年英语（一）】 Trust is a tricky business. 信任是一件难办的事。"
+        }
+      ]
+    },
+    {
+      "spelling": "company",
+      "ipa": "/ˈkʌmpəni/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "公司；陪伴；一群人"
+        }
+      ],
+      "mnemonic": "com-（con-的变体，表示 all together）+pan-（表示 pair 配对）+-y→单词本义表示“陪伴”，即所有人配对到一起→引申为“一群人”或“公司”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "n. 同伴，伴侣"
+        },
+        {
+          "marker": "②",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "【2020 年英语（二）】 Today's CEO must have many more skills than simply being able to \"run the company\". 如今的首席执行官必须具备更多技能，而不只是能够“管理好公司”。"
+        }
+      ]
+    },
+    {
+      "spelling": "accompany",
+      "ipa": "/əˈkʌmpəni/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "陪伴，陪同；伴随，和……一起发生"
+        }
+      ],
+      "mnemonic": "ac-（加强）+company（陪伴）→陪伴。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "accompanying adj. 陪伴的，一起发生的 【2012 年英语（一）】 Finally, the public receives the new discovery and possibly accompanying technology. 最后，公众收到这一新发现以及可能伴随而来的相关技术。"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "短语搭配",
+          "body": "be accompanied by 由……陪同；伴随 The policy was accompanied by strict regulations. 该政策配有严格的规章制度。"
+        }
+      ]
+    },
+    {
+      "spelling": "industry",
+      "ipa": "/ˈɪndəstri/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "工业；行业"
+        }
+      ],
+      "mnemonic": "“in”(在……内) + “dust”(灰尘) + “(t) + y”(尝试), 联想为“在灰尘中尝试建设工业”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "industrial adj. 工业的；行业的 industrialize v. (使) 工业化"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词可以表示各种“行业”，而不仅仅是“工业”。 【2017 年英语（二）翻译】 fashion industry 时尚业 【2020 年英语（一）】 publishing industry 出版行业 【2021 年英语（一）】 manufacturing and service industries 制造业和服务业 【2023 年英语（一）】 tourism industry 旅游业"
+        }
+      ]
+    },
+    {
+      "spelling": "corporate",
+      "ipa": "/ˈkɔːpərət/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "公司的；全体的，集体的，共同的"
+        }
+      ],
+      "mnemonic": "cor（联想:core，核心）+porate（联想:operate，运营）→核心运营的，是集体的。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "corporation n. 企业"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "常见搭配",
+          "body": "corporate social responsibility(CSR) 企业社会责任 近几年，关于“企业社会责任”的话题出现频率显著提升，在备考中考生多关注该话题。"
+        }
+      ]
+    },
+    {
+      "spelling": "incorporate",
+      "ipa": "/ɪnˈkɔːpəreɪt/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "将……包括在内；使并入"
+        }
+      ],
+      "mnemonic": "in- 表示 in（进入），corporate 表示“集体”，进到集体中，就是包括、并入其中。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "incorporate A into B 将 A 包括在 B 之内；将 A 并入 B"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "be incorporated in/into 被纳入…… AI technology is being incorporated into diagnostic systems. 人工智能技术被纳入到诊断系统。"
+        }
+      ]
+    },
+    {
+      "spelling": "asset",
+      "ipa": "/ˈæset/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "（pl.）资产；有价值的人或事物"
+        }
+      ],
+      "mnemonic": "as-（加强）+set（放置）→不断置办财产来加强你的资产。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "辨析",
+          "label_raw": "反义词",
+          "body": "liability n. (pl.) 负债；责任"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "短语搭配",
+          "body": "【2010 年英语（一）】 toxic assets 不良资产 illiquid assets 固定资产 long-term assets 长期资产 【2018 年英语（二）】 physical assets 实物资产"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "asset 表示“资产”时，通常用复数 assets, 它用作单数时，表示有价值的人或事物。 【2007 年】 Data is becoming an asset which needs to be guarded as much as any other asset. 和其他有价值的东西一样，数据正在成为一种需要被保护的东西。"
+        }
+      ]
+    },
+    {
+      "spelling": "liability",
+      "ipa": "/ˌlaɪəˈbɪləti/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "(pl.) 负债，债务; 责任"
+        }
+      ],
+      "mnemonic": "ability（能力）越大，liability（责任）越大。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "辨析",
+          "label_raw": "区分",
+          "body": "responsibility 道德 / 职务责任，obligation 契约性义务，debt 具体金钱债务，liability 法律 / 强制性义务。"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "短语搭配",
+          "body": "limited liability company 有限责任公司 the liability structures of enterprises 企业负债结构"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "liability 表示“负债”时，通常用复数 liabilities; 它用作不可数名词时，表示“责任” 【2024 年英语（二）】 There could be liability and penalties if a physician does not act in accordance with state laws on reporting and confidentiality. 如果医生未依照有关报告和保密的州法律行事，就可能会承担法律责任并面临处罚。"
+        }
+      ]
+    },
+    {
+      "spelling": "stock",
+      "ipa": "/stɒk/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "贮存，储备"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "存货，库存；股票"
+        }
+      ],
+      "mnemonic": "商店（store）里有库存（stock）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "最常考",
+          "body": "stock market 股市；stock price 股价 【2020 年英语（二）】 And the stock market reacts positively when companies tie CEO pay to stock prices. 而当公司将首席执行官的薪酬与股票价格挂钩时，股市的反应是积极的。"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "短语搭配",
+          "body": "stock up 贮备，备足 【2023 年英语（一）】 It was frequently the first stop for merchants looking to sell their wares and stock up on supplies for their own journeys. 这里常常是商人前来售卖商品以及储备自身行程所需物资的第一站。"
+        }
+      ]
+    },
+    {
+      "spelling": "equity",
+      "ipa": "/ˈekwəti/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "公平;【经】资产净值，股本"
+        }
+      ],
+      "mnemonic": "equ-（=equal 平等），单词本义表示公平、平等，因为公平就要排除杂七杂八的东西，可以理解为“净值”“股本”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "短语搭配",
+          "body": "gender equity 性别平等"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词可以表示公司的资产净值或股本。 【2019 年英语（一）】 New digital technologies have allowed more rapid trading of equities. 新的数字技术使股本交易能够更快地进行。"
+        }
+      ]
+    },
+    {
+      "spelling": "expense",
+      "ipa": "/ɪkˈspens/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "花费，支出；消耗"
+        }
+      ],
+      "mnemonic": "ex-(外)+pense(谐音“喷”)→向外喷钱→支出。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "expensive adj. 昂贵的"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "短语搭配",
+          "body": "at the expense of 以……为代价 【2017 年英语（二）】 While climate is a key element, it shouldn't come at the expense of the rest of the equation. 虽然气候是一个关键元素，但它也不应以牺牲其他元素为代价。"
+        }
+      ]
+    },
+    {
+      "spelling": "bill",
+      "ipa": "/bɪl/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "账单；钞票；【法】法案"
+        },
+        {
+          "pos": "v.",
+          "meaning_cn": "宣传；开账单"
+        }
+      ],
+      "mnemonic": "比尔·盖茨（Bill Gates）违反了 bill（法案），但有很多钱付 bill（账单）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "最常考",
+          "body": "法案 【2020 年英语（一）】 The French Senate has passed a bill. 法国议会通过了一项法案。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "bill 可以作动词表示“宣传”，通常用作被动态，be billed as 表示被宣传为…… 【2021 年英语（二）】 A one-hour flight is now billed as a two-hour flight. 一个一小时的航班现在被宣传为两个小时的航班。"
+        }
+      ]
+    },
+    {
+      "spelling": "bankrupt",
+      "ipa": "/ˈbæŋkrʌpt/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "破产的"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "使破产"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "破产者"
+        }
+      ],
+      "mnemonic": "bank（银行）+rupt-（断裂）→破产。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "bankruptcy n. 破产"
+        },
+        {
+          "marker": "②",
+          "kind": "辨析",
+          "label_raw": "区分",
+          "body": "作为名词，“破产”叫作 bankruptcy，而 bankrupt 作名词特指“破产者”。 【2010 年英语（二）】 One of the oldest banks on Wall Street, Lehman Brothers, filed for bankruptcy. 华尔街历史最悠久的银行之一——雷曼兄弟银行正式申请破产保护。"
+        }
+      ]
+    },
+    {
+      "spelling": "negotiate",
+      "ipa": "/nɪˈɡəʊʃieɪt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "谈判，商议"
+        },
+        {
+          "pos": "vi.",
+          "meaning_cn": "谈判达成"
+        }
+      ],
+      "mnemonic": "ne 形似 no（不）+goti（联想 got，得到）+-ate（动词后缀）→得不到才一直谈判。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "negotiation n. 谈判 【2016 年英语（一）】 A young man can decide on a likely spouse on his own and then ask his parents to arrange the marriage negotiations. 一个年轻人可以自己决定可能的配偶，然后请父母来安排婚事的协商。"
+        }
+      ]
+    },
+    {
+      "spelling": "wholesale",
+      "ipa": "/ˈhəʊlseɪl/",
+      "senses": [
+        {
+          "pos": "a./n.",
+          "meaning_cn": "批发（的）"
+        },
+        {
+          "pos": "adj.",
+          "meaning_cn": "大规模的"
+        }
+      ],
+      "mnemonic": "whole（全部的）+sale（卖）→全部卖出去→批发。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "wholesaler n. 批发商"
+        },
+        {
+          "marker": "②",
+          "kind": "辨析",
+          "label_raw": "反义词",
+          "body": "retail n. 零售 retailer n. 零售商 【2010 年英语（一）】 Moreover, average overall margins are higher in wholesale than in retail. 而且，批发的平均总利润率高于零售。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "wholesale 可以作形容词表示“大规模的”，所谓批发，就是大规模销售。 【2007 年】 From the middle-class family perspective, much of this looks more like a frightening acceleration of the wholesale shift of financial risk onto their already overburdened shoulders. 从中产阶级家庭的角度来看，这其中的大部分情况似乎更像是财务风险大规模转移的急剧加速，将财务风险转移到他们本已不堪重负的肩上。"
+        }
+      ]
+    },
+    {
+      "spelling": "compensate",
+      "ipa": "/ˈkɒmpenseɪt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "给……赔偿"
+        },
+        {
+          "pos": "vi.",
+          "meaning_cn": "补偿"
+        }
+      ],
+      "mnemonic": "com-(全部)+pens-(支付)+-ate (动词后缀)→赔偿需要全部支付。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "compensation n. 补偿 compensatory adj. 补偿性的"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "compensate sb. 对某人进行赔偿、补偿 【2016 年英语（二）】 The fund will also be used to compensate landowners. 资金还将会被用来对土地拥有者进行补偿。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "compensate for sth. 为了某事进行赔偿、补偿 【2007 年】 Health-savings plans will compensate for the reduced pensions. 健康储蓄计划将弥补养老金减少所带来的损失。"
+        },
+        {
+          "marker": "④",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "compensation 除了“赔偿、补偿”之外，还可以表示工作所获得的与钱相关的回报。 ## 【2019 年英语（一）】 Within companies, the right compensation design can provide incentives for executives. 在企业内部，恰当的薪酬设计能够激励高管们。"
+        }
+      ]
+    },
+    {
+      "spelling": "reward",
+      "ipa": "/rɪˈwɔːrd/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "奖励；回报；报酬"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "回报某人"
+        }
+      ],
+      "mnemonic": "re-（回）+ward（谐音“我的”）→我养的猫咪回报给我一只老鼠→奖励、报酬。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "短语搭配",
+          "body": "reward sb. for sth. 因为……而回报、奖励某人 【2018 年英语（一）】 This would boost incomes, encourage work, reward companies for job creation, and reduce inequality. 这将提高收入水平，鼓励人们就业，奖励那些创造就业岗位的企业，并减少不平等。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "reward 可以表示工作带来的任何回报，其中与钱相关的回报统称 compensation, 具体包括： allowance n. 津贴 pension n. 养老金 bonus n. 奖金 subsidy n. 补助金"
+        }
+      ]
+    },
+    {
+      "spelling": "award",
+      "ipa": "/əˈwɔːrd/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "奖"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "颁奖；授予"
+        }
+      ],
+      "mnemonic": "a (啊) + ward (谐音“我的”) → 啊！是我的奖。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "最常考 award 作名词，表示“奖项”。 【2014 年英语（一）】 As much as some scientists may complain about the new awards, two things seem clear. 尽管一些科学家可能会对这些新的奖项有所抱怨，但有两点情况似乎是显而易见的。"
+        }
+      ]
+    },
+    {
+      "spelling": "coin",
+      "ipa": "/kɔɪn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "硬币"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "铸币，造硬币；创造（新的词语）"
+        }
+      ],
+      "mnemonic": "谐音“扣印”→工匠扣印造硬币→引申为创造新词。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词可以作动词，表示“创造新的词语”。 【2022 年英语（一）】 The term was coined around the notion. 这一术语是围绕着这样一个观念而被创造出来的。"
+        }
+      ]
+    },
+    {
+      "spelling": "benefit",
+      "ipa": "/ˈbenɪfɪt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "益处，好处，利益"
+        },
+        {
+          "pos": "v.",
+          "meaning_cn": "获益"
+        }
+      ],
+      "mnemonic": "谐音“贝玲妃”→贝玲妃化妆品给皮肤带来好处。 ## 3 BEILINGFEI 贝玲妃",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "benefit sb. 使某人受益 【2013 年英语（一）】 Setting DNT as a default will not benefit consumers. 将 DNT 设成默认设置并不会使消费者受益。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "benefit from 从……中获益 = gain from 【2018 年英语（一）】 The great question is who should benefit from the analysis of the data. 一大问题是，谁将从数据的分析当中获益。 【2016 年英语（一）】"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L5-01",
+      "kind": "single",
+      "stem": "The scientist ____ a new term to describe the phenomenon.",
+      "options": [
+        "made",
+        "billed",
+        "coined",
+        "rewarded"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "coin",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L5-02",
+      "kind": "single",
+      "stem": "The fast-fashion____ ignores sustainability.",
+      "options": [
+        "stock",
+        "asset",
+        "wholesale",
+        "industry"
+      ],
+      "answer": 3,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "industry",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L5-03",
+      "kind": "single",
+      "stem": "Many developing countries ____ greatly from international trade.",
+      "options": [
+        "gain",
+        "benefit",
+        "profit",
+        "incorporate"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "benefit",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L5-04",
+      "kind": "single",
+      "stem": "The Pulitzer Prize is ____ annually for outstanding journalism.",
+      "options": [
+        "awarded",
+        "rewarded",
+        "forwarded",
+        "gave"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "award",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L5-05",
+      "kind": "single",
+      "stem": "But both these criteria would be ____ the expense of time.",
+      "options": [
+        "of",
+        "for",
+        "at",
+        "in"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "expense",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L5-06",
+      "kind": "single",
+      "stem": "U.S. national parks are faced with the problem of decline of ____ profits.",
+      "options": [
+        "business",
+        "bill",
+        "reward",
+        "coin"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "business",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L5-07",
+      "kind": "single",
+      "stem": "Growth team is made up of members from different departments within your ____.",
+      "options": [
+        "liability",
+        "stock",
+        "bankruptcy",
+        "company"
+      ],
+      "answer": 3,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "company",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L5-08",
+      "kind": "single",
+      "stem": "Next time somebody pushes corporate quotas as a way to promote gender____...",
+      "options": [
+        "equity",
+        "asset",
+        "business",
+        "benefit"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "equity",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L5-09",
+      "kind": "fill",
+      "stem": "The public (including other scientists) receives the new discovery and possibly ____ (accompany) technology.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "accompanying"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "accompany",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L5-10",
+      "kind": "fill",
+      "stem": "Banks will not sell ____ (asset) for fear of booking losses.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "assets"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "asset",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L5-11",
+      "kind": "fill",
+      "stem": "Train operators are offering____ (compensate) to commuters.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "compensation"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "compensate",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L5-12",
+      "kind": "fill",
+      "stem": "A one-hour flight is now ____ (bill) as a two-hour flight.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "billed"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "bill",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L5-13",
+      "kind": "fill",
+      "stem": "The practice of tipping in the U.S was a way of ____ (reward) diligence.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "rewarding"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "reward",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L5-14",
+      "kind": "fill",
+      "stem": "There are many reasons this formerly stable federal institution finds itself at the brink of ____ (bankrupt).",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "bankruptcy"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "bankrupt",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L5-15",
+      "kind": "translate_sentence",
+      "stem": "Meanwhile, it has more than $120 billion in unfunded liabilities, mostly for employee health and retirement costs.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "liability",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L5-16",
+      "kind": "translate_sentence",
+      "stem": "The number of women on corporate boards has been steadily increasing without government interference.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "corporate",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L5-17",
+      "kind": "translate_sentence",
+      "stem": "Moreover, average overall margins are higher in wholesale than in retail.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "wholesale",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L5-18",
+      "kind": "translate_sentence",
+      "stem": "Attempts have been made to curb this tendency by trying to incorporate some measures.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "incorporate",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L5-19",
+      "kind": "translate_sentence",
+      "stem": "Many “unretirees” are increasing their savings by investing more in stocks.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "stock",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L5-20",
+      "kind": "translate_sentence",
+      "stem": "Western governments have this week urged him to negotiate and avoid force.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "negotiate",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

@@ -1,0 +1,1124 @@
+{
+  "list_no": 16,
+  "title": "包含与驱动",
+  "association": {
+    "outline": "情节发展：危机初现→改革呼声→政策落地→成效凸显",
+    "scenes": [
+      {
+        "title": "危机初现",
+        "story": "持续的经济 fluctuation（波动）让失业率不断攀升，社会各界开始激烈 controversy(争论)。经济学家归因为产业升级滞后，无法适应技术 evolution(演进) 的浪潮。媒体持续 call（呼吁）政府 involve（让各方参与）到这场关乎未来的 conversation（对话）中。"
+      },
+      {
+        "title": "改革呼声",
+        "story": "面对危机，智库专家 drive（推动）政策研讨，用翔实数据 prompt（促使）议会正视转型的必要性。多项指标表明，经济发展已经到了关键的 turn（转折）点，必须尽快 convert（转变）增长模式。主流媒体持续 influence（影响）舆论，强调要合理分配社会资源，切实 better（改善）民生福祉。"
+      },
+      {
+        "title": "政策落地",
+        "story": "在各方压力下，政府 compel/propel（推动）全面改革。新出台的环保法规被严格 enforce（执行），监管力度得到显著 strengthen/reinforce（加强）。虽然短期内对传统行业造成一定 impact（冲击），但这些措施有效 promote（促进）了技术创新，就业岗位也随之 increase（增加）。"
+      },
+      {
+        "title": "成效凸显",
+        "story": "这场经济 revolution（变革）开始显现积极 effect（效果）。随着改革深化，社会矛盾逐渐缓和，民众对政府推行的新政充分肯定。事实证明，及时的政策调整能够有效 force（推动）社会向更好的方向发展。"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "involve",
+      "ipa": "/m'va:lv/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "包括，包含；涉及；参加；卷入；融入"
+        }
+      ],
+      "mnemonic": "in-（in）+vol-（turn 转）+ve→把所有东西都转进来→包括，引申为涉及、卷入、融入、参加。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "be involved in 参加，加入\n\n【2020 年英语（一）】\n\nBoth France and the United States are involved in the organization's work.\n\n法国和美国都加入了这个组织的工作。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "常考后置定语",
+          "body": "involved 所涉及的，相关的；involving sth. 涉及……的，有关……的\n\n## 【2017 年英语（一）】\n\nThis allows the TSA to focus on travelers who are higher risks, saving time for everyone involved.\n\n这允许 TSA 把精力集中在风险较高的旅客身上，从而节省所有相关人员的时间。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "翻译题需要注意“包括”和“涉及”的区别，两个中文含义并不相同。\n\n## 【2006 年翻译】\n\nhuman problems which involve moral judgment\n\n应该翻译成“涉及道德评判的人类问题”，而不能翻译成“包括道德评判的人类问题”。"
+        },
+        {
+          "marker": "④",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "involvement n. 包括，包含; 涉及; 参加; 卷入; 融入"
+        }
+      ]
+    },
+    {
+      "spelling": "conversation",
+      "ipa": "/ˌkɑːnvərˈseɪʃn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "交流，会话"
+        }
+      ],
+      "mnemonic": "con-（all）+ ver- = vol-（转）+-sation（名词后缀）→所有人转向彼此→交流。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "辨析",
+          "label_raw": "",
+          "body": "考研真题中，经常考查 conversation 和 talk 的同义替换关系。\n\n【2022 年英语（二）】\n\n原文:Businesses should engage in conversations with IT, compliance, risk, and legal teams.\n\n企业应当与信息技术、合规管理、风险控制以及法律事务团队展开交流对话。\n\n题目:To handle digital deception, businesses should ____.\n\n要应对数字欺诈，企业应当 ____。\n\n正确选项:talk with relevant teams 与有关团队交流"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "converse vi. 交流，交谈"
+        }
+      ]
+    },
+    {
+      "spelling": "convert",
+      "ipa": "/kənˈvɜːrt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "改变宗教信仰；改变，转变"
+        }
+      ],
+      "mnemonic": "con-（all）+ ver-（转）+t → 所有的一切都转变 → 宗教信仰的改变 → 引申为各种改变。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "convert A to/into B 将 A 变成 B\n\n【2017 年英语（一）】\n\nA recent annual study of countries and their ability to convert growth into well-being sheds some light on that question.\n\n最近一项关于各国及其将增长转化为幸福的能力的年度研究为这个问题提供了一些启示。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "conversely adv. 相反\n\n【2012 年英语（二）】\n\nConversely, if homework matters, it should account for a significant portion of the grade.\n\n相反，如果家庭作业很重要，它就应该在成绩当中占有重要的比例。"
+        }
+      ]
+    },
+    {
+      "spelling": "revolution",
+      "ipa": "/ˌrevəˈluːʃn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "革命；变革；旋转"
+        }
+      ],
+      "mnemonic": "re-（反复）+vol-（转）+u+-tion（名词后缀）→ 多次旋转，引申为革命、变革。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常见释义",
+          "body": "革命\n\n【2018 年英语（一）】\n\nWe are still at the beginning of this revolution and small choices now may turn out to have gigantic consequences later.\n\n我们仍然处在这场革命的开端，现在很小的选择可能在后来产生巨大的后果。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "revolve vi. 旋转\n\n【2020 年英语（一）】\n\nAll of the planets that we knew of revolved not around the Earth, but the Sun.\n\n所有我们知道的行星都是绕着太阳转的，而不是地球。\n\n● revolutionize vt. 彻底改变（即发生革命性的改变）\n\n【2013 年英语（二）】\n\nElectronic means of payment would soon “revolutionize the very concept of money itself”.\n\n电子支付方式会很快“彻底改变钱本身的概念”。"
+        }
+      ]
+    },
+    {
+      "spelling": "controversy",
+      "ipa": "/'ka:ntrəvɜ:rsi/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "争论；矛盾"
+        }
+      ],
+      "mnemonic": "contr-（against 相反）+o+ ver-（turn 转）+-sy (名词后缀) → 朝相反方向转去 → 争论、矛盾。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "争论\n\n【2005 年】\n\nThe decline of formal English has caused the controversy over the counter-culture.\n\n正式英语的衰落引发了对于反文化运动的争论。"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "写作常用句型",
+          "body": "There have been controversial views about... 对于……一直存在争议的观点\n\n【2002 年】\n\nThere have been controversial views about its economic, political, social and cultural implications.\n对于它在经济、政治、社会和文化方面的影响，一直存在争议的观点。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "controversial adj. 有争议的；有矛盾的"
+        }
+      ]
+    },
+    {
+      "spelling": "evolution",
+      "ipa": "/ˌevəˈluːʃn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "进化；发展"
+        }
+      ],
+      "mnemonic": "$e- = ex-$ （出）+ vol-（转）+ u+-tion（名词后缀）→ 从原地打转当中出来 → 发展 → 物种发展，叫作进化。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "发展\n\n【2018 年英语（二）】\n\nOn one hand, that viewpoint is a logical product of America's evolution.\n\n一方面，那个观点是美国发展的一个逻辑产物。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "evolve v. (使) 进化; (使) 发展\n\n【2018 年英语（一）】\n\nCurriculums — from grammar school to college — should evolve to focus less on memorizing facts and more on creativity and complex communication.\n\n从文法学校到大学的全部课程都应当有所发展，减少对死记硬背知识内容的重视，转而更侧重于培养学生的创造力以及复杂交流能力。"
+        }
+      ]
+    },
+    {
+      "spelling": "turn",
+      "ipa": "/tɜːrn/",
+      "senses": [
+        {
+          "pos": "v./n.",
+          "meaning_cn": "转；转变，改变"
+        }
+      ],
+      "mnemonic": "本义表示“转”，引申为“转变”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "turn A to/into B 把 A 变成 B = change A into B\n\n【2024 年英语（一）】\n\nNail manufacturers found more efficient ways to turn steel into nails.\n\n钉子制造者们发现了将钢铁变成钉子的更高效的方法。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "turn sb./sth. out 生产出，制造出，培养出\n\n【2019 年英语（一）】\n\nIt is in the best interest of a school to turn out graduates who are as qualified as possible.\n\n一所学校最大的利益，就在于培养出尽可能合格的毕业生。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "turn out to be/do 发展成，证明是，结果是\n\n【2016 年英语（一）】\n\nThe move turned out to be foresighted.\n\n这个举措被证明是具有远见的。"
+        },
+        {
+          "marker": "④",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "turn to 求助于；致力于\n\n【2022 年英语（二）】\n\nTo handle digital deception, businesses should turn to independent agencies.\n\n要应对数字欺骗，企业应当求助于独立的机构。"
+        },
+        {
+          "marker": "⑤",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "in turn, take turns 轮流，接着\n\n【2010 年英语（二）】\n\nIn a direct democracy, citizens take turns governing themselves, rather than electing representatives to govern for them.\n\n在直接的民主体制下，公民轮流管理自己，而不是选出代表去替他们管理。"
+        },
+        {
+          "marker": "⑥",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "turnover n. 变更率，更新率\n\noverturn vt. 推翻"
+        }
+      ]
+    },
+    {
+      "spelling": "drive",
+      "ipa": "/draɪv/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "开 (车); 推动，促进; 驱使，迫使"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "欲望，动力"
+        }
+      ],
+      "mnemonic": "开车就是“推动、促进”车前进，引申为“迫使”或“动力”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "推动\n\n【2024 年英语（一）】\n\nThe falling price of nails was driven partly by cheaper iron and cheaper energy.\n\n钉子价格的下降部分是由更便宜的铁和能源所推动的。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词可以作名词，表示“动力，欲望”。\n\n【2023 年英语（一）】\n\nPolicymakers have little drive for science education.\n\n政策制定者们对科学教育没什么欲望。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "driver n. 驾驶员（-er 人）\n\nbe in the driver's seat 领导，掌控 (坐在驾驶位上 → 掌控、领导)\n\n【2016 年英语（二）】\n\nOverall, the idea is to let “states remain in the driver's seat for managing the species.” Ashe said.\n\n总的来说，这个想法是让“各州继续掌控管理物种的事务。”阿什说道。"
+        }
+      ]
+    },
+    {
+      "spelling": "force",
+      "ipa": "/fɔːrs/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "力，力量；军队；人群"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "强迫"
+        }
+      ],
+      "mnemonic": "谐音“赴死”→一种敢去赴死的“力量”；用力量让一个人去做事，就是“强迫”；有了军队，才有力量，引申为“人群”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "辨析",
+          "label_raw": "",
+          "body": "force sb. to do sth. 强迫某人做某事（常与 require sb. to do sth.、make sb. do sth. 进行同义替换）\n\n【2019 年英语（一）】\n\n原文:States will be able to force more people to pay sales tax when they make online purchases.\n\n各州将能够迫使更多网购的人支付消费税。\n\n题目:The Supreme Court decision Thursday will ____. 最高法周四的裁决将 ____。\n\n正确选项：make more online shoppers pay sales tax\n使更多网络购物者支付消费税"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "workforce n. 劳动力；全体员工"
+        }
+      ]
+    },
+    {
+      "spelling": "impact",
+      "ipa": "/'impækt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "影响"
+        }
+      ],
+      "mnemonic": "im- = in-（进入）+ pact- (= press 压) → 压 进去 → 施加影响。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "have/exert (an) impact on 对……产生 / 施加影响\n【2022 年英语（一）】\n\nWhat we decide to preserve today will have a strong impact on how in the future we'll be seen.\n\n我们今天决定要保留的东西将会对我们未来被人如何看待产生重大影响。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "impactful adj. 有影响力的"
+        }
+      ]
+    },
+    {
+      "spelling": "influence",
+      "ipa": "/'influəns/",
+      "senses": [
+        {
+          "pos": "n./vt.",
+          "meaning_cn": "影响"
+        }
+      ],
+      "mnemonic": "in-（进入）+ flu-（= flow 流）→ 流进去→ 施加影响。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "have/exert (an) influence on 对……产生 / 施加影响\n【2012 年英语（一）】\n\nThere's no doubt that our peer groups exert enormous influence on our behavior.\n\n毫无疑问，我们的同龄人群体对我们的行为施加巨大的影响。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "influential adj. 有影响力的 n. 有影响力的人\n\n【2010 年英语（一）】\n\nMarketers have embraced the two-step flow because it suggests that if they can just find and influence the influentials, those select people will do most of the work for them.\n\n营销人员已经接受了两步流理论，因为它表明，只要他们能找到并影响那些有影响力的人，那么这些精选出来的人就会替他们完成大部分工作。"
+        }
+      ]
+    },
+    {
+      "spelling": "fluctuation",
+      "ipa": "/ˌflʌktʃuˈeɪʃn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "波动"
+        }
+      ],
+      "mnemonic": "flu- 表示流，来自水流流动产生的水波。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词可以表示任何东西的波动，在图表作文中也有可能用到。\n\n【2007 年】\n\nstock market fluctuation 股市波动\n\n【2010 年英语（二）】\n\nFluctuation of Art Prices 艺术品价格波动"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "fluctuate vi. 波动"
+        }
+      ]
+    },
+    {
+      "spelling": "effect",
+      "ipa": "/ɪˈfekt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "影响，效果，作用"
+        }
+      ],
+      "mnemonic": "ef- = ex-（出）+ fect-（做）→ 做出来的东西 → 影响，效果，作用。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "come/go into effect 生效\n\n【2023 年英语（二）】\n\nThe rules came into effect last Wednesday.\n\n这些规定于上周三生效。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "in effect 有效；实际上\n\n【2013 年英语（一）】\n\nIn effect, the White House claimed that it could invalidate any otherwise legitimate state law that it disagrees with.\n\n实际上，白宫是在宣称，它可以使自己不赞同的任何其他合法的州法律无效。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "affect vt. 影响\n\neffective adj. 有效的\n\nefficient adj. 效率高的（fic- = fect- 做）"
+        }
+      ]
+    },
+    {
+      "spelling": "strengthen",
+      "ipa": "/'streŋkθn/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "巩固，加强"
+        }
+      ],
+      "mnemonic": "strong(强壮) then(然后) → 变强壮之后就可以“巩固、加强”了。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "加强\n\n【2015 年英语（一）】\n\nJournals are strengthening their statistical checks.\n\n杂志正在加强它们的统计学检查。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "strength n. 力量；实力；优势"
+        }
+      ]
+    },
+    {
+      "spelling": "reinforce",
+      "ipa": "/ˌriːmˈfɔːrs/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "巩固，加强"
+        }
+      ],
+      "mnemonic": "re-（反复）+ in- = en-（使）+ force（力量）→ 反复使更有力量→巩固、加强。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "加强\n\n【2012 年英语（二）】\n\nIndeed, this period of economic weakness may reinforce class divides, and decrease opportunities to cross them — especially for young people.\n\n确实，这个经济羸弱的时期可能会加强阶级分化，并减少跨越阶级的机会——特别是对年轻人来说。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "reinforcement n. 加固；强化物\n\nreinforced adj. 加固的；加强的"
+        }
+      ]
+    },
+    {
+      "spelling": "enforce",
+      "ipa": "/ɪnˈfɔːrs/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "强迫，强制; (强制) 实施或执行"
+        }
+      ],
+      "mnemonic": "en-（使）+ force（强迫）→使受到强迫。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词并不是一般的“实施、执行”，它来自“强迫”，所以带有强制性，通常都是法律法规的实施或执行。\n\n【2013 年英语（一）】\n\nlaw enforcement 法律的实施\n\n【2022 年英语（一）】\n\nEnforcing employment protection laws.\n\n实施雇佣保护法。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "enforcement n. 实施，执行"
+        }
+      ]
+    },
+    {
+      "spelling": "compel",
+      "ipa": "/kəm'pel/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "强迫"
+        }
+      ],
+      "mnemonic": "com-（all）+ pel-（推）→大家一起推你去做事→强迫。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "compel sb. to do sth. 强迫某人做某事\n\n【2013 年英语（二）】\n\nThe Europe Union is now considering legislation to compel corporate boards to maintain a certain proportion of women — up to 60 percent.\n\n现在，欧盟正在考虑立法，以强迫公司董事会保持特定比例的女性——最高到 60%。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "compulsory adj. 强制的\n\ncompulsive adj. 强迫性的"
+        }
+      ]
+    },
+    {
+      "spelling": "propel",
+      "ipa": "/prə'pel/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "推进，推动，促进"
+        }
+      ],
+      "mnemonic": "pro-（前）+ pel-（推）→ 往前推 → 推进、促进。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "推动\n\n【2010 年英语（二）】\n\nOther birds spend less energy propelling themselves.\n其他鸟类在推动自己前进上花费更少的能量。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "propulsion n. 推进（力）"
+        }
+      ]
+    },
+    {
+      "spelling": "promote",
+      "ipa": "/prəˈməʊt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "推进，促进；使升职；促销"
+        }
+      ],
+      "mnemonic": "谐音“破摩托” → 需要通过“促销”来“促进”销量。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "促进\n\n【2020 年英语（一）】\n\nEveryone should try hard to promote social justice.\n每个人都应该努力去促进社会正义。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词可以表示“使升职”或“促销”:\n推进职位，叫作“升职”；推进销量，叫作“促销”。\n\n【2012 年英语（一）】\n\nEven though there is plenty of evidence that the quality of the teachers is the most important variable, teachers' unions have fought against getting rid of bad ones and promoting good ones.\n\n即便有大量的证据证明教师的质量是最重要的变量，教师工会仍然反对淘汰不好的教师以及提拔好的教师。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "promotion n. 推进，促进; 升职; 促销"
+        }
+      ]
+    },
+    {
+      "spelling": "prompt",
+      "ipa": "/pra:mpt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "推动，促使; 导致"
+        },
+        {
+          "pos": "adj.",
+          "meaning_cn": "迅速的，及时的"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "提示词"
+        }
+      ],
+      "mnemonic": "该单词是 promote 的变体，表示推动、促使，引申为“导致”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "推动\n\n【2022 年英语（一）】\n\nSuch an approach can both prompt new research as well as result in powerful art.\n\n这种方法既能推动新的研究，又能导致极具影响力的艺术作品。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词可以作形容词，表示“迅速的、及时的”，不断推动一件事，这件事的进程就会加快。\n\n【2012 年英语（二）小作文导语】\n\nWrite an email to the customer service center to 1) make a complaint, and 2) demand a prompt solution.\n给客户服务中心写一封电子邮件，内容包括:1）提出投诉；2）要求迅速解决。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词可以作名词，表示人工智能的“提示词”，热点概念，近年常考。\n\n【2024 年英语（一）】\n\nHis distinctive style is now one of the most commonly used prompts in the new open-source AI art generator. 他独特的风格如今已成为这款新的开源人工智能艺术生成器中使用最为广泛的提示词之一。"
+        },
+        {
+          "marker": "④",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "promptly adv. 迅速地；立即地"
+        }
+      ]
+    },
+    {
+      "spelling": "increase",
+      "ipa": "/m'kri:s/",
+      "senses": [
+        {
+          "pos": "v./n.",
+          "meaning_cn": "增加，增长；扩大；提高"
+        }
+      ],
+      "mnemonic": "in（谐音“因”）+ crea（联想 create 创造）+ se（看成 sir 先生）→ 因为这位先生创造了很多生产力工具，并得到应用，让这个国家的经济得到增长→增长。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "该单词常考衍生形式",
+          "body": "increasingly adv. 不断增加地\n\n【2017 年英语（二）】\n\nThe child becomes increasingly distressed.\n\n孩子变得越来越苦恼。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "decrease v./n. 减少；减小；降低"
+        }
+      ]
+    },
+    {
+      "spelling": "better",
+      "ipa": "/'betər/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "更好的，较好的"
+        },
+        {
+          "pos": "adv.",
+          "meaning_cn": "更好 (地)"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "改善"
+        }
+      ],
+      "mnemonic": "谐音“拜特”→拜托了，找点（更好的）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "better 可以作动词，表示“改善”，就是使变得更好。\n【2019 年英语（一）】\n\nThe Supreme Court decision Thursday will better businesses' relations with states.\n\n最高法院的决定将会改善企业和各州之间的关系。"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "常考短语",
+          "body": "better off 更好；更有钱；worse off 更差；更穷\n【2021 年英语（一）】\n\nhelp poor families get better off\n帮助穷困家庭过得更好\n\n【2013 年英语（一）】\n\nConsumers will be worse off if the industry cannot collect information about their preferences.\n\n如果行业无法收集到有关消费者偏好的信息，消费者的情况将会变得更糟。"
+        }
+      ]
+    },
+    {
+      "spelling": "call",
+      "ipa": "/kɔːl/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "叫，喊；打电话；召唤"
+        }
+      ],
+      "mnemonic": "谐音“口” → 用口“叫喊、打电话、召唤”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "calling n. 使命，事业\n\n【2010 年英语（一）】\n\nThese men believed in journalism as a calling.\n这些人把新闻工作视为一种使命。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "call A B 将 A 称作 B:常与 regard A as B（将 A 视为 B）相互替换。\n\n【2011 年英语（一）第 22 题】\n\n原文:Even Tommasini, who had advocated Gilbert's appointment in the Times, calls him“an unpretentious musician with no air of the formidable conductor about him”. 就连曾在《纽约时报》上支持吉尔伯特出任指挥的托马西尼也称他为“一位朴实无华的音乐家，身上没有那种令人敬畏的指挥家的气质”。\n\n题目:Tommasini regards Gilbert as an artist who is _. 托马西尼将吉尔伯特视为 _ 的艺术家。\n\n答案：modest 谦虚的"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "call for 呼吁，要求\n\n【2014 年英语（一）】\n\nThe report calls for increased investment in research.\n该报告呼吁加大对研究领域的投资。"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L16-01",
+      "kind": "single",
+      "stem": "Both France and the United States are involved in the organization's work. The word \"involved\" implies that both countries are ____.",
+      "options": [
+        "excluded from the work",
+        "actively participating in the work",
+        "criticizing the work",
+        "indifferent to the work"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "involve",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-02",
+      "kind": "single",
+      "stem": "Businesses should engage in conversations with IT teams. The synonym of “conversations” is ____.",
+      "options": [
+        "debates",
+        "talks",
+        "conflicts",
+        "arguments"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "conversation",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-03",
+      "kind": "single",
+      "stem": "Countries must convert growth into well-being. \"Convert\" means to ____.",
+      "options": [
+        "ignore",
+        "transform",
+        "reduce",
+        "oppose"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "convert",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-04",
+      "kind": "single",
+      "stem": "We are at the beginning of a revolution in technology. \"Revolution\" here refers to ____.",
+      "options": [
+        "a dramatic change",
+        "a sudden collapse",
+        "a repetitive cycle",
+        "a minor adjustment"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "revolution",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-05",
+      "kind": "single",
+      "stem": "The decline of formal English caused controversy. \"Controversy\" means ____.",
+      "options": [
+        "agreement",
+        "celebration",
+        "dispute",
+        "silence"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "controversy",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-06",
+      "kind": "single",
+      "stem": "America's evolution is a logical process. \"Evolution\" refers to ____.",
+      "options": [
+        "destruction",
+        "development",
+        "stagnation",
+        "repetition"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "evolution",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-07",
+      "kind": "single",
+      "stem": "Nail manufacturers turn steel into nails. \"Turn\" can be replaced by ____.",
+      "options": [
+        "break",
+        "change",
+        "lose",
+        "reject"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "turn",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-08",
+      "kind": "single",
+      "stem": "Cheaper energy drove the price of nails down. \"Drove\" means ____.",
+      "options": [
+        "forced",
+        "reduced",
+        "promoted",
+        "ignored"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "drive",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-09",
+      "kind": "single",
+      "stem": "States force people to pay sales tax. \"Force\" is closest in meaning to ____.",
+      "options": [
+        "encourage",
+        "compel",
+        "invite",
+        "discourage"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "force",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-10",
+      "kind": "single",
+      "stem": "Preservation decisions impact future perceptions. \"Impact\" means ____.",
+      "options": [
+        "ignore",
+        "influence",
+        "delay",
+        "simplify"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "impact",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-11",
+      "kind": "fill",
+      "stem": "The EU wants to ____ (compel) corporate boards to hire more women.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "compel"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "compel",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-12",
+      "kind": "fill",
+      "stem": "Birds use energy to ____ (propel) themselves forward.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "propel"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "propel",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-13",
+      "kind": "fill",
+      "stem": "Everyone should ____ (promote) social justice.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "promote"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "promote",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-14",
+      "kind": "fill",
+      "stem": "AI art generators use ____ (prompt) to create images.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "prompts"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "prompt",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-15",
+      "kind": "fill",
+      "stem": "The child became ____ (increase) distressed.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "increasingly"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "increase",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-16",
+      "kind": "fill",
+      "stem": "The Supreme Court decision will ____ (better) business relations.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "better"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "better",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-17",
+      "kind": "fill",
+      "stem": "Journalism is regarded as a ____ (call).",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "calling"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "call",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-18",
+      "kind": "fill",
+      "stem": "The report ____ (call) for more research funding.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "calls"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "call",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-19",
+      "kind": "translate_sentence",
+      "stem": "The falling price was driven by cheaper materials.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "drive",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-20",
+      "kind": "translate_sentence",
+      "stem": "Economic weakness may decrease opportunities for young people.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "increase",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-21",
+      "kind": "translate_word",
+      "stem": "Some countries struggle to [convert] economic growth into well-being.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "convert",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L16-22",
+      "kind": "translate_word",
+      "stem": "We are still at the beginning of this [revolution].",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "revolution",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

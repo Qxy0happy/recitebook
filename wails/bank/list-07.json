@@ -1,0 +1,1010 @@
+{
+  "list_no": 7,
+  "title": "网络与交通",
+  "association": {
+    "outline": "情节发展：危机出现→全力抢修→绝地反击→黎明曙光",
+    "scenes": [
+      {
+        "title": "危机出现",
+        "story": "早高峰的 traffic（交通）彻底瘫痪，工程部 head（领头人）林哲被迫 navigate（导航）进小巷。手机弹出 headline（头条新闻）:“全市交通系统遭黑客攻击！”他赶往公司，overhead（头顶的）乌云压城般笼罩着城市。控制面板显示黑客切断了 net（网络）传输通道。"
+      },
+      {
+        "title": "全力抢修",
+        "story": "技术团队没有时间思考，headlong（鲁莽）地冲进核心机房。林哲 press（按下）紧急按钮:“transfer（转移）备份数据库！migrate（迁移）到离线服务器！”实习生盯着 screen（屏幕）惊呼:“code（代码）被恶意篡改，需要重写通信协议！”林哲喊道:“启动备用 network（网络），优先 transmit（传输）信号灯控制指令！”"
+      },
+      {
+        "title": "绝地反击",
+        "story": "汗水浸透衬衫，林哲 run（运行）解码程序:“对方用加密集合封锁访问……有了！用这个密钥 print（打印）指令！”突然警报响起——服务器 fuel（燃料）即将耗尽。他一边给冷却系统加压，一边说道:“小张，你去 set（设置）防火墙参数！”倒计时 10 秒时绿灯全城亮起！"
+      },
+      {
+        "title": "黎明曙光",
+        "story": "晨光中，林哲站在发布会 panel（专家小组）前:“board（董事会）已批准全市覆盖新系统。”大屏幕展示实时交通 flow（流）:救护车优先通行，地铁班次智能调度。记者追问成功秘诀，他举起密钥 page（纸片）:“它由代码和信念共同驱动。”"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "traffic",
+      "ipa": "/ˈtræfik/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "交通；流量"
+        }
+      ],
+      "mnemonic": "谐音“揣飞克”→早晚高峰时，车辆揣着飞快的心情，却被迫克制速度→这不就是“交通”拥堵的真实写照吗？",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "traffic 可以表示网络、自媒体的“流量”，热点概念，近年常考。 【2021 年英语（一）】 Broadband providers would slow down the traffic on their network. 宽带提供商们会降低它们的网络流量。"
+        }
+      ]
+    },
+    {
+      "spelling": "navigate",
+      "ipa": "/ˈnævɪgeɪt/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "导航，(找到正确方法) 应对、处理"
+        }
+      ],
+      "mnemonic": "“挪威 gate（大门）”→去挪威旅游时，通过导航找到景区大门。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "最常考",
+          "body": "应对，处理 【2016 年英语（一）】 So how do we navigate this? How do we know when to invest in an upgrade? 那么我们该如何应对呢？我们怎么知道什么时候该投资升级？ 【2015 年英语（二）】 Many first-generation students struggle to navigate the middle-class culture of higher education. 很多第一代大学生很难应对高等教育的中产阶级文化。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词可以表示网络的导航。 【2011 年英语（二）】 Only registered users whose identities have been authenticated could navigate those systems. 只有身份经过认证的注册用户才能在这些系统上导航。"
+        }
+      ]
+    },
+    {
+      "spelling": "transfer",
+      "ipa": "/trænsˈfɜːr/",
+      "senses": [
+        {
+          "pos": "v/n.",
+          "meaning_cn": "转移；调动；转账；改编；传染；换乘；转学；转让"
+        }
+      ],
+      "mnemonic": "trans-（从 A 到 B）+ fer-（拿）→ 从 A 拿到 B → 转移，调动。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "transferable adj. 可转移的；可调动的；可转让的 transferability n. 可转移性；可调动性；可转让性"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词的翻译非常灵活，但只需记住它表示“从 A 拿到 B”,就可以理解： 转账：把钱从 A 账户拿到 B 账户，如 transfer money from my bank account to his 转学：把学生从 A 学校拿到 B 学校，如 transfer a student from one school to another 调动：把员工从 A 部门拿到 B 部门，如 transfer an employee from one sector to another 传染：把疾病从 A 身上拿到 B 身上，如 transfer a disease from mother to her baby 改编：把故事从小说拿到电影，如 transfer a story from a novel to a movie"
+        }
+      ]
+    },
+    {
+      "spelling": "transmit",
+      "ipa": "/trænzˈmɪt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "传输；传送；传递；传播；传染"
+        }
+      ],
+      "mnemonic": "trans-（从 A 到 B）+ mit-（扔）→ 从 A 扔到 B → 传输，传递。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词的翻译非常灵活，但只需记住它表示“从 A 扔到 B”, 都可以理解： 传输信号： 把信号从 A 扔到 B，如 transmit signals 传递信息： 把信息从 A 扔到 B，如 transmit information 传染疾病： 把疾病从 A 扔到 B, 如 transmit disease to humans"
+        }
+      ]
+    },
+    {
+      "spelling": "migrate",
+      "ipa": "/maɪˈɡreɪt/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "移民；移动"
+        }
+      ],
+      "mnemonic": "谐音“my great” → 我做过最棒（great）的决定就是在迁移（migrate）中探索世界。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "migration n. 移民 emigrate v. 移民 (e- = ex- 向外) immigrate v. 移民（im- = in- 往里） immigrant n. 移民（-ant 人）"
+        },
+        {
+          "marker": "②",
+          "kind": "辨析",
+          "label_raw": "区分",
+          "body": "emigrate 表示从一个国家移出；immigrate 表示移入一个国家；migrate 既可以表示移入，也可以表示移出一个国家。 【2012 年英语（二）】 Lots of studies have found that well-educated people from developing countries are particularly likely to emigrate. 大量研究发现，发展中国家受过良好教育的人尤其可能移民。 【2019 年英语（二）】 Perhaps half of U.S. farm laborers are undocumented immigrants. 或许，美国半数的农场工人都是没有登记的移民。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "migrate 可以表示移动，而不仅仅是移民，migrate to 表示移动到……, migrate away from 表示从……离开。 【2016 年英语（一）】 Readers are migrating away from print anyway. 而且，读者们也正在逐渐远离纸质版的报刊。"
+        }
+      ]
+    },
+    {
+      "spelling": "flow",
+      "ipa": "/fləʊ/",
+      "senses": [
+        {
+          "pos": "v./n.",
+          "meaning_cn": "流"
+        }
+      ],
+      "mnemonic": "flower（落花）随水 flow（流）。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "搭配",
+          "label_raw": "常考短语",
+          "body": "flow from 源自，来自 (构词逻辑与 derive from 相同) 【2011 年英语（一）】 Evidence suggests that emotions can flow from muscular responses. 证据表明，感情可以源自肌肉反应。"
+        }
+      ]
+    },
+    {
+      "spelling": "board",
+      "ipa": "/bɔːrd/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "板；董事会，委员会"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "登船，登机"
+        }
+      ],
+      "mnemonic": "谐音“板的”→板。 1. 走上甲板 → 登船，引申为登机; 2. 开会时在白板上写写画画 → 董事会、委员会董事会（board）成员们一起登船（board）出发了。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常考用法",
+          "body": "董事会 【2013 年英语（二）】 The Europe Union is now considering legislation to compel corporate boards to maintain a certain proportion of women — up to 60 percent. 欧盟目前正考虑制定相关法规，强制要求公司董事会中女性成员所占比例达到一定水平——最高可达 60%。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "board 作为动词时，既可用作及物动词，也可用作不及物动词。及物动词表示“上船、车、飞机等交通工具”，如:board the train。board 作不及物动词时，语义较具体，聚焦“登上”的动作本身，如:Passengers began to board。"
+        },
+        {
+          "marker": "③",
+          "kind": "辨析",
+          "label_raw": "形近词辨析",
+          "body": "aboard adv./prep. 在船（飞机、车）上【on board（在甲板上）的缩写】； abroad adv. 到国外，在国外。"
+        }
+      ]
+    },
+    {
+      "spelling": "net",
+      "ipa": "/net/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "网"
+        },
+        {
+          "pos": "adj.",
+          "meaning_cn": "净的"
+        }
+      ],
+      "mnemonic": "通过制作渔网（fishing net），他们获得了高额的净（net）利润。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "考研常考 net 作形容词，表示“净的”。 【2018 年英语（一）】 The U.S. Postal Service (USPS) reported a net loss of \\$5.6 billion for fiscal 2016. 美国邮政服务（USPS）报告其 2016 财年的净亏损达到了 56 亿美元。 【2023、2024 年英语（二），2025 年英语（一）】 net-zero 净零排放"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "the Net 特指互联网，并不常考。 【2003 年】 These days the Net, which has already re-made such everyday pastimes as buying books and sending mail, is reshaping Donovan's vocation as well. 如今，互联网已经改变了诸如买书和寄信这类日常活动的方式，而它也正在重塑多诺万的职业。"
+        }
+      ]
+    },
+    {
+      "spelling": "network",
+      "ipa": "/ˈnetwɜːrk/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "网络；关系网"
+        }
+      ],
+      "mnemonic": "当 net（网）work（起作用）了，就形成了 network（网络）。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "相关词",
+          "body": "internet n. 互联网 = the Net web n. 网 website n. 网站 = site 【2011 年英语（一）】 Members of social networks, are learning that they can hijack media. 社交网络的成员们正在意识到，他们可以劫持媒体。"
+        }
+      ]
+    },
+    {
+      "spelling": "page",
+      "ipa": "/peɪdʒ/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "页，纸张；篇章"
+        }
+      ],
+      "mnemonic": "她翻到第 2 页（page），在书中发现一张皱巴巴的纸（page），然后微笑着看向人生中等待书写的下一篇章（page）。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "take a page = learn a lesson 学习经验，吸取经验 【2012 年英语（一）】 Rosenberg argues convincingly that public-health advocates ought to take a page from advertisers. 罗森伯格令人信服地指出，公共卫生倡导者应该向广告商学习。"
+        }
+      ]
+    },
+    {
+      "spelling": "code",
+      "ipa": "/kəʊd/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "代码，密码; (道德、行为) 准则; 【法】法规"
+        }
+      ],
+      "mnemonic": "他在编写保护系统的代码（code）时，突然收到破解机密文件密码（code）的任务，于是他遵循职业行为准则和法规（code）核查流程成功完成任务。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "encode vt. 编码 decode vt. 解码"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "【2012 年英语（一）】 ethics code 道德准则 code of conduct 行为准则"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "code 可以表示法规，即对道德或行为准则的法律规定。 【2019 年英语（一）】 Much more could be done to encourage “long-termism”, such as changes in the tax code and quicker disclosure of stock acquisitions. 可以做更多的事去促进“长期主义”，例如改变税法和更快披露股票收购信息。"
+        }
+      ]
+    },
+    {
+      "spelling": "screen",
+      "ipa": "/skriːn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "屏幕；屏障"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "放映，播放；检查，审查；筛选"
+        }
+      ],
+      "mnemonic": "本义表示屏幕。 1. 将影像呈现在屏幕上 $\\rightarrow$ 放映、播放； 2. 安检人员对着屏幕看旅客行李中的东西 $\\rightarrow$ 检查、审查、筛选。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "screen 可以作动词，表示机场、火车站、地铁的安检。 【2017 年英语（一）】 Part of the issue is that airports have only so much room for screening lanes. 部分问题是，机场只有那么多空间留给安检通道。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "screener 可以表示安检设备、安检人员或筛选人员。 【2013 年英语（二）】 We can help screeners understand their biases — or hire outside screeners. 我们可以帮助这些筛选人员认识到自身的偏见，或者聘请外部的筛选人员。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "screen 表示检查、审查，可以和 check 互换。 The journal Science is adding an extra round of statistical checks/screens to its peer-review process. 《科学》杂志正在其同行评审流程中增加一轮额外的统计检查。"
+        },
+        {
+          "marker": "④",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "screen 可以表示屏障，两个人隔着屏幕交流，其 其实就是两个人之间隔着一道屏障。 【2022 年英语（一）】 Van Oosten calls those chemicals “sunscreens” because their goal was to prevent further light damage and rebuild worn polymer fibers. 范·奥森称这些化学物质为“防晒剂”，因为其目的就是防止进一步的光线损害，并修复受损的聚合纤维。"
+        }
+      ]
+    },
+    {
+      "spelling": "panel",
+      "ipa": "/ˈpænl/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "板，控制板；专家组"
+        }
+      ],
+      "mnemonic": "谐音“判脑”→医生通过 panel（控制板来判断婴儿的大脑发育水平。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "solar panels 太阳能板 【2024 年英语（一）】 Solar panels had a few niche uses until they became cheap; now they are transforming the global energy system. 太阳能板在价格降低之前仅有一些小众用途，而如今它们正在改变全球能源体系。"
+        }
+      ]
+    },
+    {
+      "spelling": "set",
+      "ipa": "/set/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "放；落；设置"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "套，系列；集合"
+        }
+      ],
+      "mnemonic": "夕阳西下（set）时，他把马克杯放（set）在桌上，设置（set）好手机计时器，然后伸手拿过国际象棋套装（set），加入了在外面等候的那群（set）玩家。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "offset vt. 抵消（off 离开 + set 设置 → 设置为离开 → 抵消）"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "set sth. up 建立，设立 【2024 年英语（一）】 They then set up a “food station” experiment. 他们之后设立了一个“食物站”实验。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "set sb. up 使更强大 【2022 年英语（一）】 Millennials were told that if you did well in school, got a decent degree, you would be set up for life. 千禧一代曾被告知，如果他们在学校表现出色，获得了不错的学位，那么他们在人生中就会更加强大。"
+        },
+        {
+          "marker": "④",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "翻译题考过 set 作名词，表示“集合”, 但仅仅考过一次。 【2002 年翻译】 like the concept of “set” in mathematics 就像数学中“集合”的概念"
+        }
+      ]
+    },
+    {
+      "spelling": "run",
+      "ipa": "/rʌn/",
+      "senses": [
+        {
+          "pos": "v./n.",
+          "meaning_cn": "跑；经营，运转"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "一段时间"
+        }
+      ],
+      "mnemonic": "本义表示“跑”: 1. 让公司跑起来 → 经营； 2. 让机器跑起来 → 运转; 3. 让时间跑起来 → 一段时间。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "【2011 年英语（一）、2020 年英语（二）】 run a company 经营一家公司"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "常考 long run 表示很长一段时间 【2003 年】 In the long run it reduces everyone's cost. 长期来看，它会降低所有人的成本。 【2019 年英语（一）】 long-run effects 长期效果 【2010 年英语（二）】 the longest bull run in a century of art-market history 艺术市场历史一个世纪中最长时间的牛市"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "还有一个词，spell 除了“拼写，拼读”之外，也可以表示“一段时间”，并不常考。 【2020 年英语（一）】 bringing prominence for a spell but leaving no lasting benefits 带来了一时的名声，但并未留下任何持久的好处"
+        }
+      ]
+    },
+    {
+      "spelling": "press",
+      "ipa": "/pres/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "压"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "出版，印刷；印刷品，报纸杂志；印刷机"
+        }
+      ],
+      "mnemonic": "单词本义表示“压”。所谓出版、印刷，就是印刷机将文字压到报纸杂志的纸张上。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "熟词僻义",
+          "body": "印刷品，报纸杂志 【2010 年英语（一）】 These men believed in journalism as a calling, and were proud to be published in the daily press. 这些人把新闻工作视为一种使命，并且为能在日报上发表作品而感到自豪。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "pressure n. 压；压力 pressing adj. 紧急的，紧迫的 【2003 年】 It is said that in England death is pressing, in Canada inevitable and in California optional. 据说，死亡在英国是迫在眉睫的，在加拿大是不可避免的，在加利福尼亚则是可以选择的。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "press for = push for 呼吁，要求 【2005 年】 Instead of a plan of action, they continue to press for more research. 他们继续要求进行更多的研究，而不是提出行动计划。 【2024 年英语（一）】 pushing for new policies or regulation 呼吁制定新的政策或法规"
+        }
+      ]
+    },
+    {
+      "spelling": "print",
+      "ipa": "/prɪnt/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "印刷"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "印刷；印刷行业；脚印，指印"
+        }
+      ],
+      "mnemonic": "谐音“喷润它”=打印机喷墨，润湿它（纸张）→印刷。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "printing n. 印刷；印刷术 printer n. 打印机 fingerprint n. 指纹 newsprint n. 新闻纸，报纸用纸"
+        }
+      ]
+    },
+    {
+      "spelling": "fuel",
+      "ipa": "/ˈfjuːəl/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "燃料"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "刺激，加剧，促进"
+        }
+      ],
+      "mnemonic": "谐音“富有油” → 车有富有燃料，促进行程。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "fuel 作动词，表示促进，相当于 promote 或 encourage。 【2016 年英语（二）】 You’d think scheduling regular times for reading might fuel the efficiency mind-set, but in fact, Eberle notes, such ritualistic behaviour helps us “step outside time’s flow” into “soul time”. 你可能会认为定期安排阅读时间可能会促进效率思维模式，但实际上，埃伯勒指出，这种仪式性的行为实际上能让我们“跳出时间流”，进入“心灵时间”。"
+        }
+      ]
+    },
+    {
+      "spelling": "head",
+      "ipa": "/hed/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "头；顶部；领导人"
+        },
+        {
+          "pos": "v.",
+          "meaning_cn": "领导；朝……前进，去征"
+        }
+      ],
+      "mnemonic": "本义表示头、顶部；领导人就是一个组织的头目；头朝哪个方向，就朝这个方向前进",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "headache n. 头痛（ache 疼痛）"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "head 可以作动词，表示领导或去往。 【2022 年英语（一）】 The center was headed alternately by artists and scientists. 该中心由艺术家和科学家轮流领导。 【2023 年英语（一）】 You're heading for your nearest branch of Waterstones, 你正在去往离你最近的水石书店的分店。"
+        }
+      ]
+    },
+    {
+      "spelling": "headlong",
+      "ipa": "/ˈhedlɒŋ/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "头朝前的；轻率的，莽撞的；迅猛的"
+        }
+      ],
+      "mnemonic": "本义表示“头朝前的”，引申为“轻率的莽撞的”或“迅猛的”，即不假思索地一头扎进去",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "搭配",
+          "label_raw": "短语搭配",
+          "body": "in headlong retreat 迅速衰退 【2010 年英语（一）】 Moreover, the amateur tradition in music criticism has been in headlong retreat. 此外，音乐评论中的业余传统一直处于急速衰退的状态。"
+        }
+      ]
+    },
+    {
+      "spelling": "headline",
+      "ipa": "/ˈhedlaɪn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "大字标题；头条新闻，新闻焦点"
+        }
+      ],
+      "mnemonic": "head（头）+ line（线条）→头部的一条。 1. 文章头部的一条文字，叫作“大字标题”； 2. 报纸头部的新闻，就是头条新闻或焦点新闻。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "make/become headlines 成为新闻焦点 【2021 年英语（二）】 With the global population predicted to hit close to 10 billion by 2050, food security is increasingly making headlines. 到 2050 年，全球人口预计将接近 100 亿，粮食安全问题正日益成为新闻焦点。"
+        }
+      ]
+    },
+    {
+      "spelling": "overhead",
+      "ipa": "/ˈəʊvəhed/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "在头顶上的"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "(pl.) 日常运营经费"
+        }
+      ],
+      "mnemonic": "over（在上面）+ head（头）→在头顶上面。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词可以作名词表示日常运营经费，即每天都要顶在头上的开销，通常用复数形式。 【2016 年英语（一）】 Overhead may be high and circulation lower, but rushing to eliminate its print edition would be a mistake. 运营经费可能很高且发行量可能更低，但仓促消灭其纸质版会是一个错误。"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L7-01",
+      "kind": "single",
+      "stem": "Rosenberg argues convincingly that public-health advocates ought to take a page from advertisers. Rosenberg holds that public-health advocates should ____.",
+      "options": [
+        "recruit professional advertisers",
+        "learn from advertisers' experience",
+        "stay away from commercial advertisers",
+        "recognize the limitations of advertisements"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "page",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-02",
+      "kind": "single",
+      "stem": "The journal Science is adding an extra round of statistical checks to its peer-review process. Which of the following is the best title of the text?",
+      "options": [
+        "Science Joins Push to Screen Statistics in Papers",
+        "Professional Statisticians Deserve More Respect",
+        "Data Analysis Finds Its Way onto Editors' Desks",
+        "Statisticians Are Coming Back with Science"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "screen",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-03",
+      "kind": "single",
+      "stem": "While fossil____—coal, oil, gas—still generate roughly 85 percent of the world's energy supply, it's clearer than ever that the future belongs to renewable sources such as wind and solar.",
+      "options": [
+        "press",
+        "fuels",
+        "panels",
+        "screens"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "fuel",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-04",
+      "kind": "single",
+      "stem": "Most Americans rely on social media to check daily ____.",
+      "options": [
+        "headlines",
+        "networks",
+        "boards",
+        "codes"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "headline",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-05",
+      "kind": "single",
+      "stem": "Today's CEO, at least for major American firms, must have many mere skills than simply being able to \"____ the company\".",
+      "options": [
+        "flow",
+        "head",
+        "set",
+        "run"
+      ],
+      "answer": 3,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "run",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-06",
+      "kind": "single",
+      "stem": "After the unexpected defeat, the opposing army was forced to withdraw in ____ retreat, leaving behind weapons and supplies.",
+      "options": [
+        "head",
+        "overhead",
+        "headline",
+        "headlong"
+      ],
+      "answer": 3,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "headlong",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-07",
+      "kind": "single",
+      "stem": "The company decided to reduce its ____ costs by moving to a smaller office.",
+      "options": [
+        "headlong",
+        "headline",
+        "overhead",
+        "head"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "overhead",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-08",
+      "kind": "fill",
+      "stem": "Without constant____(migrate) of digital assets, a nightmare about the foreseeable future is what keeps historians up at night: a historical record that abruptly stops when digital replaces analog.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "migration"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "migrate",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-09",
+      "kind": "fill",
+      "stem": "Information ____ (flow) from the media to the influentials and from them to everyone else.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "flows"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "flow",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-10",
+      "kind": "fill",
+      "stem": "Today we live in a world where GPS systems, digital map and other____ (navigate) apps are available on our smartphones.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "navigation"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "navigate",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-11",
+      "kind": "fill",
+      "stem": "There has long been concern that broadband providers would slow down the ____ (traffic) on their network.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "traffic"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "traffic",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-12",
+      "kind": "fill",
+      "stem": "If you ____ (head) downhill, and follow any H2O you find, you should eventually see signs of people.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "head"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "head",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-13",
+      "kind": "fill",
+      "stem": "With the global push for renewable energy, many households are now installing solar ____ (panel) to reduce their carbon footprint and lower electricity bills.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "panels"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "panel",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-14",
+      "kind": "fill",
+      "stem": "The Nobels were, of course, themselves____ (set) up by a very rich individual who had decided what he wanted to do with his own money.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "set"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "set",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-15",
+      "kind": "fill",
+      "stem": "The best uses of 3D____ ( print) and virtual reality haven't been invented yet.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "printing"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "print",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-16",
+      "kind": "translate_sentence",
+      "stem": "Called conditional cash transfers or CCTs, these social assistance programs are designed to reduce inequality and break the cycle of poverty.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "transfer",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-17",
+      "kind": "translate_sentence",
+      "stem": "The satellite can transmit data signals to receivers located thousands of kilometers away.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "transmit",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-18",
+      "kind": "translate_sentence",
+      "stem": "It was also, and this is unknown even to many people well read about the period, a battle between those who made codes and those who broke them.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "code",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-19",
+      "kind": "translate_sentence",
+      "stem": "Between 2010 and 2015 the share of women on the boards of global corporations increased by 54 percent.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "board",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-20",
+      "kind": "translate_sentence",
+      "stem": "Finally, because automation threatens to widen the gap between capital income and labor income, taxes and the safety net will have to be rethought.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "net",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-21",
+      "kind": "translate_sentence",
+      "stem": "Members of social networks, for instance, are learning that they can hijack media to apply pressure on the businesses that originally created them.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "network",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L7-22",
+      "kind": "translate_sentence",
+      "stem": "There is a great deal of this kind of nonsense in the medical journals which, when taken up by broadcasters and the lay press, generates both health scares and short-lived dietary enthusiasms.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "press",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

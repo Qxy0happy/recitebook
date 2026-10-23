@@ -1,0 +1,5089 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.042,
+            0.0,
+            0.11,
+            0.032
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.126,
+            0.006,
+            0.378,
+            0.025
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.407,
+            0.006,
+            0.511,
+            0.023
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "doc_title",
+          "bbox": [
+            0.429,
+            0.054,
+            0.589,
+            0.085
+          ],
+          "level": 1,
+          "content": "人与认知"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.607,
+            0.06,
+            0.928,
+            0.075
+          ],
+          "content": "929050006566055050000g"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.37,
+            0.132,
+            0.416,
+            0.166
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_5.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.422,
+            0.138,
+            0.626,
+            0.159
+          ],
+          "level": 2,
+          "content": "List 1 智慧与本质"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.174,
+            0.229,
+            0.194
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.202,
+            0.442,
+            0.219
+          ],
+          "content": "情节发展；天赋觉醒→永恒真理→假设与推论"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.094,
+            0.236,
+            0.168,
+            0.251
+          ],
+          "level": 2,
+          "content": "天赋觉醒"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.255,
+            0.701,
+            0.313
+          ],
+          "content": "年轻的 Lena 展现出非凡的 intelligence/intellect（智力），她的 conscious（有意识的）思考常与 intuition（直觉）结合。研究表明，她的 genius（天赋）与家族 gene（基因）有关，上 generation（一代人）中也有多位科学 gift（天才）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.716,
+            0.235,
+            0.925,
+            0.311
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior view of a laboratory with a person in a lab coat seated at a desk, surrounded by equipment and a microscope (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_11.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.093,
+            0.325,
+            0.168,
+            0.34
+          ],
+          "level": 2,
+          "content": "永恒真理"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.344,
+            0.701,
+            0.401
+          ],
+          "content": "在研究中，她发现宇宙规律是 constant/permanent（恒定的），这反映了 nature（自然）的 essential（本质）。即便环境变化，真理仍 endure（持久），如同她的信念般 stable（稳固）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.716,
+            0.324,
+            0.925,
+            0.4
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior view of a space-themed exhibition space with a telescope and display screens (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_14.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.092,
+            0.419,
+            0.185,
+            0.436
+          ],
+          "level": 2,
+          "content": "假设与推论"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.439,
+            0.7,
+            0.476
+          ],
+          "content": "面对未知现象，她谨慎地 infer (推断), assume/presume/suppose (假设) 存在新粒子，并 conceive (构想) 实验方案。数据 imply (暗示) 了结论，但需进一步验证。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.715,
+            0.408,
+            0.925,
+            0.485
+          ],
+          "sub_type": "natural_image",
+          "content": "Office workspace with multiple computer monitors and documents, no visible text or symbols",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_17.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.52,
+            0.226,
+            0.541
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.562,
+            0.304,
+            0.578
+          ],
+          "content": "intelligence /m'telɪdʒəns/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.582,
+            0.297,
+            0.597
+          ],
+          "content": "n. 聪明，智力，智能; 情报"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.604,
+            0.482,
+            0.68
+          ],
+          "content": "妙记:intel-（两者之间）+ lig- = lect-（选择）→只有聪明智能的生物，才能在两者之间做出选择→聪明、智能；而“情报”工作需要从海量信息中筛选关键内容。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.214,
+            0.686,
+            0.348,
+            0.775
+          ],
+          "sub_type": "natural_image",
+          "content": "3D rendered robot figure with raised arms and glowing eyes, set against a blue background with small colored circles (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_22.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.78,
+            0.182,
+            0.801
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.808,
+            0.228,
+            0.824
+          ],
+          "content": "①常考释义：智能"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.827,
+            0.239,
+            0.844
+          ],
+          "content": "【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.848,
+            0.483,
+            0.884
+          ],
+          "content": "Companies are using artificial intelligence to remove some of the unconscious bias from hiring decisions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.887,
+            0.484,
+            0.922
+          ],
+          "content": "企业正在利用人工智能来消除招聘决策中的一些无意识偏见。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.559,
+            0.678,
+            0.575
+          ],
+          "content": "②常考释义：情报"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.579,
+            0.734,
+            0.595
+          ],
+          "content": "【2022 年英语（一）翻译】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.6,
+            0.931,
+            0.635
+          ],
+          "content": "There may have been many spies and intelligence officers during the Napoleonic Wars."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.638,
+            0.882,
+            0.655
+          ],
+          "content": "拿破仑战争期间可能有很多间谍和情报官员。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.658,
+            0.616,
+            0.674
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.679,
+            0.781,
+            0.695
+          ],
+          "content": "intelligent adj. 聪明的，明智的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.699,
+            0.834,
+            0.715
+          ],
+          "content": "intelligible adj. 可理解的，明白易懂的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.739,
+            0.705,
+            0.754
+          ],
+          "content": "intellect /'ɪntəlekt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.544,
+            0.759,
+            0.648,
+            0.774
+          ],
+          "content": "n. 聪明，智力"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.782,
+            0.93,
+            0.819
+          ],
+          "content": "妙记:intel-（在……之间）+ lect-（挑选）→在知识中精挑细选需要“智力”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.829,
+            0.634,
+            0.849
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.857,
+            0.76,
+            0.874
+          ],
+          "content": "①辨析与 intelligence 的区别："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.877,
+            0.929,
+            0.913
+          ],
+          "content": "intelligence 更通用，可用于日常智力、AI 或间谍情报; intellect 更学术，强调理性分析与深度思维。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.059,
+            0.935,
+            0.083,
+            0.948
+          ],
+          "content": "38"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.1,
+            0.932,
+            0.129,
+            0.95
+          ],
+          "content": "#"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.132,
+            0.935,
+            0.181,
+            0.949
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.856,
+            0.028,
+            0.962,
+            0.064
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.086,
+            0.152,
+            0.1
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.104,
+            0.474,
+            0.138
+          ],
+          "content": "intellectual adj. 智力的；需用脑力的，在考研真题中，通常翻译成“知识的”或者“文化的”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.142,
+            0.227,
+            0.156
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.161,
+            0.405,
+            0.175
+          ],
+          "content": "intellectual-property lawyers 知识产权律师"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.179,
+            0.226,
+            0.194
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.198,
+            0.338,
+            0.213
+          ],
+          "content": "intellectual investigation 文化研究"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.233,
+            0.254,
+            0.248
+          ],
+          "content": "conscious /'kɑːnʃəs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.251,
+            0.348,
+            0.267
+          ],
+          "content": "adj. 有意识的；意识到的；刻意的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.274,
+            0.473,
+            0.308
+          ],
+          "content": "妙记：谐音“看谁思→看谁在思考→那就是“有意识的”人。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.209,
+            0.315,
+            0.334,
+            0.381
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_10.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.385,
+            0.169,
+            0.406
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.067,
+            0.411,
+            0.472,
+            0.461
+          ],
+          "sub_type": "text",
+          "content": "① be/become conscious of (意识到) = aware of (但更强调“觉醒”)\n②常考释义：有意识的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.465,
+            0.226,
+            0.48
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.485,
+            0.474,
+            0.516
+          ],
+          "content": "However, Allen believed that the unconscious mind generates as much action as the conscious mind."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.521,
+            0.474,
+            0.553
+          ],
+          "content": "然而，艾伦认为，潜意识思维产生的行为与有意识思维一样多。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.558,
+            0.15,
+            0.572
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.577,
+            0.281,
+            0.591
+          ],
+          "content": "consciously adv. 有意识地"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.595,
+            0.372,
+            0.61
+          ],
+          "content": "unconscious adj. 无意识的；没知觉的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.614,
+            0.379,
+            0.628
+          ],
+          "content": "subconscious adj. 下意识的，潜意识的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.633,
+            0.299,
+            0.646
+          ],
+          "content": "unconsciously adv. 无意识地"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.651,
+            0.233,
+            0.664
+          ],
+          "content": "常考释义：无意识地"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.668,
+            0.218,
+            0.683
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.687,
+            0.474,
+            0.718
+          ],
+          "content": "This is a subtle form of peer pressure: we unconsciously imitate the behavior we see every day."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.722,
+            0.474,
+            0.755
+          ],
+          "content": "这是朋辈压力的一个微小的形式：我们无意识地模仿我们每天看到的行为。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.775,
+            0.248,
+            0.791
+          ],
+          "content": "intuition /ˌɪntuˈɪʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.795,
+            0.135,
+            0.809
+          ],
+          "content": "n. 直觉"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.817,
+            0.475,
+            0.851
+          ],
+          "content": "妙记:in-（向内）+tu（突）+ -ition（名词后缀）→内心突然“突突”冒出的想法→直觉。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.215,
+            0.858,
+            0.328,
+            0.923
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_30.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.086,
+            0.628,
+            0.106
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.112,
+            0.711,
+            0.128
+          ],
+          "content": "①【2021 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.132,
+            0.929,
+            0.183
+          ],
+          "content": "Other research shows we're better at detecting deception from thin slices when we rely on intuition instead of reflection."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.187,
+            0.918,
+            0.222
+          ],
+          "content": "其他研究表明，当我们依靠直觉而非理性思考时，我们能更准确地从细微的迹象中识别出谎言。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.226,
+            0.61,
+            0.24
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.244,
+            0.8,
+            0.259
+          ],
+          "content": "intuitive adj. 直觉的，来自直觉的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.264,
+            0.765,
+            0.278
+          ],
+          "content": "counterintuitive adj. 反直觉的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.283,
+            0.686,
+            0.298
+          ],
+          "content": "【2014 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.302,
+            0.933,
+            0.355
+          ],
+          "content": "These two academics use an array of behavioral research to show that the most rewarding ways to spend money can be counterintuitive."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.359,
+            0.932,
+            0.394
+          ],
+          "content": "这两位学者用一系列行为研究表明，最能带来回报的消费方式往往是反直觉的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.419,
+            0.648,
+            0.435
+          ],
+          "content": "gene /dʒiːn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.538,
+            0.438,
+            0.595,
+            0.452
+          ],
+          "content": "n. 基因"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.46,
+            0.706,
+            0.476
+          ],
+          "content": "妙记：谐音“基因”。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.658,
+            0.483,
+            0.803,
+            0.579
+          ],
+          "sub_type": "natural_image",
+          "content": "Abstract illustration of a DNA double helix with glowing red and orange strands (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_44.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.584,
+            0.628,
+            0.604
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.611,
+            0.628,
+            0.626
+          ],
+          "content": "①常见词组："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.631,
+            0.673,
+            0.646
+          ],
+          "content": "gene pool 基因库"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.649,
+            0.827,
+            0.664
+          ],
+          "content": "gene-editing technology 基因编辑技术"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.668,
+            0.935,
+            0.702
+          ],
+          "content": "② genome 表示基因组，是 gene home（基因家族）的缩写。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.706,
+            0.686,
+            0.722
+          ],
+          "content": "【2012 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.726,
+            0.932,
+            0.742
+          ],
+          "content": "the sequencing of a whole genome 全部基因组的测序"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.745,
+            0.61,
+            0.76
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.764,
+            0.933,
+            0.799
+          ],
+          "content": "genetic adj. 遗传的；基因的，考研英语阅读中常考\ngenetically modified (GM)（转基因的）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.803,
+            0.68,
+            0.819
+          ],
+          "content": "genetics n. 遗传学"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.842,
+            0.758,
+            0.858
+          ],
+          "content": "generation /ˌdʒenəˈreɪʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.538,
+            0.861,
+            0.76,
+            0.876
+          ],
+          "content": "n. 产生；一代产品；一代人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.883,
+            0.935,
+            0.918
+          ],
+          "content": "妙记:gene（基因）+ -er（人 / 物）+ -ation（行为）→基因的传递者→一代人。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.836,
+            0.934,
+            0.887,
+            0.95
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.89,
+            0.934,
+            0.92,
+            0.95
+          ],
+          "content": "[NO TEXT]"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.939,
+            0.936,
+            0.964,
+            0.95
+          ],
+          "content": "39"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.031,
+            0.024,
+            0.102,
+            0.058
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.116,
+            0.031,
+            0.371,
+            0.048
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.4,
+            0.031,
+            0.504,
+            0.047
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.208,
+            0.078,
+            0.351,
+            0.173
+          ],
+          "sub_type": "natural_image",
+          "content": "Crowd of people in a dimly lit indoor setting, no visible text or symbols",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_3.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.178,
+            0.18,
+            0.199
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.206,
+            0.179,
+            0.221
+          ],
+          "content": "①常见词组；"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.225,
+            0.257,
+            0.242
+          ],
+          "content": "power generation 发电"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.244,
+            0.379,
+            0.26
+          ],
+          "content": "next-generation technology 下一代技术"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.264,
+            0.238,
+            0.28
+          ],
+          "content": "generation gap 代沟"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.283,
+            0.343,
+            0.298
+          ],
+          "content": "②常考两代人:Z 世代和千禧一代"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.302,
+            0.443,
+            0.318
+          ],
+          "content": "Generation Z (Z 世代): 1995—2012 年出生的人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.321,
+            0.233,
+            0.338
+          ],
+          "content": "【2020 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.342,
+            0.475,
+            0.378
+          ],
+          "content": "Generation Zs are looking for more certainty and stability."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.381,
+            0.421,
+            0.396
+          ],
+          "content": "Z 世代的人正在寻求更高的确定性和稳定性。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.4,
+            0.473,
+            0.417
+          ],
+          "content": "Millennials (千禧一代，也被称为 Generation Y):"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.42,
+            0.263,
+            0.435
+          ],
+          "content": "1981—1994 年出生的人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.438,
+            0.233,
+            0.455
+          ],
+          "content": "【2020 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.459,
+            0.428,
+            0.474
+          ],
+          "content": "Millennials wanted more flexibility in their lives."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.477,
+            0.458,
+            0.494
+          ],
+          "content": "千禧一代的人在他们的人生中想要更高的灵活性。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.497,
+            0.165,
+            0.513
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.517,
+            0.27,
+            0.533
+          ],
+          "content": "generate vt. 产生；引起"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.556,
+            0.239,
+            0.572
+          ],
+          "content": "genius /'dʒiːniəs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.575,
+            0.2,
+            0.591
+          ],
+          "content": "n. 天才；天赋"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.598,
+            0.463,
+            0.634
+          ],
+          "content": "妙记：gen- 表示生，niu 联想成“牛”, 出生就很牛，就是天才。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.644,
+            0.177,
+            0.664
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.672,
+            0.474,
+            0.706
+          ],
+          "content": "① genius 和 talent 和 gift 都可以表示人才或能力，但含义并不完全相同。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.71,
+            0.474,
+            0.745
+          ],
+          "content": "genius 表示天生就是人才或天生就具有的能力，即“天才”或“天赋”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.749,
+            0.234,
+            0.765
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.77,
+            0.397,
+            0.785
+          ],
+          "content": "They perpetuate the myth of the lone genius."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.788,
+            0.302,
+            0.803
+          ],
+          "content": "他们延续了孤独天才的神话。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.807,
+            0.475,
+            0.842
+          ],
+          "content": "talent 既可以表示“天才、天赋”，也可以表示后天成才或后天习得的能力，即“人才”或“才华”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.846,
+            0.235,
+            0.861
+          ],
+          "content": "【2020 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.866,
+            0.477,
+            0.921
+          ],
+          "content": "The best model for understanding the growth of CEO pay is that of limited CEO talent in a world where business opportunities for the top firms are growing rapidly."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.076,
+            0.921,
+            0.131
+          ],
+          "content": "理解首席执行官薪酬增长的最佳模型是这样的：在这样一个世界里，顶级公司的商业机会正在迅速增长，首席执行官的人才储备却是有限的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.134,
+            0.607,
+            0.149
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.153,
+            0.768,
+            0.169
+          ],
+          "content": "ingenious adj. 聪明的；巧妙的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.173,
+            0.686,
+            0.189
+          ],
+          "content": "genuine adj. 真正的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.211,
+            0.624,
+            0.228
+          ],
+          "content": "gift /gɪft/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.23,
+            0.748,
+            0.246
+          ],
+          "content": "n. 礼物；天赋；才能，才华"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.253,
+            0.923,
+            0.289
+          ],
+          "content": "妙记：给 (give) + 它 (it) → 把东西“给它” = 礼物; → 上天“给你的东西” = 天赋。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.662,
+            0.296,
+            0.79,
+            0.395
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a child and a figure standing together with white doves flying around, set against a blossoming sky (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_40.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.4,
+            0.627,
+            0.421
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.429,
+            0.793,
+            0.445
+          ],
+          "content": "① have a gift for...（有……的天赋）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.449,
+            0.835,
+            0.465
+          ],
+          "content": "She has a gift for calming nervous patients."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.468,
+            0.731,
+            0.483
+          ],
+          "content": "她有安抚紧张患者的能力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.487,
+            0.922,
+            0.523
+          ],
+          "content": "② gift 除了“天赋”，还能表示后天习得的“才能、才华”，相当于 ability 和 capability。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.526,
+            0.681,
+            0.543
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.546,
+            0.923,
+            0.6
+          ],
+          "content": "“So few authors have brains enough or literary gift enough to keep their own end up in journalism,” Newman wrote."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.604,
+            0.922,
+            0.639
+          ],
+          "content": "纽曼写道:“很少有作者有足够的头脑或足够的文学才能坚持新闻写作。”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.643,
+            0.607,
+            0.658
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.662,
+            0.922,
+            0.679
+          ],
+          "content": "gifted adj. 有天赋的 → gifted education（天才教育）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.701,
+            0.713,
+            0.716
+          ],
+          "content": "constant /'kɑːnstənt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.72,
+            0.839,
+            0.736
+          ],
+          "content": "adj. 持续不断的；恒定的 n. 常数，常量"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.742,
+            0.922,
+            0.779
+          ],
+          "content": "妙记:con-（共同）+ sta-（stand，站立）+ -nt（形容词后缀）→始终站在一起→恒定不变的。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.788,
+            0.627,
+            0.81
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.816,
+            0.716,
+            0.832
+          ],
+          "content": "①常考释义：常数，常量"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.836,
+            0.681,
+            0.851
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.856,
+            0.671,
+            0.871
+          ],
+          "content": "Vanity is a constant."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.874,
+            0.661,
+            0.889
+          ],
+          "content": "虚荣心亘古不变。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.893,
+            0.922,
+            0.909
+          ],
+          "content": "② constant 不一定是永远不变的，它可以表示长时"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.049,
+            0.938,
+            0.076,
+            0.952
+          ],
+          "content": "40"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.092,
+            0.936,
+            0.123,
+            0.954
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.125,
+            0.938,
+            0.175,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.862,
+            0.024,
+            0.97,
+            0.061
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.083,
+            0.246,
+            0.098
+          ],
+          "content": "间不变或经常发生的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.101,
+            0.254,
+            0.116
+          ],
+          "content": "常考释义：持续不断的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.12,
+            0.23,
+            0.135
+          ],
+          "content": "【2017 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.139,
+            0.405,
+            0.153
+          ],
+          "content": "ensure constant interaction with their children"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.156,
+            0.254,
+            0.171
+          ],
+          "content": "确保与孩子持续的沟通"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.175,
+            0.152,
+            0.19
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.194,
+            0.254,
+            0.209
+          ],
+          "content": "constantly adv.不断地"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.212,
+            0.25,
+            0.228
+          ],
+          "content": "inconstant adj. 多变的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.251,
+            0.296,
+            0.285
+          ],
+          "content": "permanent /'pɜːrmənənt/\nadj. 永恒的，永远的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.292,
+            0.477,
+            0.327
+          ],
+          "content": "妙记:“破门难逃”→破门而入后就“永远”逃不掉了→永远的。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.208,
+            0.333,
+            0.337,
+            0.413
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior scene with a person standing near a door, no visible text or symbols",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_11.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.068,
+            0.417,
+            0.169,
+            0.438
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.445,
+            0.275,
+            0.46
+          ],
+          "content": "①辨析与 constant 的区别："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.464,
+            0.476,
+            0.519
+          ],
+          "content": "permanent 强调状态不变、不可逆，如:a permanent job(永久工作); constant 强调持续不变或反复发生，如:constant pressure(持续的压力)。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.522,
+            0.227,
+            0.538
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.542,
+            0.476,
+            0.596
+          ],
+          "content": "They gave justices permanent positions so they would be free to upset those in power and have no need to cultivate political support."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.599,
+            0.474,
+            0.635
+          ],
+          "content": "他们给予大法官终身职位，这样他们就可以随心所欲地惹恼当权者，而不需要培养政治支持。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.638,
+            0.148,
+            0.653
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.657,
+            0.309,
+            0.674
+          ],
+          "content": "perpetual adj. 永恒的，永远的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.677,
+            0.148,
+            0.692
+          ],
+          "content": "③反义词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.696,
+            0.315,
+            0.712
+          ],
+          "content": "temporary adj. 暂时的，临时的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.715,
+            0.376,
+            0.731
+          ],
+          "content": "如:temporary solution（临时解决方案）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.755,
+            0.221,
+            0.771
+          ],
+          "content": "nature /'neɪtʃər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.774,
+            0.311,
+            0.79
+          ],
+          "content": "n. 自然；大自然；本质，特性"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.796,
+            0.462,
+            0.833
+          ],
+          "content": "妙记：谐音“内出”→自然万物从“内部”生长，事物“内在”属性天生如此。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.068,
+            0.844,
+            0.168,
+            0.865
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.87,
+            0.371,
+            0.887
+          ],
+          "content": "①可以表示“本质、特性”，考研常考。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.89,
+            0.377,
+            0.906
+          ],
+          "content": "【2013 年英语（一）、2012 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.91,
+            0.222,
+            0.926
+          ],
+          "content": "human nature 人性"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.081,
+            0.932,
+            0.115
+          ],
+          "content": "② by its nature 就其本质而言（作状语，通常插在主语和谓语之间）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.118,
+            0.734,
+            0.134
+          ],
+          "content": "【2015 年英语（一）翻译】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.138,
+            0.935,
+            0.171
+          ],
+          "content": "This movement, by its nature, shaped the character and destiny of an uncharted continent."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.175,
+            0.934,
+            0.209
+          ],
+          "content": "这场运动，就其本质而言，塑造了这块未知大陆的特征和命运。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.213,
+            0.612,
+            0.228
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.232,
+            0.77,
+            0.247
+          ],
+          "content": "natural adj. 天然的，非人为的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.251,
+            0.814,
+            0.267
+          ],
+          "content": "supernatural adj. 超自然的；神奇的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.289,
+            0.694,
+            0.305
+          ],
+          "content": "essential /ɪˈsenʃl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.308,
+            0.773,
+            0.324
+          ],
+          "content": "adj. 重要的；必要的；本质的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.33,
+            0.937,
+            0.366
+          ],
+          "content": "妙记:es- = ex-（出来）+ sent-（感觉、感情）→能够感觉出来的，才是最重要的。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.376,
+            0.631,
+            0.397
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.403,
+            0.919,
+            0.438
+          ],
+          "content": "① be essential to/for...（对……来说是必不可少的）\nto + 抽象名词（success/harmony 等）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.441,
+            0.911,
+            0.458
+          ],
+          "content": "for + 动名词 /V-ing 形式（maintaining/solving 等）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.462,
+            0.616,
+            0.477
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.481,
+            0.824,
+            0.497
+          ],
+          "content": "essentially adv. 本质上 (=in essence)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.501,
+            0.659,
+            0.516
+          ],
+          "content": "essence n.本质"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.519,
+            0.938,
+            0.593
+          ],
+          "content": "essence 和 nature 都可以翻译成“本质”，但含义并不完全相同。nature 强调“最基本”的特征（the basic quality of sth.），如:the nature of prejudice 偏见最基本的特征。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.596,
+            0.938,
+            0.651
+          ],
+          "content": "essence 强调“最重要”的特性（the most important quality of sth.），如:the essence of the Renaissance 文艺复兴最重要的特征。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.674,
+            0.678,
+            0.688
+          ],
+          "content": "endure /ɪnˈdʊr/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.692,
+            0.769,
+            0.709
+          ],
+          "content": "vi. 持续，持久 vt. 忍耐，忍受"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.715,
+            0.935,
+            0.732
+          ],
+          "content": "妙记：谐音“硬怼啊” →咬牙硬怼，“持久” “忍耐”。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.657,
+            0.737,
+            0.806,
+            0.83
+          ],
+          "sub_type": "natural_image",
+          "content": "Soldier in combat gear firing weapons with explosions in the background (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_51.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.834,
+            0.63,
+            0.856
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.863,
+            0.664,
+            0.878
+          ],
+          "content": "①写作提分替换："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.883,
+            0.743,
+            0.897
+          ],
+          "content": "suffer from → 升级：endure"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.902,
+            0.854,
+            0.918
+          ],
+          "content": "last long → 升级：endure through centuries"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.836,
+            0.933,
+            0.889,
+            0.949
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.892,
+            0.933,
+            0.92,
+            0.95
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.94,
+            0.934,
+            0.963,
+            0.948
+          ],
+          "content": "41"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.036,
+            0.03,
+            0.504,
+            0.061
+          ],
+          "content": "高频词表"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.084,
+            0.228,
+            0.099
+          ],
+          "content": "②常考释义：持续"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.103,
+            0.239,
+            0.118
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.122,
+            0.475,
+            0.156
+          ],
+          "content": "The fossil record shows that many species have endured for millions of years - so why shouldn't we?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.158,
+            0.474,
+            0.193
+          ],
+          "content": "化石记录表明，许多物种已经持续存在了数百万年之久——那么我们又为什么不能延续下去呢？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.196,
+            0.165,
+            0.211
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.215,
+            0.246,
+            0.23
+          ],
+          "content": "endurance n. 忍耐力"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.234,
+            0.332,
+            0.25
+          ],
+          "content": "enduring adj. 持久的 (= lasting)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.273,
+            0.221,
+            0.286
+          ],
+          "content": "stable /'steɪbl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.291,
+            0.245,
+            0.307
+          ],
+          "content": "adj. 稳定的，稳固的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.313,
+            0.474,
+            0.348
+          ],
+          "content": "妙记:st-（站立）+ able（能……的）→能稳稳站立的→稳定的。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.209,
+            0.354,
+            0.351,
+            0.445
+          ],
+          "sub_type": "natural_image",
+          "content": "Silhouette of a large tree with leafy canopy against a cloudy sky background (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_11.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.451,
+            0.182,
+            0.471
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.478,
+            0.27,
+            0.494
+          ],
+          "content": "①辨析与 steady 的区别："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.497,
+            0.474,
+            0.533
+          ],
+          "content": "stable 强调状态稳固；steady 强调过程平稳。如：病情 stable，增长 steady。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.536,
+            0.242,
+            0.551
+          ],
+          "content": "②常考释义：稳定的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.555,
+            0.237,
+            0.571
+          ],
+          "content": "【2024 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.576,
+            0.475,
+            0.609
+          ],
+          "content": "...provide a stable supply of wood for future generations\n……为子孙后代提供稳定的木材供应"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.613,
+            0.163,
+            0.628
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.633,
+            0.345,
+            0.649
+          ],
+          "content": "unstable adj. 不稳定的，不稳固的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.652,
+            0.254,
+            0.667
+          ],
+          "content": "stability n. 稳定（性）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.671,
+            0.258,
+            0.686
+          ],
+          "content": "stabilize v. (使) 稳定"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.69,
+            0.321,
+            0.706
+          ],
+          "content": "instability n.（形势的）不稳定"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.73,
+            0.236,
+            0.744
+          ],
+          "content": "assume /ə'su:m/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.748,
+            0.255,
+            0.764
+          ],
+          "content": "vt. 假定，认为; 承担"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.771,
+            0.463,
+            0.807
+          ],
+          "content": "妙记：as- = ad-(强调)+ sum-(拿)+e→拿来观点，叫作“假定、认为”; 拿来责任，叫作“承担”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.816,
+            0.182,
+            0.837
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.844,
+            0.356,
+            0.859
+          ],
+          "content": "① assume that 认为（通常缺乏证据）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.863,
+            0.237,
+            0.879
+          ],
+          "content": "【2018 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.883,
+            0.476,
+            0.919
+          ],
+          "content": "While the researchers assumed that the well-structured daily plans would be most effective, they were wrong."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.083,
+            0.918,
+            0.117
+          ],
+          "content": "虽然研究人员认为，结构良好的每日计划最为有效。但他们错了。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.12,
+            0.605,
+            0.135
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.138,
+            0.679,
+            0.153
+          ],
+          "content": "assumption n. 假设"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.156,
+            0.827,
+            0.172
+          ],
+          "content": "assuming conj. 假设 (= if 的学术替换)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.175,
+            0.85,
+            0.19
+          ],
+          "content": "\\- assuming (that) = if 如果（来自“假设”）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.192,
+            0.68,
+            0.208
+          ],
+          "content": "【2021 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.211,
+            0.918,
+            0.245
+          ],
+          "content": "Assuming they say yes, it will make you feel more confident about voicing your disagreement."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.246,
+            0.918,
+            0.281
+          ],
+          "content": "如果他们说行，这将让你更有信心去表达自己的不同意见。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.284,
+            0.838,
+            0.299
+          ],
+          "content": "\\- on the assumption that 基于……的假设"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.301,
+            0.68,
+            0.317
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.321,
+            0.92,
+            0.372
+          ],
+          "content": "The court's ruling is based on the assumption that public officials are justified in addressing the needs of their constituents."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.375,
+            0.918,
+            0.41
+          ],
+          "content": "法院的裁决基于这样一个假设，即公共官员们有正当理由去满足其选民的需求。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.413,
+            0.876,
+            0.428
+          ],
+          "content": "\\- with the underlying assumption that 潜台词是"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.431,
+            0.607,
+            0.447
+          ],
+          "content": "【2005 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.45,
+            0.92,
+            0.522
+          ],
+          "content": "Such behaviour is regarded as “ all too human, ” with the underlying assumption that other animals would not be capable of this finely developed sense of grievance."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.524,
+            0.918,
+            0.559
+          ],
+          "content": "这种行为被视为“人之常情”，潜台词是，其他动物不可能具备这种高度发达的愤懑感。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.583,
+            0.705,
+            0.618
+          ],
+          "content": "presume /prɪˈzuːm/\nvt. 假定，假设，推测"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.624,
+            0.918,
+            0.659
+          ],
+          "content": "妙记：pre-（预先）+ sume-（拿取）+e→预先拿结论→假定。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.665,
+            0.665,
+            0.788,
+            0.754
+          ],
+          "sub_type": "natural_image",
+          "content": "Man with beard and mustache looking at a bookshelf, thought bubble with question marks (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_48.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.759,
+            0.627,
+            0.781
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.787,
+            0.724,
+            0.802
+          ],
+          "content": "①辨析和 assume 的区别："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.806,
+            0.919,
+            0.861
+          ],
+          "content": "presume 是基于合理依据的推定（如法律 / 常识）；\nassume 是无证据的主观假设。口诀:assume 拍脑门，presume 讲道理。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.864,
+            0.661,
+            0.88
+          ],
+          "content": "②图表作文应用："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.885,
+            0.792,
+            0.9
+          ],
+          "content": "\\- The data lead us to presume that..."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.903,
+            0.727,
+            0.918
+          ],
+          "content": "这些数据使我们推测……"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.053,
+            0.934,
+            0.081,
+            0.948
+          ],
+          "content": "42"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.097,
+            0.933,
+            0.126,
+            0.95
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.129,
+            0.935,
+            0.179,
+            0.948
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.865,
+            0.015,
+            0.974,
+            0.052
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.072,
+            0.46,
+            0.087
+          ],
+          "content": "\\- It can be reasonably presumed from the chart that..."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.09,
+            0.321,
+            0.106
+          ],
+          "content": "从图表中可以合理地推测出……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.109,
+            0.274,
+            0.125
+          ],
+          "content": "③阅读中常考其衍生形式："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.128,
+            0.309,
+            0.145
+          ],
+          "content": "presumably adv. 很可能，大概"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.148,
+            0.221,
+            0.164
+          ],
+          "content": "【2011 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.167,
+            0.474,
+            0.202
+          ],
+          "content": "They presumably have enough independence to disagree with the chief executive's proposals."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.204,
+            0.474,
+            0.24
+          ],
+          "content": "他们很可能有足够的独立自主性来对首席执行官的提议提出异议。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.259,
+            0.24,
+            0.274
+          ],
+          "content": "conceive /kən'si:v/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.278,
+            0.24,
+            0.293
+          ],
+          "content": "vt. 怀孕；构想，想象"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.301,
+            0.474,
+            0.336
+          ],
+          "content": "妙记：con-（一起）+ceive-（take 拿）→把精子卵子“一起拿”即怀孕，把想法“拿到一起”即构想。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.212,
+            0.342,
+            0.321,
+            0.408
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_body_11.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.061,
+            0.41,
+            0.162,
+            0.429
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.437,
+            0.162,
+            0.452
+          ],
+          "content": "①常见搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.457,
+            0.376,
+            0.473
+          ],
+          "content": "conceive a theory/idea（构想理论 / 想法）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.476,
+            0.209,
+            0.492
+          ],
+          "content": "②常考释义：想象"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.057,
+            0.495,
+            0.221,
+            0.511
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.516,
+            0.37,
+            0.531
+          ],
+          "content": "Our immediate future is hard to conceive."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.535,
+            0.273,
+            0.551
+          ],
+          "content": "我们眼前的未来难以想象。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.554,
+            0.208,
+            0.57
+          ],
+          "content": "③常考释义：怀孕"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.057,
+            0.574,
+            0.143,
+            0.59
+          ],
+          "content": "【2007 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.595,
+            0.475,
+            0.63
+          ],
+          "content": "Soccer-mad parents are more likely to conceive children in springtime."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.633,
+            0.458,
+            0.65
+          ],
+          "content": "热衷于足球运动的父母更有可能在春季怀上孩子。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.653,
+            0.143,
+            0.668
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.672,
+            0.273,
+            0.688
+          ],
+          "content": "conception n. 构想；受孕"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.692,
+            0.274,
+            0.708
+          ],
+          "content": "conceivable adj. 可想象的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.729,
+            0.233,
+            0.744
+          ],
+          "content": "suppose /səˈpəʊz/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.747,
+            0.238,
+            0.763
+          ],
+          "content": "vt. 假定，假设; 认为"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.77,
+            0.475,
+            0.806
+          ],
+          "content": "妙记:sup-（下）+ pose（放置）→把想法暂时放下→假设；把观点轻放讨论→认为。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.061,
+            0.816,
+            0.162,
+            0.836
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.844,
+            0.339,
+            0.86
+          ],
+          "content": "①辨析与 assume, presume 的区别："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.863,
+            0.475,
+            0.917
+          ],
+          "content": "suppose（中性猜测），assume（无依据假设），presume（有依据推定）——假设程度由弱到强，依据性由无到有。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.072,
+            0.74,
+            0.087
+          ],
+          "content": "② be supposed to do 应该"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.09,
+            0.688,
+            0.106
+          ],
+          "content": "【2011 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.111,
+            0.94,
+            0.143
+          ],
+          "content": "Outside directors are supposed to be independent\nadvisers."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.148,
+            0.777,
+            0.164
+          ],
+          "content": "外部董事应该是独立的建议者。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.167,
+            0.793,
+            0.183
+          ],
+          "content": "③派生词:supposed adj. 所谓的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.186,
+            0.689,
+            0.202
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.206,
+            0.941,
+            0.26
+          ],
+          "content": "The supposed importance of influentials derives from a plausible-sounding but largely untested theory called the “two-step flow of communication”."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.263,
+            0.941,
+            0.318
+          ],
+          "content": "所谓的有影响力的人的重要性，是源于一个听起来有道理但很大程度上未经验证的理论：交流的两步流理论。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.342,
+            0.662,
+            0.356
+          ],
+          "content": "infer /ɪnˈfɜːr/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.361,
+            0.757,
+            0.376
+          ],
+          "content": "vt. 推论，推断；暗示，暗指"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.384,
+            0.94,
+            0.419
+          ],
+          "content": "妙记:in-（内心）+ fer-（拿）→看到一段话，从心里拿出自己的理解，就是推论。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.43,
+            0.631,
+            0.451
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.457,
+            0.845,
+            0.473
+          ],
+          "content": "① infer sth. from sth. (从……推断……)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.477,
+            0.907,
+            0.493
+          ],
+          "content": "infer meaning from context（从上下文推断含义）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.497,
+            0.863,
+            0.513
+          ],
+          "content": "②阅读推断题（每年必考）题干常见表达："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.517,
+            0.831,
+            0.533
+          ],
+          "content": "What can be inferred from Paragraph X?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.537,
+            0.789,
+            0.552
+          ],
+          "content": "The author most likely infers that..."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.555,
+            0.938,
+            0.571
+          ],
+          "content": "从第 × 段可以推断出什么？作者最有可能暗示……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.575,
+            0.612,
+            0.591
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.595,
+            0.722,
+            0.61
+          ],
+          "content": "inference n. 推断，推论"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.614,
+            0.71,
+            0.63
+          ],
+          "content": "inferential adj. 推论的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.653,
+            0.677,
+            0.669
+          ],
+          "content": "imply /ɪm'plaɪ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.673,
+            0.603,
+            0.688
+          ],
+          "content": "vt. 暗示"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.695,
+            0.939,
+            0.73
+          ],
+          "content": "妙记:im-（进入）+ ply-（折叠）→把话“折叠”进字面里→暗示。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.737,
+            0.631,
+            0.758
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.764,
+            0.884,
+            0.781
+          ],
+          "content": "① imply 也是阅读推理题常见的题干标志词。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.785,
+            0.941,
+            0.819
+          ],
+          "content": "What does the author imply about existing health privacy law?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.822,
+            0.851,
+            0.838
+          ],
+          "content": "作者对于现有的健康隐私法暗示了什么？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.842,
+            0.71,
+            0.857
+          ],
+          "content": "②辨析和 infer 的区别："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.861,
+            0.941,
+            0.896
+          ],
+          "content": "imply 侧重说话者 / 作者暗示（主动发出动作）；而 infer 重侧读者 / 听者推断（被动接收并推理）。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.9,
+            0.941,
+            0.916
+          ],
+          "content": "The author implies that education needs reform. (作者"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.84,
+            0.932,
+            0.894,
+            0.947
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.897,
+            0.932,
+            0.925,
+            0.948
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.927,
+            0.933,
+            0.97,
+            0.947
+          ],
+          "content": "/ 43"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.031,
+            0.029,
+            0.102,
+            0.061
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.115,
+            0.038,
+            0.502,
+            0.055
+          ],
+          "content": "高频词表"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.083,
+            0.24,
+            0.098
+          ],
+          "content": "暗示教育需要改革)。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.101,
+            0.474,
+            0.135
+          ],
+          "content": "Readers can infer the truth from the text. (读者可从文中推断真相)。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.138,
+            0.16,
+            0.153
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.156,
+            0.311,
+            0.172
+          ],
+          "content": "implication n. 隐含意义（常考）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.175,
+            0.292,
+            0.192
+          ],
+          "content": "implicit adj. 含蓄的；隐含的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.081,
+            0.68,
+            0.097
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.1,
+            0.924,
+            0.171
+          ],
+          "content": "It is hard, the state argues, for judges to assess the implications of new and rapidly changing technologies. 该州认为，对于法官而言，要评估新出现且变化迅速的技术所带来的影响并非易事。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.077,
+            0.206,
+            0.221,
+            0.226
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.237,
+            0.178,
+            0.254
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.263,
+            0.73,
+            0.279
+          ],
+          "content": "1. Companies increasingly rely on artificial \\_\\_\\_\\_ to optimize supply chain management."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.102,
+            0.282,
+            0.22,
+            0.298
+          ],
+          "content": "A. intelligence"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.282,
+            0.42,
+            0.296
+          ],
+          "content": "B. intellect"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.282,
+            0.64,
+            0.296
+          ],
+          "content": "C. intuition"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.785,
+            0.282,
+            0.86,
+            0.296
+          ],
+          "content": "D. gene"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.306,
+            0.72,
+            0.322
+          ],
+          "content": "2. Unlike \\_\\_\\_\\_ (强调日常智力或情报), \\_\\_\\_\\_ refers to academic reasoning ability."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.102,
+            0.326,
+            0.289,
+            0.341
+          ],
+          "content": "A. intelligence; intellect"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.327,
+            0.517,
+            0.342
+          ],
+          "content": "B. intellect; intelligence"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.351,
+            0.724,
+            0.366
+          ],
+          "content": "3. Consumers are becoming more \\_\\_\\_\\_ of the environmental impact of their purchases."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.102,
+            0.37,
+            0.207,
+            0.385
+          ],
+          "content": "A. conscious"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.371,
+            0.422,
+            0.384
+          ],
+          "content": "B. cautious"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.37,
+            0.635,
+            0.384
+          ],
+          "content": "C. intuitive"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.785,
+            0.37,
+            0.887,
+            0.383
+          ],
+          "content": "D. constant"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.395,
+            0.575,
+            0.411
+          ],
+          "content": "4. She made a decision based on \\_\\_\\_\\_ rather than logical analysis."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.102,
+            0.414,
+            0.171,
+            0.43
+          ],
+          "content": "A. gene"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.415,
+            0.423,
+            0.429
+          ],
+          "content": "B. intuition"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.415,
+            0.626,
+            0.43
+          ],
+          "content": "C. genius"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.785,
+            0.414,
+            0.867,
+            0.428
+          ],
+          "content": "D. nature"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.439,
+            0.589,
+            0.455
+          ],
+          "content": "5. The \\_\\_\\_\\_ modified crops have sparked debates about food safety."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.102,
+            0.459,
+            0.19,
+            0.474
+          ],
+          "content": "A. genetic"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.46,
+            0.438,
+            0.474
+          ],
+          "content": "B. generation"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.46,
+            0.621,
+            0.474
+          ],
+          "content": "C. genius"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.785,
+            0.459,
+            0.847,
+            0.473
+          ],
+          "content": "D. gift"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.484,
+            0.659,
+            0.5
+          ],
+          "content": "6. The \\_\\_\\_\\_ gap between parents and children has narrowed in the digital age."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.102,
+            0.504,
+            0.172,
+            0.519
+          ],
+          "content": "A. gene"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.504,
+            0.443,
+            0.519
+          ],
+          "content": "B. generation"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.504,
+            0.626,
+            0.519
+          ],
+          "content": "C. genius"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.785,
+            0.504,
+            0.871,
+            0.517
+          ],
+          "content": "D. nature"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.528,
+            0.648,
+            0.544
+          ],
+          "content": "7. While she has a \\_\\_\\_\\_ for music, her sister shows true \\_\\_\\_\\_ in painting."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.102,
+            0.548,
+            0.222,
+            0.563
+          ],
+          "content": "A. gift; genius"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.548,
+            0.453,
+            0.563
+          ],
+          "content": "B. genius; gift"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.548,
+            0.657,
+            0.563
+          ],
+          "content": "C. talent; gift"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.785,
+            0.548,
+            0.917,
+            0.562
+          ],
+          "content": "D. genius; talent"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.573,
+            0.539,
+            0.588
+          ],
+          "content": "8. A \\_\\_\\_\\_ supply of clean water is essential for public health."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.102,
+            0.592,
+            0.198,
+            0.607
+          ],
+          "content": "A. constant"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.592,
+            0.444,
+            0.607
+          ],
+          "content": "B. permanent"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.592,
+            0.616,
+            0.606
+          ],
+          "content": "C. stable"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.785,
+            0.592,
+            0.895,
+            0.607
+          ],
+          "content": "D. temporary"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.074,
+            0.618,
+            0.178,
+            0.634
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.075,
+            0.638,
+            0.926,
+            0.79
+          ],
+          "sub_type": "text",
+          "content": "1. Elephants demonstrate remarkable \\_\\_\\_\\_ (intelligent) by using tools.\n2. However, Allen believed that the unconscious mind generates as much action as the \\_\\_\\_\\_ (有意识的) mind.\n3. Other research shows we're better at detecting deception from thin slices when we rely on \\_\\_\\_\\_ (直觉) instead of reflection.\n4. The \\_\\_\\_\\_（本质的）difference between the two theories lies in their assumptions.\n5. It is \\_\\_\\_\\_ (assume) that stress causes health problems, but evidence is mixed.\n6. The study \\_\\_\\_\\_ (infer/imply) that exercise improves brain function.\n7. Our immediate future is hard to \\_\\_\\_\\_ (想象)."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.8,
+            0.176,
+            0.816
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.827,
+            0.15,
+            0.842
+          ],
+          "content": "全句翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.853,
+            0.829,
+            0.87
+          ],
+          "content": "1. The fossil record shows that many species have endured for millions of years—so why shouldn't we?"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.046,
+            0.934,
+            0.074,
+            0.948
+          ],
+          "content": "44"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.091,
+            0.933,
+            0.122,
+            0.95
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.124,
+            0.934,
+            0.173,
+            0.948
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.856,
+            0.025,
+            0.965,
+            0.062
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.083,
+            0.932,
+            0.119
+          ],
+          "content": "2. The study aims to explore the relationship between human activities and the balance of nature, while analyzing the essential nature of ecological crises."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.06,
+            0.182,
+            0.134,
+            0.197
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.056,
+            0.206,
+            0.923,
+            0.325
+          ],
+          "sub_type": "text",
+          "content": "1. Competition is, in [ nature ], a driving force for innovation.\n2. It is commonly assumed that younger generations are more tech-savvy, but this [presumption] needs verification.\n3. The essence of innovation lies in [conceiving] solutions that others have overlooked."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.445,
+            0.408,
+            0.547,
+            0.428
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.058,
+            0.45,
+            0.164,
+            0.468
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.059,
+            0.484,
+            0.107,
+            0.496
+          ],
+          "level": 2,
+          "content": "1. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.059,
+            0.5,
+            0.119,
+            0.516
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.519,
+            0.469,
+            0.553
+          ],
+          "content": "句意：公司越来越依赖人工 \\_\\_\\_\\_ 来优化供应链管理。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.556,
+            0.47,
+            0.592
+          ],
+          "content": "考点:“人工智能”的固定英文术语是 Artificial Intelligence (AI)。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.059,
+            0.607,
+            0.107,
+            0.62
+          ],
+          "level": 2,
+          "content": "2. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.059,
+            0.624,
+            0.119,
+            0.64
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.643,
+            0.469,
+            0.659
+          ],
+          "content": "句意：与\\_\\_\\_\\_不同，\\_\\_\\_\\_指的是学术推理能力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.661,
+            0.469,
+            0.827
+          ],
+          "content": "考点：近义词辨析（intelligence vs. intellect）。Intelligence 含义更广，常指解决实际问题的能力、学习能力、适应能力，也可以指“情报”。它更强调一种天生的、通用的聪明才智。Intellect 含义更窄，指理性思考、逻辑推理、掌握抽象概念的能力，尤其与教育、学术、哲学相关。它更强调后天培养的思维能力。句意分析：后半句说“指的是学术推理能力”，这正好是 intellect 的定义。因此，前面与之不同的应该是更广义的 intelligence。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.059,
+            0.843,
+            0.107,
+            0.856
+          ],
+          "level": 2,
+          "content": "3. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.059,
+            0.859,
+            0.119,
+            0.876
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.878,
+            0.468,
+            0.914
+          ],
+          "content": "句意：消费者对他们购买行为的环境影响变得越来越\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.451,
+            0.933,
+            0.486
+          ],
+          "content": "考点：固定搭配:be/become conscious of... 意为“意识到……”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.503,
+            0.57,
+            0.516
+          ],
+          "level": 2,
+          "content": "4. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.52,
+            0.583,
+            0.536
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.538,
+            0.897,
+            0.554
+          ],
+          "content": "句意：她的决定是基于\\_\\_\\_\\_，而非逻辑分析。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.556,
+            0.934,
+            0.685
+          ],
+          "content": "考点:rather than 表示对比，前后是反义关系。后半部分是“逻辑分析”，那么前半部分应该是“非逻辑的”东西。A. gene（基因）——与“逻辑分析”不构成直接对比。B. intuition（直觉）——直觉正是与逻辑分析相对的一种决策方式，完美符合句意。C. genius（天才）——天才可能既用逻辑也用直觉。D. nature（自然，天性）——语义过于宽泛。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.7,
+            0.57,
+            0.713
+          ],
+          "level": 2,
+          "content": "5. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.716,
+            0.583,
+            0.733
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.735,
+            0.931,
+            0.809
+          ],
+          "content": "句意:\\_\\_\\_\\_改良作物引发了关于食品安全的辩论。考点：这里需要填入一个形容词，修饰“改良”。A. genetic（基因的）- “基因改良作物”是固定说法，即 Genetically Modified (GM) crops。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.823,
+            0.569,
+            0.836
+          ],
+          "level": 2,
+          "content": "6. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.521,
+            0.84,
+            0.583,
+            0.856
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.859,
+            0.932,
+            0.893
+          ],
+          "content": "句意：父母与孩子之间的 \\_\\_\\_\\_ 沟在数字时代已经变窄了。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.896,
+            0.911,
+            0.913
+          ],
+          "content": "考点:“代沟”的固定英文说法是 generation gap。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.833,
+            0.935,
+            0.919,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.936,
+            0.937,
+            0.96,
+            0.95
+          ],
+          "content": "45"
+        }
+      ]
+    },
+    {
+      "page_idx": 8,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.036,
+            0.032,
+            0.5,
+            0.064
+          ],
+          "content": "高频词表"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.088,
+            0.13,
+            0.101
+          ],
+          "level": 2,
+          "content": "7. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.105,
+            0.14,
+            0.12
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.123,
+            0.47,
+            0.157
+          ],
+          "content": "句意：虽然她在音乐方面有\\_\\_\\_\\_，但她妹妹在绘画上展现了真正的\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.159,
+            0.471,
+            0.305
+          ],
+          "content": "考点：近义词辨析（gift, genius, talent）。这三个词都有“天赋”之意，但有程度区别。Gift 和 Talent 常可互换，指与生俱来的天赋或才能。Genius 程度最强，指极高的、非凡的、创造性的天赋，常译为“天才”。While 表示轻微转折，后半句的 true（真正的）暗示了程度更深。所以第一空填一个表示“有天赋”的词，第二空填一个表示“极高天赋 / 天才”的词。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.321,
+            0.143,
+            0.335
+          ],
+          "level": 2,
+          "content": "8. A/C."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.339,
+            0.138,
+            0.355
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.358,
+            0.46,
+            0.374
+          ],
+          "content": "句意:\\_\\_\\_\\_的清洁水供应对公共卫生至关重要。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.376,
+            0.471,
+            0.504
+          ],
+          "content": "考点：近义词辨析（constant, stable, permanent）。Constant 强调“持续不断的、不发生中断的”（a continuous flow）。Stable 强调“稳定的、不会剧烈波动的”（not likely to change or fail）。Permanent 强调“永久的、永恒的”（lasting forever）。对于水供应，我们既希望它“持续不断”（constant），也希望它“量足稳定”（stable）。两者都是正确的描述。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.526,
+            0.179,
+            0.542
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.558,
+            0.192,
+            0.573
+          ],
+          "level": 2,
+          "content": "1. intelligence"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.575,
+            0.138,
+            0.59
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.594,
+            0.441,
+            0.609
+          ],
+          "content": "句意：大象通过使用工具展示了非凡的\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.612,
+            0.47,
+            0.666
+          ],
+          "content": "考点：词性转换（形容词→名词）。空格前是形容词 remarkable，后面需要名词形式。intelligent 是形容词，其名词形式是 intelligence。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.682,
+            0.178,
+            0.695
+          ],
+          "level": 2,
+          "content": "2. conscious"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.699,
+            0.138,
+            0.714
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.716,
+            0.469,
+            0.751
+          ],
+          "content": "句意：然而，Allen 认为无意识大脑产生的行为和有\\_\\_\\_\\_大脑产生的一样多。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.754,
+            0.469,
+            0.788
+          ],
+          "content": "考点：反义词。“无意识的”是 unconscious，那么其反义词“有意识的”就是 conscious。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.804,
+            0.174,
+            0.817
+          ],
+          "level": 2,
+          "content": "3. intuition"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.82,
+            0.138,
+            0.836
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.839,
+            0.469,
+            0.872
+          ],
+          "content": "句意：其他研究表明，当我们依靠\\_\\_\\_\\_而非思考时，我们能更好地从细微片段中察觉欺骗。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.875,
+            0.468,
+            0.908
+          ],
+          "content": "考点：词汇翻译。“直觉”的英文是 intuition。句中的 reflection（思考）是其反义提示。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.088,
+            0.617,
+            0.101
+          ],
+          "level": 2,
+          "content": "4. essential"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.522,
+            0.105,
+            0.582,
+            0.12
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.124,
+            0.917,
+            0.156
+          ],
+          "content": "句意：这两种理论之间 \\_\\_\\_\\_ 的区别在于它们的假设。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.161,
+            0.918,
+            0.194
+          ],
+          "content": "考点：词汇翻译。“本质的，根本的”常用 essential 表达。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.211,
+            0.618,
+            0.224
+          ],
+          "level": 2,
+          "content": "5. assumed"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.522,
+            0.228,
+            0.582,
+            0.243
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.247,
+            0.918,
+            0.28
+          ],
+          "content": "句意：人们 \\_\\_\\_\\_ 压力导致健康问题，但证据好坏参半。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.284,
+            0.919,
+            0.355
+          ],
+          "content": "考点：词性转换（动词→形容词）和语态。It is ... that... 是一个常用句型。这里表达的是“一种被普遍持有的观点”，因此需要用 assume 的被动语态形式，转换为形容词性的过去分词。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.371,
+            0.607,
+            0.385
+          ],
+          "level": 2,
+          "content": "6. implies"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.522,
+            0.388,
+            0.582,
+            0.403
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.407,
+            0.88,
+            0.423
+          ],
+          "content": "句意：这项研究 \\_\\_\\_\\_ 锻炼能改善大脑功能。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.426,
+            0.919,
+            0.516
+          ],
+          "content": "考点：近义词辨析（infer vs. imply）。这是一对非常容易混淆的词。Imply（暗示，表明）:主语是“信息的发出者”（如研究、文章、说话人），暗示某事。Infer（推断）:主语是“信息的接收者”（如读者、听者），从证据中推断出某事。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.519,
+            0.918,
+            0.571
+          ],
+          "content": "句意分析：本句的主语是“The study” (研究)，它是“信息的发出者”，所以它是在“暗示、表明”一个结论。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.588,
+            0.617,
+            0.601
+          ],
+          "level": 2,
+          "content": "7. conceive"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.522,
+            0.604,
+            0.582,
+            0.62
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.623,
+            0.803,
+            0.639
+          ],
+          "content": "句意：我们近期的未来很难\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.642,
+            0.918,
+            0.675
+          ],
+          "content": "考点：词汇翻译和固定搭配，be hard to conceive，难以想象。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.521,
+            0.686,
+            0.623,
+            0.701
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.705,
+            0.595,
+            0.719
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.522,
+            0.723,
+            0.918,
+            0.794
+          ],
+          "sub_type": "text",
+          "content": "1. 化石记录表明，许多物种已经持续存在了数百万年之久——那么我们又为什么不能延续下去呢？\n2. 该研究旨在探索人类活动与自然平衡之间的关系，同时分析生态危机的本质。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.797,
+            0.595,
+            0.812
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.522,
+            0.816,
+            0.921,
+            0.905
+          ],
+          "sub_type": "text",
+          "content": "1. 从【本质】上讲，竞争是推动创新的驱动力。\n2. 通常认为年青一代更精通科技，但这种【假设】需要得到验证。\n3. 创新的本质在于【提出】他人未曾注意到的解决方案。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.052,
+            0.939,
+            0.077,
+            0.952
+          ],
+          "content": "46"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.095,
+            0.937,
+            0.123,
+            0.953
+          ],
+          "content": "[NO TEXT]"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.127,
+            0.939,
+            0.176,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T17:15:56",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 9,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 841.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 8,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

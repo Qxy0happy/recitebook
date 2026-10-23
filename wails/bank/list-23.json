@@ -1,0 +1,1017 @@
+{
+  "list_no": 23,
+  "title": "来源与情况",
+  "association": {
+    "outline": "情节发展：背景引入→数据分析→原因探究→解决行动",
+    "scenes": [
+      {
+        "title": "背景引人",
+        "story": "生态学家正在研究森林中的 bird（鸟类）数量，figure out（探究）为什么它们的数量在下降。他们发现 lot（许多）因素在 respective（各自的）field（领域）影响鸟的生存，如 room（栖息地空间）不足。"
+      },
+      {
+        "title": "数据分析",
+        "story": "他们分析 aspect（各个方面），包括鸟类的 scale（规模）和 feature（分布特征），采集了 volume（一定体积）的空气进行质量分析，收集了 large（大量）数据。line（折线）图显示，鸟类数量下降 derive（源于）污染物在森林中的小溪里流动。"
+      },
+      {
+        "title": "原因探究",
+        "story": "因此，生态学家将 result（结果）attribute（归因于）工业活动；森林附近工厂的老板 respect（尊重）事实，承认 owe（欠）森林一个解决方案。"
+      },
+      {
+        "title": "解决行动",
+        "story": "老板召集了许多志愿者，并给他们 distribute（分配了）足够的工具。志愿者在 large（广阔）的森林工作，他们的努力为鸟类 digit（数量）的回升 contribute（做出了贡献）。"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "result",
+      "ipa": "/rɪ'zʌlt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "结果"
+        }
+      ],
+      "mnemonic": "盐（sult 谐音 salt）又（re-）放多了，结果（result）很难吃！",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配:result in 导致",
+          "body": "【2010 年英语（一）】\nThe rule changes of the FASB may result in the weakening of its independence.\nFASB 的规定的改变可能导致其独立性被削弱。"
+        },
+        {
+          "marker": "②",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配:result from 源自",
+          "body": "【2012 年英语（一）】\nConstitutional law is political because it results from choices rooted in fundamental social concepts like\nliberty and property.\n宪法是政治性的，因为它源于根本的社会概念的选择，比如自由和所有权。"
+        },
+        {
+          "marker": "③",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配：原因 A, as a result, 结果 B",
+          "body": "She didn't study for the exam, as a result, she failed.\n她没有为考试复习，结果她不及格。\nThe match was canceled as a result of heavy rain.\n比赛因大雨取消。"
+        }
+      ]
+    },
+    {
+      "spelling": "derive",
+      "ipa": "/dɪˈraɪv/",
+      "senses": [
+        {
+          "pos": "vi.",
+          "meaning_cn": "源于"
+        }
+      ],
+      "mnemonic": "de-（下）+ rive-（=river 河）→流下河水的地方→源头。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配:A derives from B B 是 A 的根源",
+          "body": "【2010 年英语（一）】\nThe supposed importance of influentials derives from a plausible-sounding but largely untested theory called the “two-step flow of communication”.\n所谓的有影响力的人的重要性，源于一个听起来颇有道理但很大程度上未经检验的理论，这个理论被称为“交流的两步流”。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "A derives B from C A 从 C 那里获得了 B",
+          "body": "She derives great pleasure from helping others.\n她从帮助他人中获得极大的快乐。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "derivation n. 出处；词源；派生\nderivative n. 派生物；衍生物"
+        },
+        {
+          "marker": "④",
+          "kind": "其他",
+          "label_raw": "形近词区分 deprive v. 剥夺",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "spelling": "contribute",
+      "ipa": "/kən'tribju:t/",
+      "senses": [
+        {
+          "pos": "vi.",
+          "meaning_cn": "贡献"
+        }
+      ],
+      "mnemonic": "contri（形似 country）+-bute（音似 build），为国家建设做贡献（contribute）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常考短语 contribute to, 它有两个含义：",
+          "body": "contribute to 对……做出贡献\ncontribute to 导致（考研重点考查的含义，常用来和 result in 进行同义替换）\n• 【2014 年英语（二）】\nHousing can contribute to economic growth.\n住房能够对经济增长做出贡献。\n• 【2020 年英语（二）】\nWhich of the following has contributed to CEO pay rise?\n以下哪一项导致了首席执行官薪酬的上涨？\n= Which of the following has resulted in CEO pay rise?\n以下哪一项导致了首席执行官薪酬的上涨？"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词:contribution n. 贡献",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "spelling": "owe",
+      "ipa": "/əʊ/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "欠；归功于，归因于"
+        }
+      ],
+      "mnemonic": "把拥有的（own）给出去（ex-），就是一无所有，所以会欠（owe）钱。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "owe A to B 把 A 归因于 B；将 A 归功于 B",
+          "body": "【2007 年】\nHigh achievers owe their success mostly to nurture.\n取得高成就的人大多将他们的成功归因于后天培养。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "owing to 因为，由于 (= due to, because of)",
+          "body": "【2015 年英语（一）】\nMonarchs are kept as heads of state in Europe mostly owing to their undoubted and respectable status.\n君主作为国家元首在欧洲被保留，主要是由于他们无可争辩、值得尊敬的地位。"
+        }
+      ]
+    },
+    {
+      "spelling": "attribute",
+      "ipa": "/ə'tribjuːt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "归因于；归属于"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "属性"
+        }
+      ],
+      "mnemonic": "attri-（音似“爱吹”）-bute（音似“不吹”）→爱吹不吹，归因于他→一个人爱吹牛或不吹牛，都“归因于”他的性格→attribute（归因于）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "attribute A to B 将 A 归因于 B；将 A 归属于 B【2017 年英语（一）】",
+          "body": "Some experts attribute the stress-reducing, health-related benefits of hugging to the release of oxytocin. 一些专家将拥抱的减压、健康相关的益处归因于催产素的释放。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "该单词可以作名词表示“属性”，来自“归属于”的含义，并不常考。",
+          "body": "【2022 年英语（二）】\nConsumers paying more for premium attributes such as free-range, non-GMO, and pasture-raised eggs will embrace sustainability.\n为自由放养、非转基因和牧场饲养的鸡蛋等优质属性支付更多钱的消费者，会欣然接受可持续性。"
+        }
+      ]
+    },
+    {
+      "spelling": "distribute",
+      "ipa": "/dɪˈstrɪbjuːt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "分发；分配"
+        }
+      ],
+      "mnemonic": "谐音“抵死追不由他”→这是分配给他的任务，必须抵死追，不能由他的想法→ distribute (分配)。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "考查其基本义：分配；分发",
+          "body": "【2023 年英语（一）】\nUnofficial educational materials that convey more biased perspectives are being distributed to teachers.\n一些传达更多偏见观点的非官方教学材料正在被分发给教师。"
+        },
+        {
+          "marker": "②",
+          "kind": "常考释义",
+          "label_raw": "考查其基本义：分布",
+          "body": "【2024 年英语（一）】\nThe African savanna elephant is distributed across 37 African countries.\n非洲草原象分布在 37 个非洲国家。\nnormal distribution 正态分布\ngeographical distribution 地理分布"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "distribution n. 分发；分配；分布\nredistribution n. 再分配（re- 再一次）"
+        }
+      ]
+    },
+    {
+      "spelling": "bird",
+      "ipa": "/bɜːrd/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "鸟；罕见的人"
+        }
+      ],
+      "mnemonic": "鸟（bird）人是罕见的人（bird）。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "bird 可以表示“罕见的人、不寻常的人”，考过，但并不常考。",
+          "body": "【2008 年】\nHe is that rare bird, a scientist who works independently of any institution.\n他是那种极为罕见的人，是一位不依附于任何机构而独立工作的科学家。"
+        }
+      ]
+    },
+    {
+      "spelling": "figure",
+      "ipa": "/'fɪgjər/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "数字；人物"
+        },
+        {
+          "pos": "v.",
+          "meaning_cn": "计算"
+        }
+      ],
+      "mnemonic": "来自 finger（手指），数数的时候，通常用手指一个一个地指着数。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "最常考其作名词时的基本义：数字，数据",
+          "body": "【2021 年英语（二）】\nThere are many caveats to those figures, but they are still grave.\n这些数据有很多需要注意的地方，但情况仍然很严峻。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "figure 可以表示“人物”，但并不是一般人，而是非常著名且重要的人（a person who is well-known and important in some way），也就是可以“数得上号”的人。",
+          "body": "【2014 年英语（一）】\nInfluential figures in the Congress required that the AAAS report on how to safeguard individuals' rights to education.\n国会中的有影响力的人物要求 AAAS 提交一份关于如何保障个人受教育权利的报告。"
+        },
+        {
+          "marker": "③",
+          "kind": "常考释义",
+          "label_raw": "考查其作动词时的基本义：认为；估计；料想；计算",
+          "body": "figure out 想清楚，弄明白"
+        }
+      ]
+    },
+    {
+      "spelling": "digit",
+      "ipa": "/'dɪdʒɪt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "手指；数字"
+        }
+      ],
+      "mnemonic": "用手指（digit）来数数字（digit）。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "派生词",
+          "label_raw": "派生词:digital adj. 数字的，数码的",
+          "body": "digitization n. 数字化\n【2013、2015、2025 年英语（一）】\ndigital information 数字信息"
+        }
+      ]
+    },
+    {
+      "spelling": "lot",
+      "ipa": "/la:t/",
+      "senses": [
+        {
+          "pos": "pron./det.",
+          "meaning_cn": "大量，许多"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "(一) 群人; 命运"
+        }
+      ],
+      "mnemonic": "中学就学过它可以表示“大量、许多”，如 a lot of people（很多人），引申为“一群人”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "考查基本义：一群人",
+          "body": "【2014 年英语（二）】\nReaders of Happy Money are clearly a privileged lot,\nanxious about fulfilment, not hunger.\n《快乐金钱》的读者显然是一群享有特权的人，他们担心的是满足感，而不是饥饿。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "lot 可以表示“命运”, 可以用 lottery（博彩）加深印象：博彩就是看命，中文的“乐透”就是 lottery 的音译。",
+          "body": "【2013 年英语（一）】\nBut we are now knowledgeable enough to reduce many of the risks that threatened the existence of earlier humans, and to improve the lot of those to come.\n但我们现在的知识足以减少许多威胁早期人类生存的风险，并改善未来人类的命运。"
+        }
+      ]
+    },
+    {
+      "spelling": "volume",
+      "ipa": "/'va:ljem/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "卷轴；卷，册；容量；音量"
+        }
+      ],
+      "mnemonic": "volume 音似“我牛吗”，我的体积（volume）和音量 (volume) 都最大。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "考查基本义：数量；总量；额；规模（最常考）",
+          "body": "the volume of work 工作量\nthe volume of traffic 交通流量"
+        },
+        {
+          "marker": "②",
+          "kind": "常考释义",
+          "label_raw": "考查基本义：卷轴；卷册；卷",
+          "body": "【2002 年】\nThe National Academy of Science (NAS) released a two-volume report.\n美国国家科学院（NAS）发布了一份两卷的报告。"
+        },
+        {
+          "marker": "③",
+          "kind": "常考释义",
+          "label_raw": "考查基本义：音量（只考过一次）",
+          "body": "【2014 年英语（一）翻译】\n(48) Beethoven's habit of increasing the volume with an extreme intensity.\n贝多芬把音量提高到极限强度的习惯。"
+        }
+      ]
+    },
+    {
+      "spelling": "large",
+      "ipa": "/lɑːrdʒ/",
+      "senses": [
+        {
+          "pos": "a.",
+          "meaning_cn": "大的，大量的，大规模的; 广泛的; 严重的"
+        }
+      ],
+      "mnemonic": "large 谐音：“拉直” → 拉直以后就大 (large) 了。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "固定搭配",
+          "label_raw": "常考搭配:largely = in large part 在很大程度上，主要地",
+          "body": "【2015 年英语（二）】\nHowever, there is another important part of the jobs picture that was largely overlooked.\n但是，就业形势中还有一个重要的部分在很大程度上被忽视了。\n【2010 年英语（一）】\n“ Social epidemics ” are driven in large part by the actions of a tiny minority of special individuals.\n“社会流行”在很大程度上是由极少一部分特殊的人的行为所驱动的。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "loom large = loom vi. 逼近（只考过一次）",
+          "body": "【2010 年英语（一）】\nMeanwhile, as the recession is looming large, people are getting anxious.\n同时，随着经济衰退不断逼近，人们开始变得焦虑。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词:enlarge vt. 放大，扩大（en-使 + large 大→使变大→扩大、放大）",
+          "body": "【2012 年英语（一）】\nUnions have enlarged their public-sector membership.\n工会扩大了其在公共部门的会员规模。"
+        }
+      ]
+    },
+    {
+      "spelling": "room",
+      "ipa": "/rum/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "房间；空间；余地"
+        }
+      ],
+      "mnemonic": "room“入目”，这里入目都是空间（room）。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配:allow/leave room for 为……留出空间、留出余地",
+          "body": "【2015 年英语（一）】\nThe court, though, may want to allow room for police to cite situations where they are entitled to more freedom.\n不过，法院或许会想要为警方留出余地，以便他们能够引述某些他们有权获得更多自由的情况。\n【2020 年英语（一）】\nOpen access terms allow publishers some room to make money.\n开放获取条款为出版商留出了一定的盈利空间。\n【2014 年英语（二）】\nWe have designed jobs that leave no room for\n“individual initiative or creativity”.\n我们设计了各种工作，这些工作没有给“个人主动性或创造力”留出任何空间。"
+        }
+      ]
+    },
+    {
+      "spelling": "line",
+      "ipa": "/laɪn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "各种线（直线、线路、航线、界线等）；态度；方式"
+        }
+      ],
+      "mnemonic": "本义表示各种“线”:",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配:line up 排队；安排；排列整齐",
+          "body": "【2023 年英语（二）】\nCan anyone really think ifs a good idea to allow Amazon deliveries to your tent in Yosemite or food trucks to line up under the redwood trees at Sequoia National Park?\n真的有人会认为，允许亚马逊将商品配送到优胜美地国家公园（Yosemite）的帐篷处，或者允许餐车在红杉国家公园（Sequoia National Park）的红杉树下【排队】营业是个好主意吗？"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "line 可以表示“态度”:",
+          "body": "take a tough line 采取强硬的态度\nin line with sth. 与……一致，符合\n【2015 年英语（一）】\nThe British royals “have most to fear” because Charles takes a tough line on political issues.\n英国王室成员“最应感到担忧”，因为查尔斯在政治问题上态度强硬。\n【2023 年英语（二）】\nWe launched our sustainability strategy last year and fake grass is just not in line with our ethos and views on plastic.\n我们去年推出了可持续发展战略，而人造草皮不符合我们对塑料的理念和看法。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "line 可以表示“方式”，并不常考",
+          "body": "【2024 年英语（一）】\nIt is a flawed line of reasoning to argue against\nreturning artifacts to their countries of origin.\n反对将文物归还原籍国的推理方式是有缺陷的。"
+        },
+        {
+          "marker": "④",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "outline n. 轮廓；大纲，梗概 vt. 概述（out + line → 最外面的线 → 轮廓）\n【2025 年英语（二）】\nUrban planner Rajashree Kotharkar's team is working on a model plan that outlines best practices and could be adapted to local conditions.\n城市规划师拉贾什里·科塔尔卡尔（Rajashree Kotharkar）的团队正在制订一份示范规划，该规划概述了最佳实践方法，并且可以根据当地情况进行调整。\nstreamline adj. 流线型的（stream 溪流 + line 线 → 流线）\ndeadline n. 最后期限（dead 死 + line 线 → 死亡线 → 最后期限）\nunderline v. 强调；画线于……之下；n. 下划线\nheadline n. 大字标题；新闻摘要"
+        }
+      ]
+    },
+    {
+      "spelling": "scale",
+      "ipa": "/skeɪl/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "刻度，尺度; 等级，级别; 程度，规模"
+        },
+        {
+          "pos": "v.",
+          "meaning_cn": "攀登; 改变 (大小、数量、规模等)"
+        }
+      ],
+      "mnemonic": "scale 长得像 scar(疤痕) 就是刻出来的痕迹。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "考查其作名词时的基本义：规模，级别",
+          "body": "【2014 年英语（二）、2023 年英语（一）】\nlarge-scale adj. 大规模的\n【2010 年英语（一）】\nThis clearly seems to be a market in which big retailers could profitably apply their gigantic scale.\n这显然似乎是一个大型零售商可以凭借其庞大的规模从中获利的市场。\n【2015 年英语（一）】\nThis is hacking on an industrial scale.\n这是行业级的黑客入侵。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "scale 可以作动词，表示“改变数量或规模”，引申自“攀登”的含义：",
+          "body": "往上爬 → scale up 增加数量，扩大规模\n【2023 年英语（二）】\nThe scaling up of these technologies will eventually bring costs down.\n这些技术的推广普及最终会降低成本。\n往下爬、往回爬 → scale down/back 减少数量，缩小规模\n【2010 年英语（一）】\nNow the nation's top patent court appears completely ready to scale back on business-method patents, which have been controversial ever since they were first authorized 10 years ago.\n现在，美国最高专利法院似乎已完全准备好减少商业方法专利的数量，这类专利自十年前首次获批以来就一直饱受争议。"
+        }
+      ]
+    },
+    {
+      "spelling": "aspect",
+      "ipa": "/'æspekt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "方面"
+        }
+      ],
+      "mnemonic": "a-=ad-（强调、一再）+spect-（盯住一点看）→盯住问题的一个点看，就是看问题的一个方面。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "该单词是写作常用词汇，注意它是可数名词，一个方面叫 an aspect, 几个方面叫 some aspects",
+          "body": "【2016 年英语（二）】\nThe priorities and expectations defined by the young will reach almost all aspects of American life.\n年轻人定义的优先级和期望值将会扩散到几乎美国人生活的全部方面。"
+        },
+        {
+          "marker": "②",
+          "kind": "常考释义",
+          "label_raw": "考查基本义：外观",
+          "body": "The house's aspect was dark and unattractive.\n房子的外观阴暗且不起眼。"
+        }
+      ]
+    },
+    {
+      "spelling": "respect",
+      "ipa": "/rɪˈspekt/",
+      "senses": [
+        {
+          "pos": "n./vt.",
+          "meaning_cn": "尊敬"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "方面"
+        }
+      ],
+      "mnemonic": "re-（反复）+ spect-（注视）→ 反复注视一个人的某个方面（respect）看，行注目礼，就是对这个人表示尊敬（respect）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "respect 可以表示“问题的一个方面”，即反复盯住问题的一个点看，与 aspect 相同。",
+          "body": "in respect of sth. 关于……；在……方面\n【2012 年英语（二）】\nIn limited respects, perhaps the recession will leave society better off.\n在有限的一些方面，这场经济衰退或许会让社会变得更美好。\n【2010 年英语（一）】\nParallel situation exists in respect of predatory mammals and fish-eating birds.\n在掠食性哺乳动物和食鱼鸟类方面也存在类似的情况。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "disrespect n./vt. 不尊敬（dis-否定）\nrespectable adj. 值得尊敬的（-able 能、可以……的）\nrespected adj. 受尊敬的（-ed 被……的）\nrespectful adj. 充满敬意的（-ful 充满……的）"
+        }
+      ]
+    },
+    {
+      "spelling": "respective",
+      "ipa": "/rɪˈspektɪv/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "各自的，分别的"
+        }
+      ],
+      "mnemonic": "respect（方面）+ -ive（属性）→ 每个方面的属性，各不相同 → 各自的，分别的。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "图表作文常用:respectively adv. 分别是，各自是【2021 年英语（二）】",
+          "body": "In February, at 3.5 per cent and 5.5 per cent respectively, unemployment rates in Canada and the United States were at generational lows and worker shortages were everywhere.\n2 月，加拿大和美国的失业率分别为 3.5% 和 5.5%，均处于历史低位，而且到处都出现了劳动力短缺的情况。"
+        }
+      ]
+    },
+    {
+      "spelling": "feature",
+      "ipa": "/'fi:tʃər/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "面容，面孔；特征，特色；专栏"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "以……为特征"
+        }
+      ],
+      "mnemonic": "feat- 来自 face（脸），ure 表示行为、结果。本义表示面容、面孔；面容是一个人最显著的特征，故而表示“特征、特色”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "该单词可以表示“专栏”，即极具“特色”的栏目。【2014 年英语（一）】",
+          "body": "a News Feature article in Nature\n《自然》杂志上的一篇新闻专栏文章"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "近义词辨析:feature & characterize",
+          "body": "\\- feature 表示以……为特征，逻辑是被描述的主体 + feature + 核心特征；\n【2011 年英语（一）】\nSold media feature strong user traffic.\n出售媒体以强大的用户流量为特征。\n\\- characterize 表示是……的特征，逻辑是核心特征 + characterize + 被描述的主体。\nPatience characterizes a good teacher.\n耐心是一个好老师的特征。"
+        }
+      ]
+    },
+    {
+      "spelling": "field",
+      "ipa": "/fi:ld/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "田地；场地；领域"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "处理，应对"
+        }
+      ],
+      "mnemonic": "来自 farm（农场），本义表示“田地”，引申为“场地、领域”。公司雇用一个领域的人，就是要他处理这个领域的难题。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "field 可以作动词，表示处理、应对",
+          "body": "【2007 年】\nSo it is a bit confusing when vos Savant fields such queries as, What's the difference between love and fondness?\n所以，当沃斯·莎凡特回答“爱与喜欢的区别是什么？”这样的问题时，会有点令人困惑。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "需要关注的搭配：",
+          "body": "level the playing field 创造平等的竞争环境"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词:fieldcraft n. 野外生存技能；野外行动技巧；（考过一次）",
+          "body": "【2025 年英语（一）】\nIt takes patience and fieldcraft to anticipate a butterfly's likely flight-line — and catch it- in focus.\n要预判蝴蝶可能的飞行路线并精准捕捉它，需要有耐心和野外行动技巧。"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L23-01",
+      "kind": "single",
+      "stem": "Armed with this insight, the marketing and engineering teams joined forces to raise awareness by prominently promoting the premium version to users of the free version. ____, upgrades skyrocketed, and revenue increased by 92 percent.",
+      "options": [
+        "As a result",
+        "At any rate",
+        "By the way",
+        "In a sense"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "result",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L23-02",
+      "kind": "single",
+      "stem": "The word “biology” ____ Greek, meaning the study of life.",
+      "options": [
+        "deprives of",
+        "derives from",
+        "result in",
+        "result from"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "derive",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L23-03",
+      "kind": "single",
+      "stem": "Enhanced security measures since then, combined with a rise in airline travel, have resulted in long waits at major airports.\n\nWhich of the following contributes to long waits at major airports?",
+      "options": [
+        "New restrictions on carry-on bags.",
+        "The declining efficiency of the TSA.",
+        "An increase in the number of travelers.",
+        "Frequent unexpected secret checks."
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [],
+      "reading": true
+    },
+    {
+      "id": "L23-04",
+      "kind": "single",
+      "stem": "He ____ his remarkable recovery ____ the skill and dedication of his medical team.",
+      "options": [
+        "owns... to",
+        "owes... to",
+        "owing... to",
+        "owed... for"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "owe",
+          "bind": "搭配"
+        },
+        {
+          "n": 2,
+          "word": "owe",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L23-05",
+      "kind": "single",
+      "stem": "In the slang expression, \"She's a wise old bird\", the word \"bird\" means ____.",
+      "options": [
+        "A type of flying animal",
+        "A piece of news or gossip",
+        "A person (usually with a specific characteristic)",
+        "A sound or signal"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "bird",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L23-06",
+      "kind": "single",
+      "stem": "The scientists struggled to ____ how the ancient device functioned, as its mechanism was far more complex than they had anticipated.",
+      "options": [
+        "turn out",
+        "point out",
+        "figure out",
+        "rule out"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "figure",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L23-07",
+      "kind": "single",
+      "stem": "The success of the project is ____ due to the team's efficient collaboration and thorough preparation.",
+      "options": [
+        "at large",
+        "in large part",
+        "by and large",
+        "in large"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "large",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L23-08",
+      "kind": "single",
+      "stem": "A good manager always ____ room ____ improvement in the team's performance.",
+      "options": [
+        "leaves ... about",
+        "allows ... with",
+        "leaves ... to",
+        "leaves / allows ... for"
+      ],
+      "answer": 3,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "room",
+          "bind": "搭配"
+        },
+        {
+          "n": 2,
+          "word": "room",
+          "bind": "介词"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L23-09",
+      "kind": "single",
+      "stem": "The government will ____ on tax fraud.",
+      "options": [
+        "take a tough line",
+        "make a change",
+        "have a meeting",
+        "in line with"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "line",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L23-10",
+      "kind": "single",
+      "stem": "The research focuses on every ____ of climate change, including its economic and social impacts.",
+      "options": [
+        "aspect",
+        "prospect",
+        "aspects",
+        "suspect"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "aspect",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L23-11",
+      "kind": "single",
+      "stem": "After the meeting, the managers returned to ____ offices.",
+      "options": [
+        "respectful",
+        "respective",
+        "respecting",
+        "respected"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "respective",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L23-12",
+      "kind": "single",
+      "stem": "The new smartphone ____ an advanced camera system, making it popular among photography enthusiasts.",
+      "options": [
+        "characterizes",
+        "features",
+        "identifies",
+        "illustrates"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "feature",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L23-13",
+      "kind": "fill",
+      "stem": "Reform wants to ask how power and resources should be ____ (distribute) in our health system.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "distributed"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "distribute",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L23-14",
+      "kind": "fill",
+      "stem": "Stresses the study of history and government, particularly American history and American government; and encourages the use of new____(digit) technologies.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "digital"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "digit",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L23-15",
+      "kind": "fill",
+      "stem": "Our company plans to____ production next month to meet higher demand, but might have to____ operations later if sales drop. (scale up/scale back)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "scale up",
+        "scale back"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "scale",
+          "bind": "搭配"
+        },
+        {
+          "n": 2,
+          "word": "scale",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L23-16",
+      "kind": "fill",
+      "stem": "The company provided detailed information in respect ____ the new safety regulations.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "of"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "respect",
+          "bind": "介词"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L23-17",
+      "kind": "translate_sentence",
+      "stem": "Beethoven's habit of increasing the volume with an extreme intensity and then abruptly following it with a sudden soft passage was only rarely used by composers before him.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "贝多芬习惯将音量极度增大，然后紧接着突然转入轻柔的乐段，在他之前，作曲家很少采用这种手法。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "volume",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L23-18",
+      "kind": "translate_sentence",
+      "stem": "The spokesperson skillfully fielded all the tough questions from the reporters.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "发言人娴熟地回答了记者提出的所有尖锐问题。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "field",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L23-19",
+      "kind": "translate_word",
+      "stem": "Education remains the most powerful tool to improve the [lot] of disadvantaged children.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "教育仍是改善弱势儿童【命运】的最有力工具。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "lot",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L23-20",
+      "kind": "translate_word",
+      "stem": "He was searching for tiny engraved seals [ attributed ] to the ancient Mycenaean culture that dominated Greece from the 1400s to 1200s BC.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "他当时正在寻找那些被认为【归属于】古代迈锡尼文化的小型雕刻印章。迈锡尼文化在公元前 1400 年至公元前 1200 年统治着希腊。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "attribute",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L23-21",
+      "kind": "translate_word",
+      "stem": "McGee says leaving without a [ position ] lined up gave him time to reflect on what kind of company he wanted to run.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "麦吉称，在没有落实安排【新职位】的情况下离职，让他有时间想清楚自己到底想经营什么样的公司。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "line",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

@@ -1,0 +1,793 @@
+{
+  "list_no": 14,
+  "title": "吸引与推荐",
+  "association": {
+    "outline": "情节发展：初次接触→建立好感→深化关系",
+    "scenes": [
+      {
+        "title": "初次接触",
+        "story": "艺术展上，一幅抽象画 draw/attract/appeal（吸引）了许多观众。其中，一位 acquaintance（熟人）向新来的观众 introduce（介绍）画家，并 comment（评论）道:“这风格 resemble（像）大师手笔。”"
+      },
+      {
+        "title": "建立好感",
+        "story": "画家 conduct（主持）讲座时，特意 pick（挑选）了几位观众互动。他 compliment（称赞）他们的见解，并 recommend（推荐）相关书籍，赢得众人 favor（好感）。"
+      },
+      {
+        "title": "深化关系",
+        "story": "一位常客与画家逐渐 familiar（熟悉），被 regard（视为）知音。画家 concern（关心）她的艺术成长，主动提出指导。"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "draw",
+      "ipa": "/drɔː/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "抽，拉; 画; 吸引; 获得"
+        }
+      ],
+      "mnemonic": "谐音“拽”→就是“抽、拉”的意思，而用笔拽出线条就是“画画”，把人拽过来围观就是“吸引”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "",
+          "body": "该单词可以表示“吸引”，即把注意力拉过来。常考短语:draw attention to 吸引……的注意。\n\n【2014 年英语（一）】\n\nThey want to use their wealth to draw attention to those who have succeeded in science.\n\n他们想用自身的财富来引起人们对那些在科学领域有所成就之人的关注。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词可以表示“获得”，即把东西拉到自己这里。\n【2015 年英语（二）】\n\nAt work, people pretty much know what they're supposed to be doing: working, making money, doing the tasks they have to do in order to draw an income.\n\n在工作中，人们大致清楚自己应该做什么：工作、挣钱、完成那些为了获得收入而必须完成的任务。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "drawing n. 图画，绘画"
+        }
+      ]
+    },
+    {
+      "spelling": "attract",
+      "ipa": "/ə'trækt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "吸引；引起、招致（某种反应）"
+        }
+      ],
+      "mnemonic": "at- = ad-（一再）+ tract-（拉）→一再拉，表示吸引，逻辑与 draw（吸引）相似。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词可以表示“引起、招致”，依然是把……吸引过来。\n\n【2012 年英语（一）、2013 年英语（二）】\n\nattract the attention 引起注意\n\n【2011 年英语（二）、2012 年英语（一）】\n\nattract much criticism 招致很多批评"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "attractive adj. 吸引人的\n\nattraction n. 吸引；旅游胜地\n\nattraction 可以表示“旅游胜地”，不常考，但写作中考过，需要注意。\n\n【2017 年英语（一）小作文】\n\n...recommending some tourist attractions in your city.\n推荐一些你的城市的旅游胜地。"
+        }
+      ]
+    },
+    {
+      "spelling": "appeal",
+      "ipa": "/ə'piːl/",
+      "senses": [
+        {
+          "pos": "vi./n.",
+          "meaning_cn": "恳求，请求;【法】上诉; 吸引"
+        }
+      ],
+      "mnemonic": "谐音‘我辟谣’ → 为了辟谣需要请求 (appeal) 法官，完成上诉 (appeal)。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "向某人、某机构提出请求、申请，叫作 appeal to sb.\n\n【2003 年阅读】\n\nShippers who feel they are being overcharged have the right to appeal to the federal government's Surface Transportation Board for rate relief.\n\n那些觉得自己被收取了过高运费的托运人有权向联邦政府的运输局提出申诉，请求降低运费。"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "",
+          "body": "该单词可以表示“吸引”，用法为 appeal to sb.\n\n【2018 年英语（一）】\n\nLower-income jobs like gardening or day care don't appeal to robots.\n\n像花匠、日常护理这样的低收入工作对机器人没有吸引力。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "常考",
+          "body": "appeals court 上诉法庭\n\n【2012 年英语（二）】\n\nfederal appeals court 联邦上诉法庭\n\n【2010 年英语（一）】\n\nthe U.S. Court of Appeals for the Federal Circuit\n美国联邦巡回上诉法庭"
+        },
+        {
+          "marker": "④",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "plea n. 请求，恳求;【法】抗辩\n\nplead v. 恳求，请求;【法】为……辩护"
+        }
+      ]
+    },
+    {
+      "spelling": "acquaintance",
+      "ipa": "/ə'kweɪntəns/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "相识的人；认识，相识；所知，了解"
+        }
+      ],
+      "mnemonic": "谐音“a queen 探视” → 能让女王前来探视的人，一定是女王熟悉了解的人。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "常见搭配",
+          "body": "make sb.'s acquaintance\n\n结识某人\n\non further acquaintance\n\n进一步了解后"
+        },
+        {
+          "marker": "②",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "熟人\n\n【2010 年英语（一）】\n\nFor a social epidemic to occur, however, each person so affected must then influence his or her own acquaintances, who must in turn influence theirs, and so on.\n\n然而，要形成一种社会上的流行趋势，每一个受到影响的人随后都必须去影响自己的熟人，而这些熟人又必须去影响他们的熟人，如此层层传递下去。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "acquaint v. 使熟悉\n\nacquainted adj. 熟悉的"
+        }
+      ]
+    },
+    {
+      "spelling": "familiar",
+      "ipa": "/fəˈmɪliər/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "熟悉的"
+        }
+      ],
+      "mnemonic": "family(家庭) + -ar（形容词）→如家庭般的→就是“熟悉的”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "be familiar with 表示“主动熟悉”\n\n【2015 年英语（一）】\n\nIf you are unfamiliar with words or idioms, you guess at their meaning, using clues presented in the context. 如果你不熟悉某些单词或习语，你就根据上下文所提供的线索来猜测它们的意思。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "be familiar to 表示“被动熟知”\n\nThis name is familiar to everyone.\n\n这个名字大家都很熟悉。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "unfamiliar adj. 不熟悉的\n\nfamiliarity n. 精通；熟悉"
+        }
+      ]
+    },
+    {
+      "spelling": "resemble",
+      "ipa": "/rɪˈzembl/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "像，类似"
+        }
+      ],
+      "mnemonic": "re-（加强）+ sembl-（相似）+e→使强烈相似→“像，与……相似”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "像\n\n【2015 年英语（二）】\n\nThe robot was the same size as a regular rat but resembled a simple plastic box on wheels.\n\n这个机器人与普通老鼠的大小相同，但外形却像一个装有轮子的简易塑料盒子。\n\n【2015 年英语（一）】\n\nBut the result was a new social pattern which, although it resembled European society in many ways, had a character that was distinctly American.\n\n但最终形成的却是一种全新的社会模式，尽管它在许多方面与欧洲社会相似，但其自身却有着鲜明的美国特色。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "resemblance n. 相似性"
+        }
+      ]
+    },
+    {
+      "spelling": "comment",
+      "ipa": "/'ka:ment/",
+      "senses": [
+        {
+          "pos": "vi./n.",
+          "meaning_cn": "评论"
+        }
+      ],
+      "mnemonic": "谐音“看门的”→看门的大爷喜欢“评论”别人。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "常见搭配",
+          "body": "make comments on... 对……发表评论\n\nno comment 无可奉告"
+        },
+        {
+          "marker": "②",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "评论\n\n【2020 年英语（二）】\n\nOne study found that people responded best to comments that shifted from negative to positive, possibly because it suggested they had won somebody over.\n\n一项研究发现，人们对从负面转向正面的评价反应最为积极，这可能是因为这种转变暗示着他们已经成功说服了他人。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "commentary n.(事件 / 比赛的) 实况解说\n\ncommentator n. 评论员，解说员"
+        }
+      ]
+    },
+    {
+      "spelling": "recommend",
+      "ipa": "/ˌrekəˈmend/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "推荐；建议"
+        }
+      ],
+      "mnemonic": "re-（反复）+ comment（评论）+ -d（加强语气）→ 反复评论，就是“推荐”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "常见搭配",
+          "body": "recommend sb. to do sth. 推荐某人做某事\n\nhighly recommend 强烈推荐\n\n【2022 年英语（二）】\n\nAll the experts we spoke with highly recommend walking because it's the easiest, most accessible form of exercise.\n\n我们采访的所有专家都强烈推荐散步，因为这是最简单、最容易进行的锻炼方式。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "recommendation n. 推荐信 / 建议\n\nrecommendable adj. 可推荐的"
+        }
+      ]
+    },
+    {
+      "spelling": "introduce",
+      "ipa": "/ˌɪntrəˈduːs/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "介绍；引入"
+        }
+      ],
+      "mnemonic": "intro-（向内）+ duc-（引导）+e→引导进入→引入、介绍。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "常见搭配",
+          "body": "introduce sb. to... 向某人介绍……\n\nintroduce a new policy 引入新政策"
+        },
+        {
+          "marker": "②",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "引入\n\n【2023 年英语（二）】\n\nThe Royal Horticultural Society (RHS), which runs the annual show in west London, says it has introduced the ban because of the damage plastic grass does to the environment and biodiversity.\n\n负责在伦敦西部举办年度花卉展览的皇家园艺学会（RHS）表示，之所以引入这项禁令，是因为塑料草坪对环境和生物多样性造成了损害。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "introduction n. 介绍；引言\n\nreintroduce v. 重新引入"
+        }
+      ]
+    },
+    {
+      "spelling": "conduct",
+      "ipa": "/kənˈdʌkt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "引导，指挥；组织实施"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "行为"
+        }
+      ],
+      "mnemonic": "con-（共同）+ duct-（引导）→ 共同引导→ 指挥；引导言行→行为。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "组织实施\n\n【2022 年英语（二）】\n\na survey conducted by Harris Poll for TD Ameritrade\n由哈里斯民意调查公司为德美利证券公司实施的一项调查"
+        },
+        {
+          "marker": "②",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "行为\n\n【2017 年英语（一）】\n\nBut it did so while holding its nose at the ethics of his conduct.\n\n但它却在明知其行为有违道德准则的情况下仍如此行事。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "conductor n. 导体；指挥\n\nmisconduct n. 不当行为"
+        }
+      ]
+    },
+    {
+      "spelling": "compliment",
+      "ipa": "/'kɑːmplɪmənt/",
+      "senses": [
+        {
+          "pos": "n./vt.",
+          "meaning_cn": "赞扬"
+        }
+      ],
+      "mnemonic": "com-(共同的)+ pli-(音似“扑来”)+ -ment(名词后缀)→共同扑倒在地，俯首称臣→赞扬。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "常见搭配",
+          "body": "pay sb. a compliment（称赞某人）\n\ncompliment sb. on sth. 因某事赞美某人"
+        },
+        {
+          "marker": "②",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "赞扬\n\n【2020 年英语（二）】\n\nWe often feel the need to tell others how we feel, whether it's a concern about a project, a stray thought, or a compliment.\n\n我们常常会想要向他人倾诉自己的感受，无论是对某个项目的担忧、突发的念头，还是对某人的赞美之词。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "complimentary adj. 赞美的；免费的"
+        }
+      ]
+    },
+    {
+      "spelling": "pick",
+      "ipa": "/pɪk/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "拾，采，摘；挑选"
+        }
+      ],
+      "mnemonic": "本义表示“拾、采、摘”，在果园采摘时，会挑选好的水果，故而引申表示“挑选”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "挑选\n\n【2021 年英语（一）】\n\nprevent broadband providers from picking winners and\nlosers online\n\n防止宽带提供商们挑选在线的赢家和输家"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "pick up 表示“接（电话）”\n\n【2021 年英语（一）】\n\npick up the phone 接电话"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "pick up 表示“获取”\n\n【2020 年英语（二）】\n\nQuinn and her colleagues conducted a test to see if rats can pick up social signals from non-living rats.\n\n奎因和她的同事们进行了一个测试，以观察老鼠是否能够从无生命的老鼠那里获取社交信号。"
+        },
+        {
+          "marker": "④",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "pick up 表示“好转”\n\n【2011 年英语（一）】\n\nAs the economy picks up, opportunities will abound for aspiring leaders.\n\n随着经济好转，有抱负的领导们将迎来大量机遇。"
+        },
+        {
+          "marker": "⑤",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "picky adj. 挑剔的"
+        }
+      ]
+    },
+    {
+      "spelling": "favor",
+      "ipa": "/'fervər/",
+      "senses": [
+        {
+          "pos": "n./vt.",
+          "meaning_cn": "偏爱，偏袒；赞同，支持；帮助"
+        }
+      ],
+      "mnemonic": "谐音“飞吻” → 对一个人飞吻，即“偏爱”, 也就是愿意“支持、帮助”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "偏爱\n\n【2016 年英语（一）】\n\nThe most loyal customers would still get the product they favor.\n\n最忠实的客户仍然会购买它们偏爱的产品。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "in favor (of) 偏爱；偏袒；赞同，支持\n\n【2020 年英语（一）】\n\nGeneration Zs are in favor of office job offers.\n\nZ 世代偏爱办公室的工作机会。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "",
+          "body": "派生词 favourable（赞同的，支持的）经常出现在态度题的选项中。\n\n【2020 年英语（一）】\n\nWhat is the author's attitude towards the proposal?\n\n作者对这项提议持什么态度？\n\n选项 C. Favourable 赞同的"
+        },
+        {
+          "marker": "④",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "“偏爱、偏袒”的名词叫作 favoritism；而 favorite 直接作名词，特指受到偏爱、偏袒的人或物。\n\n【2017 年英语（一）】\n\nOfficials must not be allowed to play favorites in providing information.\n\n官员们在提供信息时不允许对某些人有偏袒。\n\n【2017 年英语（一）】\n\nThe court's ruling is a step forward in the struggle against both corruption and official favoritism.\n\n法院的判决向前迈出了与腐败和官方偏袒行为斗争的一步。"
+        }
+      ]
+    },
+    {
+      "spelling": "regard",
+      "ipa": "/rɪˈɡɑːrd/",
+      "senses": [
+        {
+          "pos": "n./vt.",
+          "meaning_cn": "关心，关注；凝视，注视"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "(pl.) 尊敬，致意"
+        }
+      ],
+      "mnemonic": "谐音“伟大的” →伟大的人都值得被“关心、注视、尊敬”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "regard A as B 将 A 视为 B\n\n【2019 年英语（一）】\n\nThe influence of consumer culture is commonly regarded as the cause of grade inflation.\n\n消费者文化的影响通常被视为分数膨胀的原因。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "regarding = with regard to prep. 关于\n\n【2010 年英语（一）】\n\na legal case regarding business-method patents\n\n关于商业方法专利的一个法律案件"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "regardless of 不管，不顾，不考虑\n\n【2021 年英语（一）】\n\nRegardless of transferability, the study shows that what's good for people may also be good for the environment.\n\n不考虑可转移性，该研究表明，对人类有益的东西或许对环境也有益处。"
+        },
+        {
+          "marker": "④",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "guard v./n. 守卫；防护\n\ndisregard v./n. 忽视，漠视"
+        }
+      ]
+    },
+    {
+      "spelling": "concern",
+      "ipa": "/kənˈsɜːrn/",
+      "senses": [
+        {
+          "pos": "v./n.",
+          "meaning_cn": "关心，关注; (使) 担心"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "与……有关，涉及"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "重要的事"
+        }
+      ],
+      "mnemonic": "谐音‘吭声儿’ → 不吭声儿，就会让人“担心”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "重要的事\n\n【2020 年英语（一）】\n\nFeasibility should be a prime concern in policymaking.\n在制定政策时，可行性应该是一件最重要的事。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "阅读态度题常见选项",
+          "body": "concerned adj. 担心的，担忧的"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "concerning prep. 关于"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L14-01",
+      "kind": "single",
+      "stem": "The wealthy want to use their money to ____ attention to successful scientists.",
+      "options": [
+        "draw",
+        "attract",
+        "appeal",
+        "pick"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "draw",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L14-02",
+      "kind": "single",
+      "stem": "Low-income jobs like gardening don't ____ to robots.",
+      "options": [
+        "attract",
+        "appeal",
+        "resemble",
+        "conduct"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "appeal",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L14-03",
+      "kind": "single",
+      "stem": "The robot ____ a simple plastic box on wheels.",
+      "options": [
+        "attracts",
+        "resembles",
+        "comments",
+        "favors"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "resemble",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L14-04",
+      "kind": "single",
+      "stem": "People respond best to ____ that shift from negative to positive.",
+      "options": [
+        "compliments",
+        "comments",
+        "concerns",
+        "favors"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "compliment",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L14-05",
+      "kind": "single",
+      "stem": "Broadband providers should not be allowed to ____ winners online.",
+      "options": [
+        "comment",
+        "attract",
+        "resemble",
+        "pick"
+      ],
+      "answer": 3,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "pick",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L14-06",
+      "kind": "fill",
+      "stem": "At work, people do tasks to ____ an income. (draw)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "draw"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "draw",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L14-07",
+      "kind": "fill",
+      "stem": "Each person must influence his or her own ____. (acquaintance)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "acquaintances"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "acquaintance",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L14-08",
+      "kind": "fill",
+      "stem": "If you are ____ with words, you guess their meaning. (familiar)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "familiar"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "familiar",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L14-09",
+      "kind": "fill",
+      "stem": "We often feel the need to tell others how we feel, whether it's a concern or a ____. (compliment)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "compliment"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "compliment",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L14-10",
+      "kind": "fill",
+      "stem": "Gen Zs are in ____ of office job offers. (favor)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "favor"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "favor",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L14-11",
+      "kind": "translate_sentence",
+      "stem": "Consumer culture is commonly regarded as the cause of grade inflation.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "regard",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L14-12",
+      "kind": "translate_sentence",
+      "stem": "Feasibility should be a prime concern in policymaking.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "concern",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L14-13",
+      "kind": "translate_word",
+      "stem": "They want to use their wealth to [draw] attention to those who have succeeded in science.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "draw",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L14-14",
+      "kind": "translate_word",
+      "stem": "The case was heard in a federal [appeals] court.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "appeal",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L14-15",
+      "kind": "translate_word",
+      "stem": "Experts highly [recommend] walking as the easiest exercise,",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "recommend",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

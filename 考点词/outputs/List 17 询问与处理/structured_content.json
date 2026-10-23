@@ -1,0 +1,3453 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.843,
+            0.018,
+            0.95,
+            0.054
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.354,
+            0.076,
+            0.398,
+            0.109
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_1.jpg"
+        },
+        {
+          "type": "doc_title",
+          "bbox": [
+            0.406,
+            0.083,
+            0.616,
+            0.102
+          ],
+          "level": 1,
+          "content": "List 17 询问与处理"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.131,
+            0.221,
+            0.151
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.158,
+            0.414,
+            0.175
+          ],
+          "content": "情节发展：古宅探秘→真相追寻→圆满收官"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.092,
+            0.203,
+            0.162,
+            0.219
+          ],
+          "level": 2,
+          "content": "古宅探秘"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.222,
+            0.686,
+            0.278
+          ],
+          "content": "考古系研究生小林 enquire/inquire（询问）当地文物局，获准 address（解决）废弃古宅修复问题。uncover（揭开）cover（覆盖）的油布后，他 discover（发现）被 discard（丢弃）的信件，这 cause（引起）他的兴趣。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.316,
+            0.161,
+            0.332
+          ],
+          "level": 2,
+          "content": "真相追寻"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.335,
+            0.684,
+            0.392
+          ],
+          "content": "通过研究信件，小林找到了原主人曾 possess（拥有）的珍品，并上报文物局。之后，他协助文物局 dispose（处置）。过程中，他 obsess（痴迷）研究文物，这份热忱 motivate（激励）了整个团队。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.091,
+            0.437,
+            0.161,
+            0.453
+          ],
+          "level": 2,
+          "content": "圆满收官"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.457,
+            0.684,
+            0.494
+          ],
+          "content": "修复后，古宅 recover（恢复）原貌，展览 boost（提升）了小镇知名度，完美 cater/satisfy（满足）了保护需求。小林决定 reside（定居）当地，继续从事保护工作。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.697,
+            0.186,
+            0.911,
+            0.515
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_11.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.548,
+            0.221,
+            0.569
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.598,
+            0.318,
+            0.614
+          ],
+          "content": "enquire/inquire /m'kwaɪər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.617,
+            0.203,
+            0.633
+          ],
+          "content": "vt. 询问；研究"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.64,
+            0.287,
+            0.657
+          ],
+          "content": "妙记:quire-=seek（寻求）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.66,
+            0.47,
+            0.696
+          ],
+          "content": "无论是 e 人还是 i 人都能（n）寻求（quire）问题解决方案，或通过“询问”他人或自我“研究”。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.225,
+            0.702,
+            0.326,
+            0.778
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_17.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.782,
+            0.177,
+            0.804
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.81,
+            0.361,
+            0.826
+          ],
+          "content": "①最常考释义：学术研究、科学研究"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.829,
+            0.233,
+            0.846
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.85,
+            0.471,
+            0.884
+          ],
+          "content": "Academic inquiry, at least in some fields, may need to become less exclusionary and more holistic."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.887,
+            0.471,
+            0.922
+          ],
+          "content": "至少在某些领域，学术探究或许需要变得不那么排他，且更加全面。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.597,
+            0.6,
+            0.612
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.616,
+            0.754,
+            0.633
+          ],
+          "content": "enquiry/inquiry n. 询问；研究"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.651,
+            0.669,
+            0.666
+          ],
+          "content": "address /ə'dres/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.669,
+            0.916,
+            0.704
+          ],
+          "content": "n. 地址；演讲 vt. 写信；发表演讲；设法解决，处理，应对"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.711,
+            0.916,
+            0.746
+          ],
+          "content": "妙记：有了地址（address）就能写信（address）来解决（address）问题。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.522,
+            0.75,
+            0.619,
+            0.771
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.777,
+            0.619,
+            0.793
+          ],
+          "content": "①常见释义："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.796,
+            0.848,
+            0.812
+          ],
+          "content": "“处理、应对”问题，即“指向”一个问题。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.814,
+            0.675,
+            0.831
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.834,
+            0.84,
+            0.867
+          ],
+          "content": "This practice does not address the real worry.\n这个做法没能解决真正的担忧。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.871,
+            0.671,
+            0.887
+          ],
+          "content": "②考研小作文导语："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.891,
+            0.698,
+            0.905
+          ],
+          "content": "Do not write the address."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.908,
+            0.619,
+            0.923
+          ],
+          "content": "不要写地址。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.816,
+            0.937,
+            0.867,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.869,
+            0.937,
+            0.897,
+            0.954
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.9,
+            0.938,
+            0.945,
+            0.953
+          ],
+          "content": "/181"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.041,
+            0.033,
+            0.108,
+            0.066
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.124,
+            0.042,
+            0.375,
+            0.058
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.407,
+            0.041,
+            0.51,
+            0.058
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.091,
+            0.205,
+            0.104
+          ],
+          "content": "cause /kɔːz/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.109,
+            0.402,
+            0.124
+          ],
+          "content": "n. 原因；事业，奋斗目标 vt. 导致，引起"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.13,
+            0.484,
+            0.166
+          ],
+          "content": "妙记：导致（cause）我们不努力的原因（cause）\n是奋斗目标（cause）的丧失。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.088,
+            0.176,
+            0.187,
+            0.197
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.204,
+            0.186,
+            0.219
+          ],
+          "content": "①常见用法："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.224,
+            0.456,
+            0.239
+          ],
+          "content": "\\- cause sth. 引起，导致某事 (通常指不好的事)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.245,
+            0.32,
+            0.259
+          ],
+          "content": "The heavy rain caused the flood."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.264,
+            0.222,
+            0.279
+          ],
+          "content": "大雨引发了洪水。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.284,
+            0.364,
+            0.3
+          ],
+          "content": "\\- cause sb. to do sth. 使某人做某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.305,
+            0.368,
+            0.32
+          ],
+          "content": "What caused you to change your mind?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.324,
+            0.275,
+            0.339
+          ],
+          "content": "是什么使你改变了主意？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.344,
+            0.186,
+            0.359
+          ],
+          "content": "②熟词僻义："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.363,
+            0.243,
+            0.379
+          ],
+          "content": "可作名词，意为事业"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.384,
+            0.241,
+            0.399
+          ],
+          "content": "【2020 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.405,
+            0.348,
+            0.42
+          ],
+          "content": "a sense of being dedicated to a cause"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.424,
+            0.32,
+            0.44
+          ],
+          "content": "一种致力于某一事业的使命感"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.444,
+            0.169,
+            0.459
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.464,
+            0.238,
+            0.48
+          ],
+          "content": "because conj. 因为"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.507,
+            0.254,
+            0.523
+          ],
+          "content": "dispose /dɪˈspouz/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.526,
+            0.275,
+            0.541
+          ],
+          "content": "vt. 排列，安排 vi. 处理"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.549,
+            0.252,
+            0.565
+          ],
+          "content": "妙记:pos- 表示放。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.568,
+            0.478,
+            0.584
+          ],
+          "content": "1.dis- 表示否定时，单词表示不放手，即着手、处理;"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.587,
+            0.482,
+            0.622
+          ],
+          "content": "2.dis- 表示分开时，单词表示分开放置，即排列、安排。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.629,
+            0.187,
+            0.649
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.657,
+            0.188,
+            0.673
+          ],
+          "content": "①常见用法："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.677,
+            0.281,
+            0.692
+          ],
+          "content": "\\- 表示排列时，及物动词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.696,
+            0.484,
+            0.731
+          ],
+          "content": "There are too many items and I don't know how to dispose them."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.735,
+            0.392,
+            0.751
+          ],
+          "content": "东西太多了，我不知道该如何排列它们。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.755,
+            0.299,
+            0.77
+          ],
+          "content": "\\- 表示处理时，不及物动词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.774,
+            0.268,
+            0.789
+          ],
+          "content": "dispose of sth. 处理某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.794,
+            0.443,
+            0.809
+          ],
+          "content": "He doesn't know how to dispose of those matters."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.813,
+            0.327,
+            0.828
+          ],
+          "content": "他不知道该如何处理那些事情。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.833,
+            0.169,
+            0.848
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.852,
+            0.272,
+            0.868
+          ],
+          "content": "disposal n. 处理；排列"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.872,
+            0.482,
+            0.907
+          ],
+          "content": "disposition n. 处理，处置; 性格，性情 (性格是一个人处理事情的风格)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.911,
+            0.476,
+            0.927
+          ],
+          "content": "disposable adj. 用后即弃的，一次性的 (-able 能、可以)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.088,
+            0.854,
+            0.104
+          ],
+          "content": "③ disposal 常考释义：垃圾、废物的处理。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.107,
+            0.686,
+            0.123
+          ],
+          "content": "【2022 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.127,
+            0.77,
+            0.142
+          ],
+          "content": "accelerating the disposal of waste"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.145,
+            0.659,
+            0.16
+          ],
+          "content": "加速废物的处理"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.165,
+            0.915,
+            0.199
+          ],
+          "content": "④ disposable 常考释义：一次性的，即用完就可以（-able）被处理掉（dispose）的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.203,
+            0.686,
+            0.219
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.223,
+            0.916,
+            0.257
+          ],
+          "content": "These labels encourage style-conscious consumers  $t_{0}$  see clothes as disposable."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.26,
+            0.915,
+            0.295
+          ],
+          "content": "这些品牌鼓励在乎风格的消费者将衣服视为一次性的东西。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.315,
+            0.7,
+            0.329
+          ],
+          "content": "discard /dr'ska:rd/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.544,
+            0.335,
+            0.605,
+            0.35
+          ],
+          "content": "vt. 丢弃"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.356,
+            0.915,
+            0.392
+          ],
+          "content": "妙记:dis-（否定）+ card（扑克牌）→不要这张牌、弃牌→丢弃。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.403,
+            0.631,
+            0.424
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.431,
+            0.658,
+            0.446
+          ],
+          "content": "常见释义：丢弃"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.449,
+            0.687,
+            0.465
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.469,
+            0.914,
+            0.523
+          ],
+          "content": "They should start by discarding California's lame argument that exploring the contents of a smartphone is similar to, say, going through a suspect's purse."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.526,
+            0.913,
+            0.562
+          ],
+          "content": "他们应该从丢弃加州蹩脚的观点开始，这种观点认为，搜索一部手机的内容就像是搜查一个人的钱包"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.585,
+            0.667,
+            0.599
+          ],
+          "content": "cover /'kʌvər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.603,
+            0.911,
+            0.638
+          ],
+          "content": "vt./n. 覆盖；掩盖；包括，涉及 n. 盖子；封面 vt. 报道"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.645,
+            0.911,
+            0.681
+          ],
+          "content": "妙记：本义表示“盖子”，引申为“覆盖、掩盖”:盖子是用来覆盖的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.544,
+            0.685,
+            0.73,
+            0.7
+          ],
+          "content": "1. 盖住书的东西 → 封面"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.704,
+            0.851,
+            0.719
+          ],
+          "content": "2. 盖住所有的东西 → 涵盖、包括、涉及"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.723,
+            0.781,
+            0.739
+          ],
+          "content": "3. 报纸文章覆盖一件事 → 报道"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.749,
+            0.633,
+            0.77
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.776,
+            0.907,
+            0.813
+          ],
+          "content": "①常考释义：cover 作动词，表示“覆盖”或“报道” 【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.816,
+            0.911,
+            0.87
+          ],
+          "content": "In those far-off days, it was taken for granted that the critics of major papers would write in detail and length about the events they covered."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.873,
+            0.91,
+            0.927
+          ],
+          "content": "在那些久远的岁月里，人们理所当然地认为，各大报纸的评论家们会详细且长篇大论地撰写他们所报道的事件的相关内容。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.058,
+            0.942,
+            0.092,
+            0.957
+          ],
+          "content": "182"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.105,
+            0.94,
+            0.133,
+            0.958
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.136,
+            0.943,
+            0.186,
+            0.957
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.853,
+            0.016,
+            0.959,
+            0.052
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.072,
+            0.173,
+            0.087
+          ],
+          "content": "②固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.091,
+            0.432,
+            0.106
+          ],
+          "content": "cover A with B/A be covered with B 用 B 覆盖 A"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.111,
+            0.31,
+            0.126
+          ],
+          "content": "I cover the pencil with the paper."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.129,
+            0.244,
+            0.145
+          ],
+          "content": "我用纸覆盖这支铅笔。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.15,
+            0.338,
+            0.165
+          ],
+          "content": "The pencil is covered with the paper."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.168,
+            0.244,
+            0.184
+          ],
+          "content": "这支铅笔被纸覆盖了。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.189,
+            0.154,
+            0.204
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.207,
+            0.327,
+            0.224
+          ],
+          "content": "coverage n. 覆盖范围；新闻报道"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.248,
+            0.254,
+            0.263
+          ],
+          "content": "discover /dɪˈskʌvər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.267,
+            0.199,
+            0.283
+          ],
+          "content": "vt. 发现；弄清"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.29,
+            0.472,
+            0.326
+          ],
+          "content": "妙记:dis-（否定）+ cover（盖）→ 去掉盖子，不盖起来 → 发现，引申为弄清。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.077,
+            0.337,
+            0.173,
+            0.359
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.365,
+            0.219,
+            0.381
+          ],
+          "content": "①常见释义：发现"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.385,
+            0.23,
+            0.401
+          ],
+          "content": "【2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.405,
+            0.473,
+            0.439
+          ],
+          "content": "The Romans buried the nails so deep that they would not be discovered for almost two millennia."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.443,
+            0.472,
+            0.48
+          ],
+          "content": "罗马人把钉子埋得如此之深，以至于近两千年之后人们才发现它们的存在。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.483,
+            0.154,
+            0.499
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.503,
+            0.218,
+            0.519
+          ],
+          "content": "discovery n. 发现"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.543,
+            0.25,
+            0.557
+          ],
+          "content": "uncover /ʌnˈkʌvər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.562,
+            0.195,
+            0.577
+          ],
+          "content": "vt. 揭开，揭露"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.584,
+            0.472,
+            0.62
+          ],
+          "content": "妙记:un-（否定）+ cover（盖）→ 去掉盖子，不盖起来 → 揭开、揭露。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.631,
+            0.173,
+            0.653
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.659,
+            0.267,
+            0.675
+          ],
+          "content": "①常见释义：揭开，揭露"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.678,
+            0.231,
+            0.694
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.698,
+            0.473,
+            0.731
+          ],
+          "content": "Progress in today's astronomy may uncover the origin of Hawaiian culture."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.734,
+            0.473,
+            0.769
+          ],
+          "content": "当今的天文学领域的进步或许能够揭开夏威夷文化的起源之谜。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.773,
+            0.342,
+            0.789
+          ],
+          "content": "②近义词辨析:uncover & discover"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.792,
+            0.191,
+            0.807
+          ],
+          "content": "(1) 构词分析："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.811,
+            0.473,
+            0.845
+          ],
+          "content": "\\- uncover = un-(去除)+cover(覆盖), 字面义为“揭开覆盖物”;"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.848,
+            0.473,
+            0.882
+          ],
+          "content": "\\- discover = dis-（去除）+ cover（覆盖），原指“移开覆盖以观察”，后发展为“发现未知”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.886,
+            0.227,
+            0.901
+          ],
+          "content": "(2) 隐含动作差异："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.905,
+            0.473,
+            0.921
+          ],
+          "content": "\\- uncover 暗示事物原本被遮蔽（如秘密、证据），需"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.073,
+            0.711,
+            0.089
+          ],
+          "content": "主动移除障碍才能发现；"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.093,
+            0.923,
+            0.128
+          ],
+          "content": "\\- discover 不强调障碍存在，仅突出事物首次被认知，如自然现象或抽象规律。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.156,
+            0.688,
+            0.17
+          ],
+          "content": "recover /rɪˈkʌvər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.174,
+            0.644,
+            0.19
+          ],
+          "content": "v. 恢复；康复"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.198,
+            0.923,
+            0.233
+          ],
+          "content": "妙记:re-再次 +cover 盖住，把东西再次盖住就是恢复原样。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.244,
+            0.624,
+            0.265
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.271,
+            0.623,
+            0.287
+          ],
+          "content": "①固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.29,
+            0.923,
+            0.325
+          ],
+          "content": "recover from sth. 从某种状态中恢复，常用于疾病、打击"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.329,
+            0.86,
+            0.345
+          ],
+          "content": "It took her months to recover from the surgery."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.347,
+            0.819,
+            0.363
+          ],
+          "content": "她花了好几个月才从手术中恢复过来。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.366,
+            0.606,
+            0.381
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.385,
+            0.713,
+            0.401
+          ],
+          "content": "recovery n. 恢复；康复"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.404,
+            0.679,
+            0.42
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.424,
+            0.925,
+            0.459
+          ],
+          "content": "As the first signs of recovery begin to take hold, deputy\nchiefs may be more willing to make the jump without a net."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.46,
+            0.924,
+            0.495
+          ],
+          "content": "随着复苏迹象开始显现，副手们或许会更愿意放手一搏。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.524,
+            0.714,
+            0.538
+          ],
+          "content": "motivate /'moutiveit/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.542,
+            0.741,
+            0.558
+          ],
+          "content": "vt. 促动，刺激，激励，激发"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.569,
+            0.923,
+            0.625
+          ],
+          "content": "妙记：来自 mot- = motion（运动，移动）→使一个东西运动起来，即“促动”→“促动”需要一定的“刺激”或“激励”，这也是一个“激发”潜能的过程。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.634,
+            0.623,
+            0.656
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.663,
+            0.922,
+            0.718
+          ],
+          "content": "①常见用法：形容某事有激励作用、鼓舞人心，叫作 motivating；而形容某人被激励、充满动力，叫作 motivated。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.723,
+            0.679,
+            0.739
+          ],
+          "content": "【2015 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.745,
+            0.864,
+            0.761
+          ],
+          "content": "Household tasks are generally more motivating."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.764,
+            0.78,
+            0.78
+          ],
+          "content": "家庭任务总体上讲更加鼓舞人心。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.784,
+            0.679,
+            0.8
+          ],
+          "content": "【2015 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.805,
+            0.714,
+            0.82
+          ],
+          "content": "keep employees motivated"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.824,
+            0.667,
+            0.84
+          ],
+          "content": "保持员工充满动力"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.844,
+            0.92,
+            0.88
+          ],
+          "content": "②近义词:motivate 激励 = promote、prompt 促进 = encourage 鼓励"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.883,
+            0.678,
+            0.899
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.903,
+            0.919,
+            0.918
+          ],
+          "content": "What motivated him, we were to understand, was his"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.819,
+            0.937,
+            0.9,
+            0.955
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.911,
+            0.939,
+            0.95,
+            0.954
+          ],
+          "content": "/183"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.026,
+            0.039,
+            0.094,
+            0.072
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.111,
+            0.048,
+            0.371,
+            0.065
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.403,
+            0.048,
+            0.51,
+            0.065
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.095,
+            0.482,
+            0.13
+          ],
+          "continues_prev": true,
+          "content": "zeal for “ fundamental fairness ” — protecting the taxpayer..."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.132,
+            0.48,
+            0.168
+          ],
+          "content": "我们了解到，激励他这样做的原因是他对“基本公平”的热情——即保护纳税人权益。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.171,
+            0.158,
+            0.187
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.191,
+            0.191,
+            0.206
+          ],
+          "content": "motive n. 动机"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.229,
+            0.199,
+            0.244
+          ],
+          "content": "boost /bu:st/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.248,
+            0.318,
+            0.264
+          ],
+          "content": "n./vt. 提高，增加；促进，激励"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.27,
+            0.482,
+            0.306
+          ],
+          "content": "妙记：穿上一双（s）靴子（boot）可以增加（boost）身高。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.217,
+            0.311,
+            0.338,
+            0.395
+          ],
+          "sub_type": "natural_image",
+          "content": "Two dolls dressed in formal attire, one standing and one standing, with warm lighting in the background (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_10.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.399,
+            0.176,
+            0.42
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.426,
+            0.223,
+            0.442
+          ],
+          "content": "①常见释义：促进"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.445,
+            0.233,
+            0.461
+          ],
+          "content": "【2021 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.466,
+            0.481,
+            0.517
+          ],
+          "content": "A move back to self-sufficiency, the argument goes, would boost the farming industry, political sovereignty and even the nation's health."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.521,
+            0.481,
+            0.556
+          ],
+          "content": "这种观点认为，回归自给自足将促进农业、政治主权，甚至国家健康。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.559,
+            0.395,
+            0.575
+          ],
+          "content": "②常考释义:boost 提高（生产力 / 产量）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.578,
+            0.483,
+            0.613
+          ],
+          "content": "【2018、2022 年英语（一）、2024 年英语（二）】\nboost productivity 提高生产力"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.616,
+            0.482,
+            0.651
+          ],
+          "content": "【2021 年英语（一）、2021 年英语（二）】boost production 提高产量"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.673,
+            0.235,
+            0.689
+          ],
+          "content": "satisfy /'sætɪsfaɪ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.692,
+            0.22,
+            0.708
+          ],
+          "content": "vt. 使满意；满足"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.715,
+            0.479,
+            0.731
+          ],
+          "content": "妙记：谐音“That is fine.”那是好的，即对此“满意”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.74,
+            0.176,
+            0.762
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.768,
+            0.445,
+            0.802
+          ],
+          "content": "①常见用法:satisfy sb. 满足某人；使某人满意\n【2001 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.807,
+            0.441,
+            0.84
+          ],
+          "content": "The newspaper industry cannot satisfy the readers.\n报纸行业无法满足读者。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.844,
+            0.462,
+            0.877
+          ],
+          "content": "②最常考用法:satisfy sb.'s need 满足某人的需求\n【2015 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.882,
+            0.332,
+            0.916
+          ],
+          "content": "satisfies the real need of the jobless\n满足没有工作的人的真实需求"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.094,
+            0.926,
+            0.128
+          ],
+          "content": "③固定搭配:satisfy sb. with sth. 使某人对某事感到满意"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.131,
+            0.692,
+            0.147
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.151,
+            0.925,
+            0.186
+          ],
+          "content": "Childless folks are less likely to be satisfied with their life. 没有孩子的人群更不可能对他们的生活感到满意。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.19,
+            0.616,
+            0.204
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.208,
+            0.691,
+            0.223
+          ],
+          "content": "satisfaction n. 满意"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.227,
+            0.712,
+            0.242
+          ],
+          "content": "dissatisfaction n. 不满"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.267,
+            0.667,
+            0.281
+          ],
+          "content": "cater /'keɪtər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.285,
+            0.656,
+            0.3
+          ],
+          "content": "vi. 满足，迎合"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.307,
+            0.927,
+            0.343
+          ],
+          "content": "妙记:cater=cat（猫）+-er（人）养猫人需要满足（cater）猫的各种需求。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.663,
+            0.348,
+            0.811,
+            0.45
+          ],
+          "sub_type": "natural_image",
+          "content": "Person in a hot, dimly lit room with steam rising and a dog nearby (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_36.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.455,
+            0.634,
+            0.477
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.483,
+            0.858,
+            0.498
+          ],
+          "content": "①固定搭配:cater to sb. 满足、迎合某人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.502,
+            0.691,
+            0.518
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.522,
+            0.916,
+            0.556
+          ],
+          "content": "24. C. His style caters largely to modern specialists.\n他的风格在很大程度上迎合了当代专家们。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.559,
+            0.633,
+            0.574
+          ],
+          "content": "②常见用法："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.578,
+            0.868,
+            0.593
+          ],
+          "content": "cater to sb.'s need 满足、迎合某人的需求"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.597,
+            0.894,
+            0.632
+          ],
+          "content": "【2023 年英语（一）】24. D. cater to local needs 满足当地人的需求"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.655,
+            0.682,
+            0.67
+          ],
+          "content": "possess /pə'zes/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.674,
+            0.654,
+            0.689
+          ],
+          "content": "vt. 占有，拥有"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.696,
+            0.925,
+            0.732
+          ],
+          "content": "妙记:pos-（=put 放）+ sess- = sit-（坐）→ 把东西放在一个座位上，就是占有这个座位。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.74,
+            0.634,
+            0.762
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.768,
+            0.616,
+            0.784
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.788,
+            0.884,
+            0.804
+          ],
+          "content": "possession n. 持有，拥有；所有物；pl. 财产"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.807,
+            0.895,
+            0.823
+          ],
+          "content": "②常考释义:possession 复数形式表示“财产”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.825,
+            0.691,
+            0.842
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.845,
+            0.926,
+            0.879
+          ],
+          "content": "Authorities may search through the possessions of\nsuspects at the time of their arrest."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.882,
+            0.925,
+            0.917
+          ],
+          "content": "在嫌疑犯被逮捕的期间，当局可能会搜查嫌疑犯的财产。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.042,
+            0.941,
+            0.083,
+            0.956
+          ],
+          "content": "184/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.089,
+            0.94,
+            0.118,
+            0.957
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.122,
+            0.942,
+            0.172,
+            0.956
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.856,
+            0.0,
+            0.966,
+            0.034
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.057,
+            0.218,
+            0.092
+          ],
+          "content": "obsess /əbˈses/\nvt. 使痴迷，使迷恋"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.098,
+            0.469,
+            0.135
+          ],
+          "content": "妙记:ob-（否定）+ sess-（坐）→ 坐不住 → 痴迷于一件事时，会总想干这件事，坐不住。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.06,
+            0.146,
+            0.16,
+            0.168
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.174,
+            0.381,
+            0.19
+          ],
+          "content": "①固定搭配:be obsessed by/with 痴迷于"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.194,
+            0.218,
+            0.211
+          ],
+          "content": "【2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.215,
+            0.47,
+            0.251
+          ],
+          "content": "I make no apology for being obsessed by a particular feature of everyday objects: their price."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.254,
+            0.469,
+            0.291
+          ],
+          "content": "我并不会为自己着迷于日用品的价格这个特定特征而感到抱歉。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.295,
+            0.14,
+            0.31
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.315,
+            0.24,
+            0.331
+          ],
+          "content": "obsession n. 痴迷，着迷"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.057,
+            0.691,
+            0.093
+          ],
+          "continues_prev": true,
+          "content": "reside /rɪ'zaɪd/\nvi. 居住；（存）在于"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.1,
+            0.934,
+            0.136
+          ],
+          "content": "妙记：re-(重复)+side(谐音“在的”) 居住 (reside) 在哪儿意味着一直 (re-) 在 (side) 哪儿。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.146,
+            0.625,
+            0.168
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.174,
+            0.932,
+            0.229
+          ],
+          "content": "①需要特别当心的固定搭配:reside in... 存在于……中\nThe power to make decisions resides in the hands of the board."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.234,
+            0.806,
+            0.251
+          ],
+          "content": "做出决定的权力掌握在董事会手中。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.254,
+            0.932,
+            0.291
+          ],
+          "content": "②派生词 residence 除了“居住”，还可以表示“住宅、住所”，相当于 home"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.295,
+            0.642,
+            0.311
+          ],
+          "content": "③其他派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.315,
+            0.751,
+            0.332
+          ],
+          "content": "resident adj. 居住的 n. 居民"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.059,
+            0.352,
+            0.206,
+            0.373
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.058,
+            0.389,
+            0.154,
+            0.406
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.417,
+            0.667,
+            0.453
+          ],
+          "content": "1. But exploring one's smartphone is more like entering his or her home.\nThe author believes that exploring one's phone contents is comparable to \\_\\_\\_\\_."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.084,
+            0.457,
+            0.367,
+            0.534
+          ],
+          "sub_type": "text",
+          "content": "A. getting into one's residence\nB. handling one's historical records\nC. scanning one's correspondences\nD. going through one's wallet"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.543,
+            0.934,
+            0.579
+          ],
+          "content": "2. The \\_\\_\\_\\_ atmosphere of the startup, where every success story was celebrated, kept employees \\_\\_\\_\\_ even during crunch time – a dynamic that many competitors failed to replicate."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.084,
+            0.583,
+            0.295,
+            0.658
+          ],
+          "sub_type": "text",
+          "content": "A. motivated...motivating\nB. motivating...motivated\nC. motivation...motivating\nD. motivated...motivation"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.669,
+            0.934,
+            0.725
+          ],
+          "content": "3. The laboratory's new policy requires researchers to \\_\\_\\_\\_ chemical containers properly after use, with special \\_\\_\\_\\_ procedures for toxic substances. This reflects both their cautious \\_\\_\\_\\_ and the growing concern over \\_\\_\\_\\_ medical waste in the facility."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.083,
+            0.728,
+            0.457,
+            0.805
+          ],
+          "sub_type": "text",
+          "content": "A. dispose...disposal...disposition...disposable\nB. dispose of...disposed...disposition...disposal\nC. dispose...disposal...disposable...disposition\nD. dispose of...disposal...disposition...disposable"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.814,
+            0.73,
+            0.831
+          ],
+          "content": "4. \\_\\_\\_\\_ the economic crisis, the country has implemented a series of stimulus measures."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.083,
+            0.835,
+            0.293,
+            0.911
+          ],
+          "sub_type": "text",
+          "content": "A. Recovering\nB. To recover\nC. Having recovered from\nD. Being recovered by"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.825,
+            0.939,
+            0.909,
+            0.957
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.919,
+            0.941,
+            0.96,
+            0.956
+          ],
+          "content": "/185"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.036,
+            0.036,
+            0.107,
+            0.069
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.119,
+            0.044,
+            0.378,
+            0.062
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.408,
+            0.044,
+            0.513,
+            0.06
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.09,
+            0.18,
+            0.107
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.081,
+            0.116,
+            0.926,
+            0.252
+          ],
+          "sub_type": "text",
+          "content": "1. Adult women do not remember being so obsessed \\_\\_\\_\\_ pink.\n2. But this distinction misses the point that it is processing and aggregation, not the mere\\_\\_\\_\\_ of bits, that gives the data value.(possess)\n3. This new product is designed to cater \\_\\_\\_\\_ the needs of young consumers.\n4. Finally, the public receives the new \\_\\_\\_\\_ and possibly accompanying technology.(discover)\n5. She sent an \\_\\_\\_\\_ to the hotel regarding room availability.(inquire)"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.26,
+            0.179,
+            0.277
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.288,
+            0.158,
+            0.303
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.314,
+            0.597,
+            0.33
+          ],
+          "content": "1. The author of a paper is required to cover the cost of its publication."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.393,
+            0.631,
+            0.409
+          ],
+          "content": "2. There is a way in which grade forgiveness satisfies colleges' own needs."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.472,
+            0.631,
+            0.488
+          ],
+          "content": "3. Please discard plastic bottles in the recycling bin instead of regular trash."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.553,
+            0.158,
+            0.568
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.577,
+            0.86,
+            0.593
+          ],
+          "content": "1. According to Confor, the UK government's fresh incentives can hardly [address] a construction crisis."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.629,
+            0.879,
+            0.645
+          ],
+          "content": "2. This would [boost incomes], encourage work, reward companies for job creation, and reduce inequality."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.68,
+            0.439,
+            0.696
+          ],
+          "content": "3. We should fight for the Republican [cause]."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.731,
+            0.775,
+            0.748
+          ],
+          "content": "4. The journalist worked tirelessly to [ uncover] the corruption scandal within the government."
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.049,
+            0.939,
+            0.087,
+            0.954
+          ],
+          "content": "186/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.095,
+            0.937,
+            0.123,
+            0.954
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.127,
+            0.939,
+            0.177,
+            0.953
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.836,
+            0.022,
+            0.942,
+            0.058
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.446,
+            0.078,
+            0.541,
+            0.097
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.121,
+            0.172,
+            0.138
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.153,
+            0.125,
+            0.166
+          ],
+          "content": "1. A."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.17,
+            0.136,
+            0.185
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.188,
+            0.467,
+            0.241
+          ],
+          "content": "句意：但浏览一个人的智能手机更像是进入他或她的家。作者认为，查看一个人手机里的内容可以比作\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.243,
+            0.468,
+            0.352
+          ],
+          "content": "考点：细节对应与同义替换。题干中的“comparable to”与原文“is more like”对应，考查对原文比喻的理解。原文明确将“exploring one's smartphone” (查看手机) 比作“entering his or her home” (进入他的家)。A. getting into one’s residence (进入某人的住所) 是“entering his or her home”的完美同义替换。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.368,
+            0.122,
+            0.381
+          ],
+          "content": "2. B."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.385,
+            0.133,
+            0.401
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.404,
+            0.468,
+            0.568
+          ],
+          "content": "句意：这家初创公司 \\_\\_\\_\\_ 的氛围，每一个成功的案例都会得到庆祝，使得员工们即使在紧要关头也保持 \\_\\_\\_\\_ 这是一种许多竞争对手未能复制的动态。考点：现在分词与过去分词作形容词的辨析。第一个空修饰“atmosphere”（氛围），氛围本身是“令人鼓舞的”，具有主动意味，故用现在分词 motivating（激励人心的）。第二个空描述“employees”（员工）的状态，员工“被激励”，具有被动意味，故用过去分词 motivated（受到激励的）。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.584,
+            0.122,
+            0.597
+          ],
+          "content": "3. D."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.601,
+            0.133,
+            0.617
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.62,
+            0.467,
+            0.692
+          ],
+          "content": "句意：实验室的新政策要求研究人员在使用后妥善\\_\\_\\_\\_化学容器，并对有毒物质有特殊的\\_\\_\\_\\_程序。这既反映了他们谨慎的\\_\\_\\_\\_，也反映了人们对实验室内\\_\\_\\_\\_医疗废物日益增长的担忧。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.695,
+            0.468,
+            0.917
+          ],
+          "content": "考点：同根词词义与词性辨析。第一空：需要动词原形与 to 构成不定式。dispose 为不及物动词，后接宾语需加 of, dispose of 意为“处理，清理”。第二空：需要形容词修饰“procedures”（程序）。disposal（处理）是名词，其形容词形式为 disposable（一次性的），但此处语义应为“处理程序”，故用名词 disposal 作定语，即 disposal procedures。第三空：需要名词，被“cautious”（谨慎的）修饰。disposition（性情，倾向）符合“谨慎的性情”的语境。第四空：需要形容词修饰“medical waste”（医疗废物）。disposable（一次性的）符合“一次性医疗废物”的语义。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.152,
+            0.565,
+            0.165
+          ],
+          "content": "4. C."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.169,
+            0.576,
+            0.185
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.188,
+            0.909,
+            0.39
+          ],
+          "content": "句意:\\_\\_\\_\\_经济危机，该国已实施了一系列刺激措施。\n考点：非谓语动词作状语。句子主语“the country”与空格处动词“recover”是主动关系，且“实施措施”发生在“从危机中恢复”之后。A. Recovering（正在恢复）表示同时发生，逻辑不通。B. To recover（为了恢复）表目的，但“实施措施”本身就是“恢复”的手段，逻辑重叠。C. Having recovered from（已经从……中恢复过来）是现在分词的完成式，表示动作已完成，符合“先恢复，后实施”的逻辑。D. Being recovered by（正被……恢复）是被动语态，与主语主动关系矛盾。故 C. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.518,
+            0.4,
+            0.612,
+            0.417
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.433,
+            0.58,
+            0.446
+          ],
+          "content": "1. with"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.45,
+            0.576,
+            0.466
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.469,
+            0.876,
+            0.485
+          ],
+          "content": "句意：成年女性不记得自己曾如此\\_\\_\\_\\_粉色。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.488,
+            0.899,
+            0.523
+          ],
+          "content": "考点：固定搭配。“be obsessed with”是固定短语，意为“对……着迷，痴迷于……”。故填介词 with。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.539,
+            0.623,
+            0.553
+          ],
+          "content": "2. possession"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.556,
+            0.576,
+            0.571
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.575,
+            0.909,
+            0.609
+          ],
+          "content": "句意：但是，这种区分没有抓住重点：是处理和聚合，而不仅仅是比特的\\_\\_\\_\\_，赋予了数据价值。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.612,
+            0.909,
+            0.685
+          ],
+          "content": "考点：词性转换（动词→名词）。定冠词 the 和介词 of 之间需要填入一个名词。动词 possess（拥有）的名词形式为 possession（拥有，占有）。“the mere possession of bits”意指“仅仅拥有数据比特”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.7,
+            0.562,
+            0.714
+          ],
+          "content": "3. to"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.717,
+            0.576,
+            0.733
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.736,
+            0.893,
+            0.752
+          ],
+          "content": "句意：这款新产品旨在\\_\\_\\_\\_年轻消费者的需求。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.755,
+            0.907,
+            0.79
+          ],
+          "content": "考点：固定搭配。“cater to”是固定短语，意为“满足……的需要，迎合”。故填介词 to。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.807,
+            0.618,
+            0.821
+          ],
+          "content": "4. discovery"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.824,
+            0.576,
+            0.839
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.842,
+            0.909,
+            0.876
+          ],
+          "content": "句意：最终，公众接受了这项新\\_\\_\\_\\_以及可能随之而来的技术。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.88,
+            0.909,
+            0.914
+          ],
+          "content": "考点：词性转换（动词→名词）。定冠词 the 和形容词 new 之后需要填入一个名词。动词 discover（发"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.812,
+            0.934,
+            0.892,
+            0.95
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.906,
+            0.936,
+            0.94,
+            0.95
+          ],
+          "content": "187"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.048,
+            0.033,
+            0.123,
+            0.066
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.137,
+            0.042,
+            0.413,
+            0.058
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.446,
+            0.042,
+            0.558,
+            0.058
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.088,
+            0.512,
+            0.104
+          ],
+          "continues_prev": true,
+          "content": "现）的名词形式为 discovery（发现，发现的事物）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.097,
+            0.119,
+            0.191,
+            0.133
+          ],
+          "level": 2,
+          "content": "5. inquiry"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.097,
+            0.136,
+            0.162,
+            0.15
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.154,
+            0.525,
+            0.188
+          ],
+          "content": "句意：她向酒店发送了一份关于房间可预订情况的\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.191,
+            0.525,
+            0.243
+          ],
+          "content": "考点：词性转换（动词→名词）。不定冠词 an 之后需要填入一个名词。动词 inquire（询问）的名词形式为 inquiry（询问，查询）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.095,
+            0.253,
+            0.201,
+            0.269
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.097,
+            0.273,
+            0.177,
+            0.287
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.096,
+            0.291,
+            0.5,
+            0.343
+          ],
+          "sub_type": "text",
+          "content": "1. 一篇论文的作者被要求覆盖论文出版的成本。\n2. 分数谅解以某种方式满足大学自己的需求。\n3. 请将塑料瓶丢弃在回收箱而非普通垃圾桶。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.098,
+            0.346,
+            0.177,
+            0.361
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.094,
+            0.365,
+            0.525,
+            0.491
+          ],
+          "sub_type": "text",
+          "content": "1. 根据康福公司的说法，英国政府新的激励措施很难【解决】建筑危机。\n2. 这将【提高收入水平】, 鼓励人们就业，奖励那些创造就业岗位的企业，并减少不平等。\n3. 我们应为共和【事业】而奋斗。\n4. 这位记者不懈努力【揭露】了政府内部的腐败丑闻。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.064,
+            0.937,
+            0.102,
+            0.951
+          ],
+          "content": "188/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.114,
+            0.935,
+            0.143,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.147,
+            0.937,
+            0.201,
+            0.95
+          ],
+          "content": "研过过"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:14:07",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 8,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.0,
+          "height_pt": 916.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

@@ -1,0 +1,5 @@
+{
+  "plugins": ["react"],
+  "jsPlugins": ["@shadcn/lint"],
+  "ignorePatterns": ["bindings/**", "dist/**", "node_modules/**"]
+}

@@ -1,0 +1,644 @@
+{
+  "list_no": 6,
+  "title": "身份与学术",
+  "association": {
+    "outline": "情节发展：学术身份危机→双轨制挑战→跨界顿悟",
+    "scenes": [
+      {
+        "title": "学术身份危机",
+        "story": "按照常规，医学生李伟的职业 identity（身份）将是 doctor（医生）。但在 academy（学院）里，他始终无法 classify（分类）自己矛盾的爱好——医学与美食。某次生物 class（课堂）上，他 refer（参考）了 article（文章），作为自己的 reference（参考文献），刀工如手术解剖般精准。"
+      },
+      {
+        "title": "双轨制挑战",
+        "story": "新 term（学期）他选修了烹饪 course（课程）。当医学 homework（作业）与厨艺 lesson（课程）冲突时，expert（专家）主厨轻敲料理台:“experience（经验）比教科书更可靠，这才是真正的 reference（参考）。”"
+      },
+      {
+        "title": "跨界顿悟",
+        "story": "然而，就在烹饪课堂，医学作业的解剖学知识突然贯通——他 identify（识别）出猪里脊的肌理分区，科学 classify（分类）肉类切割法。当营养学 subject（学科）grade（成绩）跃居榜首时，curriculum（课程）主任惊叹:“你成了营养学 specialist（专家）！”"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "doctor",
+      "ipa": "/ˈdaːktər/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "医生；博士"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "篡改"
+        }
+      ],
+      "mnemonic": "坏的医生（doctor）会篡改（doctor）病人的病历。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "熟词僻义",
+          "body": "篡改 【2014 年英语（二）】 The participants thought the most positively doctored pictures were real. 参与者们认为那些最精心篡改过的图片是最真实的。"
+        }
+      ]
+    },
+    {
+      "spelling": "experience",
+      "ipa": "/ɪkˈspɪriəns/",
+      "senses": [
+        {
+          "pos": "n./vt.",
+          "meaning_cn": "经历，体验; 经验"
+        }
+      ],
+      "mnemonic": "外出（ex-）每一次（per）都会获得的东西（-ence）是经历、经验。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "作名词时，“经历”通常是可数名词，“经验”通常是不可数名词，在翻译题中，要特别小心。 【2022 年英语（二）】 the lack of experience and technique 这个短语，应该翻译为“缺乏经验和技术”，而不能翻译成“缺乏经历和技术”。"
+        }
+      ]
+    },
+    {
+      "spelling": "expert",
+      "ipa": "/ˈekspɜːrt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "专家"
+        }
+      ],
+      "mnemonic": "经验（experience）多的人，就是专家（expert）。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词经常出现在考研小作文的导语（Directions）中。 【2018 年英语（一）小作文导语】 Write an e-mail to all international experts on campus, inviting them to attend the graduation ceremony. 给在校所有的国际专家写一封电子邮件，邀请他们参加毕业典礼。"
+        }
+      ]
+    },
+    {
+      "spelling": "specialist",
+      "ipa": "/ˈspeʃəlist/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "专家"
+        }
+      ],
+      "mnemonic": "special（特别的）+ -ist（名词后缀），有特别技能的人就是这个领域的专家。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "specialize in 专攻 【2024 年英语（一）】"
+        }
+      ]
+    },
+    {
+      "spelling": "identity",
+      "ipa": "/aɪˈdentəti/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "身份"
+        }
+      ],
+      "mnemonic": "警察用 ID card（身份证）来识别嫌疑人的身份（identity）。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "身份证 【2011 年英语（二）】 The system might use a smart identity card. 系统可能会使用一个智能身份证。"
+        }
+      ]
+    },
+    {
+      "spelling": "identify",
+      "ipa": "/aɪˈdentɪfaɪ/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "识别，辨认出；视同为"
+        }
+      ],
+      "mnemonic": "警察用 ID card（身份证）来 identify（识别）嫌疑人的身份。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "identify A with B 将 A 视同为 B 【2017 年英语（一）】"
+        }
+      ]
+    },
+    {
+      "spelling": "cook",
+      "ipa": "/kʊk/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "厨师"
+        },
+        {
+          "pos": "v.",
+          "meaning_cn": "烹饪；捏造，伪造"
+        }
+      ],
+      "mnemonic": "坏厨师（cook）在做饭（cook）时会伪造（cook）一份假菜谱给自己的徒弟，以巩固自己的地位。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "熟词僻义",
+          "body": "伪造、篡改 【2006 年】 He is not supposed to cook his experiments, manufacture evidence, or doctor his reports. 他不应亲自伪造实验、编造证据或篡改报告。"
+        }
+      ]
+    },
+    {
+      "spelling": "school",
+      "ipa": "/skuːl/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "学校；学院；学派；鱼群"
+        },
+        {
+          "pos": "v.",
+          "meaning_cn": "学校教育"
+        }
+      ],
+      "mnemonic": "",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "一词多义",
+          "body": "学院（最常考） 【2014 年英语（一）】 law school 法学院 学派 【1994 年】 the new school of scientists 新学派的科学家们学校教育 【2012 年英语（二）】 Homework will still be a part of schooling. 家庭作业仍然是学校教育的一部分。 鱼群：仅在 2000 年考研英语大作文中考查过一次。"
+        }
+      ]
+    },
+    {
+      "spelling": "academy",
+      "ipa": "/əˈkædəmi/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "学院；研究院"
+        }
+      ],
+      "mnemonic": "a（一个）cade（谐音“开导”），my（我的，联想为我的思维），一个开导我思维的地方就是学院和研究院（academy）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "学院；研究院（尤指专业或高级教育机构） the Royal Academy of Arts 英国皇家艺术学院 Academy Awards 美国电影艺术与科学学院奖，也被称为 Oscars 奥斯卡金像奖"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "academic adj. 学术的，也可以作名词，表示学者 【2014 年英语（二）】 These two academics use an array of behavioral research to show that the most rewarding ways to spend money can be counterintuitive. 这两位学者运用一系列行为研究来表明，花钱最具回报的方式可能是反直觉的。"
+        }
+      ]
+    },
+    {
+      "spelling": "classify",
+      "ipa": "/ˈklæsɪfaɪ/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "分类，分级"
+        }
+      ],
+      "mnemonic": "class（种类、级别）+ -ify（把）→ 把…… 分类或分级。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "classify sth. into... 将某物分为……类 be classified as 归类为（强调属性） 例:The document was classified as“Top Secret”. 文件被列为“绝密”。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "classification n. 分类，分级 【2020 年英语（一）】 The law, which expressly classifies people on the basis of sex, is probably unconstitutional. 这部法律明确依据性别对人进行分类，它很可能是违宪的。"
+        }
+      ]
+    },
+    {
+      "spelling": "class",
+      "ipa": "/klæs/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "班级；（一节）课；等级，阶层；种类"
+        }
+      ],
+      "mnemonic": "class begins 上课。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "最常考",
+          "body": "等级、阶层（可以用“班级”的含义帮助记忆） 【2021 年英语（一）】 social class 社会阶层 【2018 年英语（一）】 middle-class 中产阶级"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "偶尔考查",
+          "body": "种类（一个阶层就是一类人） 【2010 年英语（一）】 It has the potential to eliminate an entire class of patents. 它有可能彻底消除一整类专利。"
+        }
+      ]
+    },
+    {
+      "spelling": "course",
+      "ipa": "/kɔːrs/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "课程；各种道（跑道、河道等）；过程，进程"
+        }
+      ],
+      "mnemonic": "在跑道（course）上跑步，就是上体育课程（course）的过程（course）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "最常考",
+          "body": "the course of ……的过程或进程 【2022 年英语（一）】 It has been estimated that this generation will work for 17 different employers over the course of their working life and have five different careers. 据估计，这一代人在其职业进程中将会为 17 个不同的雇主效力，并且会有五种不同的职业。"
+        },
+        {
+          "marker": "②",
+          "kind": "辨析",
+          "label_raw": "单词辨析",
+          "body": "course & process course 强调自然或时间的发展； process 强调步骤或人为的流程。"
+        }
+      ]
+    },
+    {
+      "spelling": "curriculum",
+      "ipa": "/kəˈrɪkjələm/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "全部课程"
+        }
+      ],
+      "mnemonic": "curriculum 谐音“可 read 可 learn”，包含阅读和学习的是全部课程。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词的复数形式可以表示“教育”，相当于 education:学生需要学习的全部课程，就是学生接受的教育。 【2018 年英语（一）】 Curriculums—from grammar school to college—should evolve to focus less on memorizing facts and more on creativity and complex communication. 从文法学校到大学的全部课程应减少对于事实记忆的关注，并增加对于创造力和复杂交流能力的关注。"
+        }
+      ]
+    },
+    {
+      "spelling": "subject",
+      "ipa": "/ˈsʌbdʒekt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "使屈服，使服从"
+        },
+        {
+          "pos": "adj.",
+          "meaning_cn": "屈服的，服从的"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "主题；"
+        }
+      ],
+      "mnemonic": "sub-（下）+ject-（扔、投、抛）→把责骂的话扔下去，被骂的人地位变低→服从、屈服。 主题：文章的其他内容都要服从主题，为主题服务； 实验对象：实验的其他方面都要服从实验对象，为实验对象服务； 学科：引申自“主题”，即围绕一个主题构建的知识体系。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "最常考",
+          "body": "subject 表示“主题”，是主旨题常见的题干标志词。 【2010 年英语（一）】"
+        }
+      ]
+    },
+    {
+      "spelling": "lesson",
+      "ipa": "/ˈlesn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "课；经验，教训"
+        }
+      ],
+      "mnemonic": "",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "搭配",
+          "label_raw": "",
+          "body": "常考短语 learn a lesson, 表示学习经验或吸取教训。 【2020 年英语（二）翻译】 Every time we fail at something, we can choose to look for the lesson we're meant to learn. 每次做事失败时，我们都可以选择去寻找我们应当吸取的教训。"
+        }
+      ]
+    },
+    {
+      "spelling": "homework",
+      "ipa": "/ˈhəʊmwɜːrk/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "家庭作业"
+        }
+      ],
+      "mnemonic": "home（家庭）+ work（工作）→ 学生在家（home）做的工作（work）就是家庭作业（homework）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "熟词僻义",
+          "body": "准备工作（比喻用法，指事前调研） 例:The negotiator did his homework before the meeting. 这位谈判者在会面之前已经做好了充分的准备工作。"
+        },
+        {
+          "marker": "②",
+          "kind": "辨析",
+          "label_raw": "注意区分",
+          "body": "housework n. 家务劳动 【2015 年英语（二）】 There is often much housework left behind. 常常会有许多家务活儿遗留下来。"
+        }
+      ]
+    },
+    {
+      "spelling": "article",
+      "ipa": "/ˈɑːrtɪkl/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "文章；条文，条款；物件"
+        }
+      ],
+      "mnemonic": "来自 particle（一小部分）。 物件:a separate thing, especially one of a set 一套中的一个； 文章:a piece of writing in a newspaper or magazine 报纸杂志中的一篇； 条款:a separate item in an agreement or a contract 协议合同中的一条。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "文章 【2022 年英语（一）】 But such an idea is untrue, according to the authors of the new article. 但据这篇新文章的作者们所述，这种观点是不正确的。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "article 可以表示“一件物品”，并不常考。 【2016 年英语（一）】 Buy all your clothes at once with a stylist instead of shopping alone, one article of clothing at a time. 和造型师一起一次性购齐所有衣物，而不要单独购物且每次只买一件衣服。"
+        }
+      ]
+    },
+    {
+      "spelling": "refer",
+      "ipa": "/rɪˈfɜːr/",
+      "senses": [
+        {
+          "pos": "vi.",
+          "meaning_cn": "提到，提及; 指的是"
+        }
+      ],
+      "mnemonic": "re-（再次）+ fer-（拿）→前人提出的东西，再次拿过来说→提到、提及。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "refer to 通常翻译成“指的是”，但理解成“提到、提及”也可以看懂。 【2017 年英语（一）】 So what Kennedy was referring to was that while GDP has been the most common method for measuring the economic activity of nations, as a measure, it is no longer enough. 所以肯尼迪指的是，尽管国内生产总值 (GDP) 一直是衡量各国经济活动的最常用方法，但作为一种衡量标准，它已经不够了。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "refer to A as B 将 A 称为 B = 把 A 作为 B 来提及 【2014 年英语（一）】 As the brain fades, we refer to these occurrences as \"senior moments\". 随着大脑的衰退，我们将这些情况称为“老年时刻”。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "A refer to B 经常出现在语义题的题干中，表示 A 指的是 B。"
+        }
+      ]
+    },
+    {
+      "spelling": "reference",
+      "ipa": "/ˈrefrəns/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "提到，提及；参考，查阅；（找工作用的）推荐信，介绍信"
+        }
+      ],
+      "mnemonic": "该单词是 refer 的名词形式，表示“提到，提及”。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "refer 表示“再次拿过来”，所以，reference 的其他含义，归根结底都是“再次拿过来用的东西”。"
+        },
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "参考文献",
+          "body": "前人的文章，在你的论文中再拿过来用。 【2023 年英语（一）】 When an editor, a reviewer, or a support service asks you to add inappropriate references, do not oblige and do report the request to the journal. 当编辑、审稿人或技术支持服务人员要求你添加不恰当的参考文献时，请不要照办，并且要将此要求报告给期刊。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "参照",
+          "body": "先前采集的样本，再次拿出来进行对比。 【2009 年】 Critics also argue that commercial genetic testing is only as good as the reference collections to which a sample is compared. 批评人士还认为，商业基因检测的准确性取决于与样本进行对比的参照库。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "参考书（reference book）:前人写的书，你再次拿过来学习。 【2018 年英语（二）】 Nowadays, his reading material has changed from science fiction and reference books. 如今，他的阅读材料已不再局限于科幻小说和参考书这类东西了。"
+        }
+      ]
+    },
+    {
+      "spelling": "term",
+      "ipa": "/tɜːrm/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "学期；期限，期间；术语；条款"
+        }
+      ],
+      "mnemonic": "term 表示边界、界限。时间的界限叫作“期限、期间”，引申为“学期”；“术语、条款”是给一个概念、一种行为划定边界。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "考研最常考“期限、期间”，如:short-term 短期的；long-term 长期的。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词表示“术语”，但在现代英语中，可以泛指词语、用语。 【2015 年英语（二）】 We would see much less frequent use of terms like journey, mission, passion. 我们会很少再见到诸如“旅程”“使命”“激情”这类词语了。"
+        },
+        {
+          "marker": "③",
+          "kind": "搭配",
+          "label_raw": "常考短语",
+          "body": "in terms of 就……而言，从……角度 【2023 年英语（一）】 The publishing industry talks about diversity in terms of authors and staff. 出版业从作者和员工的角度谈论多样性。"
+        }
+      ]
+    },
+    {
+      "spelling": "grade",
+      "ipa": "/greɪd/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "等级，级别；年级；分数"
+        }
+      ],
+      "mnemonic": "",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "make the grade 达到标准；成功 up to grade 符合标准 on grade（美）平地的；同水平的"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "upgrade v./n. 升级 degrade = downgrade v./n. 降级"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L6-01",
+      "kind": "single",
+      "stem": "The journalist discovered that the researcher had ____ the experimental data to support his theory, while the accountant was accused of ____ the company's financial records.",
+      "options": [
+        "treated ... preparing",
+        "healed ... serving",
+        "cooked ... doctoring",
+        "doctored ... cooking"
+      ],
+      "answer": 3,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "doctor",
+          "bind": "词义"
+        },
+        {
+          "n": 2,
+          "word": "cook",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L6-02",
+      "kind": "fill",
+      "stem": "Many start-up companies ____ (expert) significant setbacks during economic downturns.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "experience"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "experience",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L6-03",
+      "kind": "fill",
+      "stem": "A strong sense of corporate ____ (identity) helps employees feel they belong; to achieve this, management must ____ (identity) with staff values through inclusive policies.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "identity",
+        "identify"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "identity",
+          "bind": "词形"
+        },
+        {
+          "n": 2,
+          "word": "identify",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L6-04",
+      "kind": "translate_sentence",
+      "stem": "Yet only one of his books is now in print, and his vast body of writings on music is unknown save to specialists.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "specialist",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L6-05",
+      "kind": "translate_sentence",
+      "stem": "The Ministry of Education requires all types of academies to optimize their curriculums by classifying disciplines according to their characteristics, so as to promote students' holistic development.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "curriculum",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L6-06",
+      "kind": "translate_sentence",
+      "stem": "Under this research subject, scholars must reference the latest literature and precisely define all technical terms.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "term",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=循环背诵
+Comment=考研英语循环背诵
+# The Exec line includes %u to pass the URL to the application
+Exec=/usr/local/bin/recitebook.exe %u
+Terminal=false
+Type=Application
+Icon=recitebook.exe
+Categories=Utility;
+StartupWMClass=recitebook.exe
+
+ 

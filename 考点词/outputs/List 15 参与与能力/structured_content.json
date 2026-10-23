@@ -1,0 +1,5349 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.846,
+            0.01,
+            0.953,
+            0.047
+          ],
+          "content": "Chapter 2 考点词"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.352,
+            0.069,
+            0.396,
+            0.101
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_1.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.404,
+            0.076,
+            0.614,
+            0.095
+          ],
+          "level": 2,
+          "content": "List 15 参与与能力"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.077,
+            0.124,
+            0.22,
+            0.144
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.151,
+            0.411,
+            0.168
+          ],
+          "content": "情节发展：信息揭露→会议筹备→组织成立"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.187,
+            0.158,
+            0.202
+          ],
+          "level": 2,
+          "content": "信息揭露"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.206,
+            0.687,
+            0.262
+          ],
+          "content": "记者在调查中 disclose/reveal/expose（揭露）某公司财务造假，exhibit（展示）证据后，remind（提醒）公众警惕风险。但公司高管 absent（缺席）听证会，仅派律师 represent（代表）发言，试图掩盖真相。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.279,
+            0.158,
+            0.295
+          ],
+          "level": 2,
+          "content": "会议筹备"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.299,
+            0.687,
+            0.355
+          ],
+          "content": "民间组织决定 participate（参与）维权行动，capture（收集）更多证据。由于 capacity（容量）有限，他们租用场地举办 congress/convention（大会），gather/accumulate/assemble（聚集）受害者，准备联合起诉。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.382,
+            0.158,
+            0.398
+          ],
+          "level": 2,
+          "content": "组织成立"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.402,
+            0.687,
+            0.439
+          ],
+          "content": "在律师 preside（主持）下，受害者们 establish（成立）反欺诈联盟。他们 can/able（能够）通过法律手段维权，最终 present（提交）诉讼，推动司法改革。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.699,
+            0.181,
+            0.913,
+            0.454
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_11.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.078,
+            0.487,
+            0.219,
+            0.508
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.537,
+            0.248,
+            0.551
+          ],
+          "content": "disclose /dɪsˈkləʊz/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.556,
+            0.292,
+            0.572
+          ],
+          "content": "vt. 揭露，揭示;【经】披露"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.579,
+            0.457,
+            0.615
+          ],
+          "content": "妙记：dis-(否定)+close(关)→不关门，敞着门，里面的东西才会被“揭露”出来。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.078,
+            0.625,
+            0.173,
+            0.646
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.653,
+            0.191,
+            0.668
+          ],
+          "content": "①表示“揭示”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.672,
+            0.229,
+            0.688
+          ],
+          "content": "【2019 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.692,
+            0.359,
+            0.707
+          ],
+          "content": "disclose the causes of the plastics crisis"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.71,
+            0.236,
+            0.726
+          ],
+          "content": "揭示塑料危机的原因"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.729,
+            0.154,
+            0.744
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.747,
+            0.469,
+            0.783
+          ],
+          "content": "disclosure n. 揭露，揭示;【经】披露，该单词在经济领域可以表示商业信息、交易信息的披露。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.786,
+            0.228,
+            0.802
+          ],
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.806,
+            0.298,
+            0.821
+          ],
+          "content": "disclosure of stock acquisitions"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.824,
+            0.2,
+            0.839
+          ],
+          "content": "股票收购的披露"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.859,
+            0.208,
+            0.874
+          ],
+          "content": "reveal /rɪˈviːl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.878,
+            0.246,
+            0.894
+          ],
+          "content": "vt. 显露；揭露，揭示"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.9,
+            0.467,
+            0.917
+          ],
+          "content": "妙记:re-（相反）+(veil，面纱)→把面纱往相反"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.536,
+            0.775,
+            0.552
+          ],
+          "content": "方向拉开→显露，引申为揭露。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.52,
+            0.562,
+            0.631,
+            0.583
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.591,
+            0.619,
+            0.607
+          ],
+          "content": "①常见搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.612,
+            0.78,
+            0.628
+          ],
+          "content": "reveal sth. to sb. 向某人透露某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.632,
+            0.764,
+            0.648
+          ],
+          "content": "It is revealed that... 据透露……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.651,
+            0.637,
+            0.667
+          ],
+          "content": "②表示“揭示”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.672,
+            0.675,
+            0.688
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.694,
+            0.919,
+            0.729
+          ],
+          "content": "Closer inspection reveals important differences among the biggest national markets."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.733,
+            0.918,
+            0.769
+          ],
+          "content": "仔细的检查揭示了几个国内最大的市场之间的重要差异。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.773,
+            0.601,
+            0.789
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.794,
+            0.769,
+            0.81
+          ],
+          "content": "revelation n. 揭露；被揭露的事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.842,
+            0.678,
+            0.857
+          ],
+          "content": "expose /ɪkˈspəʊz/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.86,
+            0.839,
+            0.876
+          ],
+          "content": "vt. 揭露，暴露；展示，展览；解释，说明"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.887,
+            0.914,
+            0.921
+          ],
+          "content": "妙记:ex-（out）+ pos-（放）+e→放出来→引申为“揭露、展示”。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.816,
+            0.935,
+            0.867,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.869,
+            0.935,
+            0.897,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.911,
+            0.937,
+            0.946,
+            0.951
+          ],
+          "content": "'159"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.043,
+            0.035,
+            0.114,
+            0.069
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.126,
+            0.045,
+            0.51,
+            0.063
+          ],
+          "content": "考研英语 高频抢分册"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.093,
+            0.093,
+            0.191,
+            0.115
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.121,
+            0.482,
+            0.156
+          ],
+          "content": "①最常考 expose 表示暴露，但翻译较为灵活，常见的翻译包括：接触、置身于。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.159,
+            0.245,
+            0.175
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.18,
+            0.482,
+            0.213
+          ],
+          "content": "developing the common cold after being exposed to the virus"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.217,
+            0.482,
+            0.252
+          ],
+          "content": "接触病毒后患上普通感冒（=被暴露于病毒之后，发展出普通感冒）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.255,
+            0.244,
+            0.271
+          ],
+          "content": "【2017 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.275,
+            0.482,
+            0.31
+          ],
+          "content": "If you're failing to expose your child to 30,000 words you are neglecting them."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.313,
+            0.482,
+            0.348
+          ],
+          "content": "如果你没能让孩子接触 30,000 个单词 (= 让孩子暴露在 30,000 个单词中), 那你就是在忽视他们。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.351,
+            0.172,
+            0.366
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.37,
+            0.335,
+            0.387
+          ],
+          "content": "exposition n. 展示，展览; 解释"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.39,
+            0.274,
+            0.405
+          ],
+          "content": "exposure n. 揭露，暴露"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.408,
+            0.244,
+            0.424
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.428,
+            0.482,
+            0.463
+          ],
+          "content": "Early exposure to computer science makes it easier to remodel the way of thinking."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.465,
+            0.466,
+            0.482
+          ],
+          "content": "早期接触计算机科学可以更容易地重塑思维方式。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.101,
+            0.508,
+            0.241,
+            0.524
+          ],
+          "content": "exhibit /ɪgˈzɪbɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.101,
+            0.527,
+            0.314,
+            0.542
+          ],
+          "content": "vt. 展示，展现，展览 n. 展品"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.1,
+            0.552,
+            0.482,
+            0.587
+          ],
+          "content": "妙记:ex-（out）+ -hibit（保留、保持）→ 把一个东西留在外面供大家看 → 展示、展览。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.218,
+            0.593,
+            0.358,
+            0.692
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior scene with a man standing near a glass display case, surrounded by people (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_19.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.094,
+            0.696,
+            0.191,
+            0.717
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.723,
+            0.26,
+            0.739
+          ],
+          "content": "①表示“展示、展现”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.742,
+            0.244,
+            0.759
+          ],
+          "content": "【2024 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.763,
+            0.482,
+            0.796
+          ],
+          "content": "A student who exhibits abilities in doing business can impress colleges."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.799,
+            0.466,
+            0.815
+          ],
+          "content": "一个展现出经商能力的学生能够使大学印象深刻。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.818,
+            0.482,
+            0.852
+          ],
+          "content": "② exhibit 直接作名词，表示“展品”，与 exhibition(展示、展览会) 不同。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.855,
+            0.244,
+            0.871
+          ],
+          "content": "【2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.876,
+            0.452,
+            0.89
+          ],
+          "content": "The story an exhibit is trying to tell is what matters."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.893,
+            0.397,
+            0.909
+          ],
+          "content": "一件展品想要讲述的故事才是最重要的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.093,
+            0.611,
+            0.108
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.112,
+            0.789,
+            0.127
+          ],
+          "content": "exhibition n. 展示，展览；展览会"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.131,
+            0.748,
+            0.146
+          ],
+          "content": "exhibitor n. 参展商 / 展出者"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.174,
+            0.693,
+            0.189
+          ],
+          "content": "remind /rɪˈmaɪnd/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.193,
+            0.667,
+            0.209
+          ],
+          "content": "vt. 提醒，使想起"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.215,
+            0.916,
+            0.251
+          ],
+          "content": "妙记:re（再一次）+mind（注意）→ 再一次注意是因为被“提醒”，才“使想起”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.261,
+            0.63,
+            0.282
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.288,
+            0.647,
+            0.303
+          ],
+          "content": "①表示“提醒”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.307,
+            0.684,
+            0.323
+          ],
+          "content": "【2019 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.328,
+            0.916,
+            0.363
+          ],
+          "content": "Parents need to remind their children that their needs and desires may change over time."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.366,
+            0.916,
+            0.402
+          ],
+          "content": "父母需要提醒他们的孩子，他们的需求和欲望可能随时间而改变。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.406,
+            0.815,
+            0.422
+          ],
+          "content": "② remind sb. of sth. 使某人想起某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.426,
+            0.684,
+            0.442
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.447,
+            0.916,
+            0.521
+          ],
+          "content": "The construction of the TMT is opposed by some locals partly because it reminds them of a humiliating history. 一些当地人反对 TMT 的建造，大部分是因为它让他们想起了一段羞辱的历史。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.525,
+            0.907,
+            0.559
+          ],
+          "content": "③辨析:remind 和 recall 都可以表示想起、记住，但含义并不完全相同"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.564,
+            0.916,
+            0.599
+          ],
+          "content": "\\- remind : to help sb. remember sth. 帮助某人想起某事，后面接人，即 remind sb."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.604,
+            0.907,
+            0.637
+          ],
+          "content": "\\- recall: to remember sth. 想起某事，后面接事物，即 recall sth."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.642,
+            0.681,
+            0.658
+          ],
+          "content": "【2020 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.663,
+            0.916,
+            0.716
+          ],
+          "content": "It is also wise to recall that such titles are not a cure-all. 这些头衔并不是灵丹妙药，记住这一点也是非常明智的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.72,
+            0.61,
+            0.736
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.741,
+            0.785,
+            0.757
+          ],
+          "content": "reminder n. 引起回忆的人或事物"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.784,
+            0.681,
+            0.799
+          ],
+          "content": "present /'preznt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.802,
+            0.873,
+            0.818
+          ],
+          "content": "n. 现在；礼物 adj. 现在的；在场的，出席的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.821,
+            0.804,
+            0.836
+          ],
+          "content": "vt. 提出；展示，呈现；出席；上演"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.842,
+            0.916,
+            0.895
+          ],
+          "content": "妙记：pre-(前)+ -sent(esse 存在) → 现在 (present), 被展示 (present) 在眼前的，是他的生日礼物 (present)。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.062,
+            0.937,
+            0.102,
+            0.951
+          ],
+          "content": "160/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.108,
+            0.935,
+            0.136,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.139,
+            0.937,
+            0.187,
+            0.951
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.858,
+            0.016,
+            0.965,
+            0.053
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.202,
+            0.075,
+            0.34,
+            0.17
+          ],
+          "sub_type": "natural_image",
+          "content": "Cartoon character singing with colorful balloons and gift boxes in a decorated room (no text visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_1.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.069,
+            0.175,
+            0.169,
+            0.196
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.203,
+            0.474,
+            0.24
+          ],
+          "content": "①该单词的翻译非常灵活，但只需要记住它表示“送到前面来”，都可以理解。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.244,
+            0.197,
+            0.259
+          ],
+          "content": "常考释义：呈现"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.264,
+            0.226,
+            0.28
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.285,
+            0.474,
+            0.321
+          ],
+          "content": "The image of parenthood that celebrity magazines present is hugely unrealistic."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.324,
+            0.473,
+            0.361
+          ],
+          "content": "名人杂志“送到前面来”的为人父母的形象是非常不真实的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.365,
+            0.195,
+            0.381
+          ],
+          "content": "常考释义：提出"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.386,
+            0.226,
+            0.401
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.407,
+            0.457,
+            0.423
+          ],
+          "content": "In this text, the author presents a problem with \\_."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.426,
+            0.472,
+            0.444
+          ],
+          "content": "在这篇文章中，作者用 \\_\\_\\_\\_ 把问题“送到前面来”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.447,
+            0.197,
+            0.462
+          ],
+          "content": "常考释义：上演"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.467,
+            0.15,
+            0.483
+          ],
+          "content": "【2006 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.488,
+            0.474,
+            0.543
+          ],
+          "content": "There is the Royal Shakespeare Company (RSC), which presents superb productions of the plays at the Shakespeare Memorial Theatre on the Avon."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.547,
+            0.474,
+            0.584
+          ],
+          "content": "还有皇家莎士比亚剧团（RSC），它在埃文河畔的莎士比亚纪念剧院把顶级的戏剧作品“送到前面来”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.588,
+            0.15,
+            0.604
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.609,
+            0.316,
+            0.624
+          ],
+          "content": "presence n. 出现；出席；存在"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.629,
+            0.275,
+            0.645
+          ],
+          "content": "presently adv. 现在，目前"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.665,
+            0.223,
+            0.679
+          ],
+          "content": "absent /'æbsənt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.684,
+            0.239,
+            0.7
+          ],
+          "content": "adj. 缺席的；缺乏的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.706,
+            0.474,
+            0.743
+          ],
+          "content": "妙记：ab-(离开)+sent-(存在)→从存在中离开→“缺席的”, 引申为“缺乏”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.749,
+            0.169,
+            0.77
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.777,
+            0.15,
+            0.793
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.797,
+            0.253,
+            0.812
+          ],
+          "content": "absence n. 缺席；缺乏"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.816,
+            0.46,
+            0.851
+          ],
+          "content": "②常考短语 the absence of..., 表示“……的缺乏”，可以翻译为“没有……” “无须……”等。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.855,
+            0.271,
+            0.871
+          ],
+          "content": "【2010 年英语（一）翻译】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.876,
+            0.474,
+            0.91
+          ],
+          "content": "regardless of the presence or absence of economic advantage"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.914,
+            0.268,
+            0.929
+          ],
+          "content": "无论有没有经济上的好处"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.073,
+            0.685,
+            0.089
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.093,
+            0.929,
+            0.145
+          ],
+          "content": "As the Chinese philosopher Chuang Tzu is reported to have said: “Happiness is the absence of striving for happiness.”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.148,
+            0.929,
+            0.183
+          ],
+          "content": "正如中国哲学家庄子所言:“快乐是无须努力追求快乐。”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.207,
+            0.744,
+            0.242
+          ],
+          "content": "represent /ˌreprɪˈzent/\nvt. 代表；展现；正式提出"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.249,
+            0.93,
+            0.305
+          ],
+          "content": "妙记：re-(再次) + present(呈现) → 代替他人“呈现”观点 → 代表；将抽象事物“再次呈现”为具体形式 → 展现。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.311,
+            0.63,
+            0.333
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.34,
+            0.712,
+            0.356
+          ],
+          "content": "①【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.36,
+            0.932,
+            0.393
+          ],
+          "content": "Which of the following best represents the author's view?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.397,
+            0.844,
+            0.413
+          ],
+          "content": "下列哪个选项最好地代表了作者的观点？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.416,
+            0.61,
+            0.431
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.435,
+            0.815,
+            0.451
+          ],
+          "content": "representative adj. 代表性的 n. 代表"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.454,
+            0.922,
+            0.488
+          ],
+          "content": "③常考短语:representative government 代议制政府\n【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.492,
+            0.932,
+            0.544
+          ],
+          "content": "The basic compact underlying representative government assumes that public officials will hear from their constituents and act on their concerns."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.547,
+            0.931,
+            0.583
+          ],
+          "content": "构成代议制政府基础的基本契约假定，公职人员会听取选民的意见，并根据选民的关切行事。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.603,
+            0.694,
+            0.638
+          ],
+          "content": "preside /prɪ'zaɪd/\nvi. 主持，负责，领导"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.645,
+            0.931,
+            0.681
+          ],
+          "content": "妙记:pre-(前)+side(旁边)→提前站在旁边→说明要“主持、领导”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.687,
+            0.629,
+            0.708
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.714,
+            0.788,
+            0.73
+          ],
+          "content": "① preside over 主持，负责，领导"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.733,
+            0.685,
+            0.749
+          ],
+          "content": "【2017 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.753,
+            0.93,
+            0.806
+          ],
+          "content": "But successive governments have presided over selling green spaces, squeezing money from local authorities and declining attention on sport in education."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.808,
+            0.929,
+            0.842
+          ],
+          "content": "但是，历届政府主持了售卖绿地、从地方政府榨钱以及降低体育教育的关注度。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.846,
+            0.927,
+            0.899
+          ],
+          "content": "②名词衍生形式 president 不仅可以表示“总统”，由于 -ent 表示人，且具有领导人的含义，所以它还可以表示公司总裁、医院院长、大学校长等等。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.902,
+            0.684,
+            0.918
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.829,
+            0.939,
+            0.879,
+            0.955
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.882,
+            0.939,
+            0.91,
+            0.955
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.917,
+            0.94,
+            0.957,
+            0.955
+          ],
+          "content": "/161"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.027,
+            0.035,
+            0.097,
+            0.067
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.111,
+            0.044,
+            0.371,
+            0.06
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.402,
+            0.043,
+            0.508,
+            0.06
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.09,
+            0.406,
+            0.105
+          ],
+          "content": "the president of the United States 美国总统"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.108,
+            0.232,
+            0.124
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.127,
+            0.316,
+            0.143
+          ],
+          "content": "university presidents 大学校长"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.146,
+            0.23,
+            0.162
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.165,
+            0.416,
+            0.182
+          ],
+          "content": "president of Bank of America 美国银行总裁"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.204,
+            0.294,
+            0.22
+          ],
+          "content": "participate /paːrˈtɪsɪpeɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.223,
+            0.146,
+            0.238
+          ],
+          "content": "vi. 参加"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.245,
+            0.479,
+            0.281
+          ],
+          "content": "妙记:part（部分）+i+ cip-+-ate（抓、拿、持）→\n持有一部分→即“参与”到其中。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.074,
+            0.29,
+            0.174,
+            0.312
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.318,
+            0.174,
+            0.334
+          ],
+          "content": "①常见搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.338,
+            0.403,
+            0.354
+          ],
+          "content": "participate in 加入某项活动、事件或组织"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.357,
+            0.155,
+            0.372
+          ],
+          "content": "【2004 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.377,
+            0.478,
+            0.412
+          ],
+          "content": "Without the ability to think critically, they cannot fully participate in our democracy."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.415,
+            0.477,
+            0.449
+          ],
+          "content": "没有批判性思维的能力，他们就无法充分参与到我们的民主当中。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.454,
+            0.156,
+            0.469
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.474,
+            0.239,
+            0.489
+          ],
+          "content": "participation n. 参加"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.492,
+            0.308,
+            0.508
+          ],
+          "content": "participant n. 参加者，参与者"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.511,
+            0.221,
+            0.527
+          ],
+          "content": "③常考释义：参加"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.53,
+            0.231,
+            0.546
+          ],
+          "content": "【2022 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.551,
+            0.477,
+            0.585
+          ],
+          "content": "Public participation in science has a promising future.\n公众参与科学研究有着光明的未来。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.613,
+            0.242,
+            0.628
+          ],
+          "content": "capture /'kæptʃər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.631,
+            0.474,
+            0.666
+          ],
+          "content": "vt. 逮捕；捕获；捕捉；缴获；占领；表达，表现；拍摄，录制；吸引"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.673,
+            0.479,
+            0.708
+          ],
+          "content": "妙记：cap-（抓、拿、持）+ -ture（动作或结果后缀）\n→捕获、占领。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.074,
+            0.719,
+            0.174,
+            0.739
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.746,
+            0.475,
+            0.78
+          ],
+          "content": "① capture 的翻译非常灵活，但理解成“抓住”, 都可以看懂。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.784,
+            0.224,
+            0.8
+          ],
+          "content": "常考释义：捕捉"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.803,
+            0.228,
+            0.819
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.823,
+            0.478,
+            0.877
+          ],
+          "content": "Something curious has been happening in American Universities, and Louis Menand, a professor of English at Harvard University, captured it skillfully."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.88,
+            0.476,
+            0.914
+          ],
+          "content": "美国大学发生了奇怪的事情，被哈佛大学的英语教授 Louis Menand 巧妙地“抓住”了。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.918,
+            0.278,
+            0.933
+          ],
+          "content": "常考释义：表现、体现"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.089,
+            0.616,
+            0.104
+          ],
+          "content": "【2007 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.109,
+            0.929,
+            0.162
+          ],
+          "content": "Other standardized tests, such as the Scholastic Assessment Test (SAT) and the Graduate Record Exam (GRE), capture the main aspects of IQ tests."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.164,
+            0.928,
+            0.2
+          ],
+          "content": "其他标准化考试，如学术评估考试（SAT）和研究生入学考试（GRE），都“抓住”了智商测试的主要方面。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.204,
+            0.685,
+            0.219
+          ],
+          "content": "常考释义：吸引"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.221,
+            0.692,
+            0.238
+          ],
+          "content": "【2017 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.241,
+            0.929,
+            0.275
+          ],
+          "content": "The child becomes increasingly distressed as she tries to capture her mother's attention."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.277,
+            0.928,
+            0.293
+          ],
+          "content": "孩子变得越发不安，因为她想要“抓住”母亲的关注。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.298,
+            0.687,
+            0.312
+          ],
+          "content": "常考释义：占领"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.315,
+            0.692,
+            0.332
+          ],
+          "content": "【2012 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.335,
+            0.833,
+            0.35
+          ],
+          "content": "...what towns were captured or liberated."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.353,
+            0.817,
+            0.368
+          ],
+          "content": "……哪些城市被“抓住”或解放了。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.372,
+            0.688,
+            0.387
+          ],
+          "content": "常考释义：拍摄"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.391,
+            0.692,
+            0.407
+          ],
+          "content": "【2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.41,
+            0.854,
+            0.426
+          ],
+          "content": "Jackson captured dozens of striking photos."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.428,
+            0.871,
+            0.444
+          ],
+          "content": "杰克逊“抓住”了几十张引人注目的照片。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.448,
+            0.736,
+            0.463
+          ],
+          "content": "常考释义：缴获，夺取"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.466,
+            0.738,
+            0.482
+          ],
+          "content": "【2022 年英语（一）翻译】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.486,
+            0.928,
+            0.519
+          ],
+          "content": "It listed many documents in code that had been captured from the French army of Spain..."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.521,
+            0.928,
+            0.556
+          ],
+          "content": "它列出了很多从法国驻西班牙军队手中“抓住”的密码文件……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.56,
+            0.615,
+            0.575
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.578,
+            0.785,
+            0.594
+          ],
+          "content": "recapture v. 夺回；n. 重新捕获"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.597,
+            0.765,
+            0.613
+          ],
+          "content": "captive n. 俘虏；adj. 被俘的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.616,
+            0.722,
+            0.631
+          ],
+          "content": "captivity n. 囚禁，监禁"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.655,
+            0.717,
+            0.671
+          ],
+          "content": "capacity /kəˈpæsəti/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.673,
+            0.704,
+            0.689
+          ],
+          "content": "n. 容量，容积；能力"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.695,
+            0.929,
+            0.768
+          ],
+          "content": "妙记:cap-（抓、拿、持）+-acity（性质）→一个人总能抓住（cap-）事情要点的性质/特质（-acity）背后，是个人能力的体现，引申为容纳能力，即容量。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.777,
+            0.634,
+            0.798
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.803,
+            0.652,
+            0.819
+          ],
+          "content": "①表示“容量”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.822,
+            0.691,
+            0.838
+          ],
+          "content": "【2018 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.841,
+            0.79,
+            0.857
+          ],
+          "content": "capacity of batteries 电池的容量"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.859,
+            0.928,
+            0.893
+          ],
+          "content": "② have the capacity to do sth. 有能力做某事 = be able to do sth. = have the ability to do sth."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.895,
+            0.691,
+            0.911
+          ],
+          "content": "【2023 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.915,
+            0.928,
+            0.931
+          ],
+          "content": "The Internet may be changing merely what we"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.039,
+            0.942,
+            0.079,
+            0.957
+          ],
+          "content": "162/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.087,
+            0.941,
+            0.116,
+            0.957
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.119,
+            0.943,
+            0.169,
+            0.956
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.853,
+            0.004,
+            0.962,
+            0.042
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.064,
+            0.339,
+            0.078
+          ],
+          "content": "remember, not our capacity to do so."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.081,
+            0.472,
+            0.117
+          ],
+          "content": "互联网可能仅仅正在改变我们记忆的内容，而不是我们的记忆能力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.12,
+            0.152,
+            0.136
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.138,
+            0.268,
+            0.155
+          ],
+          "content": "capability n. 能力；性能"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.158,
+            0.27,
+            0.175
+          ],
+          "content": "overcapacity n. 产能过剩"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.199,
+            0.253,
+            0.215
+          ],
+          "content": "congress /'kɑːŋgrəs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.218,
+            0.301,
+            0.234
+          ],
+          "content": "n. 会议；（美国等国的）国会"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.241,
+            0.473,
+            0.278
+          ],
+          "content": "妙记:con-（共同）+ gress-（走）→ 走到一起 → 开会，引申为国会。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.192,
+            0.284,
+            0.349,
+            0.396
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of three men in suits walking outdoors near a classical building (no text or symbols visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_9.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.402,
+            0.169,
+            0.424
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.431,
+            0.467,
+            0.447
+          ],
+          "content": "①可指大型国际会议，如 a medical congress 医学大会"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.451,
+            0.259,
+            0.467
+          ],
+          "content": "②常考两个国家的国会："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.471,
+            0.422,
+            0.487
+          ],
+          "content": "Congress（美国国会）；Parliament（英国国会）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.491,
+            0.227,
+            0.507
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.512,
+            0.471,
+            0.547
+          ],
+          "content": "Some Congress members are trying to block the plan.\n一些国会成员正在试图阻止该计划。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.576,
+            0.279,
+            0.591
+          ],
+          "content": "convention /kənˈvenʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.594,
+            0.389,
+            0.611
+          ],
+          "content": "n. 会议；惯例，传统，习俗；公约，协定"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.618,
+            0.471,
+            0.655
+          ],
+          "content": "妙记:con-（共同）+ vent-（走）+-(t)ion（名词后缀）→走到一起→开会。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.669,
+            0.169,
+            0.691
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.697,
+            0.188,
+            0.714
+          ],
+          "content": "①表示“会议”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.717,
+            0.225,
+            0.734
+          ],
+          "content": "【2012 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.738,
+            0.333,
+            0.754
+          ],
+          "content": "The BIO recently held a convention."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.757,
+            0.276,
+            0.773
+          ],
+          "content": "BIO 近期举办了一次会议。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.777,
+            0.471,
+            0.814
+          ],
+          "content": "②convention 可以表示传统、习俗，古代氏族部落开会，通常都是为了呈现遵循传统习俗的仪式。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.818,
+            0.332,
+            0.834
+          ],
+          "content": "conventional adj. 传统的，惯例的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.837,
+            0.301,
+            0.853
+          ],
+          "content": "unconventional adj. 非传统的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.855,
+            0.225,
+            0.873
+          ],
+          "content": "【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.876,
+            0.396,
+            0.893
+          ],
+          "content": "They mirror 19th-century social conventions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.895,
+            0.321,
+            0.912
+          ],
+          "content": "它们反映了 19 世纪的社会传统。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.064,
+            0.925,
+            0.1
+          ],
+          "content": "③ convention 可以表示公约、协定，指的是开会最终获得的东西，并不常考。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.103,
+            0.605,
+            0.119
+          ],
+          "content": "【2001 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.124,
+            0.839,
+            0.14
+          ],
+          "content": "the European Convention on Human Rights"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.142,
+            0.634,
+            0.159
+          ],
+          "content": "欧洲人权公约"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.162,
+            0.605,
+            0.178
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.183,
+            0.739,
+            0.199
+          ],
+          "content": "convene vt. 召集 vi. 聚集"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.223,
+            0.671,
+            0.239
+          ],
+          "content": "gather /'gæðər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.243,
+            0.659,
+            0.258
+          ],
+          "content": "vi. 聚集 vt. 收集"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.266,
+            0.929,
+            0.302
+          ],
+          "content": "妙记：非常熟悉的 together（到一起）是 to gather 的缩略形式。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.313,
+            0.624,
+            0.334
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.342,
+            0.643,
+            0.357
+          ],
+          "content": "①表示“收集”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.361,
+            0.679,
+            0.378
+          ],
+          "content": "【2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.383,
+            0.68,
+            0.398
+          ],
+          "content": "Data can be gathered."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.401,
+            0.659,
+            0.418
+          ],
+          "content": "数据可以被收集。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.421,
+            0.641,
+            0.437
+          ],
+          "content": "②表示“聚集”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.441,
+            0.605,
+            0.457
+          ],
+          "content": "【2005 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.462,
+            0.791,
+            0.478
+          ],
+          "content": "The premiers gather in Niagara Falls."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.481,
+            0.765,
+            0.497
+          ],
+          "content": "省长们聚集在尼亚瓜拉大瀑布。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.501,
+            0.605,
+            0.517
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.521,
+            0.712,
+            0.538
+          ],
+          "content": "gathering n. 集会，聚集"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.562,
+            0.753,
+            0.578
+          ],
+          "content": "accumulate /ə'kju:mjəleɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.581,
+            0.639,
+            0.596
+          ],
+          "content": "v. 积累，累积"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.604,
+            0.925,
+            0.64
+          ],
+          "content": "妙记：谐音“阿 Q 没理她”→所以她“积累”了一肚子怨气。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.652,
+            0.645,
+            0.796,
+            0.748
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a busy indoor café scene with people dining at tables (no visible text or signage)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_53.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.754,
+            0.624,
+            0.776
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.782,
+            0.924,
+            0.819
+          ],
+          "content": "①该单词的翻译较为灵活，但都表示“汇总到一起”。【1995 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.822,
+            0.924,
+            0.857
+          ],
+          "content": "We should realize the importance of accumulating information."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.86,
+            0.799,
+            0.877
+          ],
+          "content": "我们应该意识到收集信息的重要性。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.88,
+            0.679,
+            0.896
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.9,
+            0.922,
+            0.916
+          ],
+          "content": "After about 40 minutes of shopping, most people began"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.822,
+            0.941,
+            0.904,
+            0.957
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.919,
+            0.943,
+            0.953,
+            0.957
+          ],
+          "content": "163"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.026,
+            0.028,
+            0.095,
+            0.061
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.111,
+            0.037,
+            0.371,
+            0.055
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.401,
+            0.037,
+            0.506,
+            0.054
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.085,
+            0.478,
+            0.139
+          ],
+          "continues_prev": true,
+          "content": "shopping emotionally — which is the point at which we accumulate the 50 percent of stuff in our cart that we never intended buying."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.142,
+            0.476,
+            0.197
+          ],
+          "content": "大约 40 个小时的购物之后，大部分人开始感情用事地购物——这时，我们会把自己从未想要购买的 50% 的东西放进购物车。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.201,
+            0.156,
+            0.216
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.22,
+            0.292,
+            0.235
+          ],
+          "content": "accumulation n. 积累，累积"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.239,
+            0.229,
+            0.255
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.26,
+            0.476,
+            0.294
+          ],
+          "content": "Whether the community's work contributes much to an accumulation of knowledge is doubtful."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.298,
+            0.476,
+            0.333
+          ],
+          "content": "这个社区的工作是否对知识的积累起到了很大作用，这一点尚存疑问。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.361,
+            0.249,
+            0.376
+          ],
+          "content": "assemble /əˈsembl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.381,
+            0.19,
+            0.396
+          ],
+          "content": "v. 聚集，集合"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.403,
+            0.476,
+            0.44
+          ],
+          "content": "妙记:as-（朝向）+ sembl-（使相似/聚集）+e→使相似的东西朝一处聚集→引申为“集合”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.074,
+            0.449,
+            0.176,
+            0.47
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.477,
+            0.474,
+            0.493
+          ],
+          "content": "①该单词的翻译较为灵活，但都表示“汇总到一起”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.496,
+            0.157,
+            0.512
+          ],
+          "content": "【2008 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.517,
+            0.476,
+            0.551
+          ],
+          "content": "Now that you have developed a topic, you can assemble your notes."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.555,
+            0.476,
+            0.59
+          ],
+          "content": "既然你已经有了一个主题，那么，你就可以整理你的笔记。(=将笔记汇总到一起。)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.594,
+            0.231,
+            0.61
+          ],
+          "content": "【2018 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.615,
+            0.476,
+            0.668
+          ],
+          "content": "They can also learn geometry by assembling a bicycle.\n他们还可以通过组装一辆自行车去学习几何学。（=将零件汇总到一起。）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.672,
+            0.156,
+            0.687
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.692,
+            0.269,
+            0.707
+          ],
+          "content": "assembly n. 集会；组装"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.712,
+            0.247,
+            0.727
+          ],
+          "content": "the Assembly 众议院"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.755,
+            0.252,
+            0.77
+          ],
+          "content": "establish /ɪˈstæblɪʃ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.774,
+            0.379,
+            0.789
+          ],
+          "content": "vt. 建立，确立; 确定 (事实、真相等)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.796,
+            0.476,
+            0.832
+          ],
+          "content": "妙记:e- (= ex-, 出) + stabil (stable, 坚实的) → 在坚实的基础上向外发展，就是“建立”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.074,
+            0.842,
+            0.176,
+            0.863
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.869,
+            0.194,
+            0.884
+          ],
+          "content": "①表示“建立”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.888,
+            0.231,
+            0.904
+          ],
+          "content": "【2023 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.909,
+            0.476,
+            0.925
+          ],
+          "content": "What you need to do is prioritize growth by establishing"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.086,
+            0.638,
+            0.099
+          ],
+          "content": "a growth team."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.103,
+            0.923,
+            0.118
+          ],
+          "content": "你需要做的是通过建立一个增长团队来优先推动增长。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.122,
+            0.926,
+            0.157
+          ],
+          "content": "②表示确定某种事实或真相，其实就是将事实、真相建立起来。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.161,
+            0.686,
+            0.177
+          ],
+          "content": "【2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.181,
+            0.927,
+            0.216
+          ],
+          "content": "The researchers first established what kinds of plant the elephants preferred."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.219,
+            0.862,
+            0.235
+          ],
+          "content": "研究人员首先确定了大象更喜欢哪种植物。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.239,
+            0.792,
+            0.255
+          ],
+          "content": "③ get established = get started 开始"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.259,
+            0.686,
+            0.275
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.279,
+            0.906,
+            0.295
+          ],
+          "content": "原文：Young and old converge on one key point:"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.299,
+            0.91,
+            0.353
+          ],
+          "content": "Overwhelming majorities of both groups said they believe it is harder for young people today to get started in life than it was for earlier generations."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.357,
+            0.926,
+            0.412
+          ],
+          "content": "青年人和老年人在一个关键点上是相同的：两组人中的绝大多数都说，他们认为，今天的年轻人在开始他们的人生时要比更早的几代人更难。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.417,
+            0.803,
+            0.433
+          ],
+          "content": "题目:Both young and old agree that \\_."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.436,
+            0.739,
+            0.452
+          ],
+          "content": "青年人和老年人都赞同 \\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.456,
+            0.926,
+            0.49
+          ],
+          "content": "正确选项:getting established is harder for the young 对年轻人来说，开始人生变得更难。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.494,
+            0.61,
+            0.509
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.514,
+            0.748,
+            0.529
+          ],
+          "content": "establishment n. 建立，设立"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.557,
+            0.63,
+            0.571
+          ],
+          "content": "can /kæn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.575,
+            0.925,
+            0.61
+          ],
+          "content": "aux.v. 能；可以 n. 罐；罐头 vt. 把……装罐；预先录制"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.618,
+            0.926,
+            0.653
+          ],
+          "content": "妙记：能（can）→能密封的是“罐头”→像罐头一样固定内容是“预录”。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.64,
+            0.659,
+            0.819,
+            0.762
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a battery can with a cassette tape, overlaid with abstract symbols (no readable text or labels)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_body_49.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.77,
+            0.627,
+            0.791
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.797,
+            0.928,
+            0.833
+          ],
+          "content": "该单词可以表示“预先录制”，可以理解为像“罐头”一样预先制作好。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.837,
+            0.61,
+            0.852
+          ],
+          "content": "【2007 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.856,
+            0.93,
+            0.929
+          ],
+          "content": "Hours of watching TV shows with canned laughter only teaches kids to process information in a passive way. 长时间观看带有预先录制的笑声的电视节目只会让孩子养成被动接收信息的习惯。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.042,
+            0.948,
+            0.081,
+            0.963
+          ],
+          "content": "164"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.09,
+            0.946,
+            0.119,
+            0.964
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.122,
+            0.948,
+            0.173,
+            0.962
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.853,
+            0.016,
+            0.96,
+            0.052
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.074,
+            0.184,
+            0.088
+          ],
+          "content": "able /'eɪbl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.092,
+            0.409,
+            0.108
+          ],
+          "content": "adj. 能……的，有能力……的，可以……的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.114,
+            0.462,
+            0.149
+          ],
+          "content": "妙记：a (一个)+ble (谐音“伯乐”) → 一个伯乐，\n就是能挖掘别人“能力”的人。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.074,
+            0.16,
+            0.172,
+            0.182
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.188,
+            0.471,
+            0.223
+          ],
+          "content": "① be able to do sth.= be capable of doing sth. 有能力做某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.226,
+            0.228,
+            0.242
+          ],
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.246,
+            0.474,
+            0.263
+          ],
+          "content": "States will be able to force more people to pay sales tax"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.074,
+            0.77,
+            0.089
+          ],
+          "content": "when they make online purchases."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.091,
+            0.923,
+            0.126
+          ],
+          "content": "各州将能够迫使更多的人在进行网上购物时缴纳销售税。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.129,
+            0.681,
+            0.146
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.15,
+            0.878,
+            0.185
+          ],
+          "content": "Not all writers are capable of journalistic writing.\n并非所有作者都有能力进行新闻写作。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.188,
+            0.607,
+            0.203
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.207,
+            0.644,
+            0.223
+          ],
+          "content": "ability n. 能力"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.227,
+            0.701,
+            0.243
+          ],
+          "content": "capable adj. 能……的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.246,
+            0.668,
+            0.263
+          ],
+          "content": "capability n. 能力"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.279,
+            0.216,
+            0.299
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.071,
+            0.311,
+            0.166,
+            0.327
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.337,
+            0.51,
+            0.353
+          ],
+          "content": "1. The report aims to \\_\\_\\_\\_ the causes of the plastic crisis."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.098,
+            0.356,
+            0.188,
+            0.371
+          ],
+          "content": "A. conceal"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.356,
+            0.42,
+            0.37
+          ],
+          "content": "B. disclose"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.356,
+            0.612,
+            0.37
+          ],
+          "content": "C. resist"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.784,
+            0.357,
+            0.869,
+            0.372
+          ],
+          "content": "D. oppose"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.381,
+            0.584,
+            0.397
+          ],
+          "content": "2. Closer inspection \\_\\_\\_\\_ important differences among the markets."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.098,
+            0.401,
+            0.19,
+            0.416
+          ],
+          "content": "A. exposes"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.401,
+            0.412,
+            0.414
+          ],
+          "content": "B. reveals"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.401,
+            0.629,
+            0.414
+          ],
+          "content": "C. exhibits"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.784,
+            0.401,
+            0.875,
+            0.414
+          ],
+          "content": "D. reminds"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.425,
+            0.616,
+            0.441
+          ],
+          "content": "3. The journalist \\_\\_\\_\\_ the corruption scandal, leading to public outrage."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.098,
+            0.444,
+            0.192,
+            0.46
+          ],
+          "content": "A. exposed"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.444,
+            0.446,
+            0.46
+          ],
+          "content": "B. participated"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.444,
+            0.638,
+            0.459
+          ],
+          "content": "C. presided"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.784,
+            0.444,
+            0.893,
+            0.458
+          ],
+          "content": "D. assembled"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.469,
+            0.491,
+            0.485
+          ],
+          "content": "4. The museum will \\_\\_\\_\\_ ancient artifacts next month."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.098,
+            0.489,
+            0.185,
+            0.503
+          ],
+          "content": "A. remind"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.489,
+            0.412,
+            0.502
+          ],
+          "content": "B. exhibit"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.489,
+            0.625,
+            0.504
+          ],
+          "content": "C. capture"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.784,
+            0.489,
+            0.881,
+            0.503
+          ],
+          "content": "D. establish"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.513,
+            0.483,
+            0.529
+          ],
+          "content": "5. The monument \\_\\_\\_\\_ locals of their painful history."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.098,
+            0.533,
+            0.191,
+            0.547
+          ],
+          "content": "A. reminds"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.533,
+            0.42,
+            0.548
+          ],
+          "content": "B. opposes"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.533,
+            0.619,
+            0.547
+          ],
+          "content": "C. rejects"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.784,
+            0.533,
+            0.864,
+            0.546
+          ],
+          "content": "D. denies"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.557,
+            0.51,
+            0.573
+          ],
+          "content": "6. The CEO will \\_\\_\\_\\_ over the annual meeting tomorrow."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.098,
+            0.576,
+            0.185,
+            0.592
+          ],
+          "content": "A. preside"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.576,
+            0.438,
+            0.592
+          ],
+          "content": "B. participate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.577,
+            0.626,
+            0.591
+          ],
+          "content": "C. capture"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.784,
+            0.577,
+            0.9,
+            0.59
+          ],
+          "content": "D. accumulate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.601,
+            0.59,
+            0.617
+          ],
+          "content": "7. Without critical thinking, people cannot fully \\_\\_\\_\\_ in democracy."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.098,
+            0.62,
+            0.19,
+            0.635
+          ],
+          "content": "A. disclose"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.62,
+            0.438,
+            0.635
+          ],
+          "content": "B. participate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.621,
+            0.639,
+            0.635
+          ],
+          "content": "C. represent"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.784,
+            0.621,
+            0.881,
+            0.634
+          ],
+          "content": "D. establish"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.645,
+            0.501,
+            0.661
+          ],
+          "content": "8. The photo perfectly \\_\\_\\_\\_ the emotion of the moment."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.098,
+            0.664,
+            0.192,
+            0.68
+          ],
+          "content": "A. captures"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.664,
+            0.42,
+            0.678
+          ],
+          "content": "B. reminds"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.664,
+            0.631,
+            0.679
+          ],
+          "content": "C. opposes"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.784,
+            0.665,
+            0.864,
+            0.678
+          ],
+          "content": "D. denies"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.689,
+            0.602,
+            0.704
+          ],
+          "content": "9. The internet affects what we remember, not our \\_\\_\\_\\_ to remember."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.098,
+            0.708,
+            0.192,
+            0.724
+          ],
+          "content": "A. capacity"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.709,
+            0.424,
+            0.723
+          ],
+          "content": "B. congress"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.709,
+            0.653,
+            0.722
+          ],
+          "content": "C. convention"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.784,
+            0.709,
+            0.875,
+            0.722
+          ],
+          "content": "D. absence"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.732,
+            0.476,
+            0.748
+          ],
+          "content": "10. The new law was drafted during a medical \\_\\_\\_\\_."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.098,
+            0.752,
+            0.195,
+            0.767
+          ],
+          "content": "A. congress"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.752,
+            0.412,
+            0.766
+          ],
+          "content": "B. exhibit"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.752,
+            0.639,
+            0.765
+          ],
+          "content": "C. reminder"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.784,
+            0.752,
+            0.891,
+            0.766
+          ],
+          "content": "D. disclosure"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.069,
+            0.777,
+            0.166,
+            0.794
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.804,
+            0.576,
+            0.821
+          ],
+          "content": "1. The committee \\_\\_\\_\\_ (preside) over the policy changes last year."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.83,
+            0.535,
+            0.846
+          ],
+          "content": "2. Public \\_\\_\\_\\_ (participate) in science is crucial for progress."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.855,
+            0.537,
+            0.871
+          ],
+          "content": "3. The study \\_\\_\\_\\_ (capture) the trends of urban development."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.88,
+            0.509,
+            0.896
+          ],
+          "content": "4. The factory's production \\_\\_\\_\\_ (capacity) has doubled."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.906,
+            0.506,
+            0.921
+          ],
+          "content": "5. The team \\_\\_\\_\\_ (assemble) data from multiple sources."
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.827,
+            0.938,
+            0.879,
+            0.954
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.881,
+            0.938,
+            0.909,
+            0.955
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.919,
+            0.939,
+            0.959,
+            0.954
+          ],
+          "content": "/165"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.026,
+            0.033,
+            0.51,
+            0.064
+          ],
+          "content": "高频词表"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.088,
+            0.17,
+            0.104
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.115,
+            0.148,
+            0.13
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.139,
+            0.46,
+            0.155
+          ],
+          "content": "1. Getting established is harder for the young today."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.218,
+            0.561,
+            0.234
+          ],
+          "content": "2. We should realize the importance of accumulating information."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.299,
+            0.146,
+            0.314
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.071,
+            0.324,
+            0.677,
+            0.446
+          ],
+          "sub_type": "text",
+          "content": "1. Parents need to [ remind] their children that desires may change.\n2. The Internet may change what we remember, not our [capacity] to remember.\n3. They learn geometry by [assembling] a bicycle."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.456,
+            0.528,
+            0.556,
+            0.549
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.57,
+            0.169,
+            0.587
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.603,
+            0.12,
+            0.616
+          ],
+          "level": 2,
+          "content": "1. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.071,
+            0.62,
+            0.133,
+            0.636
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.639,
+            0.418,
+            0.655
+          ],
+          "content": "句意：该报告旨在\\_\\_\\_\\_塑料危机的原因。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.657,
+            0.479,
+            0.748
+          ],
+          "content": "考点：动词辨析。报告的目的通常是“揭露、阐明”原因。A. conceal（隐藏）与“aims to”（旨在）的目的性相反。B. disclose（揭露，公开）符合“报告旨在揭露原因”的语境。C. resist（抵抗）和 D. oppose（反对）与“原因”搭配不当。故 B. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.763,
+            0.119,
+            0.777
+          ],
+          "level": 2,
+          "content": "2. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.071,
+            0.78,
+            0.133,
+            0.796
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.799,
+            0.472,
+            0.815
+          ],
+          "content": "句意：更仔细的检查 \\_\\_\\_\\_ 了市场间的重要差异。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.817,
+            0.482,
+            0.907
+          ],
+          "content": "考点：动词辨析 (揭示类)。主语“inspection” (检查) 的目的是“发现、揭示”差异。A. exposes (暴露，揭露) 多指揭露负面事物。B. reveals (揭示，显露) 为中性词，指使原本隐藏的事物显现出来，最符合“检查发现差异”的语境。C. exhibits (展览，显示)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.57,
+            0.928,
+            0.605
+          ],
+          "content": "指公开展示。D. reminds(提醒) 与句意无关。故 B. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.622,
+            0.58,
+            0.635
+          ],
+          "level": 2,
+          "content": "3. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.639,
+            0.592,
+            0.655
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.657,
+            0.931,
+            0.692
+          ],
+          "content": "句意：那位记者 \\_\\_\\_\\_ 了这起腐败丑闻，引发了公众的愤怒。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.693,
+            0.932,
+            0.803
+          ],
+          "content": "考点：动词辨析及固定搭配。记者的职责是“揭露”丑闻。A. exposed（揭露，曝光）常与“scandal”搭配，且“expose sth.”是常用结构，符合语境。B. participated（参加）需与“in”连用，且语义不符。C. presided（主持）需与“over”连用。D. assembled（组装，集合）与句意无关。故 A. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.819,
+            0.579,
+            0.833
+          ],
+          "level": 2,
+          "content": "4. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.836,
+            0.592,
+            0.852
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.855,
+            0.896,
+            0.871
+          ],
+          "content": "句意：该博物馆将于下个月\\_\\_\\_\\_古代文物。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.873,
+            0.932,
+            0.907
+          ],
+          "content": "考点：动词辨析。博物馆的功能是“展览”文物。A. remind(提醒) 与句意无关。B. exhibit(展览，展出)"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.039,
+            0.942,
+            0.077,
+            0.956
+          ],
+          "content": "166"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.087,
+            0.94,
+            0.116,
+            0.957
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.119,
+            0.942,
+            0.171,
+            0.956
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 8,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.854,
+            0.019,
+            0.962,
+            0.056
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.075,
+            0.477,
+            0.128
+          ],
+          "content": "是博物馆的常规活动，符合语境。C. capture(捕捉) 和 D. establish(建立) 与“文物”搭配不当。故 B.正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.146,
+            0.123,
+            0.158
+          ],
+          "level": 2,
+          "content": "5. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.163,
+            0.134,
+            0.178
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.181,
+            0.478,
+            0.272
+          ],
+          "content": "句意：这座纪念碑\\_\\_\\_\\_当地人他们痛苦的历史。\n考点：动词固定搭配。空格后的“of”是解题关键。\nA. reminds 可与“of”构成固定搭配 remind sb. of sth., 意为“使某人想起某事”，符合“纪念碑让人想起历史”的语境。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.29,
+            0.121,
+            0.302
+          ],
+          "level": 2,
+          "content": "6. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.307,
+            0.134,
+            0.322
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.325,
+            0.431,
+            0.341
+          ],
+          "content": "句意：首席执行官将于明天\\_\\_\\_\\_年度会议。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.344,
+            0.474,
+            0.453
+          ],
+          "content": "考点：动词固定搭配（preside over）。会议通常需要有人“主持”。A. preside 需与“over”连用，preside over 意为“主持（会议、仪式等）”，符合语境。B. participate（参加）需与“in”连用。C. capture（捕捉）和 D. accumulate（积累）与句意无关。故 A. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.471,
+            0.121,
+            0.484
+          ],
+          "level": 2,
+          "content": "7. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.489,
+            0.134,
+            0.504
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.507,
+            0.474,
+            0.541
+          ],
+          "content": "句意：没有批判性思维，人们就不能完全地\\_\\_\\_\\_民主。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.545,
+            0.473,
+            0.598
+          ],
+          "content": "考点：动词固定搭配。民主政治需要公民的“参与”。B. participate 可与“in”构成固定搭配 participate in, 意为“参与”, 符合语境。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.615,
+            0.123,
+            0.628
+          ],
+          "level": 2,
+          "content": "8. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.633,
+            0.134,
+            0.648
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.652,
+            0.448,
+            0.667
+          ],
+          "content": "句意：这张照片完美地\\_\\_\\_\\_了那一刻的情绪。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.67,
+            0.473,
+            0.743
+          ],
+          "content": "考点：动词辨析。照片可以“捕捉、定格”瞬间的情绪。A. captures（捕捉，捕获）常与“moment”（瞬间）、“emotion”（情绪）等搭配，意为“留住、定格”，符合语境。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.759,
+            0.123,
+            0.773
+          ],
+          "level": 2,
+          "content": "9. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.777,
+            0.134,
+            0.792
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.796,
+            0.474,
+            0.83
+          ],
+          "content": "句意：互联网影响我们记住什么，而不影响我们记忆的\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.833,
+            0.475,
+            0.923
+          ],
+          "content": "考点：名词辨析（能力类）。空格前的“our”和空格后的“to remember”提示需要一个表示“能力”的名词。A. capacity（能力，容量）指做某事的能力，符合“记忆的能力”的语境。B. congress（代表大会）、C. convention（大会，惯例）和 D. absence（缺"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.077,
+            0.712,
+            0.092
+          ],
+          "content": "席）均与“能力”无关。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.109,
+            0.583,
+            0.122
+          ],
+          "level": 2,
+          "content": "10. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.126,
+            0.586,
+            0.142
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.145,
+            0.925,
+            0.179
+          ],
+          "content": "句意：这项新法律是在一次医学\\_\\_\\_\\_期间起草的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.182,
+            0.927,
+            0.311
+          ],
+          "content": "考点：名词辨析。法律草案通常在“大会”上起草。\nA. congress（代表大会，专业会议）常指大型正式会议，特别是学术或专业领域的会议，“medical congress”意为“医学大会”，符合语境。\nB. exhibit（展览）、C. reminder（提醒物）和 D. disclosure（披露）均与“起草法律”的场合不符。\n故 A. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.322,
+            0.622,
+            0.338
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.355,
+            0.622,
+            0.37
+          ],
+          "level": 2,
+          "content": "1. presided"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.372,
+            0.586,
+            0.388
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.391,
+            0.848,
+            0.407
+          ],
+          "content": "句意：该委员会去年\\_\\_\\_\\_了政策变更。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.41,
+            0.927,
+            0.464
+          ],
+          "content": "考点：动词时态及固定搭配。时间状语“last year”表明需用一般过去时。动词 preside 需与 over 搭配，故填其过去式 presided。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.48,
+            0.655,
+            0.495
+          ],
+          "level": 2,
+          "content": "2. participation"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.498,
+            0.586,
+            0.513
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.516,
+            0.884,
+            0.532
+          ],
+          "content": "句意：公众对科学的 \\_\\_\\_\\_ 对进步至关重要。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.535,
+            0.927,
+            0.589
+          ],
+          "content": "考点：词性转换（动词→名词）。形容词“Public”修饰空格处，且其作为主语，需要名词。动词 participate（参与）的名词形式为 participation。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.605,
+            0.621,
+            0.619
+          ],
+          "level": 2,
+          "content": "3. captures"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.622,
+            0.586,
+            0.638
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.641,
+            0.864,
+            0.657
+          ],
+          "content": "句意：这项研究 \\_\\_\\_\\_ 了城市发展的趋势。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.66,
+            0.925,
+            0.714
+          ],
+          "content": "考点：动词时态。主语“The study”是单数第三人称，且陈述一个客观事实，谓语动词需用一般现在时。故填 captures。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.73,
+            0.619,
+            0.745
+          ],
+          "level": 2,
+          "content": "4. capacity"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.748,
+            0.586,
+            0.763
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.766,
+            0.829,
+            0.782
+          ],
+          "content": "句意：该工厂的生产 \\_\\_\\_\\_ 已经翻倍。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.785,
+            0.923,
+            0.838
+          ],
+          "content": "考点：名词固定搭配。名词 capacity 意为“能力，容量”。“Production capacity”是固定搭配，意为“生产能力”。故填 capacity。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.855,
+            0.634,
+            0.868
+          ],
+          "level": 2,
+          "content": "5. assembled"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.872,
+            0.586,
+            0.887
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.89,
+            0.844,
+            0.906
+          ],
+          "content": "句意：该团队从多个来源 \\_\\_\\_\\_ 了数据。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.908,
+            0.919,
+            0.924
+          ],
+          "content": "考点：动词时态。动词 assemble（收集，组装）在句"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.823,
+            0.938,
+            0.905,
+            0.955
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.919,
+            0.939,
+            0.953,
+            0.954
+          ],
+          "content": "167"
+        }
+      ]
+    },
+    {
+      "page_idx": 9,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.048,
+            0.033,
+            0.123,
+            0.065
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.141,
+            0.042,
+            0.423,
+            0.058
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.458,
+            0.041,
+            0.574,
+            0.058
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.103,
+            0.088,
+            0.543,
+            0.122
+          ],
+          "continues_prev": true,
+          "content": "中作谓语。根据语境，可用一般过去时 assembled 表示过去完成的动作。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.1,
+            0.132,
+            0.206,
+            0.149
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.103,
+            0.152,
+            0.182,
+            0.166
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.1,
+            0.171,
+            0.435,
+            0.205
+          ],
+          "sub_type": "text",
+          "content": "1. 对年轻人来说，立足变得更难。\n2. 我们应该意识到收集信息的重要性。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.102,
+            0.209,
+            0.182,
+            0.223
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.099,
+            0.228,
+            0.541,
+            0.3
+          ],
+          "sub_type": "text",
+          "content": "1. 家长需要【提醒】孩子，欲望是会改变的。\n2. 互联网可能改变我们记忆的内容，而非我们的记忆【能力】。\n3. 他们通过【组装】自行车来学习几何学。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.065,
+            0.94,
+            0.111,
+            0.954
+          ],
+          "content": "168/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.116,
+            0.938,
+            0.207,
+            0.955
+          ],
+          "content": "研过过"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:13:58",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 10,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 8,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 9,
+          "width_pt": 595.0,
+          "height_pt": 935.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

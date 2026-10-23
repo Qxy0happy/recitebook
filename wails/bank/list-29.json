@@ -1,0 +1,607 @@
+{
+  "list_no": 29,
+  "title": "复杂与独特",
+  "association": {
+    "outline": "情节发展：资深挑战→温和破局→团结新生",
+    "scenes": [
+      {
+        "title": "资深挑战",
+        "story": "实验室里，senior（年长的）张教授面对一个 complex（复杂的）量子模型，它的计算是极其 complicated（复杂的），团队屡次失败。他深知背后的物理定律是 underlie（构成该现象的基础）。"
+      },
+      {
+        "title": "温和破局",
+        "story": "张教授 intense（强烈）建议：先做简化，再拆分模型。团队启动 intensive（密集）计算，发现一 fraction（小部分）数据异常——系统竟如 fragile（脆弱的）玻璃，微小误差便崩溃！"
+      },
+      {
+        "title": "团结新生",
+        "story": "危急时刻，团队 unanimous（全体一致）决定 unite（联合）攻关。他们穿上 uniform（相同的）的实验服，日夜协作，最终找到 unique（独一无二的）算法，化解危机。"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "complex",
+      "ipa": "/kəm'pleks/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "复杂的，难懂的，费解的"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "建筑群; 情结"
+        }
+      ],
+      "mnemonic": "com-（一起）+ plex-（折叠）→ 很多结构折叠到一起，就会显得“复杂”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "complex 可以作名词，表示“建筑群”或“情结”:",
+          "body": "建筑群：很多建筑折叠到一起，形成的群体；\n情结：很多情感折叠到一起，形成的复合体。\n【2014 年英语（一）】\nhundreds of simpler apartment complexes where common people lived\n数百个普通百姓居住的较为简陋的公寓建筑群"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "complexity n. 复杂，复杂性; 难懂"
+        }
+      ]
+    },
+    {
+      "spelling": "complicated",
+      "ipa": "/'ka:mplikeitid/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "复杂的；难懂的"
+        }
+      ],
+      "mnemonic": "com-（一起）+ plic- = plex-（折叠）+ -ated（形容词后缀）→很多结构折叠到一起，就会显得“复杂”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义：复杂的",
+          "body": "【2012 年英语（一）】\nDiscovery frequently follows an ambiguous and complicated route.\n发现之路往往充满不确定性且错综复杂。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "complicate vt. 使复杂\ncomplication n. 复杂；并发症"
+        }
+      ]
+    },
+    {
+      "spelling": "senior",
+      "ipa": "/'si:niər/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "高级的；年长的"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "高中（生）；大学四年级学生"
+        }
+      ],
+      "mnemonic": "这位年长的（senior）高级（senior）教师曾是高中的（senior）学霸，如今正指导大学四年级学生（senior）做课题。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义：高级的",
+          "body": "【2011 年英语（一）】\nThe decision to quit a senior position to look for a better one is unconventional.\n放弃高级职位去寻找更好的工作，这种决定并不常见。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "senate n. 参议院，上院（来自古罗马“元老院”）\nsenator n. 参议员\njunior adj. 初级的；年少的 n. 初中（生）；大学三年级学生（jun- = young 年轻）"
+        }
+      ]
+    },
+    {
+      "spelling": "underlie",
+      "ipa": "/ˌʌndərˈlaɪ/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "在……的下面；构成……的基础；是……的原因"
+        }
+      ],
+      "mnemonic": "under（下）+ lie（躺）→ 躺在下面→ 在下面、构成基础；A 是 B 的原因，就是 A 是 B 发生的基础。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义：构成……的基础",
+          "body": "【2023 年英语（二）】\nIs there some common factor that underlies these\ncontradictory development?\n这些相互矛盾的发展基础是否是某种共同的因素呢？"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词:underlying adj. 在下面的；潜在的",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "spelling": "intense",
+      "ipa": "/ɪnˈtens/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "强烈的"
+        }
+      ],
+      "mnemonic": "谐音“硬疼死”，即非常强烈的疼痛。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义：强烈的",
+          "body": "【2011 年英语（一）】\nThe very things can later be a source of intense gratification.\n恰恰是这些事情，日后可能会成为强烈满足感的来源。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "intensity n. 强度\nintensify vt. 强化\nintensely adv. 强烈地；很，非常"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "考试中曾用 intensely 替换 very",
+          "body": "【2005 年】\nThese intensely powerful mental events can be brought under conscious control.\n这些非常强大的心理事件可以被有意识地控制。"
+        }
+      ]
+    },
+    {
+      "spelling": "intensive",
+      "ipa": "/ɪnˈtensɪv/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "集中的，密集的; 精细的"
+        }
+      ],
+      "mnemonic": "in-（往里）+ tens- = tend-（拉、拽）+-ive（形容词后缀）→ 往里拉，拉到一起 → 集中的，密集的；结构很密集的东西，看起来就会很精细。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "该单词单独使用，通常表示“精细的”。",
+          "body": "【2021 年英语（二）】\nintensive agriculture\n集约型农业（非常精细化的农业）"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "当它前面加上名词构成合成词时，通常表示“密集的”。",
+          "body": "【2002 年】\nenergy-intensive industry 能源密集型工业\n【2019 年英语（二）】\nlabor-intensive 劳动力密集的"
+        }
+      ]
+    },
+    {
+      "spelling": "fraction",
+      "ipa": "/'frækʃ(ə)n/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "碎片；片段；一小部分"
+        }
+      ],
+      "mnemonic": "fr（芙蓉姐姐的缩写）+action（行为）→芙蓉姐姐的行为就是小部分人的行为。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "短语搭配:a fraction of 一小部分",
+          "body": "【2002 年】\nRobots can recognize the error of a machine panel be a fraction of a millimeter.\n机器人能够识别机器面板上仅几分之一毫米的误差。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "fragment n. 碎片；片段；一小部分 v.（使）破碎"
+        }
+      ]
+    },
+    {
+      "spelling": "fragile",
+      "ipa": "/'frædʒaɪl/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "易碎的；脆弱的"
+        }
+      ],
+      "mnemonic": "减肥的 flag 总是易碎的（fragile）。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "常考释义",
+          "label_raw": "常考释义：脆弱的",
+          "body": "【2014 年英语（二）】\nThis phenomenon tends to be most acutely felt during fragile recoveries\n这种现象往往在脆弱的复苏中最为强烈。"
+        }
+      ]
+    },
+    {
+      "spelling": "unanimous",
+      "ipa": "/ju'nænɪməs/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "全体一致的，一致同意的"
+        }
+      ],
+      "mnemonic": "谐音“有你一个 mouse” → 投票时，连老鼠都“有你一个”赞同 → 全体一致的。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义：全体一致的",
+          "body": "【2017 年英语（一）】\nIn a rare unanimous ruling, the US Supreme Court has overturned the corruption conviction.\n在一项罕见的一致裁决中，美国最高法院推翻了这一贪腐定罪。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "形近词:anonymous adj. 匿名的",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "spelling": "uniform",
+      "ipa": "/'ju:nifɔ:rm/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "相同的，一致的"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "制服"
+        }
+      ],
+      "mnemonic": "uni-（一）+ form（形式）→同一个形式 →相同、一致。都穿着制服，就是着装一致。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义：制服",
+          "body": "【2016 年英语（一）】\nPick a standard work uniform or a few go-to options.\n挑选一套标准的工作制服，或者几种常用的选择。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "uniformly adv. 一致地\nuniformity n. 相同，一致"
+        }
+      ]
+    },
+    {
+      "spelling": "unite",
+      "ipa": "/ju'naɪt/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "（使）联合；（使）统一"
+        }
+      ],
+      "mnemonic": "uni-（一）+ it-（走）+e→走到一起→联合、统一。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "unite 最常考的是两个国名：",
+          "body": "the United States 美国；the United Kingdom 英国"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "unity n. 团结；统一；完整；整体\nunion n. 联盟，联邦; 工会，联合会\nunion 最常考一个含义：工会；\nthe European Union 欧盟\nunify vt. 使联合，使统一"
+        }
+      ]
+    },
+    {
+      "spelling": "unique",
+      "ipa": "/ju'ni:k/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "独一无二的"
+        }
+      ],
+      "mnemonic": "谐音“有你可”→有你足够，你就是独一无二的。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义：独一无二的",
+          "body": "【2013 年英语（二）】\nTo be a successful employees, one has to contribute something unique.\n要成为一名成功的员工，就必须贡献一些独特的价值。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "反义词：",
+          "body": "common adj. 普通的、常见的"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L29-01",
+      "kind": "single",
+      "stem": "It is sure to spark ____ opposition from the far larger number of motorists who will then be affected.",
+      "options": [
+        "senior",
+        "intense",
+        "unlikely",
+        "abstract"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "intense",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L29-02",
+      "kind": "single",
+      "stem": "They did not always prioritize the protection of Mauna Kea's____ ecosystems or its holiness to the island's inhabitants.",
+      "options": [
+        "gradual",
+        "unanimous",
+        "fragile",
+        "false"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "fragile",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L29-03",
+      "kind": "single",
+      "stem": "It needs someone who can ____ the interdisciplinary team and keep them on course for improvement.",
+      "options": [
+        "unite",
+        "finance",
+        "follow",
+        "choose"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "unite",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L29-04",
+      "kind": "single",
+      "stem": "We aim to be objective, but we cannot escape the context of our ____ life experiences.",
+      "options": [
+        "finite",
+        "confident",
+        "intensive.",
+        "unique"
+      ],
+      "answer": 3,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "unique",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L29-05",
+      "kind": "single",
+      "stem": "It's important to keep a ____ pace when studying for exams—neither too fast nor too slow, so that you can absorb knowledge effectively.",
+      "options": [
+        "rapid",
+        "moderate",
+        "fierce",
+        "irregular"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [],
+      "reading": true
+    },
+    {
+      "id": "L29-06",
+      "kind": "single",
+      "stem": "The committee reached a(n) ____ decision to approve the new project, with all members agreeing without any objection.",
+      "options": [
+        "unanimous",
+        "controversial",
+        "arbitrary",
+        "ambiguous"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "unanimous",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L29-07",
+      "kind": "fill",
+      "stem": "Up until a few decades ago, our visions of the future were largely — though by no means ____ (uniform) — glowingly positive.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "uniformly"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "uniform",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L29-08",
+      "kind": "fill",
+      "stem": "The booming economy seems to have done little to assuage this ____ (underlie) generational sense of anxious urgency, especially for those who have college debt.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "underlying"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "underlie",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L29-09",
+      "kind": "fill",
+      "stem": "Teenagers are paradoxical. That's a____ (mild) and detached way of saying something that parents often express with considerably stronger language.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "mild"
+      ],
+      "slots": [],
+      "reading": true
+    },
+    {
+      "id": "L29-10",
+      "kind": "fill",
+      "stem": "Increase time, distance, and intensity____(gradual). \"This isn't something you can do overnight,\" says Keri L. Denay, MD.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "gradually"
+      ],
+      "slots": [],
+      "reading": true
+    },
+    {
+      "id": "L29-11",
+      "kind": "translate_sentence",
+      "stem": "When you are making complex decisions, it is advisable to follow your feelings.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "当你在做复杂决定的时候，最好遵循你的感觉。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "complex",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L29-12",
+      "kind": "translate_sentence",
+      "stem": "The decision to quit a senior position to look for a better one is unconventional.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "辞去高管职位去寻找更好机会的决定实属非传统之举。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "senior",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L29-13",
+      "kind": "translate_sentence",
+      "stem": "Something that should be simple and transparent can be complicated, intentionally or unintentionally, in ways that impair consumer choice.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "本应简单透明的事物，却可能因有意或无意的因素变得复杂，进而损害消费者的选择权。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "complicated",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L29-14",
+      "kind": "translate_sentence",
+      "stem": "Intensive chemical farming has reduced many species to tiny fragments of habitat and small nature reserves.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "集约化的化学农业已将许多物种的栖息地缩减为零星碎片和小型自然保护区。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "intensive",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L29-15",
+      "kind": "translate_sentence",
+      "stem": "This year's rise, an average of 2.7 per cent, may be a fraction lower than last year's, but it is still well above the official Consumer Price Index (CPI) measure of inflation.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "今年的涨幅平均为 2.7%, 虽比去年略低，但仍远高于官方衡量通胀的消费者价格指数 (CPI)。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "fraction",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

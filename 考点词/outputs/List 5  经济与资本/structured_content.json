@@ -1,0 +1,4552 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.863,
+            0.026,
+            0.97,
+            0.062
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.356,
+            0.084,
+            0.401,
+            0.116
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_1.jpg"
+        },
+        {
+          "type": "doc_title",
+          "bbox": [
+            0.411,
+            0.09,
+            0.619,
+            0.109
+          ],
+          "level": 1,
+          "content": "List 5 经济与资本"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.06,
+            0.147,
+            0.212,
+            0.167
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.174,
+            0.502,
+            0.191
+          ],
+          "content": "情节发展：创业起步→财务挑战→改变策略→成功转型"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.238,
+            0.15,
+            0.253
+          ],
+          "level": 2,
+          "content": "创业起步"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.256,
+            0.697,
+            0.312
+          ],
+          "content": "张伟决定开始自己的 business（生意），他注册了一家 company（公司）。他的大学同学李明决定 accompany（陪同）他一起创业。他们选择进入互联网 industry（行业），开始了 corporate（企业）的筹备工作。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.714,
+            0.201,
+            0.926,
+            0.345
+          ],
+          "sub_type": "text_image",
+          "content": "互联网",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_7.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.385,
+            0.151,
+            0.4
+          ],
+          "level": 2,
+          "content": "财务挑战"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.404,
+            0.697,
+            0.46
+          ],
+          "content": "为了扩大规模，他们决定注册成立股份有限 incorporate（公司）。在整理公司 asset（资产）时，他们发现公司存在不少 liability（负债）。通过发行 stock（股票），他们增加了 equity（股权）资本。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.717,
+            0.35,
+            0.925,
+            0.492
+          ],
+          "sub_type": "text_image",
+          "content": "执行股票\n建议程序报告",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_10.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.531,
+            0.149,
+            0.546
+          ],
+          "level": 2,
+          "content": "改变策略"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.55,
+            0.697,
+            0.606
+          ],
+          "content": "然而，由于 expense（开支）过大，核算过 bill（账单）后，公司一度濒临 bankrupt（破产）。关键时刻，他们与供应商 negotiate（谈判），改为 wholesale（批发）采购模式，成功降低了成本。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.717,
+            0.497,
+            0.925,
+            0.637
+          ],
+          "sub_type": "text_image",
+          "content": "Meeting scene with presenter holding document and presentation screen showing '项目' (Project) text",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_13.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.667,
+            0.151,
+            0.683
+          ],
+          "level": 2,
+          "content": "成功转型"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.686,
+            0.697,
+            0.76
+          ],
+          "content": "公司起死回生后，他们不仅 compensate（补偿）了员工的损失，还设立了 reward（奖励）机制。年底时，张伟获得了“最佳创业者”的 award(奖项)。庆功会上，他们用抛 coin（硬币）的方式决定谁来切蛋糕，大家都享受到了公司成功转型带来的 benefit（好处）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.716,
+            0.641,
+            0.926,
+            0.783
+          ],
+          "sub_type": "text_image",
+          "content": "Photo of a man in a suit holding a trophy, surrounded by confetti and balloons, with visible Chinese text on signs.",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_16.jpg"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.836,
+            0.935,
+            0.889,
+            0.95
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.892,
+            0.934,
+            0.92,
+            0.951
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.942,
+            0.936,
+            0.964,
+            0.95
+          ],
+          "content": "73"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.036,
+            0.033,
+            0.104,
+            0.064
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.119,
+            0.042,
+            0.371,
+            0.058
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.403,
+            0.042,
+            0.505,
+            0.058
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.087,
+            0.229,
+            0.107
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.094,
+            0.135,
+            0.249,
+            0.149
+          ],
+          "content": "business /'bɪznəs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.154,
+            0.353,
+            0.169
+          ],
+          "content": "n. 商业，生意；公司，企业；事情"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.179,
+            0.478,
+            0.214
+          ],
+          "content": "妙记:busi- = busy（忙）+-ness（名词后级）→让你很忙的东西→商业、生意，引申为“事情”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.224,
+            0.182,
+            0.245
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.252,
+            0.476,
+            0.289
+          ],
+          "content": "①该单词表示“商业”时，是不可数名词；表示“公司、企业”时，是可数名词。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.293,
+            0.24,
+            0.309
+          ],
+          "content": "【2022 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.314,
+            0.439,
+            0.329
+          ],
+          "content": "These provisions create difficulties for businesses."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.334,
+            0.306,
+            0.35
+          ],
+          "content": "这些条款给企业制造了困难。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.354,
+            0.478,
+            0.391
+          ],
+          "content": "②该单词可以表示“事情”，如口语中常说:It's none of your business. 不关你事。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.395,
+            0.24,
+            0.411
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.417,
+            0.267,
+            0.433
+          ],
+          "content": "Trust is a tricky business."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.437,
+            0.255,
+            0.453
+          ],
+          "content": "信任是一件难办的事。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.094,
+            0.48,
+            0.274,
+            0.496
+          ],
+          "content": "company /'kʌmpəni/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.094,
+            0.499,
+            0.276,
+            0.515
+          ],
+          "content": "n. 公司；陪伴；一群人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.525,
+            0.478,
+            0.581
+          ],
+          "content": "妙记:com-（con-的变体，表示 all together）+pan-（表示 pair 配对）+-y→单词本义表示“陪伴”，即所有人配对到一起→引申为“一群人”或“公司”。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.195,
+            0.586,
+            0.372,
+            0.711
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior hallway scene with people in business attire, no visible text or signage",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_19.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.719,
+            0.185,
+            0.739
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.747,
+            0.168,
+            0.763
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.182,
+            0.769,
+            0.285,
+            0.784
+          ],
+          "content": "n. 同伴，伴侣"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.787,
+            0.185,
+            0.802
+          ],
+          "content": "②常考释义："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.807,
+            0.242,
+            0.823
+          ],
+          "content": "【2020 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.828,
+            0.48,
+            0.864
+          ],
+          "content": "Today's CEO must have many more skills than simply being able to \"run the company\"."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.868,
+            0.48,
+            0.904
+          ],
+          "content": "如今的首席执行官必须具备更多技能，而不只是能够“管理好公司”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.135,
+            0.746,
+            0.15
+          ],
+          "content": "accompany /əˈkʌmpəni/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.153,
+            0.837,
+            0.169
+          ],
+          "content": "v. 陪伴，陪同；伴随，和……一起发生"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.175,
+            0.887,
+            0.192
+          ],
+          "content": "妙记:ac-（加强）+company（陪伴）→陪伴。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.653,
+            0.197,
+            0.806,
+            0.3
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a child and a dog embracing outdoors with a golden light background (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_30.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.305,
+            0.627,
+            0.325
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.332,
+            0.61,
+            0.347
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.352,
+            0.841,
+            0.368
+          ],
+          "content": "accompanying adj. 陪伴的，一起发生的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.37,
+            0.686,
+            0.386
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.391,
+            0.921,
+            0.426
+          ],
+          "content": "Finally, the public receives the new discovery and possibly accompanying technology."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.428,
+            0.921,
+            0.463
+          ],
+          "content": "最后，公众收到这一新发现以及可能伴随而来的相关技术。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.467,
+            0.627,
+            0.482
+          ],
+          "content": "②短语搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.487,
+            0.832,
+            0.503
+          ],
+          "content": "be accompanied by 由……陪同；伴随"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.506,
+            0.889,
+            0.522
+          ],
+          "content": "The policy was accompanied by strict regulations."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.525,
+            0.753,
+            0.54
+          ],
+          "content": "该政策配有严格的规章制度。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.56,
+            0.701,
+            0.576
+          ],
+          "content": "industry /'mdəstri/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.579,
+            0.648,
+            0.595
+          ],
+          "content": "n. 工业；行业"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.601,
+            0.919,
+            0.636
+          ],
+          "content": "妙记:“in”(在……内) + “dust”(灰尘) + “(t) + y”(尝试), 联想为“在灰尘中尝试建设工业”。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.651,
+            0.642,
+            0.806,
+            0.753
+          ],
+          "sub_type": "natural_image",
+          "content": "Industrial factory scene with smoke and workers, no visible text or symbols",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_44.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.763,
+            0.627,
+            0.783
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.79,
+            0.61,
+            0.805
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.809,
+            0.773,
+            0.825
+          ],
+          "content": "industrial adj. 工业的；行业的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.828,
+            0.754,
+            0.844
+          ],
+          "content": "industrialize v. (使) 工业化"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.847,
+            0.907,
+            0.882
+          ],
+          "content": "②该单词可以表示各种“行业”，而不仅仅是“工业”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.886,
+            0.731,
+            0.902
+          ],
+          "content": "【2017 年英语（二）翻译】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.906,
+            0.72,
+            0.921
+          ],
+          "content": "fashion industry 时尚业"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.059,
+            0.935,
+            0.087,
+            0.95
+          ],
+          "content": "74"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.101,
+            0.934,
+            0.13,
+            0.951
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.133,
+            0.936,
+            0.184,
+            0.95
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.865,
+            0.028,
+            0.97,
+            0.064
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.084,
+            0.228,
+            0.1
+          ],
+          "content": "【2020 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.103,
+            0.295,
+            0.119
+          ],
+          "content": "publishing industry 出版行业"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.122,
+            0.228,
+            0.137
+          ],
+          "content": "【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.14,
+            0.469,
+            0.156
+          ],
+          "content": "manufacturing and service industries 制造业和服务业"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.159,
+            0.227,
+            0.174
+          ],
+          "content": "【2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.178,
+            0.262,
+            0.194
+          ],
+          "content": "tourism industry 旅游业"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.224,
+            0.262,
+            0.24
+          ],
+          "content": "corporate /'kɔːpərət/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.242,
+            0.375,
+            0.259
+          ],
+          "content": "adj. 公司的；全体的，集体的，共同的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.265,
+            0.474,
+            0.3
+          ],
+          "content": "妙记:cor（联想:core，核心）+porate（联想:operate，运营）→核心运营的，是集体的。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.191,
+            0.306,
+            0.351,
+            0.414
+          ],
+          "sub_type": "natural_image",
+          "content": "Group of people seated around a conference table in an office setting (no visible text or signage)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_10.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.067,
+            0.418,
+            0.167,
+            0.439
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.446,
+            0.148,
+            0.461
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.466,
+            0.225,
+            0.481
+          ],
+          "content": "corporation n. 企业"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.485,
+            0.166,
+            0.5
+          ],
+          "content": "②常见搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.505,
+            0.474,
+            0.558
+          ],
+          "content": "corporate social responsibility(CSR) 企业社会责任\n近几年，关于“企业社会责任”的话题出现频率显著提升，在备考中考生多关注该话题。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.59,
+            0.298,
+            0.606
+          ],
+          "content": "incorporate /m'kɔːpəreɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.609,
+            0.3,
+            0.625
+          ],
+          "content": "v. 将……包括在内；使并入"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.631,
+            0.464,
+            0.666
+          ],
+          "content": "妙记:in- 表示 in（进入），corporate 表示“集体”，进到集体中，就是包括、并入其中。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.188,
+            0.673,
+            0.355,
+            0.786
+          ],
+          "sub_type": "natural_image",
+          "content": "3D cartoon soccer player in progress on a green field with blue lane and goal markers (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_19.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.067,
+            0.798,
+            0.165,
+            0.819
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.826,
+            0.477,
+            0.86
+          ],
+          "content": "① incorporate A into B 将 A 包括在 B 之内；将 A 并入 B"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.865,
+            0.37,
+            0.88
+          ],
+          "content": "② be incorporated in/into 被纳入……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.885,
+            0.466,
+            0.919
+          ],
+          "content": "AI technology is being incorporated into diagnostic systems.\n人工智能技术被纳入到诊断系统。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.085,
+            0.657,
+            0.099
+          ],
+          "content": "asset /'æset/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.103,
+            0.807,
+            0.12
+          ],
+          "content": "n.（pl.）资产；有价值的人或事物"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.125,
+            0.936,
+            0.159
+          ],
+          "content": "妙记:as-（加强）+set（放置）→不断置办财产来加强你的资产。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.661,
+            0.166,
+            0.809,
+            0.265
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior view of a dimly lit room with warm lighting and a person placing items (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_27.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.27,
+            0.632,
+            0.291
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.299,
+            0.614,
+            0.314
+          ],
+          "content": "①反义词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.319,
+            0.762,
+            0.336
+          ],
+          "content": "liability n. (pl.) 负债；责任"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.34,
+            0.632,
+            0.356
+          ],
+          "content": "②短语搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.36,
+            0.69,
+            0.377
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.382,
+            0.707,
+            0.397
+          ],
+          "content": "toxic assets 不良资产"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.402,
+            0.723,
+            0.418
+          ],
+          "content": "illiquid assets 固定资产"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.423,
+            0.742,
+            0.439
+          ],
+          "content": "long-term assets 长期资产"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.444,
+            0.689,
+            0.46
+          ],
+          "content": "【2018 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.465,
+            0.717,
+            0.481
+          ],
+          "content": "physical assets 实物资产"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.485,
+            0.936,
+            0.521
+          ],
+          "content": "③ asset 表示“资产”时，通常用复数 assets, 它用作单数时，表示有价值的人或事物。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.526,
+            0.613,
+            0.543
+          ],
+          "content": "【2007 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.548,
+            0.938,
+            0.584
+          ],
+          "content": "Data is becoming an asset which needs to be guarded as much as any other asset."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.588,
+            0.937,
+            0.624
+          ],
+          "content": "和其他有价值的东西一样，数据正在成为一种需要被保护的东西。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.647,
+            0.717,
+            0.663
+          ],
+          "content": "liability /ˌlaɪəˈbɪləti/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.666,
+            0.75,
+            0.683
+          ],
+          "content": "n. (pl.) 负债，债务; 责任"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.689,
+            0.928,
+            0.706
+          ],
+          "content": "妙记:ability（能力）越大，liability（责任）越大。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.658,
+            0.711,
+            0.809,
+            0.814
+          ],
+          "sub_type": "text_image",
+          "content": "ability liability",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_45.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.818,
+            0.63,
+            0.839
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.847,
+            0.594,
+            0.863
+          ],
+          "content": "①区分："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.868,
+            0.938,
+            0.905
+          ],
+          "content": "responsibility 道德 / 职务责任，obligation 契约性义务，debt 具体金钱债务，liability 法律 / 强制性义务。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.838,
+            0.934,
+            0.89,
+            0.949
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.892,
+            0.933,
+            0.92,
+            0.95
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.942,
+            0.934,
+            0.966,
+            0.949
+          ],
+          "content": "75"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.036,
+            0.03,
+            0.104,
+            0.063
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.119,
+            0.039,
+            0.375,
+            0.055
+          ],
+          "content": "考研英语考研英语·一词三遍"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.406,
+            0.039,
+            0.508,
+            0.055
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.085,
+            0.182,
+            0.1
+          ],
+          "content": "②短语搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.103,
+            0.389,
+            0.119
+          ],
+          "content": "limited liability company 有限责任公司"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.123,
+            0.45,
+            0.139
+          ],
+          "content": "the liability structures of enterprises 企业负债结构"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.143,
+            0.478,
+            0.178
+          ],
+          "content": "③ liability 表示“负债”时，通常用复数 liabilities; 它用作不可数名词时，表示“责任”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.182,
+            0.239,
+            0.198
+          ],
+          "content": "【2024 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.201,
+            0.482,
+            0.255
+          ],
+          "content": "There could be liability and penalties if a physician does not act in accordance with state laws on reporting and confidentiality."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.257,
+            0.482,
+            0.292
+          ],
+          "content": "如果医生未依照有关报告和保密的州法律行事，就可能会承担法律责任并面临处罚。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.311,
+            0.201,
+            0.326
+          ],
+          "content": "stock /stɒk/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.33,
+            0.365,
+            0.346
+          ],
+          "content": "vt. 贮存，储备 n. 存货，库存；股票"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.356,
+            0.389,
+            0.372
+          ],
+          "content": "妙记：商店（store）里有库存（stock）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.209,
+            0.378,
+            0.354,
+            0.455
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior view of a warehouse or storage area with shelves stocked with goods (no visible text or labels)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_13.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.46,
+            0.182,
+            0.482
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.488,
+            0.463,
+            0.503
+          ],
+          "content": "①最常考:stock market 股市；stock price 股价"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.507,
+            0.238,
+            0.523
+          ],
+          "content": "【2020 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.527,
+            0.48,
+            0.562
+          ],
+          "content": "And the stock market reacts positively when companies tie CEO pay to stock prices."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.565,
+            0.467,
+            0.6
+          ],
+          "content": "而当公司将首席执行官的薪酬与股票价格挂钩时，股市的反应是积极的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.604,
+            0.347,
+            0.62
+          ],
+          "content": "② 短语搭配:stock up 贮备，备足"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.623,
+            0.238,
+            0.639
+          ],
+          "content": "【2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.643,
+            0.481,
+            0.678
+          ],
+          "content": "It was frequently the first stop for merchants looking to sell their wares and stock up on supplies for their own journeys."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.68,
+            0.48,
+            0.716
+          ],
+          "content": "这里常常是商人前来售卖商品以及储备自身行程所需物资的第一站。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.736,
+            0.233,
+            0.752
+          ],
+          "content": "equity /'ekwəti/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.755,
+            0.331,
+            0.771
+          ],
+          "content": "n. 公平;【经】资产净值，股本"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.777,
+            0.481,
+            0.832
+          ],
+          "content": "妙记:equ-（=equal 平等），单词本义表示公平、平等，因为公平就要排除杂七杂八的东西，可以理解为“净值”“股本”。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.223,
+            0.838,
+            0.341,
+            0.92
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_26.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.085,
+            0.63,
+            0.105
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.111,
+            0.629,
+            0.126
+          ],
+          "content": "①短语搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.13,
+            0.705,
+            0.146
+          ],
+          "content": "gender equity 性别平等"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.149,
+            0.858,
+            0.164
+          ],
+          "content": "②该单词可以表示公司的资产净值或股本。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.167,
+            0.687,
+            0.183
+          ],
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.187,
+            0.922,
+            0.221
+          ],
+          "content": "New digital technologies have allowed more rapid trading of equities."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.224,
+            0.86,
+            0.24
+          ],
+          "content": "新的数字技术使股本交易能够更快地进行。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.264,
+            0.701,
+            0.279
+          ],
+          "content": "expense /ɪkˈspens/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.282,
+            0.7,
+            0.298
+          ],
+          "content": "n. 花费，支出；消耗"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.304,
+            0.921,
+            0.321
+          ],
+          "content": "妙记：ex-(外)+pense(谐音“喷”)→向外喷钱→支出。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.675,
+            0.326,
+            0.787,
+            0.404
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_37.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.412,
+            0.63,
+            0.433
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.439,
+            0.611,
+            0.454
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.459,
+            0.705,
+            0.475
+          ],
+          "content": "expensive adj. 昂贵的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.478,
+            0.629,
+            0.493
+          ],
+          "content": "②短语搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.498,
+            0.778,
+            0.514
+          ],
+          "content": "at the expense of 以……为代价"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.516,
+            0.686,
+            0.533
+          ],
+          "content": "【2017 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.537,
+            0.922,
+            0.572
+          ],
+          "content": "While climate is a key element, it shouldn't come at the expense of the rest of the equation."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.575,
+            0.921,
+            0.61
+          ],
+          "content": "虽然气候是一个关键元素，但它也不应以牺牲其他元素为代价。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.637,
+            0.621,
+            0.652
+          ],
+          "content": "bill /bɪl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.656,
+            0.881,
+            0.672
+          ],
+          "content": "n. 账单；钞票；【法】法案 v. 宣传；开账单"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.679,
+            0.912,
+            0.715
+          ],
+          "content": "妙记：比尔·盖茨（Bill Gates）违反了 bill（法案），但有很多钱付 bill（账单）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.669,
+            0.723,
+            0.79,
+            0.808
+          ],
+          "sub_type": "natural_image",
+          "content": "Man in suit standing at a podium in a formal assembly hall with red backdrop (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_49.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.817,
+            0.63,
+            0.839
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.845,
+            0.657,
+            0.861
+          ],
+          "content": "①最常考：法案"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.864,
+            0.686,
+            0.88
+          ],
+          "content": "【2020 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.884,
+            0.791,
+            0.9
+          ],
+          "content": "The French Senate has passed a bill."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.903,
+            0.736,
+            0.919
+          ],
+          "content": "法国议会通过了一项法案。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.053,
+            0.936,
+            0.079,
+            0.95
+          ],
+          "content": "76"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.095,
+            0.934,
+            0.125,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.128,
+            0.936,
+            0.179,
+            0.95
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.856,
+            0.029,
+            0.962,
+            0.066
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.085,
+            0.462,
+            0.119
+          ],
+          "content": "② bill 可以作动词表示“宣传”，通常用作被动态，be billed as 表示被宣传为……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.123,
+            0.228,
+            0.139
+          ],
+          "content": "【2021 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.143,
+            0.457,
+            0.177
+          ],
+          "content": "A one-hour flight is now billed as a two-hour flight.\n一个一小时的航班现在被宣传为两个小时的航班。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.203,
+            0.272,
+            0.219
+          ],
+          "content": "bankrupt /'bæŋkrʌpt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.222,
+            0.336,
+            0.239
+          ],
+          "content": "adj. 破产的 vt. 使破产 n. 破产者"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.245,
+            0.413,
+            0.261
+          ],
+          "content": "妙记:bank（银行）+rupt-（断裂）→破产。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.184,
+            0.266,
+            0.36,
+            0.388
+          ],
+          "sub_type": "natural_image",
+          "content": "Nighttime street scene with a large building and a crowd, no visible text or symbols",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_7.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.071,
+            0.393,
+            0.17,
+            0.414
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.42,
+            0.152,
+            0.436
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.441,
+            0.225,
+            0.456
+          ],
+          "content": "bankruptcy n. 破产"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.46,
+            0.134,
+            0.474
+          ],
+          "content": "②区分："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.478,
+            0.473,
+            0.514
+          ],
+          "content": "作为名词，“破产”叫作 bankruptcy，而 bankrupt 作名词特指“破产者”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.517,
+            0.227,
+            0.533
+          ],
+          "content": "【2010 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.537,
+            0.474,
+            0.572
+          ],
+          "content": "One of the oldest banks on Wall Street, Lehman Brothers, filed for bankruptcy."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.575,
+            0.473,
+            0.61
+          ],
+          "content": "华尔街历史最悠久的银行之一——雷曼兄弟银行正式申请破产保护。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.638,
+            0.27,
+            0.655
+          ],
+          "content": "negotiate /nɪˈgouʃieɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.657,
+            0.296,
+            0.672
+          ],
+          "content": "vt. 谈判，商议 vi. 谈判达成"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.679,
+            0.474,
+            0.715
+          ],
+          "content": "妙记：ne 形似 no（不）+goti（联想 got，得到）+-ate（动词后缀）→得不到才一直谈判。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.725,
+            0.17,
+            0.746
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.754,
+            0.135,
+            0.769
+          ],
+          "content": "派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.775,
+            0.226,
+            0.79
+          ],
+          "content": "negotiation n. 谈判"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.795,
+            0.227,
+            0.81
+          ],
+          "content": "【2016 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.816,
+            0.474,
+            0.871
+          ],
+          "content": "A young man can decide on a likely spouse on his own and then ask his parents to arrange the marriage negotiations."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.875,
+            0.473,
+            0.911
+          ],
+          "content": "一个年轻人可以自己决定可能的配偶，然后请父母来安排婚事的协商。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.087,
+            0.718,
+            0.102
+          ],
+          "content": "wholesale /'houlseil/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.106,
+            0.761,
+            0.121
+          ],
+          "content": "a./n. 批发（的）adj. 大规模的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.128,
+            0.928,
+            0.162
+          ],
+          "content": "妙记:whole（全部的）+sale（卖）→全部卖出去→批发。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.173,
+            0.627,
+            0.193
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.2,
+            0.61,
+            0.216
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.219,
+            0.697,
+            0.234
+          ],
+          "content": "wholesaler n. 批发商"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.239,
+            0.609,
+            0.253
+          ],
+          "content": "②反义词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.257,
+            0.638,
+            0.272
+          ],
+          "content": "retail n. 零售"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.276,
+            0.67,
+            0.291
+          ],
+          "content": "retailer n. 零售商"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.295,
+            0.684,
+            0.31
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.315,
+            0.929,
+            0.348
+          ],
+          "content": "Moreover, average overall margins are higher in wholesale than in retail."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.353,
+            0.819,
+            0.368
+          ],
+          "content": "而且，批发的平均总利润率高于零售。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.371,
+            0.928,
+            0.405
+          ],
+          "content": "③ wholesale 可以作形容词表示“大规模的”，所谓批发，就是大规模销售。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.409,
+            0.61,
+            0.424
+          ],
+          "content": "【2007 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.428,
+            0.93,
+            0.498
+          ],
+          "content": "From the middle-class family perspective, much of this looks more like a frightening acceleration of the wholesale shift of financial risk onto their already overburdened shoulders."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.501,
+            0.929,
+            0.555
+          ],
+          "content": "从中产阶级家庭的角度来看，这其中的大部分情况似乎更像是财务风险大规模转移的急剧加速，将财务风险转移到他们本已不堪重负的肩上。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.578,
+            0.76,
+            0.594
+          ],
+          "content": "compensate /'kompenseit/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.597,
+            0.721,
+            0.612
+          ],
+          "content": "vt. 给……赔偿 vi. 补偿"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.619,
+            0.93,
+            0.655
+          ],
+          "content": "妙记：com-(全部)+pens-(支付)+-ate (动词后缀)→赔偿需要全部支付。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.526,
+            0.665,
+            0.627,
+            0.686
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.693,
+            0.609,
+            0.707
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.712,
+            0.701,
+            0.727
+          ],
+          "content": "compensation n. 补偿"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.731,
+            0.75,
+            0.747
+          ],
+          "content": "compensatory adj. 补偿性的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.75,
+            0.857,
+            0.766
+          ],
+          "content": "② compensate sb. 对某人进行赔偿、补偿"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.769,
+            0.683,
+            0.785
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.789,
+            0.917,
+            0.804
+          ],
+          "content": "The fund will also be used to compensate landowners."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.807,
+            0.859,
+            0.823
+          ],
+          "content": "资金还将会被用来对土地拥有者进行补偿。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.826,
+            0.905,
+            0.843
+          ],
+          "content": "③ compensate for sth. 为了某事进行赔偿、补偿"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.845,
+            0.609,
+            0.861
+          ],
+          "content": "【2007 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.865,
+            0.93,
+            0.899
+          ],
+          "content": "Health-savings plans will compensate for the reduced pensions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.902,
+            0.894,
+            0.918
+          ],
+          "content": "健康储蓄计划将弥补养老金减少所带来的损失。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.83,
+            0.935,
+            0.882,
+            0.951
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.883,
+            0.935,
+            0.914,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.933,
+            0.937,
+            0.956,
+            0.951
+          ],
+          "content": "77"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.029,
+            0.032,
+            0.097,
+            0.063
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.113,
+            0.04,
+            0.371,
+            0.058
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.402,
+            0.041,
+            0.507,
+            0.058
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.086,
+            0.476,
+            0.12
+          ],
+          "content": "④ compensation 除了“赔偿、补偿”之外，还可以表示工作所获得的与钱相关的回报。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.123,
+            0.235,
+            0.139
+          ],
+          "level": 2,
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.144,
+            0.478,
+            0.177
+          ],
+          "content": "Within companies, the right compensation design can provide incentives for executives."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.18,
+            0.438,
+            0.197
+          ],
+          "content": "在企业内部，恰当的薪酬设计能够激励高管们。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.215,
+            0.242,
+            0.23
+          ],
+          "content": "reward /rɪˈwɔːrd/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.234,
+            0.364,
+            0.25
+          ],
+          "content": "n. 奖励；回报；报酬 vt. 回报某人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.256,
+            0.478,
+            0.292
+          ],
+          "content": "妙记:re-（回）+ward（谐音“我的”）→我养的猫咪回报给我一只老鼠→奖励、报酬。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.22,
+            0.298,
+            0.337,
+            0.38
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_body_10.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.077,
+            0.384,
+            0.177,
+            0.404
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.412,
+            0.177,
+            0.428
+          ],
+          "content": "①短语搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.431,
+            0.441,
+            0.447
+          ],
+          "content": "reward sb. for sth. 因为……而回报、奖励某人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.449,
+            0.234,
+            0.466
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.469,
+            0.478,
+            0.504
+          ],
+          "content": "This would boost incomes, encourage work, reward companies for job creation, and reduce inequality."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.505,
+            0.478,
+            0.54
+          ],
+          "content": "这将提高收入水平，鼓励人们就业，奖励那些创造就业岗位的企业，并减少不平等。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.542,
+            0.478,
+            0.578
+          ],
+          "content": "② reward 可以表示工作带来的任何回报，其中与钱相关的回报统称 compensation, 具体包括："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.58,
+            0.224,
+            0.596
+          ],
+          "content": "allowance n. 津贴"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.599,
+            0.224,
+            0.615
+          ],
+          "content": "pension n. 养老金"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.618,
+            0.195,
+            0.634
+          ],
+          "content": "bonus n. 奖金"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.636,
+            0.224,
+            0.652
+          ],
+          "content": "subsidy n. 补助金"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.671,
+            0.231,
+            0.686
+          ],
+          "content": "award /ə'wɔ:rd/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.69,
+            0.247,
+            0.706
+          ],
+          "content": "n. 奖 vt. 颁奖；授予"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.712,
+            0.476,
+            0.729
+          ],
+          "content": "妙记：a (啊) + ward (谐音“我的”) → 啊！是我的奖。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.218,
+            0.734,
+            0.338,
+            0.817
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_body_25.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.077,
+            0.821,
+            0.177,
+            0.842
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.848,
+            0.36,
+            0.865
+          ],
+          "content": "最常考 award 作名词，表示“奖项”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.867,
+            0.234,
+            0.884
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.888,
+            0.478,
+            0.922
+          ],
+          "content": "As much as some scientists may complain about the new awards, two things seem clear."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.085,
+            0.918,
+            0.121
+          ],
+          "content": "尽管一些科学家可能会对这些新的奖项有所抱怨，但有两点情况似乎是显而易见的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.144,
+            0.641,
+            0.158
+          ],
+          "content": "coin /kɔm/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.162,
+            0.882,
+            0.178
+          ],
+          "content": "n. 硬币 vt. 铸币，造硬币；创造（新的词语）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.184,
+            0.927,
+            0.22
+          ],
+          "content": "妙记：谐音“扣印”→工匠扣印造硬币→引申为创造新词。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.659,
+            0.225,
+            0.807,
+            0.325
+          ],
+          "sub_type": "natural_image",
+          "content": "Industrial worker operating machinery in a dimly lit industrial setting (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_body_34.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.33,
+            0.63,
+            0.35
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.357,
+            0.871,
+            0.373
+          ],
+          "content": "该单词可以作动词，表示“创造新的词语”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.376,
+            0.688,
+            0.393
+          ],
+          "content": "【2022 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.397,
+            0.819,
+            0.411
+          ],
+          "content": "The term was coined around the notion."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.415,
+            0.914,
+            0.431
+          ],
+          "content": "这一术语是围绕着这样一个观念而被创造出来的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.455,
+            0.686,
+            0.469
+          ],
+          "content": "benefit /'benifit/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.474,
+            0.759,
+            0.489
+          ],
+          "content": "n. 益处，好处，利益 v. 获益"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.496,
+            0.926,
+            0.532
+          ],
+          "content": "妙记：谐音“贝玲妃”→贝玲妃化妆品给皮肤带来好处。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.572,
+            0.55,
+            0.898,
+            0.602
+          ],
+          "level": 2,
+          "content": "3 BEILINGFEI 贝玲妃"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.619,
+            0.628,
+            0.64
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.648,
+            0.735,
+            0.664
+          ],
+          "content": "① benefit sb. 使某人受益"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.666,
+            0.686,
+            0.683
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.687,
+            0.907,
+            0.702
+          ],
+          "content": "Setting DNT as a default will not benefit consumers."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.705,
+            0.872,
+            0.721
+          ],
+          "content": "将 DNT 设成默认设置并不会使消费者受益。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.724,
+            0.859,
+            0.741
+          ],
+          "content": "② benefit from 从……中获益 = gain from"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.743,
+            0.685,
+            0.759
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.764,
+            0.926,
+            0.798
+          ],
+          "content": "The great question is who should benefit from the analysis of the data."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.801,
+            0.857,
+            0.818
+          ],
+          "content": "一大问题是，谁将从数据的分析当中获益。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.82,
+            0.685,
+            0.837
+          ],
+          "content": "【2016 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.841,
+            0.926,
+            0.874
+          ],
+          "content": "28. C. Ukip may gain from its support for rural conservation."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.878,
+            0.898,
+            0.895
+          ],
+          "content": "英国独立党可能从其对乡村保护的支持中获益。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.049,
+            0.938,
+            0.073,
+            0.952
+          ],
+          "content": "78"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.092,
+            0.936,
+            0.123,
+            0.954
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.124,
+            0.938,
+            0.175,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.873,
+            0.026,
+            0.984,
+            0.063
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.058,
+            0.083,
+            0.208,
+            0.104
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.055,
+            0.115,
+            0.156,
+            0.131
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.141,
+            0.556,
+            0.156
+          ],
+          "content": "1. The scientist \\_\\_\\_\\_ a new term to describe the phenomenon."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.16,
+            0.162,
+            0.174
+          ],
+          "content": "A. made"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.322,
+            0.16,
+            0.4,
+            0.174
+          ],
+          "content": "B. billed"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.16,
+            0.629,
+            0.174
+          ],
+          "content": "C. coined"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.798,
+            0.16,
+            0.903,
+            0.174
+          ],
+          "content": "D. rewarded"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.185,
+            0.443,
+            0.2
+          ],
+          "content": "2. The fast-fashion\\_\\_\\_\\_ ignores sustainability."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.204,
+            0.16,
+            0.217
+          ],
+          "content": "A. stock"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.322,
+            0.204,
+            0.394,
+            0.217
+          ],
+          "content": "B. asset"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.204,
+            0.654,
+            0.217
+          ],
+          "content": "C. wholesale"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.798,
+            0.204,
+            0.896,
+            0.218
+          ],
+          "content": "D. industry"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.229,
+            0.601,
+            0.244
+          ],
+          "content": "3. Many developing countries \\_\\_\\_\\_ greatly from international trade."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.248,
+            0.152,
+            0.263
+          ],
+          "content": "A. gain"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.322,
+            0.248,
+            0.409,
+            0.262
+          ],
+          "content": "B. benefit"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.248,
+            0.621,
+            0.263
+          ],
+          "content": "C. profit"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.799,
+            0.247,
+            0.919,
+            0.262
+          ],
+          "content": "D. incorporate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.273,
+            0.582,
+            0.288
+          ],
+          "content": "4. The Pulitzer Prize is \\_\\_\\_\\_ annually for outstanding journalism."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.291,
+            0.182,
+            0.306
+          ],
+          "content": "A. awarded"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.322,
+            0.292,
+            0.426,
+            0.305
+          ],
+          "content": "B. rewarded"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.292,
+            0.656,
+            0.305
+          ],
+          "content": "C. forwarded"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.799,
+            0.291,
+            0.871,
+            0.306
+          ],
+          "content": "D. gave"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.317,
+            0.547,
+            0.332
+          ],
+          "content": "5. But both these criteria would be \\_\\_\\_\\_ the expense of time."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.336,
+            0.138,
+            0.349
+          ],
+          "content": "A. of"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.322,
+            0.336,
+            0.379,
+            0.349
+          ],
+          "content": "B. for"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.336,
+            0.593,
+            0.349
+          ],
+          "content": "C. at"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.799,
+            0.335,
+            0.85,
+            0.348
+          ],
+          "content": "D. in"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.361,
+            0.659,
+            0.376
+          ],
+          "content": "6. U.S. national parks are faced with the problem of decline of \\_\\_\\_\\_ profits."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.38,
+            0.182,
+            0.393
+          ],
+          "content": "A. business"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.322,
+            0.38,
+            0.386,
+            0.393
+          ],
+          "content": "B. bill"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.38,
+            0.631,
+            0.393
+          ],
+          "content": "C. reward"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.799,
+            0.38,
+            0.868,
+            0.393
+          ],
+          "content": "D. coin"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.405,
+            0.736,
+            0.42
+          ],
+          "content": "7. Growth team is made up of members from different departments within your \\_\\_\\_\\_."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.424,
+            0.177,
+            0.439
+          ],
+          "content": "A. liability"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.322,
+            0.424,
+            0.396,
+            0.438
+          ],
+          "content": "B. stock"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.424,
+            0.663,
+            0.439
+          ],
+          "content": "C. bankruptcy"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.799,
+            0.424,
+            0.903,
+            0.439
+          ],
+          "content": "D. company"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.449,
+            0.723,
+            0.465
+          ],
+          "content": "8. Next time somebody pushes corporate quotas as a way to promote gender\\_\\_\\_\\_..."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.469,
+            0.167,
+            0.483
+          ],
+          "content": "A. equity"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.322,
+            0.469,
+            0.394,
+            0.482
+          ],
+          "content": "B. asset"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.469,
+            0.646,
+            0.482
+          ],
+          "content": "C. business"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.799,
+            0.468,
+            0.888,
+            0.481
+          ],
+          "content": "D. benefit"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.055,
+            0.49,
+            0.154,
+            0.506
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.055,
+            0.516,
+            0.948,
+            0.658
+          ],
+          "sub_type": "text",
+          "content": "1. The public (including other scientists) receives the new discovery and possibly \\_\\_\\_\\_ (accompany) technology.\n2. Banks will not sell \\_\\_\\_\\_ (asset) for fear of booking losses.\n3. Train operators are offering\\_\\_\\_\\_ (compensate) to commuters.\n4. A one-hour flight is now \\_\\_\\_\\_ (bill) as a two-hour flight.\n5. The practice of tipping in the U.S was a way of \\_\\_\\_\\_ (reward) diligence.\n6. There are many reasons this formerly stable federal institution finds itself at the brink of \\_\\_\\_\\_ (bankrupt)."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.055,
+            0.668,
+            0.154,
+            0.684
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.055,
+            0.688,
+            0.948,
+            0.851
+          ],
+          "sub_type": "text",
+          "content": "1. Meanwhile, it has more than \\$120 billion in unfunded liabilities, mostly for employee health and retirement costs.\n2. The number of women on corporate boards has been steadily increasing without government interference.\n3. Moreover, average overall margins are higher in wholesale than in retail."
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.847,
+            0.935,
+            0.9,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.904,
+            0.935,
+            0.934,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.955,
+            0.937,
+            0.979,
+            0.951
+          ],
+          "content": "79"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.026,
+            0.033,
+            0.097,
+            0.064
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.111,
+            0.04,
+            0.371,
+            0.058
+          ],
+          "content": "考研英语伦理引擎·一问三题"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.403,
+            0.042,
+            0.508,
+            0.058
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.087,
+            0.743,
+            0.102
+          ],
+          "content": "4. Attempts have been made to curb this tendency by trying to incorporate some measures."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.157,
+            0.653,
+            0.173
+          ],
+          "content": "5, Many “unretirees” are increasing their savings by investing more in stocks."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.229,
+            0.661,
+            0.246
+          ],
+          "content": "6. Western governments have this week urged him to negotiate and avoid force."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.455,
+            0.352,
+            0.555,
+            0.372
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.396,
+            0.17,
+            0.413
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.428,
+            0.122,
+            0.442
+          ],
+          "level": 2,
+          "content": "1. C."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.071,
+            0.446,
+            0.133,
+            0.461
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.463,
+            0.478,
+            0.498
+          ],
+          "content": "句意：这位科学家 \\_\\_\\_\\_ 了一个新术语来描述这一现象。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.5,
+            0.478,
+            0.611
+          ],
+          "content": "考点：动词辨析与固定搭配。空格需要填入一个能与“a new term”（新术语）搭配的动词，表示“创造、发明”的含义。C. coined 专指“创造新词或新短语”，是正确选项。A. made“制造”，B. billed“宣传；给……开账单”，D. rewarded“奖励”，均不符合“创造术语”的语境。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.071,
+            0.627,
+            0.121,
+            0.64
+          ],
+          "level": 2,
+          "content": "2. D."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.644,
+            0.133,
+            0.66
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.663,
+            0.382,
+            0.679
+          ],
+          "content": "句意：快时尚 \\_\\_\\_\\_ 忽视了可持续性。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.681,
+            0.478,
+            0.772
+          ],
+          "content": "考点：名词辨析与上下文语义。句子主语需要是一个能够“忽视可持续性”的实体。D. industry“行业”最符合句意，指代整个快时尚产业。A. stock“库存；股票”，B. asset“资产”，C. wholesale“批发”，均无法作为忽略可持续性的主体。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.787,
+            0.124,
+            0.801
+          ],
+          "level": 2,
+          "content": "3. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.804,
+            0.133,
+            0.82
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.822,
+            0.478,
+            0.914
+          ],
+          "content": "句意：许多发展中国家从国际贸易中\\_\\_\\_\\_良多。\n考点：动词辨析与固定搭配。四个选项中，A. gain、B. benefit、C. profit 都有“获益”的意思，但它们的固定搭配不同。“gain from”和“profit from”虽成立，但“benefit from”是最常用、最地"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.394,
+            0.929,
+            0.43
+          ],
+          "continues_prev": true,
+          "content": "道的搭配，且与副词“greatly”搭配自然。D incorporate“合并，纳入”，与句意无关。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.446,
+            0.579,
+            0.459
+          ],
+          "level": 2,
+          "content": "4. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.463,
+            0.59,
+            0.479
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.481,
+            0.934,
+            0.628
+          ],
+          "content": "句意：普利策奖每年都会\\_\\_\\_\\_给杰出的新闻作品。考点：动词辨析与语态。句子为被动语态，主语是奖项，因此需要填入一个表示“被颁发、被授予”的动词。A. awarded 专指“正式地授予奖项、奖金等”，是正确答案。B. rewarded“回报，酬谢”，通常用于对努力、帮助等的回报，而非正式奖项。C. forwarded“转发”，D. gave 是及物动词，需接宾语，且不能用于被动语态中。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.644,
+            0.582,
+            0.657
+          ],
+          "level": 2,
+          "content": "5. C."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.661,
+            0.589,
+            0.677
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.68,
+            0.925,
+            0.734
+          ],
+          "content": "句意：但这两个标准都会\\_\\_\\_\\_时间为代价。\n考点：固定搭配。“at the expense of”是固定短语，意为“以……为代价”。其他介词均无此搭配。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.75,
+            0.581,
+            0.763
+          ],
+          "level": 2,
+          "content": "6. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.766,
+            0.589,
+            0.783
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.786,
+            0.932,
+            0.897
+          ],
+          "content": "句意：美国国家公园面临着 \\_\\_\\_\\_ 利润下降的问题。\n考点：名词辨析。空格修饰“profits”（利润），需要填入一个描述利润性质的词。A. business“商业的”，与“利润”搭配最自然、常见，指通过商业活动获得的利润。B. bill“账单”、C. reward“回报”、D. coin“硬币”，均不能合理修饰“profits”。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.042,
+            0.938,
+            0.068,
+            0.952
+          ],
+          "content": "80"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.085,
+            0.936,
+            0.114,
+            0.953
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.117,
+            0.938,
+            0.17,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 8,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.858,
+            0.027,
+            0.962,
+            0.063
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.086,
+            0.127,
+            0.099
+          ],
+          "content": "7. D。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.103,
+            0.134,
+            0.118
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.12,
+            0.474,
+            0.154
+          ],
+          "content": "句意：增长团队由你 \\_\\_\\_\\_ 内部不同部门的成员组成。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.156,
+            0.475,
+            0.226
+          ],
+          "content": "考点：名词辨析与上下文语义。定语“within your...”限定的是“departments”（部门）所在的范围。D. company“公司”是唯一符合逻辑的选项，部门是公司的组成部分。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.243,
+            0.12,
+            0.256
+          ],
+          "content": "8. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.26,
+            0.131,
+            0.275
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.278,
+            0.474,
+            0.313
+          ],
+          "content": "句意：下次如果有人推动企业配额制作为促进性别的一种方式……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.315,
+            0.474,
+            0.387
+          ],
+          "content": "考点：名词辨析与固定表达。“gender equity”或“gender equality”是固定表达，意为“性别平等”，是讨论公司配额（如董事会性别比例）时常提到的目标。A. equity“公平，平等”是正确答案。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.071,
+            0.397,
+            0.167,
+            0.413
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.429,
+            0.212,
+            0.444
+          ],
+          "level": 2,
+          "content": "1. accompanying"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.446,
+            0.131,
+            0.461
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.465,
+            0.476,
+            0.498
+          ],
+          "content": "句意：公众（包括其他科学家）接受了这项新发现以及可能\\_\\_\\_\\_技术。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.501,
+            0.475,
+            0.591
+          ],
+          "content": "考点：非谓语动词（现在分词作定语）。空格处需要填入一个词来修饰后面的名词“technology”。“技术”与“伴随”之间是主动关系（技术伴随发现而来），因此要用现在分词形式“accompanying”作后置定语。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.608,
+            0.146,
+            0.621
+          ],
+          "level": 2,
+          "content": "2. assets"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.625,
+            0.131,
+            0.64
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.643,
+            0.458,
+            0.659
+          ],
+          "content": "句意：银行不会出售\\_\\_\\_\\_，因为担心账面亏损。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.661,
+            0.473,
+            0.714
+          ],
+          "content": "考点：词性转换（单数→复数）与经济术语。“asset”作“资产”讲时，通常以复数形式“assets”出现，指银行所持有的各类资产的总称。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.731,
+            0.206,
+            0.745
+          ],
+          "level": 2,
+          "content": "3. compensation"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.748,
+            0.131,
+            0.763
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.766,
+            0.425,
+            0.782
+          ],
+          "content": "句意：铁路运营商正在向通勤者提供\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.785,
+            0.472,
+            0.8
+          ],
+          "content": "考点：词性转换（动词→名词）。动词“offer”后"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.083,
+            0.928,
+            0.118
+          ],
+          "continues_prev": true,
+          "content": "需要接名词作宾语。因此需将动词“compensate”变为名词形式“compensation”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.132,
+            0.602,
+            0.145
+          ],
+          "level": 2,
+          "content": "4. billed"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.149,
+            0.588,
+            0.164
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.167,
+            0.922,
+            0.183
+          ],
+          "content": "句意：一小时的航班现在 \\_\\_\\_\\_ 为两小时的航班。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.186,
+            0.93,
+            0.256
+          ],
+          "content": "考点：动词被动语态与词义。主语“flight”与动词“bill”之间是被动关系（航班被宣传），故用被动语态“is billed”。“Bill”在这里是“宣传，宣称”的意思。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.272,
+            0.638,
+            0.287
+          ],
+          "level": 2,
+          "content": "5. rewarding"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.289,
+            0.588,
+            0.305
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.307,
+            0.931,
+            0.341
+          ],
+          "content": "句意：美国的小费习俗曾是\\_\\_\\_\\_辛勤劳动的一种方式。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.344,
+            0.931,
+            0.38
+          ],
+          "content": "考点：介词后的动词形式。介词“of”后面应接动名词（v-ing）形式，故填“rewarding”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.395,
+            0.648,
+            0.41
+          ],
+          "level": 2,
+          "content": "6. bankruptcy"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.412,
+            0.588,
+            0.428
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.43,
+            0.93,
+            0.464
+          ],
+          "content": "句意：有很多原因导致这个曾经稳定的联邦机构发现自己处于\\_\\_\\_\\_的边缘。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.467,
+            0.931,
+            0.521
+          ],
+          "content": "考点：词性转换（形容词→名词）。介词“of”后需要接名词作宾语，故需将形容词“bankrupt”变为名词形式“bankruptcy”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.526,
+            0.532,
+            0.623,
+            0.547
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.55,
+            0.929,
+            0.583
+          ],
+          "content": "1. 同时，该机构还面临着超过 1200 亿美元的无资金准备负债——其中大部分用于员工的医疗和退休开支。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.586,
+            0.93,
+            0.62
+          ],
+          "content": "2. 在没有政府干预的情况下，企业董事会中的女性人数持续稳定增长。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.624,
+            0.928,
+            0.639
+          ],
+          "content": "3. 此外，批发业务的平均整体利润率高于零售业务。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.642,
+            0.901,
+            0.657
+          ],
+          "content": "4. 为遏制这一趋势，各方已尝试采取若干措施。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.66,
+            0.928,
+            0.694
+          ],
+          "content": "5. 许多“退休再就业者”正通过加大股票投资力度来增加储蓄。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.698,
+            0.928,
+            0.731
+          ],
+          "content": "6. 本周，西方各国政府敦促其进行谈判，避免使用武力。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.831,
+            0.934,
+            0.914,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.934,
+            0.936,
+            0.956,
+            0.95
+          ],
+          "content": "81"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:13:02",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 9,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 841.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 842.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 8,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

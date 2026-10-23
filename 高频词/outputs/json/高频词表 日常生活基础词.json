@@ -1,0 +1,4346 @@
+{
+ "theme": "日常生活基础词",
+ "dir_name": "高频词表 日常生活基础词",
+ "md_path": "pdf/高频词/outputs/高频词表 日常生活基础词/markdown.md",
+ "lists": [
+  {
+   "list_no": null,
+   "title": null,
+   "words": []
+  },
+  {
+   "list_no": 1,
+   "title": "颜色",
+   "words": [
+    {
+     "seq": 1,
+     "spelling": "silver",
+     "spelling_raw": "silver",
+     "ipa_raw": "/'sılvər/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "银色；银；银器"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "银色的；银制的"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "镀银"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "词义",
+       "body": "n.银\nThe prospector discovered a silver mine.这个淘金者发现一座银矿。"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "词义",
+       "body": "n.银器\nThe silver needs polishing.这些银器需要擦洗。"
+      },
+      {
+       "marker": "③",
+       "kind": "释义",
+       "label_raw": "词义",
+       "body": "v.镀银\nHis work is to silver the glass.他的工作是往玻璃上镀银。"
+      },
+      {
+       "marker": "④",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "silver y adj.银白色的"
+      }
+     ],
+     "examples": [],
+     "list_no": 1,
+     "list_title": "颜色",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 2,
+     "spelling": "golden",
+     "spelling_raw": "golden",
+     "ipa_raw": "/'gəuldən/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "金子般的；金黄色的；贵重的，极好的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "词义",
+       "body": "adj.金子般的；金黄色的\nShe combed and arranged her golden hair.她梳理好自己的金发。"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "词义",
+       "body": "adj.贵重的，极好的\na golden opportunity 绝好的机会"
+      },
+      {
+       "marker": "③",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "golden 和 gold 的区别\n● gold 指材质、颜色是“黄金、金色的”,如 gold medal ( 金 牌 ),gold ring(金戒指);\n● golden 指抽象意义或视觉效果是“黄金般的、极好的”,如 golden rule ( 黄 金 法 则 ),golden sunset ( 金色的日落)。"
+      }
+     ],
+     "examples": [],
+     "list_no": 1,
+     "list_title": "颜色",
+     "theme": "日常生活基础词"
+    }
+   ]
+  },
+  {
+   "list_no": 2,
+   "title": "家庭装修",
+   "words": [
+    {
+     "seq": 1,
+     "spelling": "warehouse",
+     "spelling_raw": "warehouse",
+     "ipa_raw": "/'werhaʊs/",
+     "mnemonic": "ware 音 似“where, 在 哪 儿”,house 房 子 →哪里有房子可以存放货物→仓库 (warehouse).",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "仓库；仓储式零售商店"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "将 (商品) 存库，使入库"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作动词时，表示将大量物品或数据集中存储于仓库中。\nGoods are warehoused at the port.\n货物在港口入库。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "引申为专门用于存储数据的系统或设施。\ndata warehouse 数 据 仓 库"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "社会批判语境中，指将人大规模、非个性化地集中安置在机构或场所。\nwarehouse the elderly/ poor/ mentally ill\n收容老人/穷 人/精神病人"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 2,
+     "spelling": "garden",
+     "spelling_raw": "garden",
+     "ipa_raw": "/'ga:rdn/",
+     "mnemonic": "谐音“干等”，无聊的时候就可以坐在自家美丽的 garden ( 花 园 ) 干等。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "花园，菜园，果园；庭园；公园"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "做园艺工作，种植花木"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "royal garden 西式的皇家花园\nthe imperial garden 中式的御花园\nThe imperial garden is a masterpiece of ancient Chinese landscaping.\n御花园是中国古代园林艺术的杰作。"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 3,
+     "spelling": "life",
+     "spelling_raw": "life",
+     "ipa_raw": "/larf/",
+     "mnemonic": "音似“来福”，美好的生活 (life ) 带来幸福。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "生命；生活，人生；寿命，一生；活力"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "生命的；一生的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "bring sth. to life 使……更有活力\nHer performance brought the character to life.\n她的表演使这个角色栩栩如生。\ncome to life 苏 醒 过 来"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": null,
+       "body": "熟词僻义，表示“传记”。\na life of Shakespeare 一本莎士比亚的传记"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "指产品、电池、关系等的“生命”，也即“可用期限”或“持续时间”。\nbattery life 电池续航\nthe life of a contract 合同的有效期"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 4,
+     "spelling": "name",
+     "spelling_raw": "name",
+     "ipa_raw": "/neIm/",
+     "mnemonic": "这位 name (名人) 以一位历史人物的 name ( 名 字 ) 来 name (命名) 他的新小说。",
+     "senses": [
+      {
+       "pos": "vt.",
+       "meaning_cn": "命名；说出⋯⋯的名词"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "名称；名字；名誉"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“名誉，声望”或“名人”。\nShe made a name for herself as a talented scientist.\n她因是一位才华横溢的科学家而声名远扬。\nbig names in the industry 业 界 大 腕"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“任命，提名”。\nname sb. as sth.任命某人为……"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 5,
+     "spelling": "face",
+     "spelling_raw": "face",
+     "ipa_raw": "/fers/",
+     "mnemonic": "他的 face ( 脸 ) 正 face ( 面 对 ) 大海。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "脸，面部；面部表情；(物体的) 正面，表面"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "面临，遭遇；正视，面对；与……交往"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示物体的“表面，外观”，可引申为描述时代、局势等呈现出的状态或特征。\non the face of it 从表面上看\nthe changing face of retail 零售业不断变化的面貌"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "引申为抽象的“面子，威信”。\nlose face 丢 脸 save face 保 全 面 子"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作动词时，表示不得不处理、应对或承认某事，也可表示勇敢地对付，对抗。\n【2023 年英语 (二)】\nHere's a common scenario that any number of entrepreneurs face today.\n这是一个今天许多企业家面临的常见情境。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语 (二)】",
+       "year": 2023,
+       "exam": "英语二",
+       "part": null,
+       "en": "Here's a common scenario that any number of entrepreneurs face today.",
+       "cn": "这是一个今天许多企业家面临的常见情境。"
+      }
+     ],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 6,
+     "spelling": "hand",
+     "spelling_raw": "hand",
+     "ipa_raw": "/hænd/",
+     "mnemonic": "音似“汗的”，我的手是爱出“汗的”。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "手；（钟表的）指针；一局牌，一手牌；帮助"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示帮助，协助\ngive/ lend sb. a hand 帮某人一把"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "(书写或签名的) 笔迹，手迹\nThe note was written in the manager's own hand.\n这张便条是经理亲手写的。"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作为动词时，与“交，递”含义相关的固定搭配\nhand in 向上级、老师提交 (作业、报告、申请等)\nhand over 强调控制权或所有权的转移\nhand down 宣 判 ; 传 承\nask for/ give one's hand 求 婚/允婚"
+      },
+      {
+       "marker": "④",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "抽象含义，表示有影响力。\nhave a hand in sth. 对 某 事 有 责 任/影响\nthe hidden hand 看不见的手，指暗中操纵的力量"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 7,
+     "spelling": "age",
+     "spelling_raw": "age",
+     "ipa_raw": "/e1dz/",
+     "mnemonic": "时 代 (age) 的变迁使他苍老 (age).",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "年龄；时代，时期；年龄段；很长时间"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "变老老化；（使）苍老"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“时代，时期”，指历史上具有显著特征的一段时间。\nthe Victorian Age 维多利亚时代\nthe Stone Age 石器时代\nthe age of mass media 大众传媒时代"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "ages 复数表示很长一段时间。\nIt took ages to finish the work.\n完成这项工作花了很长时间。"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作为动词时，不仅可以表示“(使) 变老”，还可以引申为“(使) 成熟，(使) 陈化”，用于描述酒、奶酪、想法等经过时间变得更佳。\nThis fine wine has been aged in oak barrels for 10 years.\n这种优质葡萄酒已在橡木桶中陈酿了 10 年。"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 8,
+     "spelling": "marriage",
+     "spelling_raw": "marriage",
+     "ipa_raw": "/'mærıdz/",
+     "mnemonic": "marri( 音 似“玛 丽”) + age ( 年 龄 ) → 玛 丽到了要结婚的年龄→婚姻。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "结婚，婚姻；紧密结合；配对"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "可以抽象为两个事物的“紧密结合，完美结合”\nThe building design is a marriage of classical elegance and modern minimalism.\n这座建筑的设计融合了古典的优雅与现代的简约风格。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "引申为生物学中的“杂交，杂交结合”。\nThe marriage between wild and cultivated soybean strains aims to enhance pest resistance.\n野生大豆与栽培大豆品系的杂交旨在增强抗虫性。"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 9,
+     "spelling": "gate",
+     "spelling_raw": "gate",
+     "ipa_raw": "/gert/",
+     "mnemonic": "他在 gate(大门) 口通过统计 gate(观众人数) 来计算这次比赛的 gate (门票收入)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "大门；登机口；观众人数；（体育比赛的）门票收人"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "派生词",
+       "label_raw": null,
+       "body": "作为后缀，特指“丑闻、××门”，形容重大的政治丑闻或争议事件。\nThe Watergate scandal has undermined the faith of many Americans in the integrity of political and economic leaders and society as a whole.\n水门事件破坏了许多美国人对政治、经济领袖的忠诚和对整个社会的信任。"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 10,
+     "spelling": "married",
+     "spelling_raw": "married",
+     "ipa_raw": "/'mærid/",
+     "mnemonic": "音似“玛丽的”→玛丽是 married (已婚的)→已婚的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "结婚的，已婚的；专心于……的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "已婚者"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "结婚（marry 的过去式和过去分词形式）"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": null,
+       "body": "熟词僻义，表示专心于某事。\nShe is married to the idea of becoming an artist.\n她一心只想成为艺术家。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "be married to sb. 与 某 人 已 婚 ( 表 状 态 )\nbe married with 后接孩子或财产表示伴随状态，不能接配偶\nHe is married with three children.\n他已婚，有三个孩子。"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 11,
+     "spelling": "apartment",
+     "spelling_raw": "apartment",
+     "ipa_raw": "/ә'p ɑːrtm әnt/",
+     "mnemonic": "apart ( 分 离 的 )+-ment ( 名 词 后 缀 ) → 分 隔开的私人空间→公寓套房。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "公寓套房；房间，套间"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "flat & apartment & condominium & dormitory\nflat 与 apartment 意思一致，仅是英美语言差异。\n【2014 年英语 (一)】\nThe researchers mapped hundreds of simpler apartment complexes where common people lived.\n研究人员绘制了数百个普通人居住的更简单的公寓楼群。\ncondominium 产权公寓，强调拥有所有权。\ndormitory 学校宿舍，强调学生集体住宿。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2014 年英语 (一)】",
+       "year": 2014,
+       "exam": "英语一",
+       "part": null,
+       "en": "The researchers mapped hundreds of simpler apartment complexes where common people lived.",
+       "cn": "研究人员绘制了数百个普通人居住的更简单的公寓楼群。condominium 产权公寓，强调拥有所有权。dormitory 学校宿舍，强调学生集体住宿。"
+      }
+     ],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 12,
+     "spelling": "furniture",
+     "spelling_raw": "furniture",
+     "ipa_raw": "/'f3:rnit∫ər/",
+     "mnemonic": "音似“房内缺”→房间内缺什么？当然是家具了。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "家具；装置，设备；贮藏物，内容"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "该词为不可数名词，无复数形式。\na/ an piece/ article/ item of furniture 一 件 家 具\na lot of/a great deal of furniture 大 量 家 具"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "思想、语言中固有的知识储备、基础\nthe furniture of one's mind 思想的内在基础要素"
+      },
+      {
+       "marker": "③",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "furniture & furnishing\nfurniture :指桌椅床柜等大件、功能性物品；\nfurnishing : 是可数名词，常用复数 furnishings 指室内陈设与装饰品等软装。"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 13,
+     "spelling": "table",
+     "spelling_raw": "table",
+     "ipa_raw": "/'teIbl/",
+     "mnemonic": "在 table ( 桌 子 ) 上 吃 得 太 (ta ) 饱 (b ) 了 ( le )。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "桌子；一桌人；一桌酒席；表格；(宝石的) 切"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "指“数据图表”或“目录”。\npresent in a table 以表格形式呈现"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "在英式英语中，意为“正式提出”，但在美式英语中，意为“搁置、推迟讨论”。\ntable a proposal/ bill 将 提 案/ 法 案 提 交 讨 论 ( 英 式用 法 )\ntable a discussion/ project 搁 置 讨 论/ 项 目 ( 美 式用 法 )"
+      },
+      {
+       "marker": "③",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "under the table 秘 密 地 , 非 法 地 (尤指交易)\nturn the tables 扭转局势，反败为胜。\non the table (议题、计划等) 被提交讨论中"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 14,
+     "spelling": "bed",
+     "spelling_raw": "bed",
+     "ipa_raw": "/bed/",
+     "mnemonic": "bed ( 花 坛 ) 是花朵的 bed (床铺)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "床；河床；花坛；底层，基座"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "为……提供床铺；把……固定，嵌入"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "有“底架，底座”的含义\ntest bed 试验台\nlaunch bed 火箭发射台"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "可以引申为“动植物的栖息地，苗圃”；“地质层，岩层”或是“河床，海底”。\nflower bed 花 坛\ncoal bed 煤 层\nriver bed 河 床\n【2022 年英语 (一)】\nThose pieces included small beds of roses and other items as well as a few dozen“nature carpets”— large rectangles decorated with foam pumpkins, cabbages, and watermelons.\n这些作品包括了小型玫瑰花坛和其他物品，还有几十个“自然地毯”——用泡沫南瓜、卷心菜和西瓜装饰的大矩形。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语 (一)】",
+       "year": 2022,
+       "exam": "英语一",
+       "part": null,
+       "en": "Those pieces included small beds of roses and other items as well as a few dozen“ nature carpets”— large rectangles decorated with foam pumpkins, cabbages, and watermelons.",
+       "cn": "这些作品包括了小型玫瑰花坛和其他物品，还有几十个“自然地毯”——用泡沫南瓜、卷心菜和西瓜装饰的大矩形。"
+      }
+     ],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 15,
+     "spelling": "window",
+     "spelling_raw": "window",
+     "ipa_raw": "/'wmndou/",
+     "mnemonic": "wind 风 +dow (音似“兜”) → 把 风 兜 住 的东西→窗户。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "窗，窗玻璃；陈列窗，橱窗；短暂的时机；（办理业务的）窗口"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "引申为“短暂时机，一丝机会”。\nWe have a small window to complete the negotiations before the deadline.\n我们还有短暂的时间来完成谈判工作，以免错过截止日期。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "引申为获取或展示信息的途径。\nArt provides a window into the society that it created.艺术是了解其创作社会的窗口。"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 16,
+     "spelling": "wood",
+     "spelling_raw": "wood",
+     "ipa_raw": "/wud/",
+     "mnemonic": "音似“屋的”→这个屋子是木头做的→木头。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "木材，木料；树林"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "木制的；用木材做燃料的"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "收集木材；植林于；给……添加木柴"
+      }
+     ],
+     "notes": [],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 17,
+     "spelling": "floor",
+     "spelling_raw": "floor",
+     "ipa_raw": "/flo:r/",
+     "mnemonic": "音似“扶牢”，floor(地板) 太滑要扶牢。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "地板，地面；楼层；底部；活动场所"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "击倒，打倒；使惊讶得不知所措；给……铺设地板（或地面)"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作动词时，有“击 倒/使震惊”的引申意义。\nHe was floored by the economic data.\n经济数据让他哑口无言。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "floor price 最低限价"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 18,
+     "spelling": "decorate",
+     "spelling_raw": "decorate",
+     "ipa_raw": "/'dekəreit/",
+     "mnemonic": "音似“待客了她”，为了接待客人，她特别把家里 decorate ( 装 饰 ) 了一遍。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "装饰；粉刷，装修；授予（某人）勋章"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“装饰，粉刷”。\nThey decorated the room with flowers and balloons.他们用花和气球装饰了房间。"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "表示授予某人勋章。\nThe soldier was decorated for bravery in battle.士兵因战斗英勇被授勋。"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 19,
+     "spelling": "glass",
+     "spelling_raw": "glass",
+     "ipa_raw": "/glæs/",
+     "mnemonic": "被 glass( 玻 璃 )g( 割 ) 到就会把人 lass(拉死",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "玻璃；玻璃杯；一杯；玻璃制品"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "用玻璃覆盖，给……装玻璃；用望远镜观察"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "复数形式特殊义：a pair of glasses 一副眼镜"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": null,
+       "body": "熟词僻义，作动词时可以表示“反射/映照”\nThe lake glassed the mountains at sunset.湖面映照着日落时的群山。"
+      },
+      {
+       "marker": "③",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "look through rose-coloured glasses 盲目乐观 glass ceiling 玻璃天花板 (职场隐形壁垒)\nWomen face a glass ceiling in promotion.女性晋升面临无形壁垒。"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 20,
+     "spelling": "door",
+     "spelling_raw": "door",
+     "ipa_raw": "/dɔːr/",
+     "mnemonic": "打开这扇 door (门)，你就获得了职业生涯成功的 door (机会)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "门；门口，门道；机会，可能性"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "撞到门上"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "引申为获得机会、成功等的“入口”。\nThis job offer is a door to a successful career.这份工作是一个成功职业生涯的敲门砖。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "指代具体的住户、家庭或房屋本身。\nfrom door to door 挨家挨户"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作动词时，(通常指骑车人或行人) 被突然打开 (汽车) 车门撞到，常用被动形式。\nA cyclist was doored by a parked car this morning.今天早上一名骑自行车的人被一辆停着的汽车斩撞了。"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 21,
+     "spelling": "ceiling",
+     "spelling_raw": "ceiling",
+     "ipa_raw": "/' si:lɪŋ/",
+     "mnemonic": "cei ( 系 ) + ling ( 铃 铛 ) →ceiling (天花上系铃铛。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "天花板，吊顶；上限，最高限度"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "可抽象引申为“上限”。\nThe government has set a ceiling on the price of essential goods to prevent inflation.\n政府对基本商品的价格设定了上限以防止通货膨胀。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "hit the ceiling/ go through the ceiling 勃然大怒"
+      },
+      {
+       "marker": "③",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "ceiling & roof\nceiling:指房间内部的天花板，是室内空间的顶部表面；\nroof:指建筑物的顶部结构，包括屋顶的外部覆盖物，用于保护建筑物免受天气影响。"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 22,
+     "spelling": "sex",
+     "spelling_raw": "sex",
+     "ipa_raw": "/seks/",
+     "mnemonic": "se 色 +x 性，有颜色的性问题→sex 性别。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "性，性别"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "辨别……的性别"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "opposite sex 异 性"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "sex& gender\nsex :指生物性别，即生理上的性别，主要基于生殖器官和染色体的差异，通常分为男性和女性两种；) gender :则侧重于社会文化环境中的性别角色和身份认同，在讨论性别平等、性别歧视等问题时，通常会使用 gender。"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 23,
+     "spelling": "household",
+     "spelling_raw": "household",
+     "ipa_raw": "/'haushould/",
+     "mnemonic": "house 家 +hold 支 撑 → 一 起 支 撑 家 的 人 → (household) 一家人。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "家庭，一家人；家务"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "家用的；全家人的家喻户晓的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "家喻户晓的，众所周知的\nAfter the success of his films, the director became a household name.\n在影片取得成功之后，这位导演逐渐成了家喻户晓的人物。"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "household & domestic\nhousehold :更具体，直接修饰家庭内部使用的具体物品或事务；\ndomestic :范围更广，意思更多，可指家庭的、国内的、驯养的。"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 24,
+     "spelling": "divorce",
+     "spelling_raw": "divorce",
+     "ipa_raw": "/di'vo:rs/",
+     "mnemonic": "音似“得我死”，这个男人扬言：只得我死了才能离婚。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "离婚；分开，脱离"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "与（某人）离婚；使分离，割裂"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "引申意义：指事物或概念的割裂\ndivorce of theory from practice 理论脱离实际\nGood management in the police cannot be divorced from accountability.\n警政的良好管理离不开问责制。"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 25,
+     "spelling": "death",
+     "spelling_raw": "death",
+     "ipa_raw": "/deθ/",
+     "mnemonic": "音似“待死”,等待 death (死亡)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "死亡；破灭，终止；死神"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "引申为终结，指事物或概念的消亡。\nThese regulations could spell the death of the American car industry.\n这些规定可能导致美国汽车业的终结。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "dead wrong 大 错 特 错"
+      },
+      {
+       "marker": "③",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "death & demise & perish\n在解题时，涉及生物死亡、数据统计→ death，指生物生命终结或事物消亡，中性客观；\n涉及制度崩溃/ 权力更迭→demise；\n涉及文学性灾难描写→perish，非正常死亡，隐含悲剧性。"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 26,
+     "spelling": "die",
+     "spelling_raw": "die",
+     "ipa_raw": "/dai/",
+     "mnemonic": "death 的动词形式。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "死亡，消失，停止运转"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "die down: 逐渐减弱或消失\nThe noise died down after the concert.\n音乐会结束后，噪声逐渐消失。\ndie out: 灭绝或消失\nTraditional customs die out with time.传统习俗随时间消亡。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "用 法 辨 析 : die of & die for\ndie of 表示死于某种原因；\nShe died of cance.\n她因癌症去世；\ndie for 表示为某种信念或理想牺牲。\nHe died for the country.\n他为国家献身。"
+      }
+     ],
+     "examples": [],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 27,
+     "spelling": "heaven",
+     "spelling_raw": "heaven",
+     "ipa_raw": "/'hevn/",
+     "mnemonic": "hea (联想 head ) + ven (谐音“问”),信徒经",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "天堂，天国"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "注意引申义，除了宗教的“天堂”，还可以表示拓展意义的天堂，如:\n【2013 年 英 语 (二)】\nEurope is not a gender-equality heaven.\n欧洲不是性别平等的天堂。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2013 年 英 语 (二)】",
+       "year": 2013,
+       "exam": null,
+       "part": null,
+       "en": "Europe is not a gender-equality heaven.",
+       "cn": "欧洲不是性别平等的天堂。"
+      }
+     ],
+     "list_no": 2,
+     "list_title": "家庭装修",
+     "theme": "日常生活基础词"
+    }
+   ],
+   "narrative": {
+    "plot": "初次相遇→坠入爱河→共筑家园→分崩离析",
+    "sections": [
+     {
+      "title": "初次相遇",
+      "text": [
+       "在昏暗的 warehouse (仓库) 里，杰克过着孤独的 life (生活)。一天，他认识了一个 name (名字) 叫艾米的女孩，她 face (面部) 清秀，有着纤纤玉 hand (手)。"
+      ]
+     },
+     {
+      "title": "坠入爱河",
+      "text": [
+       "两人 age (年纪) 相仿，迅速坠入爱河。他们决定迈入 marriage (婚姻) 殿堂，在 garden (花园) 举办了婚礼，进入了幸福的 gate (大门)，杰克自此成了 married  (已婚的) 男人。"
+      ]
+     },
+     {
+      "title": "共筑家园",
+      "text": [
+       "他们搬进了一套 apartment (公寓),里面摆放着精致的 furniture  (家具)。大大的 table(餐桌) 上总是摆满美食，柔软的 bed(床) 是他们的避风港。window (窗户) 外是城市的风景，wood (木头) 的 floor (地板) 散发着淡淡香气。他们一起 decorate (装饰) 这个小家，glass (玻璃) 窗上贴着窗花，door (门) 上挂着风铃，ceiling (天花板) 上挂着一盏吊灯。不久后，他们迎来了一个新生命，小婴儿的 sex (性别) 是女孩。真是幸福的 household  (一家人) 啊！"
+      ]
+     },
+     {
+      "title": "分崩离析",
+      "text": [
+       "然而，随着时间推移，两人出现分歧，最终决定 divorce (离婚)，杰克无法接受这个事实，心脏病突发，die (去世) 了，艾米十分后悔，但她只能接受杰克的 death (死亡),并祈祷他去了 heaven (天堂)。"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "list_no": 3,
+   "title": "吃喝玩乐（1）",
+   "words": [
+    {
+     "seq": 1,
+     "spelling": "food",
+     "spelling_raw": "food",
+     "ipa_raw": "/fu:d/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "食物"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "food security 食品安全\n【2021 年英语 (二)】\nFood security is increasingly making headlines.食品安全越来越成为头条新闻。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2021 年英语 (二)】",
+       "year": 2021,
+       "exam": "英语二",
+       "part": null,
+       "en": null,
+       "cn": "Food security is increasingly making headlines.食品安全越来越成为头条新闻。"
+      }
+     ],
+     "list_no": 3,
+     "list_title": "吃喝玩乐（1）",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 2,
+     "spelling": "eat",
+     "spelling_raw": "eat",
+     "ipa_raw": "/i:t/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "吃"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "eat  one’s   words  食 言\n【2022 年英语 (二)】\nMeanwhile, Schwitzgebel will be eating his words.同 时 ,Schwitzgebel 会食言。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语 (二)】",
+       "year": 2022,
+       "exam": "英语二",
+       "part": null,
+       "en": null,
+       "cn": "Meanwhile, Schwitzgebel will be eating his words.同 时 ,Schwitzgebel 会食言。"
+      }
+     ],
+     "list_no": 3,
+     "list_title": "吃喝玩乐（1）",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 3,
+     "spelling": "lunch",
+     "spelling_raw": "lunch",
+     "ipa_raw": "/lant∫/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "午餐"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "吃午饭"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "午餐\n【2020 年英语 (二)】\nUse your lunch and coffee breaks to meet up with colleagues you don't always see.\n利用您的午餐和咖啡休息时间与您并不总是看到的同事见面。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语 (二)】",
+       "year": 2020,
+       "exam": null,
+       "part": null,
+       "en": "Use your lunch and coffee breaks to meet up with colleagues you don't always see.",
+       "cn": "利用您的午餐和咖啡休息时间与您并不总是看到的同事见面。"
+      }
+     ],
+     "list_no": 3,
+     "list_title": "吃喝玩乐（1）",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 4,
+     "spelling": "dinner",
+     "spelling_raw": "dinner",
+     "ipa_raw": "/'dmər/",
+     "mnemonic": "宴 会 (dinner) 提供晚餐 ( dinner )。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "晚餐；宴会"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "宴会\nThe club's annual dinner will be held on 3 June.\n俱乐部一年一度的宴会将于 6 月 3 日举行。"
+      }
+     ],
+     "examples": [],
+     "list_no": 3,
+     "list_title": "吃喝玩乐（1）",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 5,
+     "spelling": "drink",
+     "spelling_raw": "drink",
+     "ipa_raw": "/drmk/",
+     "mnemonic": "请 你 喝 ( drink ) 饮 料 ( drink ) 而 不 是 饮酒 ( drink )。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "喝；饮酒"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "饮料"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "注意对于该词“饮酒”的考查\n【2013 年英语 (二)】\nHis career burned out and his drinking became serious.他的事业一败涂地，酗酒问题也越发严重。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2013 年英语 (二)】",
+       "year": 2013,
+       "exam": "英语二",
+       "part": null,
+       "en": null,
+       "cn": "His career burned out and his drinking became serious.他的事业一败涂地，酗酒问题也越发严重。"
+      }
+     ],
+     "list_no": 3,
+     "list_title": "吃喝玩乐（1）",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 6,
+     "spelling": "meal",
+     "spelling_raw": "meal",
+     "ipa_raw": "/mi:l/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "餐，一餐所吃的食物"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "进餐"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "一餐所吃的食物 (美食)\n【2014 年英语 (二)】\nIt it far better to spend money on experiences like interesting trips, unique meals or even going to the cinema.把钱花在诸如有趣的旅行、独特的美食甚至看电影等体验上，要好得多。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2014 年英语 (二)】",
+       "year": 2014,
+       "exam": "英语二",
+       "part": null,
+       "en": null,
+       "cn": "It it far better to spend money on experiences like interesting trips, unique meals or even going to the cinema.把钱花在诸如有趣的旅行、独特的美食甚至看电影等体验上，要好得多。"
+      }
+     ],
+     "list_no": 3,
+     "list_title": "吃喝玩乐（1）",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 7,
+     "spelling": "gum",
+     "spelling_raw": "gum",
+     "ipa_raw": "/g^m/",
+     "mnemonic": "口 香 糖 (gum ) 的树脂 ( gum ) 用胶粘 ( gum ) 着 牙 龈 (gum )。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "口香糖；树脂；牙龈"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "用胶粘"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "口香糖，而且通常以短语搭配形式出现:chew gum 嚼口香糖\n【2018 年英语 (二)】\nNothing is necessarily gained by forcing students to learn geometry at a graffitied desk stuck with generations of discarded chewing gum.\n强迫学生在一张布满涂鸦、粘着几代人丢弃的口香糖的课桌前学习几何，未必能有任何收获。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2018 年英语 (二)】",
+       "year": 2018,
+       "exam": null,
+       "part": null,
+       "en": "Nothing is necessarily gained by forcing students to learn geometry at a graffitied desk stuck with generations of discarded chewing gum.",
+       "cn": "强迫学生在一张布满涂鸦、粘着几代人丢弃的口香糖的课桌前学习几何，未必能有任何收获。"
+      }
+     ],
+     "list_no": 3,
+     "list_title": "吃喝玩乐（1）",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 8,
+     "spelling": "snack",
+     "spelling_raw": "snack",
+     "ipa_raw": "/snæk/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "小吃，快餐，点心"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "吃小吃"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "小吃\n【2010 年英语 (一)】\nSuch food service operators range from snack machines to large institutional catering ventures.\n这类餐饮服务经营者的业务涵盖了从小吃机到大型机构餐饮服务等多种类型。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2010 年英语 (一)】",
+       "year": 2010,
+       "exam": "英语一",
+       "part": null,
+       "en": "Such food service operators range from snack machines to large institutional catering ventures.",
+       "cn": "这类餐饮服务经营者的业务涵盖了从小吃机到大型机构餐饮服务等多种类型。"
+      }
+     ],
+     "list_no": 3,
+     "list_title": "吃喝玩乐（1）",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 9,
+     "spelling": "salt",
+     "spelling_raw": "salt",
+     "ipa_raw": "/so:lt/",
+     "mnemonic": "加 盐 ( salt ) 腌 制 (salt ) 的 菜 很 咸 (salt)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "盐"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "咸的"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "腌制"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "盐\n【2011 年英语 (二)】\nSenior medical figures want to restrict advertising of products high in fact, salt or sugar.\n资深医学人士希望限制高脂肪、高盐或高糖产品的广告宣传。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2011 年英语 (二)】",
+       "year": 2011,
+       "exam": null,
+       "part": null,
+       "en": "Senior medical figures want to restrict advertising of products high in fact, salt or sugar.",
+       "cn": "资深医学人士希望限制高脂肪、高盐或高糖产品的广告宣传。"
+      }
+     ],
+     "list_no": 3,
+     "list_title": "吃喝玩乐（1）",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 10,
+     "spelling": "bottle",
+     "spelling_raw": "bottle",
+     "ipa_raw": "/'ba:tl/",
+     "mnemonic": "用 奶 瓶 ( bottle ) 装 瓶 ( bottle ),那一瓶的量 (bottle),藏着初尝世界的勇气 (bottle )。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "瓶子，一瓶的量；勇气；奶瓶"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "装瓶"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "瓶子\n【2016 年英语 (二)】\nWe feel a pressure to fill these different-sized bottles.我们感到有压力去装满这些大小不同的瓶子。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2016 年英语 (二)】",
+       "year": 2016,
+       "exam": "英语二",
+       "part": null,
+       "en": null,
+       "cn": "We feel a pressure to fill these different-sized bottles.我们感到有压力去装满这些大小不同的瓶子。"
+      }
+     ],
+     "list_no": 3,
+     "list_title": "吃喝玩乐（1）",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 11,
+     "spelling": "soup",
+     "spelling_raw": "soup",
+     "ipa_raw": "/su:p/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "汤"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": null,
+       "body": "意考释义：汤\n【2013 年英语 (二)】\nIf you have surplus vegetables, you' ll do a vegetable soup.\n如果你有多余的蔬菜，就可以做个蔬菜汤。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "alphabet soup 字母汤：指杂乱无章的缩写词汇，特别是指组织名称的缩写词汇。\n【2020 年英语 (一)】\nan alpha bet soup of new international tax provisions 一系列新的国际税收规定 (引申为“杂乱无序的一系列”)"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2013 年英语 (二)】",
+       "year": 2013,
+       "exam": "英语二",
+       "part": null,
+       "en": "If you have surplus vegetables, you' ll do a vegetable soup.",
+       "cn": "如果你有多余的蔬菜，就可以做个蔬菜汤。"
+      },
+      {
+       "source_raw": "【2020 年英语 (一)】",
+       "year": 2020,
+       "exam": "英语一",
+       "part": null,
+       "en": null,
+       "cn": "an alpha bet soup of new international tax provisions 一系列新的国际税收规定 (引申为“杂乱无序的一系列”)"
+      }
+     ],
+     "list_no": 3,
+     "list_title": "吃喝玩乐（1）",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 12,
+     "spelling": "vegetable",
+     "spelling_raw": "vegetable",
+     "ipa_raw": "/'vedztəbl/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "蔬菜"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "蔬菜\n【2020 年英语 (一)】\nDoubtless a piece of boiled beef can always be served up on Sunday alongside some steamed vegetables.\n星期日餐桌上总少不了一块煮牛肉，再配上一些清蒸蔬菜。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语 (一)】",
+       "year": 2020,
+       "exam": null,
+       "part": null,
+       "en": "Doubtless a piece of boiled beef can always be served up on Sunday alongside some steamed vegetables.",
+       "cn": "星期日餐桌上总少不了一块煮牛肉，再配上一些清蒸蔬菜。"
+      }
+     ],
+     "list_no": 3,
+     "list_title": "吃喝玩乐（1）",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 13,
+     "spelling": "beef",
+     "spelling_raw": "beef",
+     "ipa_raw": "/bi:f/",
+     "mnemonic": "他 抱 怨 ( beef ) 牛 肉 ( beef ) 不好吃。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "牛肉"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "抱怨"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "beef up 增 强\n【2018 年英语 (一)】\nYet as district has risen toward all media, people may be starting to beef up their media literacy skills.\n然而，随着人们对各类媒体的不信任感日益加剧，他们可能开始强化自身的媒体素养技能。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2018 年英语 (一)】",
+       "year": 2018,
+       "exam": "英语一",
+       "part": null,
+       "en": "Yet as district has risen toward all media, people may be starting to beef up their media literacy skills.",
+       "cn": "然而，随着人们对各类媒体的不信任感日益加剧，他们可能开始强化自身的媒体素养技能。"
+      }
+     ],
+     "list_no": 3,
+     "list_title": "吃喝玩乐（1）",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 14,
+     "spelling": "sweet",
+     "spelling_raw": "sweet",
+     "ipa_raw": "/swi:t/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "甜的，甜美的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "甜点"
+      }
+     ],
+     "notes": [],
+     "examples": [],
+     "list_no": 3,
+     "list_title": "吃喝玩乐（1）",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 15,
+     "spelling": "fruit",
+     "spelling_raw": "fruit",
+     "ipa_raw": "/ fru:t/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "水果；成果"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": null,
+       "body": "注意真题中对该词抽象释义“成果”的考查\n【2025 年英语 (一)】\nNow the fruits of those summers have been published in a beautiful new book.\n如今，那些夏日的成果已收录在一本精美的新书中。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "fruit fly 果 蝇\n【2009 年完形】\nFruit flies who were taught to be smarter than the average fly tend to live shorter lives.\n那些被训练得比普通果蝇更聪明的果蝇，往往寿命更短。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2025 年英语 (一)】",
+       "year": 2025,
+       "exam": "英语一",
+       "part": null,
+       "en": "Now the fruits of those summers have been published in a beautiful new book.",
+       "cn": "如今，那些夏日的成果已收录在一本精美的新书中。"
+      },
+      {
+       "source_raw": "【2009 年完形】",
+       "year": 2009,
+       "exam": null,
+       "part": null,
+       "en": "Fruit flies who were taught to be smarter than the average fly tend to live shorter lives.",
+       "cn": "那些被训练得比普通果蝇更聪明的果蝇，往往寿命更短。"
+      }
+     ],
+     "list_no": 3,
+     "list_title": "吃喝玩乐（1）",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 16,
+     "spelling": "crisp",
+     "spelling_raw": "crisp",
+     "ipa_raw": "/krisp/",
+     "mnemonic": "掌握火候是炸薯片 (crisp) 变 脆 (crisp) 的",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "炸薯片"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "使变脆"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "使变脆\n【2020 年英语 (一)】\nThis means that people should avoid crisping their roast potatoes.\n这意味着人们应该避免把烤土豆烤得太脆。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语 (一)】",
+       "year": 2020,
+       "exam": "英语一",
+       "part": null,
+       "en": "This means that people should avoid crisping their roast potatoes.",
+       "cn": "这意味着人们应该避免把烤土豆烤得太脆。"
+      }
+     ],
+     "list_no": 3,
+     "list_title": "吃喝玩乐（1）",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 17,
+     "spelling": "restaurant",
+     "spelling_raw": "restaurant",
+     "ipa_raw": "/'restra:nt/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "餐馆"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "餐馆\n【2013 年英语 (二)】\nSave your pennies and once every few months treat yourself to a set lunch at a good restaurant.\n省下你的零花钱，每隔几个月就去一家好餐厅享用一顿套餐午餐犒劳自己。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2013 年英语 (二)】",
+       "year": 2013,
+       "exam": "英语二",
+       "part": null,
+       "en": "Save your pennies and once every few months treat yourself to a set lunch at a good restaurant.",
+       "cn": "省下你的零花钱，每隔几个月就去一家好餐厅享用一顿套餐午餐犒劳自己。"
+      }
+     ],
+     "list_no": 3,
+     "list_title": "吃喝玩乐（1）",
+     "theme": "日常生活基础词"
+    }
+   ],
+   "narrative": {
+    "plot": "采购食材→厨房烹饪→餐厅小聚",
+    "sections": [
+     {
+      "title": "采购食材",
+      "text": [
+       "为准备一场丰盛大 meal (餐) 款待朋友，我前往菜市场买 fruit ( 水 果 ) 和 vegetable (蔬菜),也买了 salt (盐),又在 snack ( 零 食 ) 区买了一包 crisp ( 薯 片 ) 和一盒 gum (口香糖),最后在 drink (饮品) 区选了一 bottle(瓶) 果汁，满载而归。"
+      ]
+     },
+     {
+      "title": "厨房烹饪",
+      "text": [
+       "回到家，我开始烹饪 beef (牛肉)。另一边，把蔬菜洗净切块，放入锅中煮成鲜美的蔬菜 soup (汤)。lunch (午餐) 和 dinner (晚餐) 的 food (食物) 都准备得差不多了，看着一桌的成果，满心期待。"
+      ]
+     },
+     {
+      "title": "餐厅小聚",
+      "text": [
+       "第二天，朋友约我去一家精致的 restaurant (餐厅) 作为报答。用餐时，朋友分享了她自制的 sweet (甜点)，我们边 eat (吃) 边聊，度过了愉快的时光。"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "list_no": 4,
+   "title": "吃喝玩乐 (2)",
+   "words": [
+    {
+     "seq": 1,
+     "spelling": "leisure",
+     "spelling_raw": "leisure",
+     "ipa_raw": "/'li:zər/",
+     "mnemonic": "lei ( 累 ) +sure (一定) →你一定很累，需要闲 暇 (leisure ) 时光。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "空闲，闲暇；悠闲，安逸"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "at leisure 从容地;有空\nI am seldom at leisure.\n我很少有空闲。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "at one' s leisure 在······有空的时候\nSome Tibetan antelopes stopped to eat grass at their leisure.一些藏羚羊停下来，悠闲地吃草。"
+      }
+     ],
+     "examples": [],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 2,
+     "spelling": "hobby",
+     "spelling_raw": "hobby",
+     "ipa_raw": "/'ha:bi/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "兴趣爱好"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "兴趣爱好\n【2023 年 英 语 ( 一) 】\nAI can also be used to identify the lifestyle choices of customers regarding their hobbies.\n人工智能还可用于识别客户在爱好方面的生活方式选择。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年 英 语 ( 一) 】",
+       "year": 2023,
+       "exam": null,
+       "part": null,
+       "en": "AI can also be used to identify the lifestyle choices of customers regarding their hobbies.",
+       "cn": "人工智能还可用于识别客户在爱好方面的生活方式选择。"
+      }
+     ],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 3,
+     "spelling": "habit",
+     "spelling_raw": "habit",
+     "ipa_raw": "/'hæbit/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "习惯"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": null,
+       "body": "## 固定搭配:\ndevelop good habits 培养良好习惯\n该搭配在作文中比较常见，如:\n【2020 年英语 (一)】\nWe should try our best to develop good habits to improve ourselves.\n我们应该尽力培养良好的习惯，从而提升自己。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语 (一)】",
+       "year": 2020,
+       "exam": null,
+       "part": null,
+       "en": "We should try our best to develop good habits to improve ourselves.",
+       "cn": "我们应该尽力培养良好的习惯，从而提升自己。"
+      }
+     ],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 4,
+     "spelling": "sport",
+     "spelling_raw": "sport",
+     "ipa_raw": "/spɔ: rt/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "体育运动"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": null,
+       "body": "## 熟词僻义：猎物\n## 【2006 年阅读】\nThe large, slow-growing animals were easy game, and were quickly hunted to extinction.\n那些庞大而生长缓慢的动物容易被追逐，因此很快就被猎获殆尽。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2006 年阅读】",
+       "year": 2006,
+       "exam": null,
+       "part": null,
+       "en": "The large, slow-growing animals were easy game, and were quickly hunted to extinction.",
+       "cn": "那些庞大而生长缓慢的动物容易被追逐，因此很快就被猎获殆尽。"
+      }
+     ],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 5,
+     "spelling": "game",
+     "spelling_raw": "game",
+     "ipa_raw": "/geim/",
+     "mnemonic": "在 打 游 戏 (game ) 比 赛 (game ) 时 , 画 面 里出现了猎物 (game )。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "游戏；比赛；猎物"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "“猎物”\n## 【2006 年阅读】\nThe large, slow-growing animals were easy game, and were quickly hunted to extinction.\n那些庞大而生长缓慢的动物容易被追逐，因此很快就被猎获殆尽。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2006 年阅读】",
+       "year": 2006,
+       "exam": null,
+       "part": null,
+       "en": "The large, slow-growing animals were easy game, and were quickly hunted to extinction.",
+       "cn": "那些庞大而生长缓慢的动物容易被追逐，因此很快就被猎获殆尽。"
+      }
+     ],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 6,
+     "spelling": "play",
+     "spelling_raw": "play",
+     "ipa_raw": "/plei/",
+     "mnemonic": "玩 ( play ) 游戏时他能发挥作用 ( play ),他 演 奏 ( play ) 乐 器 后 还 演 了 ( play ) 出 精 彩 的戏 剧 (play )。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "玩，参加 (体育运动)；演奏；发挥作用"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "玩耍戏剧"
+      }
+     ],
+     "notes": [],
+     "examples": [],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 7,
+     "spelling": "walk",
+     "spelling_raw": "walk",
+     "ipa_raw": "/wo:k/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "v./n.",
+       "meaning_cn": "行走"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "walk around 四处走动\n【2022 年英语 (二)】\nChat on the phone with a friend while you walk around your neighborhood.\n在小区里散步时，和朋友打个电话聊聊天。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语 (二)】",
+       "year": 2022,
+       "exam": "英语二",
+       "part": null,
+       "en": "Chat on the phone with a friend while you walk around your neighborhood.",
+       "cn": "在小区里散步时，和朋友打个电话聊聊天。"
+      }
+     ],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 8,
+     "spelling": "travel",
+     "spelling_raw": "travel",
+     "ipa_raw": "/'trævl/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "旅行；传播"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "旅行，游历"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "旅行\n【2017 年英语 (一)】\nThe government did not anticipate the steep increase in airline travel.\n政府没有预料到航空旅行的急剧增长。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2017 年英语 (一)】",
+       "year": 2017,
+       "exam": "英语一",
+       "part": null,
+       "en": "The government did not anticipate the steep increase in airline travel.",
+       "cn": "政府没有预料到航空旅行的急剧增长。"
+      }
+     ],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 9,
+     "spelling": "chat",
+     "spelling_raw": "chat",
+     "ipa_raw": "/tfæt/",
+     "mnemonic": "微 信 (Wechat ) 是 用 来 聊 天 (chat ) 的。",
+     "senses": [
+      {
+       "pos": "n./v.",
+       "meaning_cn": "聊天，闲谈"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "chat with sb. 和某人聊天\n该短语在考研英语作文中应用比较多，如：给对方提建议\nYou should chat more with your classmates to adapt to the new environment.\n你应该多与同学聊天以适应新环境。"
+      }
+     ],
+     "examples": [],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 10,
+     "spelling": "smoke",
+     "spelling_raw": "smoke",
+     "ipa_raw": "/smouk/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "吸烟"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "烟雾"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "吸烟\n【2012 年英语 (一)】\nDare to be different, please don't smoke!\n敢于与众不同，请勿吸烟！"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2012 年英语 (一)】",
+       "year": 2012,
+       "exam": "英语一",
+       "part": null,
+       "en": "Dare to be different, please don't smoke!",
+       "cn": "敢于与众不同，请勿吸烟！"
+      }
+     ],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 11,
+     "spelling": "tennis",
+     "spelling_raw": "tennis",
+     "ipa_raw": "/'tenis/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "网球"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "网球\n【2022 年英语 (二)】\nYou can do activities such as golf and tennis.\n你可以进行诸如高尔夫和网球之类的活动。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语 (二)】",
+       "year": 2022,
+       "exam": "英语二",
+       "part": null,
+       "en": "You can do activities such as golf and tennis.",
+       "cn": "你可以进行诸如高尔夫和网球之类的活动。"
+      }
+     ],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 12,
+     "spelling": "tour",
+     "spelling_raw": "tour",
+     "ipa_raw": "/tor/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "v./n.",
+       "meaning_cn": "旅游，观光"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "旅游\n【2014 年英语 (二)】\nA special tour is the most rewarding purchase.\n一次特别的旅行是最有价值的消费。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2014 年英语 (二)】",
+       "year": 2014,
+       "exam": "英语二",
+       "part": null,
+       "en": "A special tour is the most rewarding purchase.",
+       "cn": "一次特别的旅行是最有价值的消费。"
+      }
+     ],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 13,
+     "spelling": "park",
+     "spelling_raw": "park",
+     "ipa_raw": "/pa:rk/",
+     "mnemonic": "在 公 园 (park) 里 找 停 车 (park) 的地方。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "公园"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "停车"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "注意真题中对该单词“停车”释义的考查\n【2022 年英语 (二)】\nSome rest in the shade of a parked car.\n一些人在一辆停放汽车的阴凉处休息。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语 (二)】",
+       "year": 2022,
+       "exam": "英语二",
+       "part": null,
+       "en": "Some rest in the shade of a parked car.",
+       "cn": "一些人在一辆停放汽车的阴凉处休息。"
+      }
+     ],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 14,
+     "spelling": "housework",
+     "spelling_raw": "housework",
+     "ipa_raw": "/'hausw3:rk/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "家务劳动"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "do housework 做家务\n【2017 年英语 (二)】\nIt gives parents time to have a shower, do housework or simply have a break.\n这让父母有时间洗澡、做家务，或者只是休息一下。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2017 年英语 (二)】",
+       "year": 2017,
+       "exam": "英语二",
+       "part": null,
+       "en": "It gives parents time to have a shower, do housework or simply have a break.",
+       "cn": "这让父母有时间洗澡、做家务，或者只是休息一下。"
+      }
+     ],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 15,
+     "spelling": "camp",
+     "spelling_raw": "camp",
+     "ipa_raw": "/kæmp/",
+     "mnemonic": "在 营 地 (camp) 野营 (camp)。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "野营"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "营地"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "in the same camp 立场相同\n【2022 年英语 (一)】\nI could probably be in the same camp as Emma Marris on the issue of zoos.\n在动物园这个问题上，我或许和艾玛•马里斯持相同立场。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语 (一)】",
+       "year": 2022,
+       "exam": "英语一",
+       "part": null,
+       "en": "I could probably be in the same camp as Emma Marris on the issue of zoos.",
+       "cn": "在动物园这个问题上，我或许和艾玛•马里斯持相同立场。"
+      }
+     ],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 16,
+     "spelling": "journey",
+     "spelling_raw": "journey",
+     "ipa_raw": "/'dz3:rni/",
+     "mnemonic": "journey 谐 音“蜇 你”, 在 journey( 旅 程 ) 中可能遇见蜜蜂来蜇你。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "旅行"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "旅行，行程"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "旅程\n【2015 年英语 (二)】\nWe would see much less frequent use of terms like journey, mission, passion.\n我们会发现“旅程”“使命”“热情”这类词汇的使用频率会低得多。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2015 年英语 (二)】",
+       "year": 2015,
+       "exam": "英语二",
+       "part": null,
+       "en": "We would see much less frequent use of terms like journey, mission, passion.",
+       "cn": "我们会发现“旅程”“使命”“热情”这类词汇的使用频率会低得多。"
+      }
+     ],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 17,
+     "spelling": "memory",
+     "spelling_raw": "memory",
+     "ipa_raw": "/'meməri/",
+     "mnemonic": "me( 联 想“我”) +mo( 读 默 , 默 写 ) +ry(联想“容易”)，我默写很容易是因为 memory(记忆) 都牢牢装在脑子里。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "记忆，回忆"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "memorize v.记忆\n【2023 年英语 (一)】\nI personally have never seen all that much intellectual value in memorizing things.\n我个人从未觉得记忆东西有那么多的智力价值。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语 (一)】",
+       "year": 2023,
+       "exam": "英语一",
+       "part": null,
+       "en": "I personally have never seen all that much intellectual value in memorizing things.",
+       "cn": "我个人从未觉得记忆东西有那么多的智力价值。"
+      }
+     ],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 18,
+     "spelling": "pyramid",
+     "spelling_raw": "pyramid",
+     "ipa_raw": "/'pirəmıd/",
+     "mnemonic": "谐音“骗人们的”→不懂的人去了金字塔 (pyramid ),感觉是骗人们的。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "金字塔"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "金字塔\n【2012 年英语 (一)】\nOne reason for the persistence of this pyramid of production is that much of the world's media culture has been defined by a single medium.\n这种创作金字塔得以持续存在的一个原因是，世界上大部分的媒体文化都由一种单一媒介所定义。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2012 年英语 (一)】",
+       "year": 2012,
+       "exam": "英语一",
+       "part": null,
+       "en": "One reason for the persistence of this pyramid of production is that much of the world's media culture has been defined by a single medium.",
+       "cn": "这种创作金字塔得以持续存在的一个原因是，世界上大部分的媒体文化都由一种单一媒介所定义。"
+      }
+     ],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 19,
+     "spelling": "laughter",
+     "spelling_raw": "laughter",
+     "ipa_raw": "/'læftər/",
+     "mnemonic": "谐 音“拉 夫 特”→ 拉 夫 特 发 出 笑 声 (laughter )。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "笑，笑声"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "burst into laughter 突然大笑\n在考研英语大作文中描述动作时可用到该短语，如:\nHe bursts into laughter and says:“You win the game!”\n他突然大笑着说道:“你赢了比赛！”\nfavour/favor /'fervər/"
+      }
+     ],
+     "examples": [],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 20,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "谐音“非我”→我更喜欢 (favor ) 的东西，非我莫属。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "更喜欢"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "帮助；赞同；恩惠"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "in favor of 支持\n【2017 年英语 (二)】\nThe most suitable title for this text would be In Favor of the Gap Year.\n这篇文章最合适的标题为“支持间隔年”。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "favourite adj.喜爱的 n.特别喜爱的人 (或物)"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2017 年英语 (二)】",
+       "year": 2017,
+       "exam": "英语二",
+       "part": null,
+       "en": "The most suitable title for this text would be In Favor of the Gap Year.",
+       "cn": "这篇文章最合适的标题为“支持间隔年”。"
+      }
+     ],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 21,
+     "spelling": "indulge",
+     "spelling_raw": "indulge",
+     "ipa_raw": "/m'daldz/",
+     "mnemonic": "谐音“因到级”→因为沉溺 (indulge ) 于 游戏账号没几天就到级了。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "沉溺；纵容"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "indul ge in 沉溺于……\n【2016 年英语 (二)】\nIf we could indul ge in a bit of silliness, we would reduce the stress hormones.\n如果我们能稍微放纵一下，做点傻事，就能减少压力荷尔蒙。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2016 年英语 (二)】",
+       "year": 2016,
+       "exam": "英语二",
+       "part": null,
+       "en": "If we could indul ge in a bit of silliness, we would reduce the stress hormones.",
+       "cn": "如果我们能稍微放纵一下，做点傻事，就能减少压力荷尔蒙。"
+      }
+     ],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 22,
+     "spelling": "reception",
+     "spelling_raw": "reception",
+     "ipa_raw": "/ri'sep∫n/",
+     "mnemonic": "re- ( 回 ) +cept -( 拿 ) +-ion ( 名 词 后 缀 ) →往回拿→接收、接待。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "接待，接收"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "接待，接收\n【2012 年英语 (一)】\nThe first media machine serves as the mode of production, site of reception and place of praise.\n第一台媒体机器兼具生产模式、接收场所和赞誉之地的功能。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2012 年英语 (一)】",
+       "year": 2012,
+       "exam": "英语一",
+       "part": null,
+       "en": "The first media machine serves as the mode of production, site of reception and place of praise.",
+       "cn": "第一台媒体机器兼具生产模式、接收场所和赞誉之地的功能。"
+      }
+     ],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 23,
+     "spelling": "hotel",
+     "spelling_raw": "hotel",
+     "ipa_raw": "/hou'tel/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "旅馆，酒店"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "酒店\n【2020 年英语 (一)】\nThe really successful holders do a great deal more than fill hotel bedrooms.\n真正成功的主办方所做的远不止填满酒店客房。\navailable /ә'veIl <sub>ә</sub>bl/"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语 (一)】",
+       "year": 2020,
+       "exam": "英语一",
+       "part": null,
+       "en": "The really successful holders do a great deal more than fill hotel bedrooms. available /ә'veIl <sub>ә</sub>bl/",
+       "cn": "真正成功的主办方所做的远不止填满酒店客房。"
+      }
+     ],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 24,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "谐音“俺为了宝”→俺为了宝贝，驱车 300 公里买到了东西→可获得的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "可获得的，可利用的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "bc available to 可被······利用\n【2017 年英语 (一)】\nLocal officials are using the levers that are available to them to safeguard residents' health .\n地方官员正利用手中现有的手段来保护居民的健康。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2017 年英语 (一)】",
+       "year": 2017,
+       "exam": "英语一",
+       "part": null,
+       "en": "Local officials are using the levers that are available to them to safeguard residents' health .",
+       "cn": "地方官员正利用手中现有的手段来保护居民的健康。"
+      }
+     ],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 25,
+     "spelling": "dive",
+     "spelling_raw": "dive",
+     "ipa_raw": "/darv/",
+     "mnemonic": "鱼很会 dive ( 潜 水 ), 所 以 可 以 在 deep ( 深 ) 海里面 live (居住)。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "潜水"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "潜水\nIf you dive into some water, you jump in head first.\n如果你跳水，就要头先入水跳进去。"
+      }
+     ],
+     "examples": [],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 26,
+     "spelling": "live",
+     "spelling_raw": "live",
+     "ipa_raw": "/larv/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "生存，活着；生活在"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "活的，有生命的；场直播的"
+      },
+      {
+       "pos": "adv.",
+       "meaning_cn": "现场直播地"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "live 作动词的固定搭配:\nlive by sth. 按 照 ( 某 信 念 或 原 则 ) 生活 live by doing sth. 靠做某事赚钱为生 (或获取所需) live up to sth.达到，符合，不辜负 (他人的期望) live through sth. 经历 (灾难或其他困境) 而幸存 live with sth.忍 受 , 容 忍 ( 不 快 的 事 )"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "live 作形容词或副词，指直播\nRecordings are no substitute for live performance.录制的音像不是现场演出的替代品。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "livelihood n.生计\nliveliness n.活 泼"
+      }
+     ],
+     "examples": [],
+     "list_no": 4,
+     "list_title": "吃喝玩乐 (2)",
+     "theme": "日常生活基础词"
+    }
+   ],
+   "narrative": {
+    "plot": "闲趣启程→趣乐纷呈→美好回忆",
+    "sections": [
+     {
+      "title": "闲趣启程",
+      "text": [
+       "在难得的 leisure (闲暇时光),他决定开启一场 travel / tour (旅行)。此次 journey (旅程),他计划去探索 pyramid (金字塔)。出发前，他将平日里做 housework (家务 ) 的 habit (习惯) 暂时抛在脑后。到达目的地后，他入住了一家舒适的 hotel (酒店),前台的 reception (接待) 十分热情。稍作休息后，他 walk (漫步) 在附近的 park (公园)，享受着宁静的氛围。"
+      ]
+     },
+     {
+      "title": "趣乐纷呈",
+      "text": [
+       "旅行途中，他尽情地 indulge (投入) 各种活动中。他喜欢上了 tennis ( 网 球 ) 这项 sport (运动)，在酒店的网球场挥洒汗水；也会在闲暇时 play ( 玩 ) 一 些 game(游戏)，放松身心。他还结识了一些新朋友，大家一起 chat (聊天)，欢声 laughter (笑) 语不断。他偶尔会 smoke (抽烟)，这也成了旅途中的一个小习惯。他还尝试了 dive (潜水),这成了他新的 hobby (爱好)。"
+      ]
+     },
+     {
+      "title": "美好回忆",
+      "text": [
+       "这次旅行，他得到了很多人的帮助，心中满是感激，也想日后回报这些 favour (恩惠)。在 camp (露营) 的夜晚，珍贵的 memory (记忆) 在脑海不断浮现。他庆幸在 available (可利用的) 时间里，体验到了如此多的乐趣，感觉到自己如此充实地 live (活着)。"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "list_no": null,
+   "title": null,
+   "words": [
+    {
+     "seq": 1,
+     "spelling": "supermarket",
+     "spelling_raw": "supermarket",
+     "ipa_raw": "/'su:pərma:rkıt/",
+     "mnemonic": "super ( 超 级 ) + market ( 市 场 ) →超市。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "超市"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "超市\n【2016 年英语 (二)】\nThe supermarket is designed to lure customers into spending as much time as possible.\n超市旨在吸引客户花费尽可能多的时间。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2016 年英语 (二)】",
+       "year": 2016,
+       "exam": "英语二",
+       "part": null,
+       "en": "The supermarket is designed to lure customers into spending as much time as possible.",
+       "cn": "超市旨在吸引客户花费尽可能多的时间。"
+      }
+     ],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 2,
+     "spelling": "store",
+     "spelling_raw": "store",
+     "ipa_raw": "/sto:r/",
+     "mnemonic": "商 店 (store ) 里 储 存 (store ) 不少货物。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "商店"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "储存"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "注意真题中对该词动词词性“储存”的考查\n【2023 年英语 (二)】\nA group was asked to remember their information and the folder it was stored in.\n要求一个小组记住他们的信息和存储的文件夹。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语 (二)】",
+       "year": 2023,
+       "exam": null,
+       "part": null,
+       "en": "A group was asked to remember their information and the folder it was stored in.",
+       "cn": "要求一个小组记住他们的信息和存储的文件夹。"
+      }
+     ],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 3,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "去 商 店 (shop) 购物 (shop)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "商店"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "购物"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "注意真题中对该词动词词性“购物”的考查\n【2019 年英语 (二)】\nWe must shop sustainably.\n我们必须可持续性地购物。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2019 年英语 (二)】",
+       "year": 2019,
+       "exam": "英语二",
+       "part": null,
+       "en": "We must shop sustainably.",
+       "cn": "我们必须可持续性地购物。"
+      }
+     ],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 4,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "谐音“破车子”→车子破了需要再购买 (purchase) 一辆新的。",
+     "senses": [
+      {
+       "pos": "v./n.",
+       "meaning_cn": "购买"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "所购之物"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "购买\n【2019 年英语 (二)】\nHome purchases should not be based only on children's opinions.\n购房不应仅基于儿童意见。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2019 年英语 (二)】",
+       "year": 2019,
+       "exam": "英语二",
+       "part": null,
+       "en": "Home purchases should not be based only on children's opinions.",
+       "cn": "购房不应仅基于儿童意见。"
+      }
+     ],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 5,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "买 (buy) 这样东西就是相信 (buy) 它的质量。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "买；相信"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": null,
+       "body": "注意真题中对该词熟词僻义“相信”的考查\n【2016 年英语 (二)】\nNot everyone buys the win-win rhetoric.\n并非每个人都相信双赢的言论。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "buyin 买入，指购买股票、商品或其他资产参与某项交易或投资。\nInvestors are advised to buy in before the stock price rises.\n投资者建议在股票价格上涨前买入。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2016 年英语 (二)】",
+       "year": 2016,
+       "exam": "英语二",
+       "part": null,
+       "en": "Not everyone buys the win-win rhetoric.",
+       "cn": "并非每个人都相信双赢的言论。"
+      }
+     ],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 6,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "自 由 的 (free) 风里，免费的 ( free) 阳光下，似要释放 (free) 所有暖意。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "免费的；自由的"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "释放"
+      }
+     ],
+     "notes": [],
+     "examples": [],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 7,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "卡，卡片"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "该词在不同的语境中表示各种不同的“卡”\n【2012 年英语 (二)】\nreport cards 成绩单\n【2011 年英语 (二)】\nidentity card 身份证"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2012 年英语 (二)】",
+       "year": 2012,
+       "exam": "英语二",
+       "part": null,
+       "en": null,
+       "cn": "report cards 成绩单"
+      },
+      {
+       "source_raw": "【2011 年英语 (二)】",
+       "year": 2011,
+       "exam": "英语二",
+       "part": null,
+       "en": null,
+       "cn": "identity card 身份证"
+      }
+     ],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 8,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "衣服"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "衣服\n【2017 年英语 (二)】\nHe defends his own made-in-Mexico clothing line.他为自己的墨西哥制造服装系列进行辩护。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2017 年英语 (二)】",
+       "year": 2017,
+       "exam": "英语二",
+       "part": null,
+       "en": null,
+       "cn": "He defends his own made-in-Mexico clothing line.他为自己的墨西哥制造服装系列进行辩护。"
+      }
+     ],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 9,
+     "spelling": "clothes",
+     "spelling_raw": "clothes",
+     "ipa_raw": "/klouðz/",
+     "mnemonic": "凭借对这款包 (bag) 的设计，她获奖 (bag) 了。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "衣服，服装"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": null,
+       "body": "真题常考释义：衣服\n【2016 年英语 (一)】\nBuy all your clothes at once with a stylist.和造型师一起一次性购齐你所有的衣服。\nbag /bæg/ n. 包，袋；v. 获奖\n妙记：凭借对这款包 (bag) 的设计，她获奖 (bag) 了。\nWoman in white dress presenting a trophy on stage with handbags and a lantern, against a dark stage backdrop (no visible text or symbols)\n## 考点点拨\n注意真题对于该词动词词性“获奖”的考查\na sought-after award bagged by Glasgow in 1990\n1990 年格拉斯哥斩获的一项备受追捧的奖项"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2016 年英语 (一)】",
+       "year": 2016,
+       "exam": "英语一",
+       "part": null,
+       "en": "Woman in white dress presenting a trophy on stage with handbags and a lantern, against a dark stage backdrop (no visible text or symbols) a sought-after award bagged by Glasgow in 1990",
+       "cn": "Buy all your clothes at once with a stylist.和造型师一起一次性购齐你所有的衣服。bag /bæg/ n. 包，袋；v. 获奖妙记：凭借对这款包 (bag) 的设计，她获奖 (bag) 了。## 考点点拨注意真题对于该词动词词性“获奖”的考查 1990 年格拉斯哥斩获的一项备受追捧的奖项"
+      }
+     ],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 10,
+     "spelling": "shoe",
+     "spelling_raw": "shoe",
+     "ipa_raw": "/fu:/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "鞋"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "put yourself in others’shoes 设 身 处 地 为 他 人 着 想"
+      }
+     ],
+     "examples": [],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 11,
+     "spelling": "garment",
+     "spelling_raw": "garment",
+     "ipa_raw": "/'ga:rmənt/",
+     "mnemonic": "谐音“家门它”→回家进门后，先把它——衣服 (garment) 放下。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "衣服"
+      }
+     ],
+     "notes": [],
+     "examples": [],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 12,
+     "spelling": "wallet",
+     "spelling_raw": "wallet",
+     "ipa_raw": "/'wa:lrt/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "钱包"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "钱包\n【2015 年英语 (一)】\nThey go through the wallet or pocketbook of an arrestee without a warrant.\n他们在没有搜查令的情况下，检查被捕者的钱包或手袋。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2015 年英语 (一)】",
+       "year": 2015,
+       "exam": "英语一",
+       "part": null,
+       "en": "They go through the wallet or pocketbook of an arrestee without a warrant.",
+       "cn": "他们在没有搜查令的情况下，检查被捕者的钱包或手袋。"
+      }
+     ],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 13,
+     "spelling": "umbrella",
+     "spelling_raw": "umbrella",
+     "ipa_raw": "/Am'brelə/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "伞"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "伞\nUmbrellas are only used for protection from the weather, and not for any activities.\n雨伞仅用于抵御天气 (影响)，而非任何活动。"
+      }
+     ],
+     "examples": [],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 14,
+     "spelling": "toy",
+     "spelling_raw": "toy",
+     "ipa_raw": "/t01/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "玩具"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "玩具\n【2020 年英语 (二)】\nThe social robot played with the same toys.社交机器人玩的是同样的玩具。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语 (二)】",
+       "year": 2020,
+       "exam": "英语二",
+       "part": null,
+       "en": null,
+       "cn": "The social robot played with the same toys.社交机器人玩的是同样的玩具。"
+      }
+     ],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 15,
+     "spelling": "tool",
+     "spelling_raw": "tool",
+     "ipa_raw": "/tu:l/",
+     "mnemonic": "使用工具 (tool) 是解决问题的方法 (tool) 之一。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "工具；方法"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": null,
+       "body": "注意真题中对该词释义“方法”的考查\n【2019 年英语 (一)】\nThese tools can help you win every argument.这些方法能帮你赢得每一场争论。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2019 年英语 (一)】",
+       "year": 2019,
+       "exam": "英语一",
+       "part": null,
+       "en": null,
+       "cn": "These tools can help you win every argument.这些方法能帮你赢得每一场争论。"
+      }
+     ],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 16,
+     "spelling": "goods",
+     "spelling_raw": "goods",
+     "ipa_raw": "/gudz/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "商品"
+      }
+     ],
+     "notes": [],
+     "examples": [],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 17,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "每个楼层 (storey) 都发生过美好的故事 (story)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "楼层；故事"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "楼层\nIt climbed 25 storeys at one go.\n它一口气爬了 25 层楼。"
+      }
+     ],
+     "examples": [],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 18,
+     "spelling": "pen",
+     "spelling_raw": "pen",
+     "ipa_raw": "/pen/",
+     "mnemonic": "钢 笔 (pen ) 是 用 来 写 (pen ) 字的。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "钢笔"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "写"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "注意真题中对该词动词词性“写”的考查\n【2022 年英语 (一)】\nThe latest crop of students pen their undergraduate application.\n最新一届的学生们正在写他们的本科申请表。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语 (一)】",
+       "year": 2022,
+       "exam": "英语一",
+       "part": null,
+       "en": "The latest crop of students pen their undergraduate application.",
+       "cn": "最新一届的学生们正在写他们的本科申请表。"
+      }
+     ],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 19,
+     "spelling": "clock",
+     "spelling_raw": "clock",
+     "ipa_raw": "/kla:k/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "时钟"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "around the clock 连续一整天\n【2018 年英语 (二)】\nto keep power flowing around the clock\n确保电力全天候持续供应\ncigaret/cigarette /'sigəret/"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2018 年英语 (二)】",
+       "year": 2018,
+       "exam": "英语二",
+       "part": null,
+       "en": "to keep power flowing around the clock cigaret/cigarette /'sigəret/",
+       "cn": "确保电力全天候持续供应"
+      }
+     ],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 20,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "谐音“塞个给他”→塞个香烟 (cigarette) 给他",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "香烟"
+      }
+     ],
+     "notes": [],
+     "examples": [],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 21,
+     "spelling": "gun",
+     "spelling_raw": "gun",
+     "ipa_raw": "/g^n/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "枪"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "枪\nThey use new types of guns.\n他们使用新型的枪。"
+      }
+     ],
+     "examples": [],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 22,
+     "spelling": "musk",
+     "spelling_raw": "musk",
+     "ipa_raw": "/m^sk/",
+     "mnemonic": "谐音“马斯克”，马斯克衣服上有麝香 (musk ) 的味道。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "麝香"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "麝香\nMus k is used for perfumes and stimulant.\n麝香被用作香料和兴奋剂。"
+      }
+     ],
+     "examples": [],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 23,
+     "spelling": "label",
+     "spelling_raw": "label",
+     "ipa_raw": "/'lerbl/",
+     "mnemonic": "谐音“累爆”→贴这么多标签 ( label).定累爆了。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "标签"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "贴标签"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "标签\n【2013 年英语 (一)】\nThese labels encourage style-conscious consumers to see clothes as disposable.\n这些品牌促使注重时尚的消费者将衣服视为一次性用品。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2013 年英语 (一)】",
+       "year": 2013,
+       "exam": "英语一",
+       "part": null,
+       "en": "These labels encourage style-conscious consumers to see clothes as disposable.",
+       "cn": "这些品牌促使注重时尚的消费者将衣服视为一次性用品。"
+      }
+     ],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 24,
+     "spelling": "belt",
+     "spelling_raw": "belt",
+     "ipa_raw": "/ belt/",
+     "mnemonic": "在 生 产 地 带 (belt ) 里 , 他 系 着 皮 带 ( belt ),盯着传送带 ( belt )。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "皮带；地带；传送带"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "地带\n【2016 年英语 (一)】\nHill's pressure later led to the creation of national park and green belts.\n希尔施加的压力后来促成了国家公园和绿化带的建立。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2016 年英语 (一)】",
+       "year": 2016,
+       "exam": null,
+       "part": null,
+       "en": "Hill's pressure later led to the creation of national park and green belts.",
+       "cn": "希尔施加的压力后来促成了国家公园和绿化带的建立。"
+      }
+     ],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 25,
+     "spelling": "suit",
+     "spelling_raw": "suit",
+     "ipa_raw": "/su:t/",
+     "mnemonic": "这 套 西 服 ( suit ) 套 装 (suit ) 适 合 (suit ) 诉讼 案 件 (suit ) 场 合 , 让 他 很 满 足 (suit )。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "西服，套装，诉讼案件"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "满足，适合"
+      }
+     ],
+     "notes": [],
+     "examples": [],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 26,
+     "spelling": "suitable",
+     "spelling_raw": "suitable",
+     "ipa_raw": "/' su:tәbl/",
+     "mnemonic": "suit (适合) +- able (形容词后缀)→合适的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "合适的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "该词经常出现在阅读主旨大意题题干中\n【2020 年英语 (二)】\nThe most suitable title for this text would be 该文章最合适的标题是。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "be suitable for 适 合 于⋯⋯ 的\nlottery /'l<sub>ɑːtә</sub>ri/"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语 (二)】",
+       "year": 2020,
+       "exam": "英语二",
+       "part": null,
+       "en": null,
+       "cn": "The most suitable title for this text would be 该文章最合适的标题是。"
+      }
+     ],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 27,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "lotte (谐音“乐透”) +- ry ( 名 词 后 缀 )→ 中了 彩 票 (lottery ),开心坏了。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "彩 票"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "彩票\n【2014 年英语 (二)】\nAn 84-year-old widow collected the biggest undivided lottery jackpo t in history.\n一 位 84 岁的寡妇赢得了历史上金额最大的未分割彩票头奖。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2014 年英语 (二)】",
+       "year": 2014,
+       "exam": "英语二",
+       "part": null,
+       "en": "An 84-year-old widow collected the biggest undivided lottery jackpo t in history.",
+       "cn": "一 位 84 岁的寡妇赢得了历史上金额最大的未分割彩票头奖。"
+      }
+     ],
+     "list_no": null,
+     "list_title": null,
+     "theme": "日常生活基础词"
+    }
+   ],
+   "narrative": {
+    "plot": "超市选购→商店奇遇→物品整理",
+    "sections": [
+     {
+      "title": "超市选购",
+      "text": [
+       "李明持购物 card ( 卡 ) 到 supermarket ( 超 市 ) 采 购 ,buy/ purchase ( 买 ) 了 clothing / garment(衣服)、shoes (鞋)、bag (包)、toy (玩具)、tool ( 工 具 ) 等 goods (商品),还有 pen ( 钢 笔 ) 和 clock (时钟)。结账时因满额获 free ( 免 费 ) 抽 奖 , 中 了 一 把 umbrella(雨伞)。离开前，差点忘了 wallet (钱包)。"
+      ]
+     },
+     {
+      "title": "商店奇遇",
+      "text": [
+       "在男装 store/ shop ( 店 ) 所 在 的 stor ( e ) y ( 楼 层 ), 李 明 为 父 亲 选 suit ( 套 装 ), 一款带 musk (麝香) label ( 标 签 ) 的西装很 suitable (合适)。此时隔壁商店传来骚动，一男子持 gun (枪) 抢劫，李明拽住其松动的 belt (皮带) 将其绊倒，店员报警后，男子被擒。"
+      ]
+     },
+     {
+      "title": "物品整理",
+      "text": [
+       "回家整理物品时，李明从 clothes ( 衣 服 ) 口袋摸出一盒 cigaret (te )( 香 烟 ), 还 有一张 lottery (彩票)，想必是商店混乱时误拿的。"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "list_no": 6,
+   "title": "交通与通信",
+   "words": [
+    {
+     "seq": 1,
+     "spelling": "post",
+     "spelling_raw": "post",
+     "ipa_raw": "/poust/",
+     "mnemonic": "他 往 柱 子 (post) 上 贴 职 位 (post) 信 息 , 又邮 寄 (post) 邮 件 (post),还在网上发布 (post) 了。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "邮件；职位；柱子"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "邮寄；（在网上）发布"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "帖子；职位；发布\n【2023 年英语 (一)】\nAI can also be used to generate content for social media posts.\n人工智能也可以用来为社交媒体帖子生成内容。\n【2019 年英语 (一)】\nAnyone applying for a research post has to have published twice the number of papers.\n申请研究职位的人必须已发表的论文数量达到规定的两倍。\n【2021 年英语 (一)】\nI started posting them on Twitter.\n我开始在推特上发布它们。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语 (一)】",
+       "year": 2023,
+       "exam": null,
+       "part": null,
+       "en": "AI can also be used to generate content for social media posts.",
+       "cn": "人工智能也可以用来为社交媒体帖子生成内容。"
+      },
+      {
+       "source_raw": "【2019 年英语 (一)】",
+       "year": 2019,
+       "exam": "英语一",
+       "part": null,
+       "en": "Anyone applying for a research post has to have published twice the number of papers.",
+       "cn": "申请研究职位的人必须已发表的论文数量达到规定的两倍。"
+      },
+      {
+       "source_raw": "【2021 年英语 (一)】",
+       "year": 2021,
+       "exam": null,
+       "part": null,
+       "en": "I started posting them on Twitter.",
+       "cn": "我开始在推特上发布它们。"
+      }
+     ],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 2,
+     "spelling": "mail",
+     "spelling_raw": "mail",
+     "ipa_raw": "/merl/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "邮件，信件；邮政"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "照片\n【2023 年英语 (一)】\nThese vivid photographs were another thing entirely.这些生动的照片则完全是另一回事。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语 (一)】",
+       "year": 2023,
+       "exam": "英语一",
+       "part": null,
+       "en": null,
+       "cn": "These vivid photographs were another thing entirely.这些生动的照片则完全是另一回事。"
+      }
+     ],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 3,
+     "spelling": "sheet",
+     "spelling_raw": "sheet",
+     "ipa_raw": "/Si:t/",
+     "mnemonic": "床 单 (sheet) 上 有 一 张 纸 (sheet) 。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "一张（纸）；床单"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "answer sheet 答 题 卡\nYou should write neatly on the answer sheet.\n你应该工整地写在答题纸上。"
+      }
+     ],
+     "examples": [],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 4,
+     "spelling": "list",
+     "spelling_raw": "list",
+     "ipa_raw": "/list/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "清单"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "列清单"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "清单；列清单\n【2018 年英语 (二)】\nHe selected his future career path from a list of occupations.\n他从职业清单中选择了自己未来的职业道路。\n【2022 年英语 (一)】\nIt listed many documents in code.\n它用代码列出了许多文件。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2018 年英语 (二)】",
+       "year": 2018,
+       "exam": "英语二",
+       "part": null,
+       "en": "He selected his future career path from a list of occupations.",
+       "cn": "他从职业清单中选择了自己未来的职业道路。"
+      },
+      {
+       "source_raw": "【2022 年英语 (一)】",
+       "year": 2022,
+       "exam": "英语一",
+       "part": null,
+       "en": "It listed many documents in code.",
+       "cn": "它用代码列出了许多文件。"
+      }
+     ],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 5,
+     "spelling": "picture",
+     "spelling_raw": "picture",
+     "ipa_raw": "/'pikt∫ər/",
+     "mnemonic": "他看着图片 (picture) 和登载的照片 (picture).想 象 (picture) 未来大局 (picture)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "图片；照片；大局"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "想象；登载……照片"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "大局\n【2016 年英语 (一)】\nIt allows us to see the bigger picture.\n这让我们能够看到更宏大的局面。"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "登载……照片\n【2014 年英语 (二)】\nThe overweight are sometimes pictured in the media with their faces covered.\n身体超重者的照片有时出现在媒体上，他们的脸都被遮住了。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2016 年英语 (一)】",
+       "year": 2016,
+       "exam": "英语一",
+       "part": null,
+       "en": "It allows us to see the bigger picture.",
+       "cn": "这让我们能够看到更宏大的局面。"
+      },
+      {
+       "source_raw": "【2014 年英语 (二)】",
+       "year": 2014,
+       "exam": "英语二",
+       "part": null,
+       "en": "The overweight are sometimes pictured in the media with their faces covered.",
+       "cn": "身体超重者的照片有时出现在媒体上，他们的脸都被遮住了。"
+      }
+     ],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 6,
+     "spelling": "letter",
+     "spelling_raw": "letter",
+     "ipa_raw": "/'letər/",
+     "mnemonic": "信 (letter) 上的文字是各种字母 (letter) 组合。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "信；字母"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "信\n考研英语小作文通常考查各种书信，在写作开头通常用到:\nI am writing the letter to you to...\n我为了……给你写信。\ntelevision/TV /,teli'vizn//,ti:'vi:/"
+      }
+     ],
+     "examples": [],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 7,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "我 们 用 电 视 机 (TV) 看 电 视 节 目 (TV) ，支持电视广播业 (TV)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "电视机；电视节目；电视广播业"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "电视节目\n【2021 年英语 (一)】\nIn the movies and on television, AI is typically depicted as something sinister.\n在电影和电视节目里，人工智能通常被描绘成邪恶的事物。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2021 年英语 (一)】",
+       "year": 2021,
+       "exam": "英语一",
+       "part": null,
+       "en": "In the movies and on television, AI is typically depicted as something sinister.",
+       "cn": "在电影和电视节目里，人工智能通常被描绘成邪恶的事物。"
+      }
+     ],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 8,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "纸；论文；报纸"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "论文\n【2023 年英语 (一)】\nScientific papers are the recordkeepers of progress in research.\n科学论文是记录研究进展的载体。"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": "区分",
+       "body": "当 paper 作为“纸”的含义时不可数，而作为“论文；报纸”的含义时可数。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语 (一)】",
+       "year": 2023,
+       "exam": "英语一",
+       "part": null,
+       "en": "Scientific papers are the recordkeepers of progress in research.",
+       "cn": "科学论文是记录研究进展的载体。"
+      }
+     ],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 9,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "杂志"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "杂志\n【2011 年英语 (一)】\nThe magazine cover showing an attractive mother is hardly the only image on newsstands.\n杂志封面上那位迷人的母亲形象，并非报摊上唯一的此类图片。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2011 年英语 (一)】",
+       "year": 2011,
+       "exam": "英语一",
+       "part": null,
+       "en": "The magazine cover showing an attractive mother is hardly the only image on newsstands.",
+       "cn": "杂志封面上那位迷人的母亲形象，并非报摊上唯一的此类图片。"
+      }
+     ],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 10,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "cere(谐音“撒呀”)+mony (谐音“money”)→大家撒钱来办典礼、仪式 (ceremony)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "典礼，仪式"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "典礼，仪式\n【2016 年英语 (一)】\nParts of the ceremony involve ritual hair cutting.仪式的部分环节包括仪式性的剪发。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2016 年英语 (一)】",
+       "year": 2016,
+       "exam": "英语一",
+       "part": null,
+       "en": null,
+       "cn": "Parts of the ceremony involve ritual hair cutting.仪式的部分环节包括仪式性的剪发。"
+      }
+     ],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 11,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "谐音“洒了布莱特”→为了庆祝 (celebrate).布莱特把酒洒撒了。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "庆祝；赞美"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "注意真题对该词“赞美”释义的考查\n【2023 年英语 (二)】\nRomanticism celebrated the wonders of the natural world.\n浪漫主义颂扬自然界的奇妙之处。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语 (二)】",
+       "year": 2023,
+       "exam": "英语二",
+       "part": null,
+       "en": "Romanticism celebrated the wonders of the natural world.",
+       "cn": "浪漫主义颂扬自然界的奇妙之处。"
+      }
+     ],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 12,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "庆 祝 (celebrate) 我是有名望 (celebrity) 的名 人 (celebrity) 。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "名人；名望"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "名人\n【2023 年英语 (二)】\nAI can identify the lifestyle choices of customers regarding their hobbies and favourite celebrities.\n人工智能能够识别客户在爱好和喜爱的名人方面的生活方式选择。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语 (二)】",
+       "year": 2023,
+       "exam": "英语二",
+       "part": null,
+       "en": "AI can identify the lifestyle choices of customers regarding their hobbies and favourite celebrities.",
+       "cn": "人工智能能够识别客户在爱好和喜爱的名人方面的生活方式选择。"
+      }
+     ],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 13,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "博客"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "写博客"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "注意真题中对该词“写博客”释义的考查\n【2013 年英语 (一)】\nBrendon Lynch blogged:“We believe consumers should have more control.”\n布伦登•林奇在博客中写道:“我们认为消费者应该拥有更多控制权。 ”\ncommunication/kə,mju:nı'keifn/"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2013 年英语 (一)】",
+       "year": 2013,
+       "exam": null,
+       "part": null,
+       "en": "Brendon Lynch blogged:“ We believe consumers should have more control.” communication/kə,mju:nı'keifn/",
+       "cn": "布伦登•林奇在博客中写道:“我们认为消费者应该拥有更多控制权。 ”"
+      }
+     ],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 14,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "交流；通信"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "交流\n【2023 年英语 (一)】\nThe machines learns to improve their marketing content and communication.\n这些机器通过学习来改进其营销内容和沟通方式。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "communicate v.交流\n【2018 年英语 (二)】\nWhen someone tries to communicate with you, just be in that communication wholeheartedly.\n当有人试图与你交流时，就全身心投入到交流中去。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语 (一)】",
+       "year": 2023,
+       "exam": "英语一",
+       "part": null,
+       "en": "The machines learns to improve their marketing content and communication.",
+       "cn": "这些机器通过学习来改进其营销内容和沟通方式。"
+      },
+      {
+       "source_raw": "【2018 年英语 (二)】",
+       "year": 2018,
+       "exam": "英语二",
+       "part": null,
+       "en": "When someone tries to communicate with you, just be in that communication wholeheartedly.",
+       "cn": "当有人试图与你交流时，就全身心投入到交流中去。"
+      }
+     ],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 15,
+     "spelling": "guideline",
+     "spelling_raw": "guideline",
+     "ipa_raw": "/'gaidlam/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "指导方针；法则"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "指导方针\n【2019 年英语 (一)】\nMega-corporations are beginning to establish their own guidelines.\n大型企业正开始制定自己的指导方针。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2019 年英语 (一)】",
+       "year": 2019,
+       "exam": null,
+       "part": null,
+       "en": "Mega-corporations are beginning to establish their own guidelines.",
+       "cn": "大型企业正开始制定自己的指导方针。"
+      }
+     ],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 16,
+     "spelling": "media",
+     "spelling_raw": "media",
+     "ipa_raw": "/'mi:diə/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "媒体；传播媒介"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "social media 社交媒体\n【2023 年英语 (一)】\nAI can provide unique content in marketing messages put out through social media.\n人工智能能够为通过社交媒体发布的营销信息提供独特的内容。"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": "区分",
+       "body": "media 是复数，强调多个媒体或传播渠道。medium 作为名词单数时指单一媒介，作为形容词时指“中等的”。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语 (一)】",
+       "year": 2023,
+       "exam": "英语一",
+       "part": null,
+       "en": "AI can provide unique content in marketing messages put out through social media.",
+       "cn": "人工智能能够为通过社交媒体发布的营销信息提供独特的内容。"
+      }
+     ],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 17,
+     "spelling": "news",
+     "spelling_raw": "news",
+     "ipa_raw": "/nu:z/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "新闻；消息"
+      }
+     ],
+     "notes": [],
+     "examples": [],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 18,
+     "spelling": "newspaper",
+     "spelling_raw": "newspaper",
+     "ipa_raw": "/'nu:zpeipər/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "报纸；报社"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "报纸\n【2011 年英语 (二)】\nWhatever happened to the death of newspapers?\n报纸消亡的说法到底是怎么回事？"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2011 年英语 (二)】",
+       "year": 2011,
+       "exam": "英语二",
+       "part": null,
+       "en": "Whatever happened to the death of newspapers?",
+       "cn": "报纸消亡的说法到底是怎么回事？"
+      }
+     ],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 19,
+     "spelling": "grammar",
+     "spelling_raw": "grammar",
+     "ipa_raw": "/'græmər/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "语法"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "grammar school 文法学校\n【2018 年英语 (一)】\nNo boy who went to a grammar school could be ignorant.\n上过文法学校的男孩不可能无知。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2018 年英语 (一)】",
+       "year": 2018,
+       "exam": "英语一",
+       "part": null,
+       "en": "No boy who went to a grammar school could be ignorant.",
+       "cn": "上过文法学校的男孩不可能无知。"
+      }
+     ],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 20,
+     "spelling": "explanation",
+     "spelling_raw": "explanation",
+     "ipa_raw": "/,eksplə'neifn/",
+     "mnemonic": "explain 去 i 加 ation 变名词",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "解释，说明"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "解释、说明\n【2021 年英语 (一)】\nOne explanation might be the loss of dignity displayed through a cheesy grin.\n一种解释可能是，那种做作的笑容显得有失尊严。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2021 年英语 (一)】",
+       "year": 2021,
+       "exam": "英语一",
+       "part": null,
+       "en": "One explanation might be the loss of dignity displayed through a cheesy grin.",
+       "cn": "一种解释可能是，那种做作的笑容显得有失尊严。"
+      }
+     ],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    },
+    {
+     "seq": 21,
+     "spelling": "message",
+     "spelling_raw": "message",
+     "ipa_raw": "/'mesid3/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "信息，消息；便条"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "发消息"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "信息\n【2021 年英语 (二)】\nIt sends a mixed message, and your counterpart gets to choose what signals to read.\n这传递出一种混杂的信息，而你的沟通对象会选择解读哪些信号。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2021 年英语 (二)】",
+       "year": 2021,
+       "exam": "英语二",
+       "part": null,
+       "en": "It sends a mixed message, and your counterpart gets to choose what signals to read.",
+       "cn": "这传递出一种混杂的信息，而你的沟通对象会选择解读哪些信号。"
+      }
+     ],
+     "list_no": 6,
+     "list_title": "交通与通信",
+     "theme": "日常生活基础词"
+    }
+   ],
+   "narrative": {
+    "plot": "策划启动→资源整合→宣传预热→圆满举办",
+    "sections": [
+     {
+      "title": "策划启动",
+      "text": [
+       "校园文化节筹备活动开始，我们先在一 sheet (张) 大白 paper (纸) 上列出策划 list(清单),明确分工与流程。我翻阅 newspaper ( 报 纸 ) 和 magazine (杂志) 寻找创意灵感，还参考报纸上的文章学习 grammar (语法)，力求宣传文案完美无缺。同时，我们在 blog ( 博 客 ) 上 post (发布) 文化节筹备动态，吸引同学们关注。"
+      ]
+     },
+     {
+      "title": "资源整合",
+      "text": [
+       "为了让文化节更精彩，我们通过 television/TV (电视节目)、news (新闻) 了解其他学校的优秀案例。我们意外得知一位 celebrity (名人) 愿意出席，也收到了合作伙伴寄来的 mail ( 邮 件 ) 和 letter (信件)，里面是活动赞助物资清单和合作协议，还有一些宣传 picture (图片) 和之前活动的 photograph/ photo (照片),这些资源为文化节增添了更多保障。"
+      ]
+     },
+     {
+      "title": "宣传预热",
+      "text": [
+       "我们依据 media (媒体) 宣传 guideline (指导方针),精心制作宣传海报。在海报文案中，文化节的活动内容和意义都有详细的 explanation (解释)，传递积极向上的 message (信息)。同学们踊跃参与，大家也在 communication (交流) 中对文化节充满期待。"
+      ]
+     },
+     {
+      "title": "圆满举办",
+      "text": [
+       "文化节 ceremony (典礼) 当天，校园热闹非凡。嘉宾分享、节目表演、创意展览等活动精彩纷呈，同学们积极采用不同的形式 celebrate (庆祝)。在大家的欢声笑语中，文化节圆满落幕。"
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

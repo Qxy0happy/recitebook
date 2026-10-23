@@ -1,0 +1,5291 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.853,
+            0.033,
+            0.957,
+            0.069
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.35,
+            0.089,
+            0.396,
+            0.12
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_1.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.402,
+            0.095,
+            0.626,
+            0.114
+          ],
+          "level": 2,
+          "content": "List 23 来源与情况"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.142,
+            0.216,
+            0.162
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.169,
+            0.502,
+            0.186
+          ],
+          "content": "情节发展：背景引入→数据分析→原因探究→解决行动"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.083,
+            0.204,
+            0.154,
+            0.219
+          ],
+          "level": 2,
+          "content": "背景引人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.223,
+            0.691,
+            0.278
+          ],
+          "content": "生态学家正在研究森林中的 bird（鸟类）数量，figure out（探究）为什么它们的数量在下降。他们发现 lot（许多）因素在 respective（各自的）field（领域）影响鸟的生存，如 room（栖息地空间）不足。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.295,
+            0.154,
+            0.311
+          ],
+          "level": 2,
+          "content": "数据分析"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.314,
+            0.691,
+            0.37
+          ],
+          "content": "他们分析 aspect（各个方面），包括鸟类的 scale（规模）和 feature（分布特征），采集了 volume（一定体积）的空气进行质量分析，收集了 large（大量）数据。line（折线）图显示，鸟类数量下降 derive（源于）污染物在森林中的小溪里流动。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.396,
+            0.154,
+            0.412
+          ],
+          "level": 2,
+          "content": "原因探究"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.415,
+            0.69,
+            0.452
+          ],
+          "content": "因此，生态学家将 result（结果）attribute（归因于）工业活动；森林附近工厂的老板 respect（尊重）事实，承认 owe（欠）森林一个解决方案。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.478,
+            0.154,
+            0.493
+          ],
+          "level": 2,
+          "content": "解决行动"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.497,
+            0.691,
+            0.552
+          ],
+          "content": "老板召集了许多志愿者，并给他们 distribute（分配了）足够的工具。志愿者在 large（广阔）的森林工作，他们的努力为鸟类 digit（数量）的回升 contribute（做出了贡献）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.702,
+            0.198,
+            0.921,
+            0.557
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_13.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.592,
+            0.214,
+            0.613
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.642,
+            0.203,
+            0.655
+          ],
+          "content": "result /rɪ'zʌlt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.661,
+            0.136,
+            0.675
+          ],
+          "content": "n. 结果"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.683,
+            0.472,
+            0.718
+          ],
+          "content": "妙记：盐（sult 谐音 salt）又（re-）放多了，结果（result）很难吃！"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.728,
+            0.169,
+            0.749
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.756,
+            0.291,
+            0.771
+          ],
+          "content": "①固定搭配:result in 导致"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.775,
+            0.226,
+            0.791
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.795,
+            0.472,
+            0.829
+          ],
+          "content": "The rule changes of the FASB may result in the weakening of its independence."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.832,
+            0.432,
+            0.848
+          ],
+          "content": "FASB 的规定的改变可能导致其独立性被削弱。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.851,
+            0.31,
+            0.866
+          ],
+          "content": "②固定搭配:result from 源自"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.869,
+            0.226,
+            0.886
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.89,
+            0.472,
+            0.905
+          ],
+          "content": "Constitutional law is political because it results from"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.64,
+            0.925,
+            0.675
+          ],
+          "continues_prev": true,
+          "content": "choices rooted in fundamental social concepts like\nliberty and property."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.677,
+            0.925,
+            0.713
+          ],
+          "content": "宪法是政治性的，因为它源于根本的社会概念的选择，比如自由和所有权。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.716,
+            0.842,
+            0.732
+          ],
+          "content": "③固定搭配：原因 A, as a result, 结果 B"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.736,
+            0.907,
+            0.771
+          ],
+          "content": "She didn't study for the exam, as a result, she failed.\n她没有为考试复习，结果她不及格。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.775,
+            0.88,
+            0.809
+          ],
+          "content": "The match was canceled as a result of heavy rain.\n比赛因大雨取消。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.836,
+            0.669,
+            0.851
+          ],
+          "content": "derive /dɪˈraɪv/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.855,
+            0.598,
+            0.87
+          ],
+          "content": "vi. 源于"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.877,
+            0.925,
+            0.912
+          ],
+          "content": "妙记:de-（下）+ rive-（=river 河）→流下河水的地方→源头。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.829,
+            0.937,
+            0.88,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.882,
+            0.937,
+            0.91,
+            0.953
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.919,
+            0.938,
+            0.958,
+            0.952
+          ],
+          "content": "/233"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.033,
+            0.033,
+            0.105,
+            0.066
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.118,
+            0.043,
+            0.371,
+            0.059
+          ],
+          "content": "考研英语考研英语·一词三遍"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.402,
+            0.043,
+            0.505,
+            0.059
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.221,
+            0.09,
+            0.341,
+            0.174
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a snookerman watering a waterfall in a forest (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_3.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.083,
+            0.179,
+            0.182,
+            0.2
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.207,
+            0.437,
+            0.223
+          ],
+          "content": "①固定搭配:A derives from B B 是 A 的根源"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.227,
+            0.238,
+            0.242
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.247,
+            0.478,
+            0.302
+          ],
+          "content": "The supposed importance of influentials derives from a plausible-sounding but largely untested theory called the “two-step flow of communication”."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.305,
+            0.478,
+            0.361
+          ],
+          "content": "所谓的有影响力的人的重要性，源于一个听起来颇有道理但很大程度上未经检验的理论，这个理论被称为“交流的两步流”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.365,
+            0.422,
+            0.381
+          ],
+          "content": "② A derives B from C A 从 C 那里获得了 B"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.386,
+            0.416,
+            0.401
+          ],
+          "content": "She derives great pleasure from helping others."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.405,
+            0.338,
+            0.42
+          ],
+          "content": "她从帮助他人中获得极大的快乐。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.425,
+            0.162,
+            0.44
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.445,
+            0.331,
+            0.46
+          ],
+          "content": "derivation n. 出处；词源；派生"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.465,
+            0.313,
+            0.48
+          ],
+          "content": "derivative n. 派生物；衍生物"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.484,
+            0.307,
+            0.5
+          ],
+          "content": "④形近词区分 deprive v. 剥夺"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.527,
+            0.291,
+            0.543
+          ],
+          "content": "contribute /kən'tribju:t/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.546,
+            0.154,
+            0.56
+          ],
+          "content": "vi. 贡献"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.572,
+            0.466,
+            0.607
+          ],
+          "content": "妙记:contri（形似 country）+-bute（音似 build），为国家建设做贡献（contribute）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.225,
+            0.613,
+            0.334,
+            0.69
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_19.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.083,
+            0.695,
+            0.18,
+            0.715
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.723,
+            0.388,
+            0.739
+          ],
+          "content": "①常考短语 contribute to, 它有两个含义："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.743,
+            0.316,
+            0.759
+          ],
+          "content": "contribute to 对……做出贡献"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.763,
+            0.478,
+            0.797
+          ],
+          "content": "contribute to 导致（考研重点考查的含义，常用来和 result in 进行同义替换）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.801,
+            0.26,
+            0.818
+          ],
+          "content": "• 【2014 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.823,
+            0.398,
+            0.838
+          ],
+          "content": "Housing can contribute to economic growth."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.841,
+            0.321,
+            0.857
+          ],
+          "content": "住房能够对经济增长做出贡献。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.861,
+            0.26,
+            0.876
+          ],
+          "content": "• 【2020 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.881,
+            0.478,
+            0.915
+          ],
+          "content": "Which of the following has contributed to CEO pay rise?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.087,
+            0.857,
+            0.103
+          ],
+          "content": "以下哪一项导致了首席执行官薪酬的上涨？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.108,
+            0.918,
+            0.141
+          ],
+          "content": "= Which of the following has resulted in CEO pay rise?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.145,
+            0.862,
+            0.16
+          ],
+          "content": "以下哪一项导致了首席执行官薪酬的上涨？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.165,
+            0.776,
+            0.179
+          ],
+          "content": "②派生词:contribution n. 贡献"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.204,
+            0.621,
+            0.218
+          ],
+          "content": "owe /əʊ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.222,
+            0.719,
+            0.238
+          ],
+          "content": "vt. 欠；归功于，归因于"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.244,
+            0.918,
+            0.28
+          ],
+          "content": "妙记：把拥有的（own）给出去（ex-），就是一无所有，所以会欠（owe）钱。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.29,
+            0.627,
+            0.311
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.317,
+            0.878,
+            0.333
+          ],
+          "content": "① owe A to B 把 A 归因于 B；将 A 归功于 B"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.337,
+            0.609,
+            0.352
+          ],
+          "content": "【2007 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.357,
+            0.895,
+            0.371
+          ],
+          "content": "High achievers owe their success mostly to nurture."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.375,
+            0.914,
+            0.39
+          ],
+          "content": "取得高成就的人大多将他们的成功归因于后天培养。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.395,
+            0.869,
+            0.41
+          ],
+          "content": "② owing to 因为，由于 (= due to, because of)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.413,
+            0.682,
+            0.429
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.433,
+            0.918,
+            0.467
+          ],
+          "content": "Monarchs are kept as heads of state in Europe mostly owing to their undoubted and respectable status."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.47,
+            0.918,
+            0.505
+          ],
+          "content": "君主作为国家元首在欧洲被保留，主要是由于他们无可争辩、值得尊敬的地位。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.529,
+            0.705,
+            0.544
+          ],
+          "content": "attribute /ə'tribjuːt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.547,
+            0.758,
+            0.562
+          ],
+          "content": "vt. 归因于；归属于 n. 属性"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.569,
+            0.918,
+            0.623
+          ],
+          "content": "妙记：attri-（音似“爱吹”）-bute（音似“不吹”）→爱吹不吹，归因于他→一个人爱吹牛或不吹牛，都“归因于”他的性格→attribute（归因于）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.63,
+            0.626,
+            0.65
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.657,
+            0.911,
+            0.692
+          ],
+          "content": "① attribute A to B 将 A 归因于 B；将 A 归属于 B【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.697,
+            0.919,
+            0.769
+          ],
+          "content": "Some experts attribute the stress-reducing, health-related benefits of hugging to the release of oxytocin. 一些专家将拥抱的减压、健康相关的益处归因于催产素的释放。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.772,
+            0.918,
+            0.807
+          ],
+          "content": "②该单词可以作名词表示“属性”，来自“归属于”的含义，并不常考。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.811,
+            0.683,
+            0.826
+          ],
+          "content": "【2022 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.831,
+            0.92,
+            0.883
+          ],
+          "content": "Consumers paying more for premium attributes such as free-range, non-GMO, and pasture-raised eggs will embrace sustainability."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.886,
+            0.919,
+            0.921
+          ],
+          "content": "为自由放养、非转基因和牧场饲养的鸡蛋等优质属性支付更多钱的消费者，会欣然接受可持续性。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.049,
+            0.937,
+            0.087,
+            0.952
+          ],
+          "content": "234/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.097,
+            0.935,
+            0.125,
+            0.952
+          ],
+          "content": "#"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.128,
+            0.937,
+            0.177,
+            0.951
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.846,
+            0.029,
+            0.95,
+            0.066
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.086,
+            0.28,
+            0.102
+          ],
+          "content": "distribute /dɪˈstrɪbjuːt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.105,
+            0.212,
+            0.121
+          ],
+          "content": "vt. 分发；分配"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.127,
+            0.474,
+            0.18
+          ],
+          "content": "妙记：谐音“抵死追不由他”→这是分配给他的任务，必须抵死追，不能由他的想法→ distribute (分配)。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.212,
+            0.185,
+            0.344,
+            0.28
+          ],
+          "sub_type": "natural_image",
+          "content": "Silhouettes of people running and hitting at sunset, no text or symbols visible",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_4.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.284,
+            0.179,
+            0.306
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.312,
+            0.31,
+            0.328
+          ],
+          "content": "①考查其基本义：分配；分发"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.331,
+            0.235,
+            0.347
+          ],
+          "content": "【2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.351,
+            0.474,
+            0.386
+          ],
+          "content": "Unofficial educational materials that convey more biased perspectives are being distributed to teachers."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.388,
+            0.473,
+            0.424
+          ],
+          "content": "一些传达更多偏见观点的非官方教学材料正在被分发给教师。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.428,
+            0.258,
+            0.444
+          ],
+          "content": "②考查其基本义：分布"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.447,
+            0.234,
+            0.463
+          ],
+          "content": "【2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.467,
+            0.474,
+            0.5
+          ],
+          "content": "The African savanna elephant is distributed across 37 African countries."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.504,
+            0.344,
+            0.521
+          ],
+          "content": "非洲草原象分布在 37 个非洲国家。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.525,
+            0.305,
+            0.54
+          ],
+          "content": "normal distribution 正态分布"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.544,
+            0.345,
+            0.56
+          ],
+          "content": "geographical distribution 地理分布"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.563,
+            0.16,
+            0.578
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.582,
+            0.338,
+            0.598
+          ],
+          "content": "distribution n. 分发；分配；分布"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.601,
+            0.363,
+            0.617
+          ],
+          "content": "redistribution n. 再分配（re- 再一次）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.64,
+            0.192,
+            0.655
+          ],
+          "content": "bird /bɜːrd/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.659,
+            0.216,
+            0.675
+          ],
+          "content": "n. 鸟；罕见的人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.682,
+            0.385,
+            0.699
+          ],
+          "content": "妙记：鸟（bird）人是罕见的人（bird）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.212,
+            0.705,
+            0.341,
+            0.796
+          ],
+          "sub_type": "natural_image",
+          "content": "Silhouette of a winged figure with wings, standing on a rock against a sunset sky (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_22.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.8,
+            0.178,
+            0.821
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.828,
+            0.471,
+            0.863
+          ],
+          "content": "bird 可以表示“罕见的人、不寻常的人”，考过，但并不常考。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.866,
+            0.16,
+            0.882
+          ],
+          "content": "【2008 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.887,
+            0.474,
+            0.921
+          ],
+          "content": "He is that rare bird, a scientist who works independently of any institution."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.085,
+            0.916,
+            0.12
+          ],
+          "content": "他是那种极为罕见的人，是一位不依附于任何机构而独立工作的科学家。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.146,
+            0.66,
+            0.162
+          ],
+          "content": "figure /'fɪgjər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.165,
+            0.705,
+            0.18
+          ],
+          "content": "n. 数字；人物 v. 计算"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.191,
+            0.916,
+            0.226
+          ],
+          "content": "妙记：来自 finger（手指），数数的时候，通常用手指一个一个地指着数。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.526,
+            0.235,
+            0.624,
+            0.256
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.264,
+            0.854,
+            0.28
+          ],
+          "content": "①最常考其作名词时的基本义：数字，数据"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.283,
+            0.68,
+            0.299
+          ],
+          "content": "【2021 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.305,
+            0.919,
+            0.339
+          ],
+          "content": "There are many caveats to those figures, but they are still grave."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.343,
+            0.917,
+            0.359
+          ],
+          "content": "这些数据有很多需要注意的地方，但情况仍然很严峻。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.363,
+            0.919,
+            0.438
+          ],
+          "content": "② figure 可以表示“人物”，但并不是一般人，而是非常著名且重要的人（a person who is well-known and important in some way），也就是可以“数得上号”的人。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.443,
+            0.679,
+            0.459
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.464,
+            0.919,
+            0.518
+          ],
+          "content": "Influential figures in the Congress required that the AAAS report on how to safeguard individuals' rights to education."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.523,
+            0.918,
+            0.559
+          ],
+          "content": "国会中的有影响力的人物要求 AAAS 提交一份关于如何保障个人受教育权利的报告。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.563,
+            0.914,
+            0.6
+          ],
+          "content": "③考查其作动词时的基本义：认为；估计；料想；计算\nfigure out 想清楚，弄明白"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.626,
+            0.65,
+            0.642
+          ],
+          "content": "digit /'dɪdʒɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.645,
+            0.643,
+            0.661
+          ],
+          "content": "n. 手指；数字"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.672,
+            0.838,
+            0.69
+          ],
+          "content": "妙记：用手指（digit）来数数字（digit）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.526,
+            0.698,
+            0.622,
+            0.72
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.726,
+            0.805,
+            0.743
+          ],
+          "content": "派生词:digital adj. 数字的，数码的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.746,
+            0.691,
+            0.761
+          ],
+          "content": "digitization n. 数字化"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.764,
+            0.782,
+            0.781
+          ],
+          "content": "【2013、2015、2025 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.784,
+            0.746,
+            0.8
+          ],
+          "content": "digital information 数字信息"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.827,
+            0.612,
+            0.841
+          ],
+          "content": "lot /la:t/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.845,
+            0.843,
+            0.862
+          ],
+          "content": "pron./det. 大量，许多 n.(一) 群人; 命运"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.871,
+            0.916,
+            0.907
+          ],
+          "content": "妙记：中学就学过它可以表示“大量、许多”，如 a lot of people（很多人），引申为“一群人”。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.82,
+            0.937,
+            0.87,
+            0.953
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.873,
+            0.937,
+            0.901,
+            0.954
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.911,
+            0.938,
+            0.948,
+            0.952
+          ],
+          "content": "/235"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.017,
+            0.033,
+            0.09,
+            0.066
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.105,
+            0.043,
+            0.51,
+            0.06
+          ],
+          "content": "考研英语 高频抢分册"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.069,
+            0.09,
+            0.172,
+            0.111
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.117,
+            0.253,
+            0.13
+          ],
+          "content": "①考查基本义：一群人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.136,
+            0.228,
+            0.149
+          ],
+          "content": "【2014 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.155,
+            0.467,
+            0.186
+          ],
+          "content": "Readers of Happy Money are clearly a privileged lot,\nanxious about fulfilment, not hunger."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.19,
+            0.479,
+            0.223
+          ],
+          "content": "《快乐金钱》的读者显然是一群享有特权的人，他们担心的是满足感，而不是饥饿。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.227,
+            0.479,
+            0.277
+          ],
+          "content": "② lot 可以表示“命运”, 可以用 lottery（博彩）加深印象：博彩就是看命，中文的“乐透”就是 lottery 的音译。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.283,
+            0.227,
+            0.296
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.302,
+            0.48,
+            0.352
+          ],
+          "content": "But we are now knowledgeable enough to reduce many of the risks that threatened the existence of earlier humans, and to improve the lot of those to come."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.356,
+            0.479,
+            0.39
+          ],
+          "content": "但我们现在的知识足以减少许多威胁早期人类生存的风险，并改善未来人类的命运。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.411,
+            0.237,
+            0.425
+          ],
+          "content": "volume /'va:ljem/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.43,
+            0.316,
+            0.444
+          ],
+          "content": "n. 卷轴；卷，册；容量；音量"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.452,
+            0.48,
+            0.485
+          ],
+          "content": "妙记:volume 音似“我牛吗”，我的体积（volume）和音量 (volume) 都最大。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.222,
+            0.493,
+            0.326,
+            0.563
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_14.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.067,
+            0.568,
+            0.17,
+            0.588
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.595,
+            0.46,
+            0.61
+          ],
+          "content": "①考查基本义：数量；总量；额；规模（最常考）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.615,
+            0.288,
+            0.628
+          ],
+          "content": "the volume of work 工作量"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.634,
+            0.313,
+            0.647
+          ],
+          "content": "the volume of traffic 交通流量"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.653,
+            0.326,
+            0.666
+          ],
+          "content": "②考查基本义：卷轴；卷册；卷"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.671,
+            0.15,
+            0.685
+          ],
+          "content": "【2002 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.691,
+            0.48,
+            0.724
+          ],
+          "content": "The National Academy of Science (NAS) released a two-volume report."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.728,
+            0.457,
+            0.742
+          ],
+          "content": "美国国家科学院（NAS）发布了一份两卷的报告。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.748,
+            0.351,
+            0.761
+          ],
+          "content": "③考查基本义：音量（只考过一次）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.767,
+            0.273,
+            0.78
+          ],
+          "content": "【2014 年英语（一）翻译】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.784,
+            0.479,
+            0.813
+          ],
+          "content": "(48) Beethoven's habit of increasing the volume with an extreme intensity."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.818,
+            0.37,
+            0.831
+          ],
+          "content": "贝多芬把音量提高到极限强度的习惯。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.858,
+            0.199,
+            0.872
+          ],
+          "content": "large /la:rd3/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.876,
+            0.436,
+            0.89
+          ],
+          "content": "a. 大的，大量的，大规模的; 广泛的; 严重的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.898,
+            0.478,
+            0.912
+          ],
+          "content": "妙记：large 谐音：“拉直” → 拉直以后就大 (large) 了。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.09,
+            0.637,
+            0.111
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.117,
+            0.925,
+            0.149
+          ],
+          "content": "①常考搭配:largely = in large part 在很大程度上，主要地"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.154,
+            0.695,
+            0.168
+          ],
+          "content": "【2015 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.174,
+            0.934,
+            0.206
+          ],
+          "content": "However, there is another important part of the jobs picture that was largely overlooked."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.211,
+            0.934,
+            0.243
+          ],
+          "content": "但是，就业形势中还有一个重要的部分在很大程度上被忽视了。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.249,
+            0.696,
+            0.263
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.269,
+            0.934,
+            0.301
+          ],
+          "content": "“ Social epidemics ” are driven in large part by the actions of a tiny minority of special individuals."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.306,
+            0.934,
+            0.339
+          ],
+          "content": "“社会流行”在很大程度上是由极少一部分特殊的人的行为所驱动的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.345,
+            0.881,
+            0.359
+          ],
+          "content": "② loom large = loom vi. 逼近（只考过一次）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.365,
+            0.696,
+            0.378
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.385,
+            0.934,
+            0.417
+          ],
+          "content": "Meanwhile, as the recession is looming large, people are getting anxious."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.422,
+            0.93,
+            0.435
+          ],
+          "content": "同时，随着经济衰退不断逼近，人们开始变得焦虑。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.441,
+            0.934,
+            0.473
+          ],
+          "content": "③派生词:enlarge vt. 放大，扩大（en-使 + large 大→使变大→扩大、放大）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.48,
+            0.696,
+            0.493
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.5,
+            0.934,
+            0.531
+          ],
+          "content": "Unions have enlarged their public-sector membership.\n工会扩大了其在公共部门的会员规模。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.559,
+            0.654,
+            0.571
+          ],
+          "content": "room /rum/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.544,
+            0.576,
+            0.713,
+            0.59
+          ],
+          "content": "n. 房间；空间；余地"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.599,
+            0.93,
+            0.612
+          ],
+          "content": "妙记:room“入目”，这里入目都是空间（room）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.625,
+            0.637,
+            0.644
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.652,
+            0.934,
+            0.683
+          ],
+          "content": "固定搭配:allow/leave room for 为……留出空间、留出余地"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.689,
+            0.696,
+            0.704
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.71,
+            0.934,
+            0.759
+          ],
+          "content": "The court, though, may want to allow room for police to cite situations where they are entitled to more freedom."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.766,
+            0.934,
+            0.799
+          ],
+          "content": "不过，法院或许会想要为警方留出余地，以便他们能够引述某些他们有权获得更多自由的情况。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.804,
+            0.696,
+            0.818
+          ],
+          "content": "【2020 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.825,
+            0.934,
+            0.855
+          ],
+          "content": "Open access terms allow publishers some room to make money."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.861,
+            0.908,
+            0.874
+          ],
+          "content": "开放获取条款为出版商留出了一定的盈利空间。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.88,
+            0.695,
+            0.893
+          ],
+          "content": "【2014 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.899,
+            0.934,
+            0.912
+          ],
+          "content": "We have designed jobs that leave no room for"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.031,
+            0.936,
+            0.077,
+            0.95
+          ],
+          "content": "236/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.081,
+            0.934,
+            0.167,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.85,
+            0.022,
+            0.955,
+            0.059
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.081,
+            0.341,
+            0.096
+          ],
+          "content": "“individual initiative or creativity”."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.1,
+            0.472,
+            0.135
+          ],
+          "content": "我们设计了各种工作，这些工作没有给“个人主动性或创造力”留出任何空间。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.159,
+            0.177,
+            0.173
+          ],
+          "content": "line /laɪn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.177,
+            0.47,
+            0.212
+          ],
+          "content": "n. 各种线（直线、线路、航线、界线等）；态度；方式"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.219,
+            0.305,
+            0.235
+          ],
+          "content": "妙记：本义表示各种“线”:"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.239,
+            0.331,
+            0.254
+          ],
+          "content": "1. 在边界上划线，表示“界线”；"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.258,
+            0.47,
+            0.273
+          ],
+          "content": "2. 在对立观点之间划线，站哪边就代表了你的“态度”。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.212,
+            0.28,
+            0.338,
+            0.369
+          ],
+          "sub_type": "text_image",
+          "content": "支持\n反对",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_8.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.08,
+            0.374,
+            0.176,
+            0.396
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.402,
+            0.424,
+            0.417
+          ],
+          "content": "①固定搭配:line up 排队；安排；排列整齐"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.421,
+            0.231,
+            0.437
+          ],
+          "content": "【2023 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.442,
+            0.472,
+            0.514
+          ],
+          "content": "Can anyone really think ifs a good idea to allow Amazon deliveries to your tent in Yosemite or food trucks to line up under the redwood trees at Sequoia National Park?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.518,
+            0.472,
+            0.592
+          ],
+          "content": "真的有人会认为，允许亚马逊将商品配送到优胜美地国家公园（Yosemite）的帐篷处，或者允许餐车在红杉国家公园（Sequoia National Park）的红杉树下【排队】营业是个好主意吗？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.596,
+            0.272,
+            0.611
+          ],
+          "content": "② line 可以表示“态度”:"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.615,
+            0.338,
+            0.63
+          ],
+          "content": "take a tough line 采取强硬的态度"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.635,
+            0.341,
+            0.649
+          ],
+          "content": "in line with sth. 与……一致，符合"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.653,
+            0.231,
+            0.669
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.673,
+            0.471,
+            0.708
+          ],
+          "content": "The British royals “have most to fear” because Charles takes a tough line on political issues."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.711,
+            0.471,
+            0.746
+          ],
+          "content": "英国王室成员“最应感到担忧”，因为查尔斯在政治问题上态度强硬。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.75,
+            0.231,
+            0.766
+          ],
+          "content": "【2023 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.77,
+            0.472,
+            0.824
+          ],
+          "content": "We launched our sustainability strategy last year and fake grass is just not in line with our ethos and views on plastic."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.826,
+            0.471,
+            0.862
+          ],
+          "content": "我们去年推出了可持续发展战略，而人造草皮不符合我们对塑料的理念和看法。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.865,
+            0.345,
+            0.88
+          ],
+          "content": "③ line 可以表示“方式”，并不常考"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.884,
+            0.231,
+            0.9
+          ],
+          "content": "【2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.904,
+            0.472,
+            0.919
+          ],
+          "content": "It is a flawed line of reasoning to argue against"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.082,
+            0.845,
+            0.096
+          ],
+          "content": "returning artifacts to their countries of origin."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.099,
+            0.886,
+            0.115
+          ],
+          "content": "反对将文物归还原籍国的推理方式是有缺陷的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.119,
+            0.604,
+            0.134
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.138,
+            0.921,
+            0.172
+          ],
+          "content": "outline n. 轮廓；大纲，梗概 vt. 概述（out + line → 最外面的线 → 轮廓）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.176,
+            0.678,
+            0.192
+          ],
+          "content": "【2025 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.196,
+            0.922,
+            0.249
+          ],
+          "content": "Urban planner Rajashree Kotharkar's team is working on a model plan that outlines best practices and could be adapted to local conditions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.253,
+            0.922,
+            0.308
+          ],
+          "content": "城市规划师拉贾什里·科塔尔卡尔（Rajashree Kotharkar）的团队正在制订一份示范规划，该规划概述了最佳实践方法，并且可以根据当地情况进行调整。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.312,
+            0.921,
+            0.346
+          ],
+          "content": "streamline adj. 流线型的（stream 溪流 + line 线 → 流线）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.351,
+            0.921,
+            0.386
+          ],
+          "content": "deadline n. 最后期限（dead 死 + line 线 → 死亡线 → 最后期限）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.39,
+            0.893,
+            0.405
+          ],
+          "content": "underline v. 强调；画线于……之下；n. 下划线"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.409,
+            0.78,
+            0.425
+          ],
+          "content": "headline n. 大字标题；新闻摘要"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.453,
+            0.64,
+            0.467
+          ],
+          "content": "scale /skeɪl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.472,
+            0.92,
+            0.507
+          ],
+          "content": "n. 刻度，尺度; 等级，级别; 程度，规模 v. 攀登; 改变 (大小、数量、规模等)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.518,
+            0.92,
+            0.535
+          ],
+          "content": "妙记：scale 长得像 scar(疤痕) 就是刻出来的痕迹。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.538,
+            0.92,
+            0.593
+          ],
+          "content": "1. 刻→刻度、尺度→等级、级别→程度、规模；\n2. “攀登”来自古人攀岩时，会在悬崖峭壁上用钝器“刻”下凹槽，以方便攀爬。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.522,
+            0.602,
+            0.622,
+            0.624
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.63,
+            0.836,
+            0.646
+          ],
+          "content": "①考查其作名词时的基本义：规模，级别"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.649,
+            0.826,
+            0.665
+          ],
+          "content": "【2014 年英语（二）、2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.669,
+            0.72,
+            0.685
+          ],
+          "content": "large-scale adj. 大规模的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.688,
+            0.678,
+            0.704
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.708,
+            0.919,
+            0.743
+          ],
+          "content": "This clearly seems to be a market in which big retailers could profitably apply their gigantic scale."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.746,
+            0.918,
+            0.78
+          ],
+          "content": "这显然似乎是一个大型零售商可以凭借其庞大的规模从中获利的市场。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.784,
+            0.678,
+            0.8
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.804,
+            0.789,
+            0.819
+          ],
+          "content": "This is hacking on an industrial scale."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.822,
+            0.709,
+            0.838
+          ],
+          "content": "这是行业级的黑客入侵。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.841,
+            0.915,
+            0.876
+          ],
+          "content": "② scale 可以作动词，表示“改变数量或规模”，引申自“攀登”的含义："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.879,
+            0.83,
+            0.895
+          ],
+          "content": "往上爬 → scale up 增加数量，扩大规模"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.899,
+            0.676,
+            0.915
+          ],
+          "content": "【2023 年英语（二）】"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.817,
+            0.936,
+            0.895,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.907,
+            0.937,
+            0.946,
+            0.952
+          ],
+          "content": "/237"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.019,
+            0.032,
+            0.092,
+            0.064
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.107,
+            0.04,
+            0.374,
+            0.058
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.406,
+            0.041,
+            0.514,
+            0.058
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.087,
+            0.485,
+            0.122
+          ],
+          "content": "The scaling up of these technologies will eventually bring costs down."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.125,
+            0.376,
+            0.142
+          ],
+          "content": "这些技术的推广普及最终会降低成本。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.145,
+            0.485,
+            0.181
+          ],
+          "content": "往下爬、往回爬 → scale down/back 减少数量，缩小规模"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.185,
+            0.232,
+            0.201
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.205,
+            0.485,
+            0.28
+          ],
+          "content": "Now the nation's top patent court appears completely ready to scale back on business-method patents, which have been controversial ever since they were first authorized 10 years ago."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.283,
+            0.485,
+            0.34
+          ],
+          "content": "现在，美国最高专利法院似乎已完全准备好减少商业方法专利的数量，这类专利自十年前首次获批以来就一直饱受争议。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.362,
+            0.227,
+            0.396
+          ],
+          "content": "aspect /'æspekt/\nn. 方面"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.403,
+            0.485,
+            0.439
+          ],
+          "content": "妙记:a-=ad-（强调、一再）+spect-（盯住一点看）→盯住问题的一个点看，就是看问题的一个方面。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.449,
+            0.173,
+            0.469
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.476,
+            0.483,
+            0.511
+          ],
+          "content": "①该单词是写作常用词汇，注意它是可数名词，一个方面叫 an aspect, 几个方面叫 some aspects"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.516,
+            0.232,
+            0.532
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.537,
+            0.485,
+            0.571
+          ],
+          "content": "The priorities and expectations defined by the young will reach almost all aspects of American life."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.574,
+            0.483,
+            0.61
+          ],
+          "content": "年轻人定义的优先级和期望值将会扩散到几乎美国人生活的全部方面。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.615,
+            0.24,
+            0.63
+          ],
+          "content": "②考查基本义：外观"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.636,
+            0.41,
+            0.65
+          ],
+          "content": "The house's aspect was dark and unattractive."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.654,
+            0.284,
+            0.67
+          ],
+          "content": "房子的外观阴暗且不起眼。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.697,
+            0.235,
+            0.731
+          ],
+          "content": "respect /rɪˈspekt/\nn./vt. 尊敬 n. 方面"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.742,
+            0.485,
+            0.798
+          ],
+          "content": "妙记:re-（反复）+ spect-（注视）→ 反复注视一个人的某个方面（respect）看，行注目礼，就是对这个人表示尊敬（respect）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.807,
+            0.173,
+            0.828
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.834,
+            0.483,
+            0.869
+          ],
+          "content": "① respect 可以表示“问题的一个方面”，即反复盯住问题的一个点看，与 aspect 相同。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.873,
+            0.401,
+            0.888
+          ],
+          "content": "in respect of sth. 关于……；在……方面"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.892,
+            0.231,
+            0.907
+          ],
+          "content": "【2012 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.087,
+            0.938,
+            0.122
+          ],
+          "content": "In limited respects, perhaps the recession will leave society better off."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.125,
+            0.938,
+            0.161
+          ],
+          "content": "在有限的一些方面，这场经济衰退或许会让社会变得更美好。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.165,
+            0.7,
+            0.18
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.185,
+            0.938,
+            0.22
+          ],
+          "content": "Parallel situation exists in respect of predatory mammals and fish-eating birds."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.224,
+            0.935,
+            0.259
+          ],
+          "content": "在掠食性哺乳动物和食鱼鸟类方面也存在类似的情况。\n②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.264,
+            0.823,
+            0.279
+          ],
+          "content": "disrespect n./vt. 不尊敬（dis-否定）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.283,
+            0.935,
+            0.3
+          ],
+          "content": "respectable adj. 值得尊敬的（-able 能、可以……的）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.304,
+            0.86,
+            0.319
+          ],
+          "content": "respected adj. 受尊敬的（-ed 被……的）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.323,
+            0.902,
+            0.339
+          ],
+          "content": "respectful adj. 充满敬意的（-ful 充满……的）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.547,
+            0.362,
+            0.739,
+            0.396
+          ],
+          "content": "respective /rɪˈspektɪv/\nadj. 各自的，分别的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.547,
+            0.403,
+            0.938,
+            0.438
+          ],
+          "content": "妙记:respect（方面）+ -ive（属性）→ 每个方面的属性，各不相同 → 各自的，分别的。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.539,
+            0.448,
+            0.641,
+            0.469
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.476,
+            0.928,
+            0.512
+          ],
+          "content": "图表作文常用:respectively adv. 分别是，各自是【2021 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.516,
+            0.938,
+            0.591
+          ],
+          "content": "In February, at 3.5 per cent and 5.5 per cent respectively, unemployment rates in Canada and the United States were at generational lows and worker shortages were everywhere."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.595,
+            0.937,
+            0.65
+          ],
+          "content": "2 月，加拿大和美国的失业率分别为 3.5% 和 5.5%，均处于历史低位，而且到处都出现了劳动力短缺的情况。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.547,
+            0.673,
+            0.692,
+            0.69
+          ],
+          "content": "feature /'fi:tʃər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.547,
+            0.692,
+            0.937,
+            0.727
+          ],
+          "content": "n. 面容，面孔；特征，特色；专栏 vt. 以……为特征"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.547,
+            0.738,
+            0.938,
+            0.794
+          ],
+          "content": "妙记:feat- 来自 face（脸），ure 表示行为、结果。本义表示面容、面孔；面容是一个人最显著的特征，故而表示“特征、特色”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.539,
+            0.803,
+            0.641,
+            0.825
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.831,
+            0.935,
+            0.867
+          ],
+          "content": "①该单词可以表示“专栏”，即极具“特色”的栏目。【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.871,
+            0.781,
+            0.885
+          ],
+          "content": "a News Feature article in Nature"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.889,
+            0.827,
+            0.905
+          ],
+          "content": "《自然》杂志上的一篇新闻专栏文章"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.037,
+            0.935,
+            0.077,
+            0.95
+          ],
+          "content": "238/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.087,
+            0.934,
+            0.117,
+            0.95
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.119,
+            0.936,
+            0.171,
+            0.95
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.85,
+            0.026,
+            0.957,
+            0.063
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.082,
+            0.361,
+            0.098
+          ],
+          "content": "②近义词辨析:feature & characterize"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.101,
+            0.468,
+            0.136
+          ],
+          "content": "\\- feature 表示以……为特征，逻辑是被描述的主体 + feature + 核心特征；"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.139,
+            0.23,
+            0.156
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.16,
+            0.348,
+            0.175
+          ],
+          "content": "Sold media feature strong user traffic."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.178,
+            0.351,
+            0.194
+          ],
+          "content": "出售媒体以强大的用户流量为特征。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.198,
+            0.468,
+            0.233
+          ],
+          "content": "\\- characterize 表示是……的特征，逻辑是核心特征 + characterize + 被描述的主体。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.238,
+            0.347,
+            0.253
+          ],
+          "content": "Patience characterizes a good teacher."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.256,
+            0.281,
+            0.272
+          ],
+          "content": "耐心是一个好老师的特征。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.295,
+            0.185,
+            0.31
+          ],
+          "content": "field /fi:ld/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.315,
+            0.364,
+            0.332
+          ],
+          "content": "n. 田地；场地；领域 vt. 处理，应对"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.338,
+            0.473,
+            0.393
+          ],
+          "content": "妙记：来自 farm（农场），本义表示“田地”，引申为“场地、领域”。公司雇用一个领域的人，就是要他处理这个领域的难题。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.086,
+            0.625,
+            0.107
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.113,
+            0.811,
+            0.129
+          ],
+          "content": "① field 可以作动词，表示处理、应对"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.132,
+            0.607,
+            0.148
+          ],
+          "content": "【2007 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.152,
+            0.924,
+            0.205
+          ],
+          "content": "So it is a bit confusing when vos Savant fields such queries as, What's the difference between love and fondness?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.208,
+            0.923,
+            0.244
+          ],
+          "content": "所以，当沃斯·莎凡特回答“爱与喜欢的区别是什么？”这样的问题时，会有点令人困惑。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.248,
+            0.676,
+            0.264
+          ],
+          "content": "②需要关注的搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.267,
+            0.859,
+            0.284
+          ],
+          "content": "level the playing field 创造平等的竞争环境"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.287,
+            0.923,
+            0.322
+          ],
+          "content": "③派生词:fieldcraft n. 野外生存技能；野外行动技巧；（考过一次）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.325,
+            0.679,
+            0.342
+          ],
+          "content": "【2025 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.345,
+            0.924,
+            0.381
+          ],
+          "content": "It takes patience and fieldcraft to anticipate a butterfly's likely flight-line — and catch it- in focus."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.383,
+            0.923,
+            0.419
+          ],
+          "content": "要预判蝴蝶可能的飞行路线并精准捕捉它，需要有耐心和野外行动技巧。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.437,
+            0.22,
+            0.458
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.473,
+            0.175,
+            0.49
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.5,
+            0.925,
+            0.554
+          ],
+          "content": "1. Armed with this insight, the marketing and engineering teams joined forces to raise awareness by prominently promoting the premium version to users of the free version. \\_\\_\\_\\_, upgrades skyrocketed, and revenue increased by 92 percent."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.1,
+            0.558,
+            0.214,
+            0.573
+          ],
+          "content": "A. As a result"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.33,
+            0.559,
+            0.442,
+            0.573
+          ],
+          "content": "B. At any rate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.558,
+            0.652,
+            0.574
+          ],
+          "content": "C. By the way"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.78,
+            0.559,
+            0.884,
+            0.573
+          ],
+          "content": "D. In a sense"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.583,
+            0.586,
+            0.599
+          ],
+          "content": "2. The word “biology” \\_\\_\\_\\_ Greek, meaning the study of life."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.1,
+            0.603,
+            0.217,
+            0.619
+          ],
+          "content": "A. deprives of"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.33,
+            0.603,
+            0.452,
+            0.617
+          ],
+          "content": "B. derives from"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.603,
+            0.629,
+            0.617
+          ],
+          "content": "C. result in"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.78,
+            0.604,
+            0.892,
+            0.618
+          ],
+          "content": "D. result from"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.628,
+            0.924,
+            0.664
+          ],
+          "content": "3. Enhanced security measures since then, combined with a rise in airline travel, have resulted in long waits at major airports."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.673,
+            0.579,
+            0.689
+          ],
+          "content": "Which of the following contributes to long waits at major airports?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.1,
+            0.694,
+            0.38,
+            0.708
+          ],
+          "content": "A. New restrictions on carry-on bags."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.1,
+            0.713,
+            0.394,
+            0.727
+          ],
+          "content": "B. The declining efficiency of the TSA."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.1,
+            0.732,
+            0.41,
+            0.746
+          ],
+          "content": "C. An increase in the number of travelers."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.1,
+            0.752,
+            0.385,
+            0.767
+          ],
+          "content": "D. Frequent unexpected secret checks."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.776,
+            0.767,
+            0.792
+          ],
+          "content": "4. He \\_\\_\\_\\_ his remarkable recovery \\_\\_\\_\\_ the skill and dedication of his medical team."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.1,
+            0.796,
+            0.205,
+            0.811
+          ],
+          "content": "A. owns... to"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.797,
+            0.43,
+            0.81
+          ],
+          "content": "B. owes... to"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.796,
+            0.649,
+            0.81
+          ],
+          "content": "C. owing... to"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.781,
+            0.796,
+            0.891,
+            0.81
+          ],
+          "content": "D. owed... for"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.82,
+            0.72,
+            0.836
+          ],
+          "content": "5. In the slang expression, \"She's a wise old bird\", the word \"bird\" means \\_\\_\\_\\_."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.1,
+            0.841,
+            0.303,
+            0.856
+          ],
+          "content": "A. A type of flying animal"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.84,
+            0.756,
+            0.856
+          ],
+          "content": "B. A piece of news or gossip"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.1,
+            0.86,
+            0.473,
+            0.875
+          ],
+          "content": "C. A person (usually with a specific characteristic)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.86,
+            0.699,
+            0.875
+          ],
+          "content": "D. A sound or signal"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.884,
+            0.924,
+            0.92
+          ],
+          "content": "6. The scientists struggled to \\_\\_\\_\\_ how the ancient device functioned, as its mechanism was far more complex than they had anticipated."
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.825,
+            0.942,
+            0.876,
+            0.959
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.878,
+            0.942,
+            0.907,
+            0.96
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.918,
+            0.944,
+            0.955,
+            0.959
+          ],
+          "content": "/239"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.039,
+            0.03,
+            0.11,
+            0.063
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.124,
+            0.039,
+            0.514,
+            0.057
+          ],
+          "content": "考研英语考研英语·一词三遍 高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.117,
+            0.087,
+            0.208,
+            0.101
+          ],
+          "content": "A. turn out"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.344,
+            0.087,
+            0.44,
+            0.102
+          ],
+          "content": "B. point out"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.552,
+            0.087,
+            0.654,
+            0.101
+          ],
+          "content": "C. figure out"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.791,
+            0.087,
+            0.88,
+            0.1
+          ],
+          "content": "D. rule out"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.111,
+            0.873,
+            0.127
+          ],
+          "content": "7. The success of the project is \\_\\_\\_\\_ due to the team's efficient collaboration and thorough preparation."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.117,
+            0.131,
+            0.204,
+            0.147
+          ],
+          "content": "A. at large"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.344,
+            0.131,
+            0.461,
+            0.146
+          ],
+          "content": "B. in large part"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.552,
+            0.131,
+            0.671,
+            0.146
+          ],
+          "content": "C. by and large"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.792,
+            0.131,
+            0.878,
+            0.146
+          ],
+          "content": "D. in large"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.156,
+            0.769,
+            0.172
+          ],
+          "content": "8. A good manager always \\_\\_\\_\\_ room \\_\\_\\_\\_ improvement in the team's performance."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.117,
+            0.176,
+            0.258,
+            0.19
+          ],
+          "content": "A. leaves ... about"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.344,
+            0.176,
+            0.474,
+            0.19
+          ],
+          "content": "B. allows ... with"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.117,
+            0.196,
+            0.23,
+            0.21
+          ],
+          "content": "C. leaves ... to"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.344,
+            0.196,
+            0.522,
+            0.21
+          ],
+          "content": "D. leaves / allows ... for"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.22,
+            0.43,
+            0.236
+          ],
+          "content": "9. The government will \\_\\_\\_\\_ on tax fraud."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.117,
+            0.24,
+            0.269,
+            0.256
+          ],
+          "content": "A. take a tough line"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.344,
+            0.241,
+            0.479,
+            0.255
+          ],
+          "content": "B. make a change"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.551,
+            0.241,
+            0.691,
+            0.256
+          ],
+          "content": "C. have a meeting"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.709,
+            0.241,
+            0.822,
+            0.254
+          ],
+          "content": "D. in line with"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.265,
+            0.837,
+            0.281
+          ],
+          "content": "10. The research focuses on every \\_\\_\\_\\_ of climate change, including its economic and social impacts."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.117,
+            0.286,
+            0.195,
+            0.301
+          ],
+          "content": "A. aspect"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.344,
+            0.286,
+            0.435,
+            0.301
+          ],
+          "content": "B. prospect"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.551,
+            0.286,
+            0.633,
+            0.301
+          ],
+          "content": "C. aspects"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.791,
+            0.286,
+            0.876,
+            0.3
+          ],
+          "content": "D. suspect"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.31,
+            0.55,
+            0.326
+          ],
+          "content": "11. After the meeting, the managers returned to \\_\\_\\_\\_ offices."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.117,
+            0.33,
+            0.22,
+            0.346
+          ],
+          "content": "A. respectful"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.344,
+            0.331,
+            0.446,
+            0.345
+          ],
+          "content": "B. respective"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.551,
+            0.331,
+            0.655,
+            0.345
+          ],
+          "content": "C. respecting"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.791,
+            0.331,
+            0.888,
+            0.345
+          ],
+          "content": "D. respected"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.355,
+            0.906,
+            0.371
+          ],
+          "content": "12. The new smartphone \\_\\_\\_\\_ an advanced camera system, making it popular among photography enthusiasts."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.117,
+            0.375,
+            0.243,
+            0.389
+          ],
+          "content": "A. characterizes"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.344,
+            0.376,
+            0.43,
+            0.389
+          ],
+          "content": "B. features"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.551,
+            0.376,
+            0.646,
+            0.389
+          ],
+          "content": "C. identifies"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.791,
+            0.376,
+            0.888,
+            0.388
+          ],
+          "content": "D. illustrates"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.4,
+            0.189,
+            0.418
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.087,
+            0.427,
+            0.915,
+            0.557
+          ],
+          "sub_type": "text",
+          "content": "1. Reform wants to ask how power and resources should be \\_\\_\\_\\_ (distribute) in our health system.\n2. Stresses the study of history and government, particularly American history and American government; and encourages the use of new\\_\\_\\_\\_(digit) technologies.\n3. Our company plans to\\_\\_\\_\\_ production next month to meet higher demand, but might have to\\_\\_\\_\\_ operations later if sales drop. (scale up/scale back)\n4. The company provided detailed information in respect \\_\\_\\_\\_ the new safety regulations."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.567,
+            0.189,
+            0.584
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.591,
+            0.162,
+            0.606
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.088,
+            0.614,
+            0.915,
+            0.704
+          ],
+          "sub_type": "text",
+          "content": "1. Beethoven's habit of increasing the volume with an extreme intensity and then abruptly following it with a sudden soft passage was only rarely used by composers before him."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.713,
+            0.66,
+            0.729
+          ],
+          "content": "2. The spokesperson skillfully fielded all the tough questions from the reporters."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.794,
+            0.16,
+            0.809
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.087,
+            0.818,
+            0.915,
+            0.931
+          ],
+          "sub_type": "text",
+          "content": "1. Education remains the most powerful tool to improve the [lot] of disadvantaged children.\n2. He was searching for tiny engraved seals [ attributed ] to the ancient Mycenaean culture that dominated Greece from the 1400s to 1200s BC."
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.055,
+            0.944,
+            0.09,
+            0.958
+          ],
+          "content": "240"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.102,
+            0.943,
+            0.13,
+            0.959
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.133,
+            0.945,
+            0.182,
+            0.958
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 8,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.848,
+            0.029,
+            0.952,
+            0.064
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.084,
+            0.919,
+            0.119
+          ],
+          "content": "3. McGee says leaving without a [ position ] lined up gave him time to reflect on what kind of company he wanted to run."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.443,
+            0.198,
+            0.543,
+            0.219
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.071,
+            0.241,
+            0.162,
+            0.258
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.274,
+            0.116,
+            0.286
+          ],
+          "content": "1. A."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.29,
+            0.127,
+            0.306
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.308,
+            0.465,
+            0.361
+          ],
+          "content": "句意：基于这一见解，营销和工程团队联手，通过向免费版用户大力推广高级版来提高认知度。\n\\_\\_\\_\\_，升级量飙升，收入增长了 92%。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.364,
+            0.467,
+            0.509
+          ],
+          "content": "考点：逻辑关系题。空格前句描述“团队采取的行动”，空格后句描述“行动带来的积极结果（升级量飙升，收入增长）”，前后是明确的“因果”关系。A. As a result（结果，因此）用于引出结果，符合语境。B. At any rate（无论如何，不管怎样）表示让步。C. By the way（顺便说一下）用于引入题外话。D. In a sense（在某种意义上）表示对情况的限定。故 A. 正确。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.525,
+            0.114,
+            0.539
+          ],
+          "content": "2. B."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.542,
+            0.127,
+            0.558
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.561,
+            0.465,
+            0.595
+          ],
+          "content": "句意:“生物学”这个词\\_\\_\\_\\_希腊语，意思是“对生命的研究”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.598,
+            0.467,
+            0.708
+          ],
+          "content": "考点：动词短语辨析。句子表达的是“biology”这个词源自希腊语。A. deprives of(剥夺) 与句意相反。B. derives from（源自）符合“词语源于某种语言”的语境。C. result in(导致) 和 D. result from(由……引起) 虽然也表因果，但主语通常是“原因”或“结果”，不用于表示“词语的起源”。故 B. 正确。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.723,
+            0.115,
+            0.737
+          ],
+          "content": "3. C."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.74,
+            0.127,
+            0.756
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.759,
+            0.465,
+            0.813
+          ],
+          "content": "句意：自那以后，安全措施的加强，加上航空旅行的增加，导致了主要机场的长时间等待。下列哪一项是导致各大机场长时间候机的原因？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.815,
+            0.467,
+            0.906
+          ],
+          "content": "考点：细节题。解题关键在于定位原文。“combined with a rise in airline travel”是“have resulted in long waits”的原因之一。C. An increase in the number of travelers（旅行人数的增加）是其同义替换。故 C. 是原文明确提到的原因。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.243,
+            0.566,
+            0.257
+          ],
+          "content": "4. B."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.26,
+            0.578,
+            0.275
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.279,
+            0.918,
+            0.313
+          ],
+          "content": "句意：他 \\_\\_\\_\\_ 他的显著恢复 \\_\\_\\_\\_ 他的医疗团队的技术和奉献精神。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.315,
+            0.919,
+            0.425
+          ],
+          "content": "考点：固定搭配（owe...to...）。Owe... to... 是固定搭配，意为“将……归功于……”。主语是“He”，时态为一般现在时，故第一空需用第三人称单数 owes。A. owns... to（拥有）搭配错误。C. owing... to（归功于）是分词形式，不能作谓语。D. owed... for（过去欠……）搭配和词义均错误。故 B. 正确。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.441,
+            0.566,
+            0.455
+          ],
+          "content": "5. C."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.458,
+            0.578,
+            0.473
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.476,
+            0.918,
+            0.511
+          ],
+          "content": "句意：在俚语“She's a wise old bird”中，“bird”一词的意思是 \\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.513,
+            0.919,
+            0.622
+          ],
+          "content": "考点：熟词僻义 / 俚语。“Bird”在英式俚语中常用来指“人”，尤指“女人”或“有个性的人”。因此，“a wise old bird”意为“一个睿智的老人（尤指女人）”。A. “一种会飞的动物”是字面意思。B. “新闻或八卦”是另一个俚语意思（如“a little bird told me”）。D. “声音或信号”与句意无关。故 C. 正确。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.637,
+            0.566,
+            0.651
+          ],
+          "content": "6. C."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.654,
+            0.578,
+            0.67
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.673,
+            0.918,
+            0.726
+          ],
+          "content": "句意：科学家们努力想\\_\\_\\_\\_这个古代装置是如何运作的，因为它的机械结构远比他们预想的要复杂。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.729,
+            0.92,
+            0.838
+          ],
+          "content": "考点：动词短语辨析。根据“struggled to”（努力）和“how it functioned”（如何运作）可知，空格处需要表示“理解、弄明白”的短语。A. turn out（结果是，生产）。B. point out（指出）。C. figure out（理解，想出）符合“努力弄清楚复杂机制”的语境。D. rule out（排除）与句意不符。故 C. 正确。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.853,
+            0.566,
+            0.867
+          ],
+          "content": "7. B."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.518,
+            0.87,
+            0.578,
+            0.886
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.889,
+            0.918,
+            0.906
+          ],
+          "content": "句意：该项目的成功 \\_\\_\\_\\_ 是由于团队高效"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.82,
+            0.935,
+            0.902,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.911,
+            0.937,
+            0.948,
+            0.952
+          ],
+          "content": "/241"
+        }
+      ]
+    },
+    {
+      "page_idx": 9,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.031,
+            0.035,
+            0.102,
+            0.068
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.114,
+            0.044,
+            0.371,
+            0.062
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.402,
+            0.044,
+            0.506,
+            0.06
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.091,
+            0.252,
+            0.106
+          ],
+          "content": "的协作和充分的准备。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.109,
+            0.48,
+            0.236
+          ],
+          "content": "考点：副词短语辨析（表“程度”）。空格处需要表示“在很大程度上”的短语，修饰“due to”。A. at large（逍遥法外；详细地；总体上）。B. in large part（在很大程度上）是固定搭配，符合语境。C. by and large（总的来说，大体上）通常作状语，置于句首或句尾，不直接修饰“due to”。D. in large（大批地）不是标准短语。故 B. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.251,
+            0.127,
+            0.265
+          ],
+          "level": 2,
+          "content": "8. D."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.269,
+            0.138,
+            0.284
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.287,
+            0.479,
+            0.322
+          ],
+          "content": "句意：一个好的经理总是为团队表现的提升\\_\\_\\_\\_空间。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.324,
+            0.48,
+            0.434
+          ],
+          "content": "考点：固定搭配。Leave/Allow room for 是固定搭配，意为“为……留有余地/空间”。A. leaves ... about 搭配错误。B. allows ... with 搭配错误。C. leaves ... to（留给……）后接人，如“leave it to me”，不接“for”。D. leaves / allows ... for 是正确搭配。故 [D] 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.449,
+            0.128,
+            0.463
+          ],
+          "level": 2,
+          "content": "9. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.466,
+            0.139,
+            0.482
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.485,
+            0.313,
+            0.501
+          ],
+          "content": "句意：政府将 \\_\\_\\_\\_ 税务欺诈。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.504,
+            0.481,
+            0.593
+          ],
+          "content": "考点：固定搭配。Take a tough line on 是固定搭配，意为“对……采取强硬立场 / 措施”。B. make a change(做出改变)、C. have a meeting(开会) 与“on”搭配时语义不完整。D. in line with(与……一致) 是介词短语，不能作谓语。故 A. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.609,
+            0.137,
+            0.623
+          ],
+          "level": 2,
+          "content": "10. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.626,
+            0.139,
+            0.642
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.644,
+            0.467,
+            0.678
+          ],
+          "content": "句意：这项研究聚焦于气候变化的每一个\\_\\_\\_\\_，包括其经济和社会影响。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.681,
+            0.48,
+            0.79
+          ],
+          "content": "考点：名词辨析及主谓一致。“every”后接单数名词，谓语动词“focuses”也是第三人称单数。A. aspect（方面）是单数，且“研究的各个方面”符合语境。B. prospect（前景，可能性）词义不符。C. aspects 是复数，与“every”矛盾。D. suspect（嫌疑犯；怀疑）词义和词性均不符。故 A. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.805,
+            0.134,
+            0.819
+          ],
+          "level": 2,
+          "content": "11. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.823,
+            0.138,
+            0.838
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.841,
+            0.414,
+            0.857
+          ],
+          "content": "句意：会后，经理们回到了\\_\\_\\_\\_办公室。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.86,
+            0.478,
+            0.894
+          ],
+          "content": "考点：形近词辨析。A. respectful(表示尊敬的)。B. respective(各自的) 符合“多位经理回到各自不同"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.09,
+            0.921,
+            0.143
+          ],
+          "continues_prev": true,
+          "content": "的办公室”的语境。C. respecting（关于，介词）或（尊重，现在分词）。D. respected（受尊敬的）。故 B. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.158,
+            0.586,
+            0.172
+          ],
+          "level": 2,
+          "content": "12. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.176,
+            0.589,
+            0.191
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.194,
+            0.923,
+            0.228
+          ],
+          "content": "句意：这款新智能手机\\_\\_\\_\\_一个先进的相机系统，这使其在摄影爱好者中很受欢迎。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.23,
+            0.923,
+            0.321
+          ],
+          "content": "考点：动词辨析。A. characterizes(以……为特征)，常用结构是“be characterized by”。B. features(以……为特色，配备有) 是及物动词，直接接宾语，符合“手机配备高级相机”的语境。C. identifies(识别，确认)。D. illustrates(阐明，说明)。故 B. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.331,
+            0.632,
+            0.348
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.363,
+            0.645,
+            0.377
+          ],
+          "level": 2,
+          "content": "1. distributed"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.38,
+            0.59,
+            0.396
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.399,
+            0.922,
+            0.434
+          ],
+          "content": "句意：改革想要追问权力和资源在我们的医疗体系中应当如何\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.436,
+            0.923,
+            0.489
+          ],
+          "content": "考点：被动语态。情态动词 should be 后需接过去分词构成被动语态。动词 distribute（分配）的过去分词是 distributed。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.505,
+            0.609,
+            0.52
+          ],
+          "level": 2,
+          "content": "2. digital"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.522,
+            0.589,
+            0.538
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.541,
+            0.923,
+            0.576
+          ],
+          "content": "句意：强调对历史和政体的研究，特别是美国历史和美国政体；并鼓励使用新的\\_\\_\\_\\_技术。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.578,
+            0.923,
+            0.632
+          ],
+          "content": "考点：词性转换（名词→形容词）。空格处修饰名词“technologies”，需要形容词。名词 digit（数字）的形容词形式为 digital（数字的）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.646,
+            0.716,
+            0.661
+          ],
+          "level": 2,
+          "content": "3. scale up, scale back"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.663,
+            0.589,
+            0.679
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.682,
+            0.923,
+            0.735
+          ],
+          "content": "句意：我们公司计划下个月 \\_\\_\\_\\_ 产量以满足更高的需求，但如果后期销量下降，可能不得不 \\_\\_\\_\\_ 运营。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.737,
+            0.924,
+            0.809
+          ],
+          "content": "考点：动词短语辨析。根据“meet higher demand” （满足更高需求）可知第一空需填 scale up（扩大规模）。根据“if sales drop” （如果销量下降）可知第二空需填 scale back（缩减规模）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.825,
+            0.578,
+            0.838
+          ],
+          "level": 2,
+          "content": "4. of"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.842,
+            0.589,
+            0.857
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.861,
+            0.923,
+            0.896
+          ],
+          "content": "句意：该公司提供了\\_\\_\\_\\_新安全法规的详细信息。\n考点：固定搭配（in respect of）。In respect of 是圆"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.047,
+            0.944,
+            0.087,
+            0.959
+          ],
+          "content": "242/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.094,
+            0.943,
+            0.123,
+            0.96
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.126,
+            0.945,
+            0.175,
+            0.959
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 10,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.83,
+            0.032,
+            0.94,
+            0.068
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.027,
+            0.089,
+            0.42,
+            0.104
+          ],
+          "continues_prev": true,
+          "content": "定短语，意为“关于，就……而言”。故填介词 of。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.025,
+            0.114,
+            0.125,
+            0.13
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.027,
+            0.133,
+            0.097,
+            0.147
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.025,
+            0.151,
+            0.434,
+            0.184
+          ],
+          "content": "1. 贝多芬习惯将音量极度增大，然后紧接着突然转入轻柔的乐段，在他之前，作曲家很少采用这种手法。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.025,
+            0.188,
+            0.427,
+            0.221
+          ],
+          "content": "2. 发言人娴熟地回答了记者提出的所有尖锐问题。\n单词翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.025,
+            0.225,
+            0.434,
+            0.295
+          ],
+          "sub_type": "text",
+          "content": "1. 教育仍是改善弱势儿童【命运】的最有力工具。\n2. 他当时正在寻找那些被认为【归属于】古代迈锡尼文化的小型雕刻印章。迈锡尼文化在公元前 1400 年至公元前 1200 年统治着希腊。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.025,
+            0.3,
+            0.434,
+            0.333
+          ],
+          "content": "3. 麦吉称，在没有落实安排【新职位】的情况下离职，让他有时间想清楚自己到底想经营什么样的公司。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.801,
+            0.941,
+            0.884,
+            0.959
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.894,
+            0.943,
+            0.935,
+            0.957
+          ],
+          "content": "/243"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:14:34",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 11,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 8,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 9,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 10,
+          "width_pt": 595.0,
+          "height_pt": 885.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

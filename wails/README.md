@@ -1,0 +1,161 @@
+# 循环背诵
+
+Wails v3 (Go + React/TypeScript) app for cycling through the 29 word lists.
+Bank JSON is embedded in the binary; progress and settings are stored in a local
+SQLite database through the pure-Go `modernc.org/sqlite` driver (no CGO
+dependency for the store).
+
+## Prerequisites
+
+- Go 1.26+
+- Node 20+ with pnpm; the frontend is driven by Vite+ (`vp`)
+- Tailwind CSS 4 (`tailwindcss` + `@tailwindcss/vite`, both 4.3.x); styles are
+  utilities in `frontend/src/App.tsx`, `frontend/src/styles.css` only imports
+  Tailwind and sets the theme tokens
+- Wails v3 CLI: `go install github.com/wailsapp/wails/v3/cmd/wails3@v3.0.0-beta.34`
+- go-task (`task`)
+
+Android builds additionally need:
+
+- JDK 17+ (verified with JBR 25)
+- Android SDK with platform 35, build-tools, platform-tools, emulator and at
+  least one NDK (27 or 28); set `ANDROID_HOME` to the SDK root
+- `ANDROID_NDK_HOME` is optional: the newest NDK under `$ANDROID_HOME/ndk` is
+  used automatically
+
+The Gradle wrapper downloads Gradle 9.2.1 on first use (AGP 8.7.3, compileSdk
+35). On Windows the NDK host tag is auto-detected as `windows-x86_64` and the
+wrapper is invoked through `gradlew.bat`.
+
+## Desktop
+
+```sh
+task build        # production build
+task run          # build and run
+```
+
+## Formatting and linting
+
+Go formatting and linting run from the module's tool dependencies, so no extra
+installs are needed:
+
+```sh
+task fmt          # gofumpt over the Go tree + oxfmt over the frontend
+task lint         # revive (wails/revive.toml) + oxlint
+```
+
+Frontend-only commands, run from `frontend/`:
+
+```sh
+vp run fmt        # format with oxfmt
+vp run lint       # lint with oxlint (config in .oxlintrc.json)
+vp run check      # oxfmt --check, oxlint and the TypeScript check together
+```
+
+`revive` only covers the application packages (`./internal/... .`); the
+Wails-generated scaffolding under `build/` is excluded in `revive.toml`.
+`oxfmt` and `oxlint` skip `bindings/` and `dist/`: `.prettierignore` is the
+ignore filename oxfmt honours (an `.oxfmtignore` file is not read), and
+`.oxlintrc.json` carries the matching `ignorePatterns`.
+
+`@shadcn/lint` is registered as an Oxlint JS plugin through `jsPlugins` in
+`.oxlintrc.json`. No shadcn rules are enabled yet: add `shadcn/*` rules there
+once the design-system policies are decided. Rule docs:
+<https://github.com/shadcn-ui/lint/blob/main/docs/rules.md>; configuration:
+<https://github.com/shadcn-ui/lint/blob/main/docs/design-systems.md>.
+
+
+## Verification
+
+The Go tests in the root package embed `frontend/dist`, so build the frontend
+once before running them:
+
+```sh
+cd frontend
+vp install
+vp run build
+vp exec tsc --noEmit
+cd ..
+go test ./internal/... .
+```
+
+`TestEmbeddedBankIsConsistent` checks all 29 embedded lists, and `e2e_test.go`
+drives the real `EngineService` plus a temporary SQLite database through the
+five core flows (first pass, inner loop, jump-out, lookup, new round) and the
+export/import round trip. No device or network is required.
+
+Server-mode smoke test on Windows (the database lives beside the executable,
+so run a copy from an isolated directory):
+
+```bat
+go build -tags server,production -o bin\recitebook-server.exe .
+mkdir %TEMP%\recitebook-smoke
+copy bin\recitebook-server.exe %TEMP%\recitebook-smoke\
+cd %TEMP%\recitebook-smoke
+set WAILS_SERVER_PORT=9347
+set WAILS_SERVER_HOST=127.0.0.1
+recitebook-server.exe
+```
+
+Open `http://127.0.0.1:9347/`. Android install/layout/back-button behaviour is
+not covered by these checks; it needs a physical device or emulator.
+
+## Android
+
+```sh
+task android:build ARCH=amd64    # cross-compile the Go shared library
+task android:assemble:apk        # debug APK -> bin/recitebook.apk
+task android:compile:go:shared ARCH=arm64   # add the second ABI, then assemble again
+task android:package:fat         # release APK with arm64 + amd64
+task android:run                 # build, install and launch (needs a device/emulator)
+```
+
+`ARCH` defaults to the host architecture; use `amd64` for an x86_64 emulator and
+`arm64` for physical devices. The Go shared library embeds `frontend/dist`, so
+the frontend is built first by the task graph, and `task android:package` passes
+the production flags through to both halves. `task android:package` builds
+arm64 only; `package:fat` builds both ABIs, which is what to use after a debug
+build has left an `x86_64` library in `jniLibs`. Release APKs are signed with
+the debug keystore unless `ANDROID_KEYSTORE_FILE` and the related variables are
+set. `build/android/overlay.json` and all Gradle output are generated per
+machine and are git-ignored.
+
+`app/build.gradle` disables `lintVital` for release builds because AGP 8.7.3's
+lint aborts on JBR's four-part version string (`25.0.4.1`). Remove that block
+when the Gradle JVM reports a three-part version or AGP is upgraded.
+
+## Data location
+
+- Windows: `data/recitebook.db` beside the executable.
+- Android: the app-private files directory, i.e.
+  `/data/data/<applicationId>/files/recitebook.db`.
+
+## WebDAV sync
+
+Settings → WebDAV 同步 moves progress between devices through a single JSON
+file on a WebDAV server. Jianguoyun is the default target:
+
+- URL (prefilled): `https://dav.jianguoyun.com/dav/recitebook/progress.json`
+- Username: the Jianguoyun account email
+- Password: a third-party app password from 账户信息 → 安全选项 → 第三方应用管理,
+  not the account password
+
+A Jianguoyun account root cannot hold files, only folders, so the address needs
+a folder segment; the first upload creates `recitebook/` with `MKCOL`. The
+address must point at a file and must not end in `/`.
+
+The two buttons are independent overwrite operations. There is no merge and no
+conflict detection:
+
+- 上传到云端 replaces the remote file with this device's progress.
+- 从云端下载 replaces this device's progress with the remote file.
+
+Both ask for confirmation first. The remote file is the same v1 JSON backup
+that 导出备份 writes, so it can also be restored with 导入备份. The SQLite
+database never leaves the device, and the backup excludes both the LLM API key
+and the WebDAV credentials. Sync runs only when a button is pressed; there is no
+background, startup or shutdown sync.
+
+Plain `http://` addresses are accepted, but the settings screen warns that the
+Basic-auth credentials then travel unencrypted.
+

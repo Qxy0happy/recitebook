@@ -1,0 +1,1023 @@
+{
+  "list_no": 19,
+  "title": "放弃与禁止",
+  "association": {
+    "outline": "情节发展：初始压力→备考阻碍→外力干扰→心态调整",
+    "scenes": [
+      {
+        "title": "初始压力",
+        "story": "王明决定考研，但他面临着两方面的 burden（重担）:一方面他无法 afford（负担得起）高昂的辅导费，只能加大自学力度，except（除了）吃饭睡觉，几乎不休息。另一方面学校自习室 prohibit（禁止）喧哗，所以他坚持早起在外晨读。"
+      },
+      {
+        "title": "备考阻碍",
+        "story": "学习中他遭遇重重 obstacle（障碍），有时不小心 delay（延迟）了学习计划，就会因为自己的高 criterion（标准）陷入自我 criticism（批评）。"
+      },
+      {
+        "title": "外力干扰",
+        "story": "环境有时也 interfere/disturb（干扰）学习:家人无意 interrupt（打断）他思考，学校活动 intervene（干预）其安排，社交媒体 distract（分散注意力）。还有关于报考院校的负面传闻 threaten（威胁）动力，harm（伤害）心态。"
+      },
+      {
+        "title": "心态调整",
+        "story": "他一度想 retreat（撤退），甚至 withdraw（撤回）报名。但他觉得不能 neglect（无视）初心，有时需要 overlook/ignore（忽略）小错误。最终他 cut（切断）无效社交，消除其对信心 undermine（削弱）影响，重回正轨。"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "burden",
+      "ipa": "/'bɜːrdən/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "负重；负担"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "使负重；使担负"
+        }
+      ],
+      "mnemonic": "(bur) 百 (den) 吨的重担 (burden) 压在我身上。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "最常考释义",
+          "body": "经济、财务方面的负担\n\n【2018、2020 年英语（一）、2017 年英语（二）】\n\nfinancial burden 经济负担"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "burdensome adj. 繁重的\n\noverburdened adj. 负担过重的（over-过度的，过头的）"
+        }
+      ]
+    },
+    {
+      "spelling": "afford",
+      "ipa": "/ə'fɔ:rd/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "负担得起；买得起；提供，给予"
+        }
+      ],
+      "mnemonic": "谐音“俺付的”，表示承担得起（afford）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "常见用法",
+          "body": "与 can 或 can't 连用，表示负担得起或负担不起。\n\n【2016 年英语（一）】\n\nPeople will only start shopping more sustainably when they can't afford not to.\n\n只有当人们负担不起不可持续的购物时，他们才会开始可持续地购物。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "常见释义",
+          "body": "表示“提供、给予”\n\nafford sth. to sb. 把某物给某人\n\n【2011 年英语（二）】\n\nThe Internet affords anonymity to its users.\n\n互联网为其用户提供匿名性。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "affordable adj. 负担得起的；买得起的"
+        }
+      ]
+    },
+    {
+      "spelling": "prohibit",
+      "ipa": "/prəˈhɪbɪt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "阻止，禁止，限制"
+        }
+      ],
+      "mnemonic": "“破（发音似“pro”），习惯（hibit 形似 habit）！”朋友阻止（prohibit）他的坏习惯。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "prohibit sb. from doing sth. 禁止某人做某事\n\n【2015 年英语（一）】\n\n26. D. prohibit suspects from using their mobile phones\n\n禁止嫌疑犯使用他们的手机"
+        },
+        {
+          "marker": "②",
+          "kind": "辨析",
+          "label_raw": "近义词辨析",
+          "body": "prohibit & inhibit\n\n- prohibit: 来自外界的限制，如法律法规;\n\n- inhibit: 自己对自己的限制和抑制。\n\n【2022 年英语（一）】\n\n33. C. their creativity may be inhibited\n\n他们的创造力可能被抑制=(自身的原因抑制了他们的创造力，而不是外界阻止他们创新)"
+        },
+        {
+          "marker": "④",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "• prohibitive adj. 限制性的，禁止的\n\nprohibitive cost/price 奇高无比的价格，而不是被限制的价格\n\nThe cost of housing in the city center is prohibitive for most young professionals.\n\n市中心的房价对大多数年轻专业人士来说过于高昂。\n\n- inhibit vt. 限制，抑制 (in- 内心 + hibit- 保留 → 内心保留的观念对外在行为的抑制)"
+        }
+      ]
+    },
+    {
+      "spelling": "except",
+      "ipa": "/ɪkˈsept/",
+      "senses": [
+        {
+          "pos": "prep.",
+          "meaning_cn": "除……之外"
+        }
+      ],
+      "mnemonic": "ex-（外）+ cept-（拿）→拿出去→除外。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "常见用法",
+          "body": "everything except 唯独没有\n\n【2017 年英语（一）】\n\nRobert F. Kennedy once said that a country's GDP measures “everything except that which makes life worthwhile.”\n\n罗伯特·F.肯尼迪（Robert F. Kennedy）曾经说过，一个国家的 GDP 唯独没有衡量让生活有价值的东西。"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "with the exception of = except 除了\n\n【2012 年英语（二）】\n\nWith the exception of some advanced courses, homework may no longer count for more than 10% of a student's academic grade.\n\n除了一些高级课程，家庭作业可能不会再占学生学术成绩的 10% 以上。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "exception n. 例外，除外\n\nexceptional adj. 特殊的；卓越的"
+        }
+      ]
+    },
+    {
+      "spelling": "obstacle",
+      "ipa": "/'a:bstək(ə)l/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "障碍"
+        }
+      ],
+      "mnemonic": "ob-（对抗）+sta-（站立）+cle（名词后缀）→“站在对立面的东西”即障碍物（obstacle）",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "搭配",
+          "label_raw": "考点点拨",
+          "body": "固定搭配:obstacle to sth. ……的障碍\n\n【2012 年英语（一）】\n\n21. C. an obstacle to social progress\n\n社会进步的障碍\n\n【2019 年英语（一）】\n\n24. A. the obstacles to preventing “short-termism”\n\n阻止“短期主义”的障碍"
+        }
+      ]
+    },
+    {
+      "spelling": "criticism",
+      "ipa": "/'kritiSizəm/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "批评；评论"
+        }
+      ],
+      "mnemonic": "crit- 来自 Cross（十字架），最早表示来自天主教廷的批判，后引申为各种批评、评论（criticism）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常见释义",
+          "body": "批评\n\n【2011 年英语（一）】\n\nChildless folks are constantly exposed to criticism.\n\n没有孩子的人总是被批评。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "熟词僻义",
+          "body": "criticism 可表示对艺术作品（图书、音乐等）的评论文章。\n\n【2010 年英语（一）】\n\nIt is difficult to the point of impossibility for the average reader under the age of forty to imagine a time when high-quality arts criticism could be found in most big-city newspapers.\n\n对于 40 岁以下的普通读者来说，要想象曾经在大多数大城市报纸上都能看到高质量文学评论的世代，是很难的，甚至可以说是不可能的。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "criticize(criticise) vt. 批评；评论\n\ncritic n. 批评家；评论家"
+        }
+      ]
+    },
+    {
+      "spelling": "criterion",
+      "ipa": "/kraɪˈtɪriən/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "标准，尺度"
+        }
+      ],
+      "mnemonic": "crit-（判断）+-er（人/工具）+-ion（名词后缀）→“用于判断的依据”即标准（criterion）。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "考点点拨",
+          "body": "复数形式 criteria\n\n【2021 年英语（二）】\n\nMost jobs are multidimensional, with multiple criteria.\n大多数工作都是多维度的，有多个评判标准。"
+        }
+      ]
+    },
+    {
+      "spelling": "delay",
+      "ipa": "/dɪˈleɪ/",
+      "senses": [
+        {
+          "pos": "v./n.",
+          "meaning_cn": "推迟，延期；耽搁"
+        }
+      ],
+      "mnemonic": "de-（下）+ lay（放）→ 放到底下 → 把一个提案放到一摞提案的底下，就是推迟（delay）这个提案。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "辨析",
+          "label_raw": "近义词",
+          "body": "defer vt. 推迟（de- 下 + fer- 拿 → 把一个提案拿到底下）"
+        },
+        {
+          "marker": "②",
+          "kind": "辨析",
+          "label_raw": "近义词辨析",
+          "body": "delay & defer\n\n- delay 既可以表示 sth. 的推迟，也可以表示 sb. 被耽搁。侧重意外因素导致的时间滞后，也可指有意推迟;\n\n【2021 年英语（一）】\n\ndelay this type of decline 推迟这种衰退\n\nMany commuters were delayed for over an hour.\n\n很多乘车上下班的人被耽搁了一个多小时。\n\n- defer 只能表示 sth. 的推迟。正式用词，多指故意拖延。\n【2018 年英语（一）】\n\ndeferring vital modernization 推迟重要的现代化进程"
+        }
+      ]
+    },
+    {
+      "spelling": "interfere",
+      "ipa": "/ˌɪntərˈfɪr/",
+      "senses": [
+        {
+          "pos": "vi.",
+          "meaning_cn": "干涉；干扰"
+        }
+      ],
+      "mnemonic": "inter-（两者之间）+ fer-（拿）→ 把一个人拿到两者之间，就是干涉、干扰（interfere）两个人的交流。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "- interfere with 干扰\n\n【2023 年英语（二）】\n\nThere is no experimental evidence showing that Internet interferes with our ability to focus.\n\n目前尚无实验证据表明互联网会干扰我们的专注力。\n\n- interfere in 干涉\n\nHe does not want to interfere in the internal affairs of another country.\n\n他不想干涉他国的内部事务。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "interference n. 干涉；干扰"
+        }
+      ]
+    },
+    {
+      "spelling": "intervene",
+      "ipa": "/ˌɪntərˈviːn/",
+      "senses": [
+        {
+          "pos": "vi.",
+          "meaning_cn": "干涉，介入"
+        }
+      ],
+      "mnemonic": "inter-（两者之间）+ ven-（走）→走到两者之间→干涉、介入（intervene）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常见释义",
+          "body": "介入\n\n【2013 年英语（一）】\n\n37. D. Congress's intervention in immigration enforcement.\n\n国会介入移民法规的执行。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "intervention n. 干涉，介入"
+        },
+        {
+          "marker": "③",
+          "kind": "搭配",
+          "label_raw": "近义词辨析",
+          "body": "interfere & intervene\n\n- 用法不同\n\ninterfere 通常带有贬义，指未经允许的干涉或妨碍;\n\nSomeone interfered with my work.\n\n有人打扰我工作。\n\nintervene 多为中性或褒义，强调调停争端或积极干预以改善局面。\n\nThe teacher intervened in the argument.\n\n老师调解争吵。\n\n- 词性不同\n\ninterfere 是不及物动词，常接介词 with (妨碍) 或 in (干涉他人事务);\n\nintervene 可作及物或不及物动词，接 in 表调停，\nbetween 表调解双方。\n\nThe UN intervened in the conflict.\n\n联合国介入冲突。"
+        }
+      ]
+    },
+    {
+      "spelling": "interrupt",
+      "ipa": "/ˌɪntəˈrʌpt/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "打扰；打断"
+        }
+      ],
+      "mnemonic": "inter-（在……中间）+rupt-（断）→在中间断开→打扰、打断。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常见释义",
+          "body": "打断\n\n【2016 年英语（二）】\n\nIt is not simply that one is interrupted; it is that one is actually inclined to interruption.\n\n这并非只是说某人被打断了而已；而是说某人实际上本来就容易被打断。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "interruption n. 打扰；打断"
+        }
+      ]
+    },
+    {
+      "spelling": "distract",
+      "ipa": "/dɪˈstrækt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "使分心；转移 / 分散（注意力）"
+        }
+      ],
+      "mnemonic": "dis-（分开）+ tract-（拉、拽）→ 把注意力 拽开→使分心。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "使分心\n\nThe loud noise outside distracted the students during the exam.\n\n外面的噪声在考试时分散了学生们的注意力。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "distraction n. 分散注意力的事，使人分心的事\n\n【2016 年英语（二）】\n\nYou could limit distractions by reading only physical books.\n\n你可以通过只阅读实体书籍的方式来减少分心的情况。"
+        }
+      ]
+    },
+    {
+      "spelling": "threaten",
+      "ipa": "/'θret(ə)n/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "恐吓，威胁"
+        }
+      ],
+      "mnemonic": "谐音“嘶锐疼”→蛇发出尖锐嘶鸣让人疼痛，象征威胁。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常见释义",
+          "body": "威胁\n\n【2018 年英语（一）】\n\nWho will be most threatened by automation?\n\n谁会受到自动化最大的威胁？"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "后缀",
+          "body": "en-（使），常考的前缀后置单词如下：\n\nshorten vt. 缩短，缩小（short 短的）\n\nheighten vt. 提高，升高 (height 高)\n\nharden vt. 使变硬（hard 硬的）\n\nworsen vt. 使变得更坏、变得更糟，恶化（worse 更糟的）\n\nweaken vt. 削弱，减弱（weak 弱的）\n\nvictim n. 受害者；牺牲品（vict-胜利 + im-否定 → 战争中没有胜利的一方 → 受害者）"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "threat n. 威胁；恐吓；构成威胁的人 / 事物"
+        }
+      ]
+    },
+    {
+      "spelling": "harm",
+      "ipa": "/ha:rm/",
+      "senses": [
+        {
+          "pos": "n./vt.",
+          "meaning_cn": "损害，伤害"
+        }
+      ],
+      "mnemonic": "用手（hand → h）拿着武器（arm）想要伤害（harm）他人。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "作动词表示损害、损伤，且经常出现在选项中，与解题直接相关。\n\n【2019 年英语（一）】\n\n38. C. harmed fair market competition\n\n损害公平的市场竞争\n\n【2021 年英语（二）】\n\n33. C. harm the national economy\n\n损害国家经济"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "harmful adj. 有害的"
+        }
+      ]
+    },
+    {
+      "spelling": "disturb",
+      "ipa": "/dɪˈstɜːrb/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "干扰，打扰"
+        }
+      ],
+      "mnemonic": "地上（dis）有只兔子（tu）进入日本（rb），扰乱（disturb）人们生活。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常见释义",
+          "body": "打扰\n\n【2016 年英语（二）】\n\nIt would not prosecute landowner or businesses that unintentionally kill, harm, or disturb the bird, as long as they had signed a range-wide management plan to restore prairie chicken habitat.\n\n只要土地所有者或企业签署了覆盖整个区域的管理计划以恢复草原鸡栖息地，那么即便他们无意间导致草原鸡死亡、受伤或受到惊扰，也不会受到起诉。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "disturbing adj. 使人不安的；使人苦恼的\ndisturbance n.(受) 打扰，干扰；骚乱"
+        }
+      ]
+    },
+    {
+      "spelling": "retreat",
+      "ipa": "/rɪˈtriːt/",
+      "senses": [
+        {
+          "pos": "vi./n.",
+          "meaning_cn": "撤退；逃避；退缩；跌价"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "隐居处"
+        }
+      ],
+      "mnemonic": "re-（back）+ treat- = tract-（拉、拽）→ 往回 拉→撤退、逃避、退缩、跌价。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "考点点拨",
+          "body": "熟词僻义：表示“隐居处”，可以理解为“逃避现实的地方”。\n\n【2013 年英语（二）】\n\nWhen Dr. Gottman really wants to assess whether a couple will stay together, he invites them to his island retreat for a much longer evaluation.\n\n当戈特曼博士真正想要评估一对夫妻能否携手共渡难关时，他会邀请他们前往自己的岛屿隐居处接受更长时间的评估。"
+        }
+      ]
+    },
+    {
+      "spelling": "withdraw",
+      "ipa": "/wɪðˈdrɔː/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "撤退；撤回；退出；取（钱）"
+        }
+      ],
+      "mnemonic": "小偷带着 (with) 名画 (draw) 撤退 (withdraw)。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "考点点拨",
+          "body": "常见释义：撤退\n\n【2024 年英语（一）】\n\nWhy had the Romans buried a million nails? The likely explanation is that the withdrawal was rushed.\n\n罗马人为何埋下了上百万枚钉子？可能的原因是撤退行动过于仓促。"
+        }
+      ]
+    },
+    {
+      "spelling": "neglect",
+      "ipa": "/nɪ'glekt/",
+      "senses": [
+        {
+          "pos": "vt./n.",
+          "meaning_cn": "忽视；忽略"
+        }
+      ],
+      "mnemonic": "neg-（否定）+ lect-（选）→ 选人的时候没有选你，你就被忽视（neglect）了。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "常见用法",
+          "body": "neglect 通常表示并非故意的忽视。\n\n【2017 年英语（二）】\n\nIf you're failing to expose your child to 30,000 words you are neglecting them.\n\n如果你没能让孩子接触到 30,000 个单词，那你就是忽视了他们。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "negligible adj. 可忽略不计的，微不足道的 (lig- = lect- 选)"
+        }
+      ]
+    },
+    {
+      "spelling": "ignore",
+      "ipa": "/ɪɡˈnɔːr/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "忽略；忽视"
+        }
+      ],
+      "mnemonic": "谐音“一个闹”，对待一个闹脾气的人有时要选择忽视（ignore）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "常见用法",
+          "body": "ignore 通常表示故意的忽视，常用 can/should not ignore（不能、不应忽视）\n\n【2020 年英语（一）翻译】\n\nMore explanations for how the universe functioned were being made at a rate that the people could no longer ignore.\n\n关于宇宙如何运行的更多解释正在以一种人们再也无法忽视的速度不断涌现出来。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "ignorant adj. 无知的（什么都不知道→无知）"
+        }
+      ]
+    },
+    {
+      "spelling": "overlook",
+      "ipa": "/ˌoʊvərˈlʊk/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "监督；俯瞰；忽视"
+        }
+      ],
+      "mnemonic": "over（在上面；跨过）+ look（看）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常见释义",
+          "body": "忽视\n\n【2016 年英语（一）】\n\n35. C. Its negative effects on businesses are often overlooked.\n\n它对企业的负面影响经常被忽视。"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "常见用法",
+          "body": "overlook 既可以表示故意的忽视，也可以表示非故意的忽视，常与 ignore, neglect 进行同义替换。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "oversee vt. 监督 (over 在上面 + see 看 → 监督)\n\nsupervise vt. 监督（super- 在上面 + vis- 看 → 监督）"
+        }
+      ]
+    },
+    {
+      "spelling": "cut",
+      "ipa": "/kʌt/",
+      "senses": [
+        {
+          "pos": "n./v.",
+          "meaning_cn": "切，割，削，砍; 砍掉; 削减"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "切口，伤口"
+        }
+      ],
+      "mnemonic": "伤口（cut）是被切割（cut）开的。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常见释义",
+          "body": "削减\n\n【2018 年英语（一）】\n\nTaxes on low-wage labor need to be cut.\n\n低工资劳动者的税负需要被削减。"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "cut down = cut back = scale back = scale down 削减，\n减小，缩小\n\n【2022 年英语（二）】\n\nYou might have to cut down on the amount of exercise or sport you do.\n\n你可能不得不减少你的运动量。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "【2024 年英语（一）、2023 年和 2025 年英语（二）】\nshortcut n. 捷径\n\n【2016 年英语（一）、2015 年英语（二）】\n\nclear-cut adj. 明确的，确切的\n\n【2021、2023、2024 年英语（二）】\n\nundercut vt. 削弱"
+        }
+      ]
+    },
+    {
+      "spelling": "undermine",
+      "ipa": "/ˌʌndərˈmaɪn/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "暗中破坏；逐渐削弱"
+        }
+      ],
+      "mnemonic": "under-（下）+ mine（地雷）→ 在下面埋地雷→ 暗中破坏、逐渐削弱。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "考点点拨",
+          "body": "常见释义：削弱\n\n【2017 年英语（一）】\n\nBut demanding too much of air travelers or providing too little security in return undermines public support for the process.\n\n但是，对航空旅客提出太多要求或者提供太少的安保措施，都会削弱公众对于该程序的支持。"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L19-01",
+      "kind": "single",
+      "stem": "However, there is another important part of the jobs picture that was largely overlooked. There was a big jump in the number of people who report voluntarily working part-time. Which part of the jobs picture was neglected?",
+      "options": [
+        "The prospect of a thriving job market",
+        "The increase of voluntary part-time jobs",
+        "The possibility of full employment",
+        "The acceleration of job creation"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "overlook",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-02",
+      "kind": "single",
+      "stem": "The manager admitted having ____ the safety violations in the factory inspection report, but insisted it was an unintentional omission rather than a deliberate attempt to ____ the issue.",
+      "options": [
+        "ignored ... supervise",
+        "overlooked ... ignore",
+        "neglected ... oversee",
+        "supervised ... neglect"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "overlook",
+          "bind": "词义"
+        },
+        {
+          "n": 2,
+          "word": "ignore",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-03",
+      "kind": "single",
+      "stem": "The board decided to ____ the final decision until next quarter, as they needed more time to evaluate the potential risks of this ____ but crucial infrastructure upgrade.",
+      "options": [
+        "delay... deferred",
+        "defer... delayed",
+        "postpone... postponing",
+        "delay... delaying"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "delay",
+          "bind": "词义"
+        },
+        {
+          "n": 2,
+          "word": "delay",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-04",
+      "kind": "single",
+      "stem": "The ____ news about the pandemic caused widespread panic, while the ____ individual was sent to a psychiatric hospital for treatment. The government declared a state of emergency due to the violent ____ in the capital.",
+      "options": [
+        "disturbed; disturbing; disturbances",
+        "disturbances; disturbed; disturbing",
+        "disturbing; disturbed; disturbances",
+        "disturbed; disturbances; disturbing"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "disturb",
+          "bind": "词形"
+        },
+        {
+          "n": 2,
+          "word": "disturb",
+          "bind": "词形"
+        },
+        {
+          "n": 3,
+          "word": "disturb",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-05",
+      "kind": "single",
+      "stem": "The rising sea levels ____ to submerge coastal cities by 2050 if no action is taken.",
+      "options": [
+        "pretend",
+        "intend",
+        "threaten",
+        "extend"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "threaten",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-06",
+      "kind": "fill",
+      "stem": "Companies can also optimize their own energy use and cut ____ on the cost of electricity. (填入介词)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "down"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "cut",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-07",
+      "kind": "fill",
+      "stem": "Soviet citizens were prohibited from ____ abroad.(travel)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "travelling",
+        "traveling"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "prohibit",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-08",
+      "kind": "fill",
+      "stem": "Unfortunately, L.A. Unified has produced an inflexible policy which mandates that with the ____ of some advanced courses, homework may no longer count for more than 10% of a student's academic grade.(except)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "exception"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "except",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-09",
+      "kind": "fill",
+      "stem": "The police are very unwilling to interfere ____ family problems. (填入介词)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "in"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "interfere",
+          "bind": "介词"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-10",
+      "kind": "fill",
+      "stem": "The selection committee established three key ____ for the scholarship: academic excellence, leadership potential, and financial need.(criterion)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "criteria"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "criterion",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-11",
+      "kind": "fill",
+      "stem": "Lack of funding remains the biggest obstacle ____ the completion of this research project. (填入介词)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "to"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "obstacle",
+          "bind": "介词"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-12",
+      "kind": "fill",
+      "stem": "The constant barrage of smartphone notifications has become a pervasive ____ in modern workplaces, significantly eroding employees' cognitive focus and productivity.(distract)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "distraction"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "distract",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-13",
+      "kind": "fill",
+      "stem": "The pervasive use of algorithmic recommendation systems, while enhancing user engagement, may cultivate ____ information cocoons that systematically exclude dissenting viewpoints and ultimately erode democratic discourse. (harm)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "harmful"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "harm",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-14",
+      "kind": "translate_sentence",
+      "stem": "Many older drivers don't see eye doctors or can't afford to.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "afford",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-15",
+      "kind": "translate_sentence",
+      "stem": "Why had the Romans buried a million nails? The likely explanation is that the withdrawal was rushed.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "withdraw",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-16",
+      "kind": "translate_sentence",
+      "stem": "The CEO tolerated no interruption during board meetings, insisting all questions be submitted in writing beforehand.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "interrupt",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-17",
+      "kind": "translate_sentence",
+      "stem": "Many students experience increased academic burden during final exam weeks, requiring effective stress management techniques.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "burden",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-18",
+      "kind": "translate_sentence",
+      "stem": "Constant criticism can undermine a child's self-confidence over time.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "undermine",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-19",
+      "kind": "translate_word",
+      "stem": "Our bodies know how to heal a [cut] or mend a broken bone.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "cut",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-20",
+      "kind": "translate_word",
+      "stem": "The New York Times published a penetrating [criticism] of the novelist's latest work, analyzing its postmodern narrative techniques.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "criticism",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-21",
+      "kind": "translate_word",
+      "stem": "The mountain cabin served as her perfect [retreat] from the chaos of city life, where she could paint undisturbed for weeks.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "retreat",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L19-22",
+      "kind": "translate_word",
+      "stem": "The UN's armed [intervention] in the regional conflict, though ostensibly aimed at peacekeeping, inadvertently prolonged the humanitarian crisis by disrupting local supply chains.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "intervene",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

@@ -1,0 +1,4252 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.036,
+            0.036,
+            0.106,
+            0.069
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.12,
+            0.045,
+            0.379,
+            0.062
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.41,
+            0.045,
+            0.515,
+            0.061
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.433,
+            0.09,
+            0.593,
+            0.12
+          ],
+          "level": 2,
+          "content": "因果影响"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.365,
+            0.146,
+            0.408,
+            0.177
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_4.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.417,
+            0.151,
+            0.642,
+            0.171
+          ],
+          "level": 2,
+          "content": "List 21 怀疑与依赖"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.2,
+            0.232,
+            0.219
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.226,
+            0.519,
+            0.243
+          ],
+          "content": "情节发展：市场洞察→资本考验→技术突破→商业成功"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.095,
+            0.276,
+            0.17,
+            0.291
+          ],
+          "level": 2,
+          "content": "市场洞察"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.294,
+            0.709,
+            0.33
+          ],
+          "content": "行业报告 indicate(表明) AI 教育需求激增，李明预见其背后市场，intend(打算) 开发智能学习系统。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.094,
+            0.361,
+            0.17,
+            0.377
+          ],
+          "level": 2,
+          "content": "资本考验"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.38,
+            0.709,
+            0.436
+          ],
+          "content": "产品进行路演时，投资人 contempt（不屑）的表情充斥着 doubt/suspect（怀疑），但李明克制反驳的 impulse（冲动）。同领域对手以高薪 tempt（引诱）他加入，他选择参加创业 contest（大赛）来 compete（竞争）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.094,
+            0.456,
+            0.17,
+            0.472
+          ],
+          "level": 2,
+          "content": "技术突破"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.476,
+            0.709,
+            0.532
+          ],
+          "content": "团队 depend（依赖）的算法遇到 challenge（挑战），匆忙 attempt（尝试）新的解决方案。工程师经过 speculate（推测），tend（倾向于）简化功能，但李明坚持:“我们要 rely（依靠）真实用户 appetite（需求）来优化。”"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.094,
+            0.569,
+            0.17,
+            0.585
+          ],
+          "level": 2,
+          "content": "商业成功"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.588,
+            0.709,
+            0.625
+          ],
+          "content": "产品上线后因创新设计获得认可，印证了他最初的 anticipate（预见）。李明明白：成功不能仅靠 predict（预测），更需要持续创新。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.722,
+            0.254,
+            0.928,
+            0.647
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_16.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.679,
+            0.229,
+            0.7
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.728,
+            0.254,
+            0.743
+          ],
+          "content": "indicate /'ɪndɪkeɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.747,
+            0.205,
+            0.763
+          ],
+          "content": "vt. 表明，显示"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.77,
+            0.488,
+            0.805
+          ],
+          "content": "妙记:in-（指向）+dic-（说、表达）+-ate（动词后缀）→指着某个方向说→indicate（表明、显示）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.21,
+            0.811,
+            0.359,
+            0.914
+          ],
+          "sub_type": "text_image",
+          "content": "I?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI?\nI",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_21.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.541,
+            0.727,
+            0.641,
+            0.748
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.756,
+            0.687,
+            0.772
+          ],
+          "content": "①常见释义：表明"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.538,
+            0.775,
+            0.698,
+            0.791
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.795,
+            0.93,
+            0.829
+          ],
+          "content": "33. The author indicates in Paragraph 3 that earned media \\_\\_\\_\\_."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.832,
+            0.822,
+            0.849
+          ],
+          "content": "作者在第三段表明，盈利媒体 \\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.851,
+            0.698,
+            0.867
+          ],
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.871,
+            0.884,
+            0.887
+          ],
+          "content": "22. Alfred Marshall is quoted to indicate \\_\\_\\_\\_."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.89,
+            0.879,
+            0.907
+          ],
+          "content": "阿尔弗雷德·马歇尔被引述用来表明 \\_\\_\\_\\_。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.049,
+            0.94,
+            0.087,
+            0.956
+          ],
+          "content": "214/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.097,
+            0.939,
+            0.127,
+            0.956
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.129,
+            0.94,
+            0.181,
+            0.955
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.853,
+            0.006,
+            0.959,
+            0.043
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.066,
+            0.151,
+            0.081
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.084,
+            0.367,
+            0.1
+          ],
+          "content": "index n. 指数（表明某个指标的数值）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.103,
+            0.468,
+            0.139
+          ],
+          "content": "③ index 的复数形式，可以写成 indexes, 也可以写成 indices。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.143,
+            0.151,
+            0.159
+          ],
+          "content": "【2006 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.163,
+            0.47,
+            0.198
+          ],
+          "content": "Today's social indices hardly suggest a dark and deteriorating social environment."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.201,
+            0.469,
+            0.237
+          ],
+          "content": "如今的社会指标几乎无法表明社会环境正处于黑暗且不断恶化的状态。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.266,
+            0.224,
+            0.282
+          ],
+          "content": "predict /pri'dikt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.285,
+            0.189,
+            0.301
+          ],
+          "content": "vt. 预言，预测"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.312,
+            0.469,
+            0.348
+          ],
+          "content": "妙记:pre-（前）+ dict-（说）→ 事情发生之前，就把它说出来 → predict（预测）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.359,
+            0.168,
+            0.381
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.387,
+            0.468,
+            0.423
+          ],
+          "content": "①衍生形式:mispredict, mis- 表示错误的，单词表示“错误预测”，考纲中没有，但不能算超纲词。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.427,
+            0.225,
+            0.443
+          ],
+          "content": "【2011 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.448,
+            0.47,
+            0.484
+          ],
+          "content": "Ralph Rapson may have mispredicted how the mechanical revolution would impact everyday life."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.486,
+            0.469,
+            0.522
+          ],
+          "content": "拉尔夫·拉普森可能错误预测了这场机械革命会对日常生活产生何种影响。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.526,
+            0.151,
+            0.541
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.546,
+            0.215,
+            0.561
+          ],
+          "content": "prediction n. 预测"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.565,
+            0.405,
+            0.582
+          ],
+          "content": "predictable adj. 可预测的（-able 能、可以）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.585,
+            0.394,
+            0.601
+          ],
+          "content": "unpredictable adj. 不可预测的（un-否定）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.629,
+            0.27,
+            0.645
+          ],
+          "content": "anticipate /ænˈtɪsɪpert/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.649,
+            0.141,
+            0.664
+          ],
+          "content": "vt. 预测"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.672,
+            0.47,
+            0.728
+          ],
+          "content": "妙记:ant-（前）+cip-（抓、拿）+-ate（动词后缀）→事情发生之前，就把它拿出来→提前感知→anticipate（预测）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.738,
+            0.168,
+            0.76
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.766,
+            0.212,
+            0.782
+          ],
+          "content": "①常见释义：预测"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.786,
+            0.224,
+            0.803
+          ],
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.807,
+            0.469,
+            0.843
+          ],
+          "content": "And to anticipate every imaginable driving situation is a difficult programming problem."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.845,
+            0.468,
+            0.881
+          ],
+          "content": "并且，要预测出所有可能的驾驶场景，这其实是一个复杂的编程难题。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.884,
+            0.151,
+            0.899
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.904,
+            0.227,
+            0.92
+          ],
+          "content": "anticipation n. 预测"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.067,
+            0.718,
+            0.083
+          ],
+          "content": "speculate /'spekjuleit/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.086,
+            0.643,
+            0.101
+          ],
+          "content": "v. 推测；猜测"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.108,
+            0.923,
+            0.144
+          ],
+          "content": "妙记:spec-（看）+ u（你）+ late（以后）→ 妈妈\n看着孩子想着“你的以后会是什么样？”→推测。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.658,
+            0.146,
+            0.785,
+            0.237
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a smiling woman holding a baby under a glowing halo (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_32.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.242,
+            0.621,
+            0.264
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.271,
+            0.666,
+            0.287
+          ],
+          "content": "①常见释义：推测"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.29,
+            0.678,
+            0.307
+          ],
+          "content": "【2017 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.311,
+            0.925,
+            0.345
+          ],
+          "content": "People have speculated for centuries about a future without work."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.349,
+            0.922,
+            0.366
+          ],
+          "content": "数百年来，人们一直在猜测未来不再需要工作的情景。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.37,
+            0.602,
+            0.386
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.39,
+            0.676,
+            0.406
+          ],
+          "content": "speculation n. 推测"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.41,
+            0.873,
+            0.427
+          ],
+          "content": "speculative adj. 推测（性）的；猜测（性）的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.455,
+            0.683,
+            0.47
+          ],
+          "content": "suspect /səˈspekt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.474,
+            0.673,
+            0.489
+          ],
+          "content": "vt. 怀疑 n. 嫌疑犯"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.497,
+            0.924,
+            0.553
+          ],
+          "content": "妙记:su- = sub-（下）+ spec-（看）→ 从下往上看（翻白眼）→ 用不屑、无语的表情来表示怀疑（suspect）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.66,
+            0.558,
+            0.78,
+            0.644
+          ],
+          "sub_type": "text_image",
+          "content": "这怎么可能。\n这怎么可能。",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_44.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.522,
+            0.648,
+            0.62,
+            0.669
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.676,
+            0.922,
+            0.712
+          ],
+          "content": "①常见用法:suspect 指的是认为某件事可能是真的或可能会发生，只是证据不足。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.715,
+            0.603,
+            0.731
+          ],
+          "content": "【2009 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.736,
+            0.924,
+            0.789
+          ],
+          "content": "We have to suspect that continuing economic growth promotes the development of education even when governments don't force it."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.792,
+            0.922,
+            0.827
+          ],
+          "content": "我们不得不怀疑，即便政府没有强制，持续的经济增长也会促进教育的发展。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.83,
+            0.619,
+            0.846
+          ],
+          "content": "②固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.849,
+            0.836,
+            0.865
+          ],
+          "content": "suspect sb. of doing sth. 怀疑某人做某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.869,
+            0.922,
+            0.902
+          ],
+          "content": "The teacher suspected the student of cheating during the exam."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.905,
+            0.779,
+            0.921
+          ],
+          "content": "老师怀疑这名学生在考试中作弊。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.821,
+            0.939,
+            0.902,
+            0.956
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.91,
+            0.941,
+            0.953,
+            0.956
+          ],
+          "content": "/215"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.015,
+            0.02,
+            0.087,
+            0.052
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.102,
+            0.027,
+            0.371,
+            0.045
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.405,
+            0.027,
+            0.514,
+            0.044
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.076,
+            0.15,
+            0.091
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.095,
+            0.316,
+            0.111
+          ],
+          "content": "suspicious adj. 怀疑的；可疑的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.115,
+            0.202,
+            0.13
+          ],
+          "content": "suspicion n. 怀疑"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.153,
+            0.194,
+            0.168
+          ],
+          "content": "doubt /daut/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.173,
+            0.159,
+            0.188
+          ],
+          "content": "vt./n. 怀疑"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.195,
+            0.483,
+            0.23
+          ],
+          "content": "妙记：谐音“盗它”→我怀疑（doubt）你“盗”走了它→doubt（怀疑）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.209,
+            0.236,
+            0.339,
+            0.322
+          ],
+          "sub_type": "text_image",
+          "content": "负怀疑你道贪的。",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_9.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.065,
+            0.327,
+            0.168,
+            0.348
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.355,
+            0.167,
+            0.37
+          ],
+          "content": "①常见用法："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.374,
+            0.484,
+            0.409
+          ],
+          "content": "写作常用句型:There's no doubt that... 毫无疑问……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.413,
+            0.227,
+            0.43
+          ],
+          "content": "【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.434,
+            0.484,
+            0.467
+          ],
+          "content": "There's no doubt that our peer groups exert enormous influence on our behavior."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.472,
+            0.484,
+            0.507
+          ],
+          "content": "毫无疑问，我们的同龄人群体会对我们的行为施加巨大的影响。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.511,
+            0.168,
+            0.526
+          ],
+          "content": "②易错提醒："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.53,
+            0.484,
+            0.566
+          ],
+          "content": "doubtless 不是形容词，而是副词，表示“几乎可以肯定的是” (without any doubt)。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.569,
+            0.227,
+            0.585
+          ],
+          "content": "【2020 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.59,
+            0.484,
+            0.624
+          ],
+          "content": "Doubtless, a piece of boiled beef can always be served up on Sunday."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.627,
+            0.484,
+            0.662
+          ],
+          "content": "几乎可以肯定的是，一片煮牛肉永远都可以在星期日被供应。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.666,
+            0.186,
+            0.682
+          ],
+          "content": "③常见派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.686,
+            0.484,
+            0.72
+          ],
+          "content": "doubtful adj.（某人）持怀疑态度的，不确定的；（某事）令人怀疑的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.725,
+            0.168,
+            0.74
+          ],
+          "content": "④固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.745,
+            0.277,
+            0.759
+          ],
+          "content": "cast doubt/doubts on 怀疑"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.763,
+            0.484,
+            0.798
+          ],
+          "content": "\\- cast doubt on 强调对某事的整体可信度或真实性提出疑问，通常指笼统的怀疑，更常用。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.803,
+            0.431,
+            0.818
+          ],
+          "content": "The scientist's findings cast doubt on the theory."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.821,
+            0.373,
+            0.837
+          ],
+          "content": "这位科学家的发现使该理论受到质疑。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.841,
+            0.484,
+            0.875
+          ],
+          "content": "\\- cast doubts on 强调对多个具体方面的怀疑，可能列举不同细节或问题。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.879,
+            0.227,
+            0.895
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.899,
+            0.484,
+            0.914
+          ],
+          "content": "Many young Americans cast doubts on social media as"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.076,
+            0.731,
+            0.089
+          ],
+          "content": "a reliable source of news."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.093,
+            0.939,
+            0.129
+          ],
+          "content": "许多美国年轻人对社交媒体作为可靠新闻来源这一点表示怀疑。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.538,
+            0.133,
+            0.795,
+            0.148
+          ],
+          "content": "⑤近义词辨析:suspect & doubt"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.151,
+            0.94,
+            0.187
+          ],
+          "content": "\\- suspect 指的是认为某件事可能是真的或可能会发生，只是证据不足；"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.19,
+            0.941,
+            0.245
+          ],
+          "content": "\\- doubt 表示认为某事可能不是真的或不可能发生。The worthy residents of Stratford doubt that the theatre adds a penny to their revenue."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.247,
+            0.942,
+            0.283
+          ],
+          "content": "斯特拉特福德的那些颇有见识的居民认为，剧院丝毫没有增加他们的收入。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.538,
+            0.288,
+            0.661,
+            0.303
+          ],
+          "content": "⑥其他派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.538,
+            0.307,
+            0.847,
+            0.323
+          ],
+          "content": "undoubtedly adv. 毫无疑问（un-否定）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.55,
+            0.351,
+            0.657,
+            0.365
+          ],
+          "content": "tend /tend/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.551,
+            0.37,
+            0.635,
+            0.385
+          ],
+          "content": "vt. 倾向于"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.55,
+            0.392,
+            0.942,
+            0.428
+          ],
+          "content": "妙记:t（他）+ end（终点）→他最终会走向某个终点→tend（倾向于）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.541,
+            0.439,
+            0.645,
+            0.46
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.467,
+            0.89,
+            0.482
+          ],
+          "content": "①常见用法:tend to do sth. 倾向于做某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.486,
+            0.704,
+            0.502
+          ],
+          "content": "【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.507,
+            0.941,
+            0.541
+          ],
+          "content": "Economic growth tends to cause environmental degradation."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.538,
+            0.545,
+            0.813,
+            0.56
+          ],
+          "content": "经济增长倾向于导致环境的恶化。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.564,
+            0.625,
+            0.58
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.538,
+            0.584,
+            0.736,
+            0.6
+          ],
+          "content": "tendency n. 倾向，趋势"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.55,
+            0.628,
+            0.694,
+            0.642
+          ],
+          "content": "intend /ɪnˈtend/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.55,
+            0.646,
+            0.704,
+            0.662
+          ],
+          "content": "vt. 计划做，打算做"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.549,
+            0.67,
+            0.942,
+            0.705
+          ],
+          "content": "妙记:in-（向内、在内）+ tend（倾向）→ 内心的倾向 → 计划、打算。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.541,
+            0.715,
+            0.645,
+            0.736
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.744,
+            0.887,
+            0.759
+          ],
+          "content": "①常见用法:intend to do sth. 打算做某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.763,
+            0.704,
+            0.779
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.784,
+            0.942,
+            0.818
+          ],
+          "content": "Justices intended to check the power of the Administration\n大法官打算核查联邦政府的权力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.821,
+            0.942,
+            0.856
+          ],
+          "content": "intended 表示“想要……的”，具体翻译取决于它修饰的名词。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.86,
+            0.744,
+            0.876
+          ],
+          "content": "【英语（一）大作文导语】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.881,
+            0.758,
+            0.896
+          ],
+          "content": "explain its intended meaning"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.899,
+            0.765,
+            0.914
+          ],
+          "content": "解释一下它想要表达的含义"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.028,
+            0.938,
+            0.075,
+            0.953
+          ],
+          "content": "216/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.081,
+            0.936,
+            0.111,
+            0.953
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.113,
+            0.938,
+            0.166,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.853,
+            0.015,
+            0.962,
+            0.052
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.068,
+            0.232,
+            0.086
+          ],
+          "content": "【2013 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.088,
+            0.376,
+            0.105
+          ],
+          "content": "the European Union's intended legislation"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.107,
+            0.237,
+            0.123
+          ],
+          "content": "欧盟想要促成的立法"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.126,
+            0.153,
+            0.142
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.145,
+            0.355,
+            0.162
+          ],
+          "content": "intention n. 计划，打算，目的，意图"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.165,
+            0.275,
+            0.181
+          ],
+          "content": "intended adj. 想要……的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.184,
+            0.254,
+            0.2
+          ],
+          "content": "intentional adj. 故意的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.204,
+            0.29,
+            0.22
+          ],
+          "content": "unintentional adj. 非故意的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.243,
+            0.236,
+            0.259
+          ],
+          "content": "impulse /'ɪmpʌls/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.262,
+            0.192,
+            0.278
+          ],
+          "content": "n. 冲动；刺激"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.286,
+            0.474,
+            0.322
+          ],
+          "content": "妙记:im-（向内）+ pulse（脉冲）= impulse，心里的脉冲，就是冲动 / 刺激。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.333,
+            0.17,
+            0.354
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.361,
+            0.168,
+            0.377
+          ],
+          "content": "①常见用法："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.381,
+            0.375,
+            0.397
+          ],
+          "content": "an/the impulse to do sth. 做某事的冲动"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.402,
+            0.474,
+            0.437
+          ],
+          "content": "The delicious aroma of coffee gave him the impulse to buy an extra cup."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.44,
+            0.351,
+            0.457
+          ],
+          "content": "咖啡的香味让他冲动地想多买一杯。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.46,
+            0.151,
+            0.476
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.48,
+            0.354,
+            0.496
+          ],
+          "content": "impulsive adj. 冲动的；容易冲动的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.499,
+            0.227,
+            0.516
+          ],
+          "content": "【2013 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.52,
+            0.474,
+            0.576
+          ],
+          "content": "Impulsive spending isn't an option. So plan your week's menu in advance, making shopping lists for your ingredients in their exact quantities."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.578,
+            0.472,
+            0.615
+          ],
+          "content": "冲动消费不是一种选择。所以提前计划好你一周的菜单，为你的食材制作准确数量的购物清单。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.638,
+            0.245,
+            0.655
+          ],
+          "content": "compete /kəm'pi:t/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.657,
+            0.191,
+            0.673
+          ],
+          "content": "vi. 竞争，竞赛"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.68,
+            0.474,
+            0.717
+          ],
+          "content": "妙记:com-（一起）+ pete（比它），一起比它，就是竞争。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.727,
+            0.17,
+            0.748
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.755,
+            0.168,
+            0.772
+          ],
+          "content": "①常见用法："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.775,
+            0.294,
+            0.791
+          ],
+          "content": "\\- compete with 与……竞争"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.793,
+            0.227,
+            0.81
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.814,
+            0.39,
+            0.829
+          ],
+          "content": "compete with a future army of programmers"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.831,
+            0.269,
+            0.848
+          ],
+          "content": "与未来的程序员大军竞争"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.851,
+            0.301,
+            0.867
+          ],
+          "content": "\\- compete for 为了……竞争"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.868,
+            0.225,
+            0.886
+          ],
+          "content": "【2011 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.89,
+            0.32,
+            0.906
+          ],
+          "content": "competing for the leading position"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.906,
+            0.18,
+            0.923
+          ],
+          "content": "争夺领先地位"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.071,
+            0.642,
+            0.087
+          ],
+          "content": "②形容词区分："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.091,
+            0.926,
+            0.125
+          ],
+          "content": "\\- competitive adj. 竞争性的；有竞争力的（强调竞争属性）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.128,
+            0.682,
+            0.144
+          ],
+          "content": "【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.148,
+            0.818,
+            0.164
+          ],
+          "content": "anti-competitive behavior 反竞争行为"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.167,
+            0.926,
+            0.183
+          ],
+          "content": "\\- competent adj. 有能力的；胜任的（不直接涉及竞争）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.185,
+            0.682,
+            0.201
+          ],
+          "content": "【2010 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.205,
+            0.903,
+            0.239
+          ],
+          "content": "All citizens are equally competent to serve on juries.\n所有公民都有同等的能力担任陪审团成员。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.242,
+            0.608,
+            0.257
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.261,
+            0.734,
+            0.276
+          ],
+          "content": "competition n. 竞争，竞赛"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.28,
+            0.743,
+            0.295
+          ],
+          "content": "competitor n. 对手，竞争者"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.298,
+            0.84,
+            0.314
+          ],
+          "content": "competitive adj. 竞争性的；有竞争力的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.317,
+            0.824,
+            0.333
+          ],
+          "content": "competent adj. 有竞争力的，能胜任的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.352,
+            0.692,
+            0.367
+          ],
+          "content": "contest /'kɑːntest/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.371,
+            0.643,
+            0.387
+          ],
+          "content": "n. 竞争，竞赛"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.394,
+            0.931,
+            0.431
+          ],
+          "content": "妙记：参加竞赛（contest）就是一群人一起（con-）参加测试（test），这也是一种竞争（contest）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.526,
+            0.437,
+            0.627,
+            0.458
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.464,
+            0.882,
+            0.48
+          ],
+          "content": "①考研英语小作文中经常出现，常为“比赛”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.483,
+            0.687,
+            0.499
+          ],
+          "content": "【英语（一）小作文】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.502,
+            0.803,
+            0.518
+          ],
+          "content": "English speech contest 英语演讲比赛"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.521,
+            0.712,
+            0.537
+          ],
+          "content": "singing contest 歌咏比赛"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.54,
+            0.867,
+            0.556
+          ],
+          "content": "international innovation contest 国际创新比赛"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.558,
+            0.687,
+            0.574
+          ],
+          "content": "【英语（二）小作文】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.578,
+            0.735,
+            0.593
+          ],
+          "content": "translation contest 翻译比赛"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.596,
+            0.901,
+            0.612
+          ],
+          "content": "②形容词衍生形式：contested 表示“有争议的”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.615,
+            0.682,
+            0.631
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.635,
+            0.931,
+            0.689
+          ],
+          "content": "In Arizona v. United States, the majority overturned three of the four contested provisions of Arizona's controversial plan."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.691,
+            0.929,
+            0.727
+          ],
+          "content": "在“亚利桑那州诉美国案”中，多数派推翻了亚利桑那州颇具争议的计划中四项争议条款中的三项。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.746,
+            0.692,
+            0.763
+          ],
+          "content": "appetite /'æpɪtaɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.765,
+            0.695,
+            0.781
+          ],
+          "content": "n. 食欲，胃口；欲望"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.788,
+            0.916,
+            0.825
+          ],
+          "content": "妙记：谐音“爱陪太太”。他食欲（appetite）大增，\n爱（a）陪（ppe）太太（tite）去买吃的。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.663,
+            0.829,
+            0.789,
+            0.918
+          ],
+          "sub_type": "natural_image",
+          "content": "Street scene with pedestrians and storefronts at dusk (no visible text or signage)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_65.jpg"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.827,
+            0.937,
+            0.879,
+            0.953
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.881,
+            0.937,
+            0.91,
+            0.955
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.919,
+            0.939,
+            0.96,
+            0.954
+          ],
+          "content": "/217"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.041,
+            0.04,
+            0.108,
+            0.072
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.123,
+            0.049,
+            0.375,
+            0.066
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.407,
+            0.049,
+            0.51,
+            0.066
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.097,
+            0.187,
+            0.117
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.124,
+            0.232,
+            0.139
+          ],
+          "content": "①常见释义：食欲"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.143,
+            0.242,
+            0.158
+          ],
+          "content": "【2017 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.162,
+            0.465,
+            0.177
+          ],
+          "content": "27. A. takes away babies' appetite 夺走婴儿的食欲"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.181,
+            0.48,
+            0.215
+          ],
+          "content": "②熟词僻义：该单词在现代英语中，可以表示各种欲望，而不仅仅是食欲。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.219,
+            0.241,
+            0.235
+          ],
+          "content": "【2014 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.239,
+            0.481,
+            0.273
+          ],
+          "content": "Technology has an insatiable appetite for eating up human jobs."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.276,
+            0.395,
+            0.292
+          ],
+          "content": "技术有着吞噬人类工作岗位的贪婪欲望。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.314,
+            0.272,
+            0.331
+          ],
+          "content": "challenge /'tʃælɪndʒ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.333,
+            0.481,
+            0.35
+          ],
+          "content": "n. 挑战，难题; 质疑;【法】质询 v. 向……挑战; 质疑"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.356,
+            0.481,
+            0.391
+          ],
+          "content": "妙记：谐音“采灵芝”，采灵芝是一个巨大的挑战（challenge）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.221,
+            0.397,
+            0.35,
+            0.487
+          ],
+          "sub_type": "natural_image",
+          "content": "Silhouette of a person climbing a steep, misty cliff against a blue sky (no text or symbols visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_14.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.492,
+            0.187,
+            0.512
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.518,
+            0.231,
+            0.534
+          ],
+          "content": "①常见释义：质疑"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.537,
+            0.242,
+            0.553
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.557,
+            0.483,
+            0.648
+          ],
+          "content": "Instead, the company has done precisely what it had long promised it would not: challenge the constitutionality of Vermont's rules in the federal court. 相反，该公司却恰恰做了它长期以来一直承诺不会做的事：在联邦法院质疑佛蒙特州规定的合宪性。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.651,
+            0.319,
+            0.666
+          ],
+          "content": "②其他释义：遇到的各种难题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.67,
+            0.242,
+            0.686
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.69,
+            0.42,
+            0.705
+          ],
+          "content": "All of these countries face their own challenge."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.708,
+            0.361,
+            0.723
+          ],
+          "content": "所有这些国家都面对着自己的难题。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.727,
+            0.168,
+            0.742
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.746,
+            0.29,
+            0.762
+          ],
+          "content": "challenging adj. 有挑战的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.765,
+            0.242,
+            0.781
+          ],
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.785,
+            0.47,
+            0.819
+          ],
+          "content": "27. C. To prepare graduates for a challenging future.\n为让毕业生们为充满挑战的未来做好准备。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.841,
+            0.219,
+            0.856
+          ],
+          "content": "tempt /tempt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.859,
+            0.254,
+            0.875
+          ],
+          "content": "vt. 诱惑，引诱，劝诱"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.881,
+            0.347,
+            0.898
+          ],
+          "content": "妙记：特（te）卖（m）平台（pt）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.9,
+            0.476,
+            0.916
+          ],
+          "content": "商家通过“特卖平台”诱惑（tempt）消费者消费。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.095,
+            0.631,
+            0.116
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.123,
+            0.779,
+            0.139
+          ],
+          "content": "①常考用法:be tempted to do sth."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.141,
+            0.909,
+            0.176
+          ],
+          "content": "直接翻译为“被诱惑做某事”，实际上就是“很想做某事”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.18,
+            0.687,
+            0.196
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.2,
+            0.909,
+            0.233
+          ],
+          "content": "You might even be tempted to assume that humanity has little future to look forward to."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.236,
+            0.909,
+            0.271
+          ],
+          "content": "你甚至可能想要认为，人类似乎没有什么美好的未来可期待了。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.275,
+            0.613,
+            0.29
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.294,
+            0.727,
+            0.31
+          ],
+          "content": "temptation n. 诱惑，引诱"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.337,
+            0.694,
+            0.352
+          ],
+          "content": "attempt /ə'tempt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.544,
+            0.355,
+            0.67,
+            0.37
+          ],
+          "content": "vt./n. 尝试，企图"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.38,
+            0.91,
+            0.417
+          ],
+          "content": "妙记：俺（a）进入特（tte）卖（m）平台（pt），这是一次全新尝试（attempt）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.426,
+            0.632,
+            0.447
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.453,
+            0.909,
+            0.487
+          ],
+          "content": "常见用法:attempt to do sth.= try to do sth. 尝试做某事，企图做某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.491,
+            0.687,
+            0.507
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.511,
+            0.909,
+            0.545
+          ],
+          "content": "Arizona had attempted to fashion state policies that  $^{143}$  parallel to the existing federal ones."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.548,
+            0.906,
+            0.564
+          ],
+          "content": "亚利桑那州试图制定和先行联邦法律平行的州省政策"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.591,
+            0.724,
+            0.607
+          ],
+          "content": "contempt /kən'tempt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.544,
+            0.61,
+            0.649,
+            0.625
+          ],
+          "content": "n. 轻视，藐视"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.635,
+            0.91,
+            0.69
+          ],
+          "content": "妙记:con-（共同）+ tempt（谐音：特卖平台）所有东西都要在特卖平台上一起购买，就会被人看不起（contempt）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.699,
+            0.632,
+            0.72
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.727,
+            0.676,
+            0.742
+          ],
+          "content": "①常见释义：轻蔑"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.745,
+            0.687,
+            0.761
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.765,
+            0.912,
+            0.817
+          ],
+          "content": "I am tempted to define “ journalism ” as “ a term of contempt applied by writers who are not read to writers who are ” ."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.821,
+            0.912,
+            0.856
+          ],
+          "content": "我很想将“新闻业”定义为“那些不受读者欢迎的作家对受欢迎的作家作出的轻蔑之词”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.859,
+            0.614,
+            0.874
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.878,
+            0.912,
+            0.912
+          ],
+          "content": "contemptible adj. 可轻蔑的，卑劣的（-ble = a|k^k 能、可以）"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.055,
+            0.938,
+            0.099,
+            0.953
+          ],
+          "content": "218/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.102,
+            0.936,
+            0.131,
+            0.953
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.133,
+            0.938,
+            0.183,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.846,
+            0.018,
+            0.953,
+            0.055
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.077,
+            0.233,
+            0.093
+          ],
+          "content": "depend /dɪˈpend/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.096,
+            0.148,
+            0.111
+          ],
+          "content": "vi. 依靠"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.118,
+            0.469,
+            0.153
+          ],
+          "content": "妙记:de-（下）+pend-（悬挂）→攀岩时，悬挂在绳子的下面，就只能依靠（depend）这根绳子。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.212,
+            0.158,
+            0.296,
+            0.246
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_body_4.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.08,
+            0.25,
+            0.173,
+            0.272
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.279,
+            0.173,
+            0.294
+          ],
+          "content": "①常见用法："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.298,
+            0.212,
+            0.314
+          ],
+          "content": "depend on 依赖于"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.317,
+            0.229,
+            0.334
+          ],
+          "content": "【2012 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.338,
+            0.454,
+            0.372
+          ],
+          "content": "32. C. patents on genes depend much on innovation\n基因专利很大程度上依赖于创新"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.376,
+            0.154,
+            0.392
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.396,
+            0.386,
+            0.413
+          ],
+          "content": "dependent adj. 依靠的，依赖的; 从属的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.416,
+            0.334,
+            0.432
+          ],
+          "content": "be dependent on 依赖于；从属于"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.435,
+            0.23,
+            0.451
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.456,
+            0.47,
+            0.491
+          ],
+          "content": "The White House claims that its power of enforcement is dependent on the states' support."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.494,
+            0.396,
+            0.51
+          ],
+          "content": "白宫宣称，它的执行权依赖于各州的支持。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.514,
+            0.411,
+            0.53
+          ],
+          "content": "independent adj. 独立的，自主的 (in-否定)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.553,
+            0.185,
+            0.569
+          ],
+          "content": "rely /rɪˈlaɪ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.572,
+            0.296,
+            0.589
+          ],
+          "content": "vi. 依赖，依靠; 信任，信赖"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.595,
+            0.469,
+            0.632
+          ],
+          "content": "妙记:re-（往后）+ ly（音似“lie”）→信任背摔游戏中，往后躺代表依靠（rely）对方。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.212,
+            0.637,
+            0.337,
+            0.727
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of two children standing together in a grassy field, no text or symbols present",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_body_20.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.522,
+            0.077,
+            0.62,
+            0.098
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.105,
+            0.619,
+            0.12
+          ],
+          "content": "①常见用法："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.124,
+            0.678,
+            0.14
+          ],
+          "content": "rely on 依赖；信任"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.143,
+            0.675,
+            0.159
+          ],
+          "content": "【2016 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.163,
+            0.918,
+            0.198
+          ],
+          "content": "Relying on ethical persuasion rather than law to address the misuse of body ideals may be the best step."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.2,
+            0.918,
+            0.236
+          ],
+          "content": "依靠道德说服，而不是法律，去应对理想身材的误用问题，或许是最佳的做法。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.24,
+            0.749,
+            0.257
+          ],
+          "content": "②近义词辨析:depend & rely"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.259,
+            0.919,
+            0.295
+          ],
+          "content": "\\- depend 强调客观的依赖性（生存 / 功能必需），多用于："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.299,
+            0.791,
+            0.316
+          ],
+          "content": "自然规律（depend on water/oxygen）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.318,
+            0.847,
+            0.335
+          ],
+          "content": "经济 / 生存依赖（depend on salary/parents）;"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.338,
+            0.919,
+            0.373
+          ],
+          "content": "\\- rely 强调主观的信任感（对人或事物的信心），多用于："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.377,
+            0.776,
+            0.394
+          ],
+          "content": "人际关系（rely on friends/experts）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.397,
+            0.829,
+            0.413
+          ],
+          "content": "工具 / 方法（rely on technology/instinct）。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.416,
+            0.601,
+            0.433
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.436,
+            0.703,
+            0.452
+          ],
+          "content": "reliance n. 依赖；信任"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.456,
+            0.707,
+            0.472
+          ],
+          "content": "reliance on 依赖；信任"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.475,
+            0.674,
+            0.491
+          ],
+          "content": "【2011 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.495,
+            0.919,
+            0.53
+          ],
+          "content": "American papers have long been highly unusual in their reliance on ads."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.533,
+            0.879,
+            0.55
+          ],
+          "content": "长期以来，美国报纸对广告的依赖都非同寻常。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.573,
+            0.686,
+            0.589
+          ],
+          "content": "reliant adj. 依赖性的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.593,
+            0.664,
+            0.608
+          ],
+          "content": "be reliant on 依赖"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.611,
+            0.674,
+            0.627
+          ],
+          "content": "【2019 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.632,
+            0.918,
+            0.667
+          ],
+          "content": "As a result, farms have grown increasingly reliant on temporary guest workers."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.67,
+            0.843,
+            0.686
+          ],
+          "content": "结果是，农场越来越依赖临时的客座工人。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.69,
+            0.801,
+            0.706
+          ],
+          "content": "reliable adj. 可靠的（-ble 能、可以）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.709,
+            0.797,
+            0.726
+          ],
+          "content": "unreliable adj. 不可靠的（un-否定）"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.747,
+            0.219,
+            0.768
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.078,
+            0.782,
+            0.169,
+            0.799
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.809,
+            0.916,
+            0.844
+          ],
+          "content": "1. The cybersecurity team \\_\\_\\_\\_ to intercept the encrypted message before it reached the hackers, but the sophisticated firewall prevented their access."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.102,
+            0.848,
+            0.207,
+            0.864
+          ],
+          "content": "A. managed"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.848,
+            0.438,
+            0.862
+          ],
+          "content": "B. succeeded"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.848,
+            0.641,
+            0.863
+          ],
+          "content": "C. attempted"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.773,
+            0.848,
+            0.874,
+            0.862
+          ],
+          "content": "D. achieved"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.867,
+            0.915,
+            0.903
+          ],
+          "content": "2. In the extremely remote and supply-difficult medieval castle renovation research, the expedition team knows well that survival completely \\_\\_\\_\\_ on the only groundwater vein."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.103,
+            0.906,
+            0.18,
+            0.92
+          ],
+          "content": "A. relies"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.906,
+            0.423,
+            0.921
+          ],
+          "content": "B. depends"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.906,
+            0.617,
+            0.919
+          ],
+          "content": "C. counts"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.773,
+            0.906,
+            0.847,
+            0.918
+          ],
+          "content": "D. trusts"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.815,
+            0.937,
+            0.894,
+            0.954
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.906,
+            0.939,
+            0.943,
+            0.953
+          ],
+          "content": "/219"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.042,
+            0.035,
+            0.108,
+            0.069
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.124,
+            0.044,
+            0.375,
+            0.062
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.407,
+            0.044,
+            0.51,
+            0.061
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.091,
+            0.178,
+            0.108
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.087,
+            0.117,
+            0.817,
+            0.233
+          ],
+          "sub_type": "text",
+          "content": "1. The problem with open-source AI art generators is that they produce artworks in \\_\\_\\_\\_ styles.(predict)\n2. The children's faces glowed with \\_\\_\\_\\_ as they waited for the fireworks to begin.(anticipate)\n3. The article was purely \\_\\_\\_\\_, offering no concrete evidence to support its claims.(speculate)\n4. The historical artifact is authentic — experts have verified its age and origin.(doubt)\n5. The smell of freshly baked cookies was an irresistible \\_\\_\\_\\_ for the little girl on a diet.(tempt)"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.244,
+            0.176,
+            0.26
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.272,
+            0.162,
+            0.287
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.292,
+            0.405,
+            0.306
+          ],
+          "content": "1. DNT may not serve its intended purpose."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.365,
+            0.591,
+            0.38
+          ],
+          "content": "2. Renewable energy is not competitive enough with regard to its cost."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.438,
+            0.911,
+            0.472
+          ],
+          "content": "3. It tends to ignore many elements in the land community that lack commercial value, but that are essential to its healthy functioning."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.53,
+            0.755,
+            0.545
+          ],
+          "content": "4. He had an insatiable appetite for power, constantly scheming to climb the corporate ladder."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.611,
+            0.16,
+            0.625
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.629,
+            0.518,
+            0.644
+          ],
+          "content": "1. Research [indicates] that eating habits are changing fast."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.675,
+            0.788,
+            0.69
+          ],
+          "content": "2. The hero's [impulsive] rescue attempt put him in danger, yet it ultimately saved the child's life."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.721,
+            0.911,
+            0.753
+          ],
+          "content": "3. This ancient artifact's origin is still [ contested ] among archaeologists—some believe it's Greek, others insist it's Roman."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.785,
+            0.78,
+            0.8
+          ],
+          "content": "4. She couldn't hide her [contempt] for the politician's dishonest speech, rolling her eyes openly."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.831,
+            0.542,
+            0.845
+          ],
+          "content": "5. Business method patents are immune to legal [challenges]."
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.057,
+            0.939,
+            0.097,
+            0.953
+          ],
+          "content": "220/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.103,
+            0.937,
+            0.183,
+            0.954
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.846,
+            0.016,
+            0.953,
+            0.052
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.451,
+            0.073,
+            0.548,
+            0.093
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.114,
+            0.175,
+            0.131
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.147,
+            0.128,
+            0.159
+          ],
+          "level": 2,
+          "content": "1. C."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.164,
+            0.138,
+            0.179
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.182,
+            0.474,
+            0.216
+          ],
+          "content": "句意：网络安全团队\\_\\_\\_\\_在加密信息到达黑客之前拦截它，但复杂的防火墙阻止了他们的访问。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.219,
+            0.474,
+            0.386
+          ],
+          "content": "考点：动词辨析及上下文逻辑。由转折连词“but”可知，后半句说明团队的行动没有成功。因此，空格处的动词不能表示“成功做到了”。A. managed（设法成功做到）和 B. succeeded（成功）与“but”后的失败结果矛盾。D. achieved（达成，实现）是及物动词，后面直接接宾语，不接“to do”。C. attempted（试图，尝试）只表示努力去做，不表示结果，与“but”引导的失败结局完美契合。故 C. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.403,
+            0.125,
+            0.416
+          ],
+          "level": 2,
+          "content": "2. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.42,
+            0.138,
+            0.436
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.439,
+            0.474,
+            0.492
+          ],
+          "content": "句意：在一次极其偏远、补给困难的中世纪城堡修复研究中，探险队深知生存完全\\_\\_\\_\\_唯一的地下水源。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.495,
+            0.475,
+            0.701
+          ],
+          "content": "考点：近义词辨析。三者都有“依靠”的意思，但侧重点和常用结构有细微差别。Rely on: 强调“信赖，指望”，基于对某人/某物的可靠性或能力的信任。Depend on: 强调“依赖，取决于”，指生存、成功等关键因素离不开某人/某物。常与 completely、entirely、heavily 等副词连用，描述一种客观的、绝对的依赖性。“生存完全依赖于……”是最地道的表达。Count on: 指望，预期（常用于人）。Trusts(信任) 与“on”搭配时，更多指信任某人。此处描述的是“生存”对“唯一水源”的绝对依赖关系，因此 depends on 是最佳答案。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.711,
+            0.172,
+            0.728
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.744,
+            0.212,
+            0.759
+          ],
+          "level": 2,
+          "content": "1. unpredictable"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.761,
+            0.138,
+            0.777
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.78,
+            0.475,
+            0.814
+          ],
+          "content": "句意：开源 AI 艺术生成器的问题在于它们以 \\_\\_\\_\\_ 风格创作艺术作品。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.818,
+            0.474,
+            0.909
+          ],
+          "content": "考点：词性转换（动词→形容词）及根据上下文添加否定前缀。括号中给出动词 predict（预测）。根据句意“开源 AI 艺术生成器的问题”，可知其风格是“无法预测的”。因此需要在 predictable（可预测的）前加否定前缀 un-，构成 unpredictable（不可预测的）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.117,
+            0.643,
+            0.132
+          ],
+          "level": 2,
+          "content": "2. anticipation"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.134,
+            0.582,
+            0.149
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.152,
+            0.918,
+            0.187
+          ],
+          "content": "句意：孩子们等待着烟花开始燃放时，脸上洋溢着\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.189,
+            0.919,
+            0.261
+          ],
+          "content": "考点：词性转换（动词→名词）。介词 with 后需要接名词。动词 anticipate（期待）的名词形式为 anticipation。“glow with anticipation”是常用表达，意为“洋溢着期待的神情”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.277,
+            0.637,
+            0.292
+          ],
+          "level": 2,
+          "content": "3. speculative"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.294,
+            0.582,
+            0.31
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.313,
+            0.919,
+            0.348
+          ],
+          "content": "句意：这篇文章完全是\\_\\_\\_\\_，没有提供具体证据来支持其主张。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.351,
+            0.919,
+            0.405
+          ],
+          "content": "考点：词性转换（动词→形容词）。系动词 was 后需要形容词作表语。动词 speculate（推测）的形容词形式为 speculative（推测的，猜测性的）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.421,
+            0.649,
+            0.436
+          ],
+          "level": 2,
+          "content": "4. undoubtedly"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.439,
+            0.582,
+            0.455
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.458,
+            0.919,
+            0.492
+          ],
+          "content": "句意：这件历史文物 \\_\\_\\_\\_ 是真的——专家已经验证了它的年代和起源。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.495,
+            0.92,
+            0.606
+          ],
+          "content": "考点：词性转换（名词→副词）及根据上下文添加否定前缀。破折号后的内容“专家已验证”是对前文的肯定，因此空格处需要表示“毫无疑问地”的副词。名词 doubt（怀疑）的副词形式为 doubtfully（怀疑地），但根据句意需在其前加否定前缀 un-，构成 undoubtedly（毫无疑问地）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.622,
+            0.636,
+            0.637
+          ],
+          "level": 2,
+          "content": "5. temptation"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.639,
+            0.582,
+            0.655
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.658,
+            0.919,
+            0.694
+          ],
+          "content": "句意：对于那个正在节食的小女孩来说，新鲜烤制的饼干的味道是一种难以抗拒的\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.696,
+            0.919,
+            0.751
+          ],
+          "content": "考点：词性转换（动词→名词）。不定冠词 an 和形容词 irresistible 修饰空格处，因此需要名词。动词 tempt（诱惑）的名词形式为 temptation（诱惑）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.76,
+            0.619,
+            0.777
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.78,
+            0.598,
+            0.795
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.525,
+            0.799,
+            0.919,
+            0.908
+          ],
+          "sub_type": "text",
+          "content": "1. DNT 可能达不到它想要达到的目的。\n2. 考虑到它的成本，可再生能源没有足够的竞争力。\n3. 它往往会忽略陆生生物群落中很多缺乏商业价值但却对其正常运转至关重要的元素。\n4. 他对权力有着永不满足的欲望，不断策划着如何在职场上攀爬。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.822,
+            0.937,
+            0.902,
+            0.955
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.914,
+            0.939,
+            0.948,
+            0.953
+          ],
+          "content": "221"
+        }
+      ]
+    },
+    {
+      "page_idx": 8,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.044,
+            0.036,
+            0.118,
+            0.069
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.134,
+            0.043,
+            0.56,
+            0.061
+          ],
+          "content": "考研英语 高频抢分册"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.097,
+            0.092,
+            0.173,
+            0.106
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.094,
+            0.109,
+            0.529,
+            0.255
+          ],
+          "sub_type": "text",
+          "content": "1. 研究【表明】饮食习惯正迅速改变。\n2. 主角【冲动的】救援行动让他陷入险境，却最终救了孩子的命。\n3. 这件文物的起源在考古学界仍是【有争议的】，有人认为是希腊的，有人坚持属于罗马。\n4. 她毫不掩饰对那位政客虚伪演讲的【轻蔑】, 公然翻了个白眼。\n5. 商业方法专利不受法律【质疑】的影响。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.062,
+            0.941,
+            0.108,
+            0.956
+          ],
+          "content": "222/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.113,
+            0.94,
+            0.203,
+            0.957
+          ],
+          "content": "研过过"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:14:25",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 9,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 8,
+          "width_pt": 595.0,
+          "height_pt": 919.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

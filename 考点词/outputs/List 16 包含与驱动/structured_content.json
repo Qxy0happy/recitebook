@@ -1,0 +1,5465 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.853,
+            0.0,
+            0.96,
+            0.032
+          ],
+          "content": "Chapter\n考点词<2>"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.354,
+            0.053,
+            0.398,
+            0.085
+          ],
+          "content": "#"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.406,
+            0.06,
+            0.621,
+            0.078
+          ],
+          "level": 2,
+          "content": "List 16 包含与驱动"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.078,
+            0.108,
+            0.221,
+            0.129
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.135,
+            0.503,
+            0.153
+          ],
+          "content": "情节发展：危机初现→改革呼声→政策落地→成效凸显"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.169,
+            0.16,
+            0.186
+          ],
+          "level": 2,
+          "content": "危机初现"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.188,
+            0.691,
+            0.266
+          ],
+          "content": "持续的经济 fluctuation（波动）让失业率不断攀升，社会各界开始激烈 controversy(争论)。经济学家归因为产业升级滞后，无法适应技术 evolution(演进) 的浪潮。媒体持续 call（呼吁）政府 involve（让各方参与）到这场关乎未来的 conversation（对话）中。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.705,
+            0.173,
+            0.921,
+            0.261
+          ],
+          "sub_type": "text_image",
+          "content": "Street photo showing a man speaking at a podium with a large red upward-trending graph on the screen, surrounded by onlookers.",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_7.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.277,
+            0.16,
+            0.293
+          ],
+          "level": 2,
+          "content": "改革呼声"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.296,
+            0.691,
+            0.374
+          ],
+          "content": "面对危机，智库专家 drive（推动）政策研讨，用翔实数据 prompt（促使）议会正视转型的必要性。多项指标表明，经济发展已经到了关键的 turn（转折）点，必须尽快 convert（转变）增长模式。主流媒体持续 influence（影响）舆论，强调要合理分配社会资源，切实 better（改善）民生福祉。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.706,
+            0.281,
+            0.921,
+            0.37
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior view of a conference room with attendees seated around a table, no visible text or signage",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_10.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.386,
+            0.16,
+            0.403
+          ],
+          "level": 2,
+          "content": "政策落地"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.405,
+            0.691,
+            0.483
+          ],
+          "content": "在各方压力下，政府 compel/propel（推动）全面改革。新出台的环保法规被严格 enforce（执行），监管力度得到显著 strengthen/reinforce（加强）。虽然短期内对传统行业造成一定 impact（冲击），但这些措施有效 promote（促进）了技术创新，就业岗位也随之 increase（增加）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.706,
+            0.391,
+            0.921,
+            0.478
+          ],
+          "sub_type": "natural_image",
+          "content": "Historical black-and-white photo of a man in uniform standing beside a group of scientists in lab coats, with no visible text or symbols.",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_13.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.496,
+            0.16,
+            0.513
+          ],
+          "level": 2,
+          "content": "成效凸显"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.516,
+            0.691,
+            0.573
+          ],
+          "content": "这场经济 revolution（变革）开始显现积极 effect（效果）。随着改革深化，社会矛盾逐渐缓和，民众对政府推行的新政充分肯定。事实证明，及时的政策调整能够有效 force（推动）社会向更好的方向发展。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.706,
+            0.491,
+            0.921,
+            0.578
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a man in a suit standing by a group of people outdoors near an industrial facility (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_16.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.617,
+            0.221,
+            0.638
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.664,
+            0.236,
+            0.679
+          ],
+          "content": "involve /m'va:lv/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.683,
+            0.408,
+            0.7
+          ],
+          "content": "vt. 包括，包含；涉及；参加；卷入；融入"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.706,
+            0.474,
+            0.743
+          ],
+          "content": "妙记:in-（in）+vol-（turn 转）+ve→把所有东西都转进来→包括，引申为涉及、卷入、融入、参加。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.753,
+            0.174,
+            0.776
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.783,
+            0.304,
+            0.799
+          ],
+          "content": "① be involved in 参加，加入"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.802,
+            0.231,
+            0.82
+          ],
+          "content": "【2020 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.823,
+            0.474,
+            0.859
+          ],
+          "content": "Both France and the United States are involved in the organization's work."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.862,
+            0.37,
+            0.879
+          ],
+          "content": "法国和美国都加入了这个组织的工作。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.881,
+            0.474,
+            0.918
+          ],
+          "content": "②常考后置定语:involved 所涉及的，相关的；involving sth. 涉及……的，有关……的"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.661,
+            0.68,
+            0.678
+          ],
+          "level": 2,
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.682,
+            0.928,
+            0.718
+          ],
+          "content": "This allows the TSA to focus on travelers who are higher risks, saving time for everyone involved."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.721,
+            0.928,
+            0.757
+          ],
+          "content": "这允许 TSA 把精力集中在风险较高的旅客身上，从而节省所有相关人员的时间。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.761,
+            0.926,
+            0.797
+          ],
+          "content": "③翻译题需要注意“包括”和“涉及”的区别，两个中文含义并不相同。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.801,
+            0.642,
+            0.818
+          ],
+          "level": 2,
+          "content": "【2006 年翻译】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.822,
+            0.871,
+            0.838
+          ],
+          "content": "human problems which involve moral judgment"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.84,
+            0.926,
+            0.876
+          ],
+          "content": "应该翻译成“涉及道德评判的人类问题”，而不能翻译成“包括道德评判的人类问题”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.879,
+            0.607,
+            0.895
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.898,
+            0.923,
+            0.914
+          ],
+          "content": "involvement n. 包括，包含; 涉及; 参加; 卷入; 融入"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.827,
+            0.933,
+            0.877,
+            0.949
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.881,
+            0.933,
+            0.908,
+            0.95
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.919,
+            0.934,
+            0.958,
+            0.949
+          ],
+          "content": "/169"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.026,
+            0.028,
+            0.094,
+            0.061
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.11,
+            0.037,
+            0.507,
+            0.055
+          ],
+          "content": "考研英语 高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.086,
+            0.329,
+            0.101
+          ],
+          "content": "conversation /ˌkɑːnvərˈseɪʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.105,
+            0.191,
+            0.12
+          ],
+          "content": "n. 交流，会话"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.126,
+            0.479,
+            0.161
+          ],
+          "content": "妙记:con-（all）+ ver- = vol-（转）+-sation（名词后缀）→所有人转向彼此→交流。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.208,
+            0.166,
+            0.345,
+            0.26
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of children playing with a large gear labeled 'VEI' in a cityscape (no text or symbols on the gear itself)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_5.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.077,
+            0.265,
+            0.175,
+            0.286
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.292,
+            0.478,
+            0.327
+          ],
+          "content": "①考研真题中，经常考查 conversation 和 talk 的同义替换关系。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.33,
+            0.232,
+            0.347
+          ],
+          "content": "【2022 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.35,
+            0.48,
+            0.385
+          ],
+          "content": "原文:Businesses should engage in conversations with IT, compliance, risk, and legal teams."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.388,
+            0.479,
+            0.423
+          ],
+          "content": "企业应当与信息技术、合规管理、风险控制以及法律事务团队展开交流对话。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.427,
+            0.48,
+            0.464
+          ],
+          "content": "题目:To handle digital deception, businesses should \\_\\_\\_\\_."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.465,
+            0.338,
+            0.482
+          ],
+          "content": "要应对数字欺诈，企业应当 \\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.484,
+            0.47,
+            0.5
+          ],
+          "content": "正确选项:talk with relevant teams 与有关团队交流"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.503,
+            0.158,
+            0.519
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.523,
+            0.268,
+            0.539
+          ],
+          "content": "converse vi. 交流，交谈"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.562,
+            0.248,
+            0.577
+          ],
+          "content": "convert /kənˈvɜːrt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.58,
+            0.324,
+            0.596
+          ],
+          "content": "vt. 改变宗教信仰；改变，转变"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.602,
+            0.479,
+            0.638
+          ],
+          "content": "妙记:con-（all）+ ver-（转）+t → 所有的一切都转变 → 宗教信仰的改变 → 引申为各种改变。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.648,
+            0.175,
+            0.669
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.676,
+            0.351,
+            0.691
+          ],
+          "content": "① convert A to/into B 将 A 变成 B"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.694,
+            0.234,
+            0.71
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.715,
+            0.48,
+            0.768
+          ],
+          "content": "A recent annual study of countries and their ability to convert growth into well-being sheds some light on that question."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.771,
+            0.479,
+            0.806
+          ],
+          "content": "最近一项关于各国及其将增长转化为幸福的能力的年度研究为这个问题提供了一些启示。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.809,
+            0.258,
+            0.825
+          ],
+          "content": "② conversely adv. 相反"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.828,
+            0.234,
+            0.844
+          ],
+          "content": "【2012 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.848,
+            0.479,
+            0.882
+          ],
+          "content": "Conversely, if homework matters, it should account for a significant portion of the grade."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.885,
+            0.478,
+            0.919
+          ],
+          "content": "相反，如果家庭作业很重要，它就应该在成绩当中占有重要的比例。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.086,
+            0.738,
+            0.101
+          ],
+          "content": "revolution /ˌrevəˈluːʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.104,
+            0.706,
+            0.12
+          ],
+          "content": "n. 革命；变革；旋转"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.126,
+            0.928,
+            0.16
+          ],
+          "content": "妙记:re-（反复）+vol-（转）+u+-tion（名词后缀）→\n多次旋转，引申为革命、变革。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.668,
+            0.166,
+            0.799,
+            0.256
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of raised fists and a spiral galaxy against a dark background (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_31.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.261,
+            0.632,
+            0.282
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.288,
+            0.677,
+            0.303
+          ],
+          "content": "①常见释义：革命"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.306,
+            0.689,
+            0.322
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.325,
+            0.929,
+            0.376
+          ],
+          "content": "We are still at the beginning of this revolution and small choices now may turn out to have gigantic consequences later."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.38,
+            0.928,
+            0.414
+          ],
+          "content": "我们仍然处在这场革命的开端，现在很小的选择可能在后来产生巨大的后果。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.418,
+            0.613,
+            0.433
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.437,
+            0.682,
+            0.451
+          ],
+          "content": "revolve vi. 旋转"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.454,
+            0.687,
+            0.47
+          ],
+          "content": "【2020 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.474,
+            0.927,
+            0.506
+          ],
+          "content": "All of the planets that we knew of revolved not around the Earth, but the Sun."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.509,
+            0.925,
+            0.525
+          ],
+          "content": "所有我们知道的行星都是绕着太阳转的，而不是地球。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.528,
+            0.925,
+            0.544
+          ],
+          "content": "● revolutionize vt. 彻底改变（即发生革命性的改变）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.546,
+            0.687,
+            0.562
+          ],
+          "content": "【2013 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.566,
+            0.927,
+            0.599
+          ],
+          "content": "Electronic means of payment would soon “revolutionize the very concept of money itself”."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.602,
+            0.911,
+            0.618
+          ],
+          "content": "电子支付方式会很快“彻底改变钱本身的概念”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.638,
+            0.769,
+            0.653
+          ],
+          "content": "controversy /'ka:ntrəvɜ:rsi/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.657,
+            0.65,
+            0.672
+          ],
+          "content": "n. 争论；矛盾"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.679,
+            0.926,
+            0.714
+          ],
+          "content": "妙记：contr-（against 相反）+o+ ver-（turn 转）+-sy\n(名词后缀) → 朝相反方向转去 → 争论、矛盾。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.724,
+            0.63,
+            0.746
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.752,
+            0.675,
+            0.768
+          ],
+          "content": "①常考释义：争论"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.771,
+            0.613,
+            0.787
+          ],
+          "content": "【2005 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.791,
+            0.927,
+            0.826
+          ],
+          "content": "The decline of formal English has caused the controversy over the counter-culture."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.829,
+            0.901,
+            0.844
+          ],
+          "content": "正式英语的衰落引发了对于反文化运动的争论。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.847,
+            0.926,
+            0.882
+          ],
+          "content": "②写作常用句型:There have been controversial views about... 对于……一直存在争议的观点"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.886,
+            0.612,
+            0.902
+          ],
+          "content": "【2002 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.906,
+            0.926,
+            0.921
+          ],
+          "content": "There have been controversial views about its"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.045,
+            0.932,
+            0.081,
+            0.947
+          ],
+          "content": "170/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.091,
+            0.931,
+            0.12,
+            0.948
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.123,
+            0.933,
+            0.174,
+            0.946
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.853,
+            0.0,
+            0.962,
+            0.035
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.056,
+            0.474,
+            0.111
+          ],
+          "continues_prev": true,
+          "content": "economic, political, social and cultural implications.\n对于它在经济、政治、社会和文化方面的影响，一直存在争议的观点。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.115,
+            0.152,
+            0.13
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.133,
+            0.375,
+            0.15
+          ],
+          "content": "controversial adj. 有争议的；有矛盾的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.178,
+            0.263,
+            0.194
+          ],
+          "content": "evolution /ˌevəˈluːʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.197,
+            0.192,
+            0.213
+          ],
+          "content": "n. 进化；发展"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.22,
+            0.472,
+            0.277
+          ],
+          "content": "妙记：$e- = ex-$ （出）+ vol-（转）+ u+-tion（名词后缀）→ 从原地打转当中出来 → 发展 → 物种发展，叫作进化。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.202,
+            0.282,
+            0.341,
+            0.383
+          ],
+          "sub_type": "natural_image",
+          "content": "DNA double helix structure with visible helix and base pairs (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_7.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.389,
+            0.17,
+            0.41
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.417,
+            0.215,
+            0.433
+          ],
+          "content": "①常考释义：发展"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.437,
+            0.227,
+            0.453
+          ],
+          "content": "【2018 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.458,
+            0.474,
+            0.493
+          ],
+          "content": "On one hand, that viewpoint is a logical product of America's evolution."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.497,
+            0.432,
+            0.514
+          ],
+          "content": "一方面，那个观点是美国发展的一个逻辑产物。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.517,
+            0.151,
+            0.533
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.537,
+            0.329,
+            0.553
+          ],
+          "content": "evolve v. (使) 进化; (使) 发展"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.557,
+            0.227,
+            0.573
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.578,
+            0.472,
+            0.633
+          ],
+          "content": "Curriculums — from grammar school to college — should evolve to focus less on memorizing facts and more on creativity and complex communication."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.636,
+            0.471,
+            0.693
+          ],
+          "content": "从文法学校到大学的全部课程都应当有所发展，减少对死记硬背知识内容的重视，转而更侧重于培养学生的创造力以及复杂交流能力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.721,
+            0.182,
+            0.736
+          ],
+          "content": "turn /tɜːrn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.741,
+            0.24,
+            0.757
+          ],
+          "content": "v./n. 转；转变，改变"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.763,
+            0.392,
+            0.781
+          ],
+          "content": "妙记：本义表示“转”，引申为“转变”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.79,
+            0.17,
+            0.812
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.819,
+            0.444,
+            0.836
+          ],
+          "content": "① turn A to/into B 把 A 变成 B = change A into B"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.839,
+            0.226,
+            0.855
+          ],
+          "content": "【2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.86,
+            0.471,
+            0.894
+          ],
+          "content": "Nail manufacturers found more efficient ways to turn steel into nails."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.898,
+            0.465,
+            0.914
+          ],
+          "content": "钉子制造者们发现了将钢铁变成钉子的更高效的方法。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.057,
+            0.853,
+            0.073
+          ],
+          "content": "② turn sb./sth. out 生产出，制造出，培养出"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.077,
+            0.68,
+            0.093
+          ],
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.097,
+            0.926,
+            0.132
+          ],
+          "content": "It is in the best interest of a school to turn out graduates who are as qualified as possible."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.135,
+            0.926,
+            0.17
+          ],
+          "content": "一所学校最大的利益，就在于培养出尽可能合格的毕业生。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.175,
+            0.87,
+            0.191
+          ],
+          "content": "③ turn out to be/do 发展成，证明是，结果是"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.194,
+            0.68,
+            0.21
+          ],
+          "content": "【2016 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.216,
+            0.805,
+            0.231
+          ],
+          "content": "The move turned out to be foresighted."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.234,
+            0.767,
+            0.25
+          ],
+          "content": "这个举措被证明是具有远见的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.254,
+            0.738,
+            0.27
+          ],
+          "content": "④ turn to 求助于；致力于"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.273,
+            0.68,
+            0.29
+          ],
+          "content": "【2022 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.295,
+            0.927,
+            0.33
+          ],
+          "content": "To handle digital deception, businesses should turn to independent agencies."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.334,
+            0.887,
+            0.35
+          ],
+          "content": "要应对数字欺骗，企业应当求助于独立的机构。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.354,
+            0.78,
+            0.37
+          ],
+          "content": "⑤ in turn, take turns 轮流，接着"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.373,
+            0.68,
+            0.39
+          ],
+          "content": "【2010 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.395,
+            0.927,
+            0.45
+          ],
+          "content": "In a direct democracy, citizens take turns governing themselves, rather than electing representatives to govern for them."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.453,
+            0.927,
+            0.489
+          ],
+          "content": "在直接的民主体制下，公民轮流管理自己，而不是选出代表去替他们管理。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.493,
+            0.606,
+            0.509
+          ],
+          "content": "⑥派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.513,
+            0.743,
+            0.529
+          ],
+          "content": "turnover n. 变更率，更新率"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.534,
+            0.663,
+            0.549
+          ],
+          "content": "overturn vt. 推翻"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.577,
+            0.648,
+            0.592
+          ],
+          "content": "drive /draɪv/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.596,
+            0.922,
+            0.613
+          ],
+          "content": "v. 开 (车); 推动，促进; 驱使，迫使 n. 欲望，动力"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.619,
+            0.925,
+            0.656
+          ],
+          "content": "妙记：开车就是“推动、促进”车前进，引申为“迫使”或“动力”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.524,
+            0.666,
+            0.623,
+            0.687
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.695,
+            0.668,
+            0.711
+          ],
+          "content": "①常考释义：推动"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.716,
+            0.679,
+            0.733
+          ],
+          "content": "【2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.738,
+            0.925,
+            0.774
+          ],
+          "content": "The falling price of nails was driven partly by cheaper iron and cheaper energy."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.777,
+            0.917,
+            0.794
+          ],
+          "content": "钉子价格的下降部分是由更便宜的铁和能源所推动的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.798,
+            0.853,
+            0.814
+          ],
+          "content": "②该单词可以作名词，表示“动力，欲望”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.818,
+            0.679,
+            0.835
+          ],
+          "content": "【2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.84,
+            0.896,
+            0.855
+          ],
+          "content": "Policymakers have little drive for science education."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.858,
+            0.815,
+            0.875
+          ],
+          "content": "政策制定者们对科学教育没什么欲望。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.879,
+            0.603,
+            0.894
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.899,
+            0.72,
+            0.914
+          ],
+          "content": "driver n. 驾驶员（-er 人）"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.821,
+            0.933,
+            0.871,
+            0.949
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.874,
+            0.933,
+            0.903,
+            0.95
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.91,
+            0.935,
+            0.95,
+            0.949
+          ],
+          "content": "/171"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.033,
+            0.034,
+            0.103,
+            0.066
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.118,
+            0.043,
+            0.374,
+            0.06
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.406,
+            0.044,
+            0.51,
+            0.06
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.09,
+            0.482,
+            0.124
+          ],
+          "content": "be in the driver's seat 领导，掌控 (坐在驾驶位上 → 掌控、领导)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.128,
+            0.238,
+            0.144
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.148,
+            0.482,
+            0.182
+          ],
+          "content": "Overall, the idea is to let “states remain in the driver's seat for managing the species.” Ashe said."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.185,
+            0.482,
+            0.22
+          ],
+          "content": "总的来说，这个想法是让“各州继续掌控管理物种的事务。”阿什说道。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.243,
+            0.199,
+            0.257
+          ],
+          "content": "force /fɔːrs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.262,
+            0.353,
+            0.278
+          ],
+          "content": "n. 力，力量；军队；人群 vt. 强迫"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.284,
+            0.479,
+            0.338
+          ],
+          "content": "妙记：谐音“赴死”→一种敢去赴死的“力量”；用力量让一个人去做事，就是“强迫”；有了军队，才有力量，引申为“人群”。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.202,
+            0.345,
+            0.36,
+            0.455
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a military tank with a herd of pigs in a desert environment (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_10.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.459,
+            0.18,
+            0.479
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.487,
+            0.482,
+            0.522
+          ],
+          "content": "① force sb. to do sth. 强迫某人做某事（常与 require sb. to do sth.、make sb. do sth. 进行同义替换）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.525,
+            0.238,
+            0.541
+          ],
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.545,
+            0.482,
+            0.58
+          ],
+          "content": "原文:States will be able to force more people to pay sales tax when they make online purchases."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.582,
+            0.412,
+            0.598
+          ],
+          "content": "各州将能够迫使更多网购的人支付消费税。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.602,
+            0.482,
+            0.637
+          ],
+          "content": "题目:The Supreme Court decision Thursday will \\_\\_\\_\\_. 最高法周四的裁决将 \\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.64,
+            0.46,
+            0.674
+          ],
+          "content": "正确选项：make more online shoppers pay sales tax\n使更多网络购物者支付消费税"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.678,
+            0.162,
+            0.692
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.697,
+            0.334,
+            0.712
+          ],
+          "content": "workforce n. 劳动力；全体员工"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.735,
+            0.242,
+            0.752
+          ],
+          "content": "impact /'impækt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.755,
+            0.148,
+            0.77
+          ],
+          "content": "n. 影响"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.777,
+            0.482,
+            0.811
+          ],
+          "content": "妙记:im- = in-（进入）+ pact- (= press 压) → 压\n进去 → 施加影响。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.821,
+            0.18,
+            0.842
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.849,
+            0.478,
+            0.884
+          ],
+          "content": "① have/exert (an) impact on 对……产生 / 施加影响\n【2022 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.888,
+            0.482,
+            0.921
+          ],
+          "content": "What we decide to preserve today will have a strong impact on how in the future we'll be seen."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.09,
+            0.922,
+            0.124
+          ],
+          "content": "我们今天决定要保留的东西将会对我们未来被人如何看待产生重大影响。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.128,
+            0.615,
+            0.143
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.147,
+            0.74,
+            0.163
+          ],
+          "content": "impactful adj. 有影响力的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.189,
+            0.717,
+            0.204
+          ],
+          "content": "influence /'influəns/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.209,
+            0.624,
+            0.223
+          ],
+          "content": "n./vt. 影响"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.231,
+            0.923,
+            0.266
+          ],
+          "content": "妙记:in-（进入）+ flu-（= flow 流）→ 流进去→ 施加影响。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.28,
+            0.633,
+            0.3
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.307,
+            0.917,
+            0.342
+          ],
+          "content": "① have/exert (an) influence on 对……产生 / 施加影响\n【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.347,
+            0.923,
+            0.38
+          ],
+          "content": "There's no doubt that our peer groups exert enormous influence on our behavior."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.384,
+            0.922,
+            0.419
+          ],
+          "content": "毫无疑问，我们的同龄人群体对我们的行为施加巨大的影响。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.423,
+            0.614,
+            0.438
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.442,
+            0.879,
+            0.458
+          ],
+          "content": "influential adj. 有影响力的 n. 有影响力的人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.461,
+            0.688,
+            0.477
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.481,
+            0.923,
+            0.553
+          ],
+          "content": "Marketers have embraced the two-step flow because it suggests that if they can just find and influence the influentials, those select people will do most of the work for them."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.556,
+            0.922,
+            0.611
+          ],
+          "content": "营销人员已经接受了两步流理论，因为它表明，只要他们能找到并影响那些有影响力的人，那么这些精选出来的人就会替他们完成大部分工作。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.637,
+            0.754,
+            0.654
+          ],
+          "content": "fluctuation /ˌflʌktʃuˈeɪʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.544,
+            0.657,
+            0.6,
+            0.671
+          ],
+          "content": "n. 波动"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.682,
+            0.899,
+            0.699
+          ],
+          "content": "妙记:flu- 表示流，来自水流流动产生的水波。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.664,
+            0.708,
+            0.804,
+            0.807
+          ],
+          "sub_type": "natural_image",
+          "content": "Painting of a dramatic blue ocean wave crashing over the ocean, with no visible text or symbols",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_44.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.813,
+            0.633,
+            0.833
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.839,
+            0.923,
+            0.873
+          ],
+          "content": "①该单词可以表示任何东西的波动，在图表作文中也有可能用到。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.876,
+            0.615,
+            0.892
+          ],
+          "content": "【2007 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.897,
+            0.796,
+            0.912
+          ],
+          "content": "stock market fluctuation 股市波动"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.05,
+            0.936,
+            0.087,
+            0.95
+          ],
+          "content": "172/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.097,
+            0.935,
+            0.125,
+            0.951
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.129,
+            0.936,
+            0.178,
+            0.949
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.858,
+            0.0,
+            0.966,
+            0.037
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.058,
+            0.227,
+            0.074
+          ],
+          "content": "【2010 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.078,
+            0.398,
+            0.093
+          ],
+          "content": "Fluctuation of Art Prices 艺术品价格波动"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.097,
+            0.151,
+            0.113
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.117,
+            0.212,
+            0.132
+          ],
+          "content": "fluctuate vi. 波动"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.156,
+            0.233,
+            0.191
+          ],
+          "content": "effect /ɪˈfekt/\nn. 影响，效果，作用"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.199,
+            0.474,
+            0.234
+          ],
+          "content": "妙记:ef- = ex-（出）+ fect-（做）→ 做出来的东西 → 影响，效果，作用。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.068,
+            0.246,
+            0.168,
+            0.267
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.274,
+            0.286,
+            0.289
+          ],
+          "content": "① come/go into effect 生效"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.292,
+            0.225,
+            0.308
+          ],
+          "content": "【2023 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.313,
+            0.378,
+            0.327
+          ],
+          "content": "The rules came into effect last Wednesday."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.331,
+            0.258,
+            0.346
+          ],
+          "content": "这些规定于上周三生效。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.35,
+            0.276,
+            0.366
+          ],
+          "content": "② in effect 有效；实际上"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.369,
+            0.224,
+            0.386
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.39,
+            0.474,
+            0.444
+          ],
+          "content": "In effect, the White House claimed that it could invalidate any otherwise legitimate state law that it disagrees with."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.446,
+            0.472,
+            0.482
+          ],
+          "content": "实际上，白宫是在宣称，它可以使自己不赞同的任何其他合法的州法律无效。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.485,
+            0.147,
+            0.5
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.505,
+            0.186,
+            0.52
+          ],
+          "content": "affect vt. 影响"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.524,
+            0.235,
+            0.54
+          ],
+          "content": "effective adj. 有效的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.543,
+            0.374,
+            0.559
+          ],
+          "content": "efficient adj. 效率高的（fic- = fect- 做）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.584,
+            0.268,
+            0.6
+          ],
+          "content": "strengthen /'streŋkθn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.603,
+            0.188,
+            0.619
+          ],
+          "content": "vt. 巩固，加强"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.626,
+            0.472,
+            0.663
+          ],
+          "content": "妙记:strong(强壮) then(然后) → 变强壮之后就可以“巩固、加强”了。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.068,
+            0.673,
+            0.168,
+            0.696
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.703,
+            0.212,
+            0.718
+          ],
+          "content": "①常考释义：加强"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.722,
+            0.224,
+            0.738
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.743,
+            0.425,
+            0.759
+          ],
+          "content": "Journals are strengthening their statistical checks."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.762,
+            0.329,
+            0.778
+          ],
+          "content": "杂志正在加强它们的统计学检查。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.782,
+            0.148,
+            0.797
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.802,
+            0.307,
+            0.818
+          ],
+          "content": "strength n. 力量；实力；优势"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.842,
+            0.261,
+            0.858
+          ],
+          "content": "reinforce /ˌriːmˈfɔːrs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.861,
+            0.188,
+            0.877
+          ],
+          "content": "vt. 巩固，加强"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.884,
+            0.474,
+            0.92
+          ],
+          "content": "妙记:re-（反复）+ in- = en-（使）+ force（力量）→\n反复使更有力量→巩固、加强。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.06,
+            0.627,
+            0.081
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.088,
+            0.672,
+            0.103
+          ],
+          "content": "①常考释义：加强"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.107,
+            0.684,
+            0.123
+          ],
+          "content": "【2012 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.128,
+            0.932,
+            0.182
+          ],
+          "content": "Indeed, this period of economic weakness may reinforce class divides, and decrease opportunities to cross them — especially for young people."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.185,
+            0.919,
+            0.221
+          ],
+          "content": "确实，这个经济羸弱的时期可能会加强阶级分化，并减少跨越阶级的机会——特别是对年轻人来说。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.226,
+            0.609,
+            0.241
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.245,
+            0.775,
+            0.26
+          ],
+          "content": "reinforcement n. 加固；强化物"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.265,
+            0.778,
+            0.281
+          ],
+          "content": "reinforced adj. 加固的；加强的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.306,
+            0.685,
+            0.32
+          ],
+          "content": "enforce /ɪnˈfɔːrs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.325,
+            0.815,
+            0.341
+          ],
+          "content": "vt. 强迫，强制; (强制) 实施或执行"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.348,
+            0.905,
+            0.365
+          ],
+          "content": "妙记:en-（使）+ force（强迫）→使受到强迫。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.375,
+            0.628,
+            0.398
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.404,
+            0.932,
+            0.459
+          ],
+          "content": "①该单词并不是一般的“实施、执行”，它来自“强迫”，所以带有强制性，通常都是法律法规的实施或执行。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.464,
+            0.685,
+            0.48
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.485,
+            0.758,
+            0.5
+          ],
+          "content": "law enforcement 法律的实施"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.504,
+            0.684,
+            0.52
+          ],
+          "content": "【2022 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.525,
+            0.815,
+            0.541
+          ],
+          "content": "Enforcing employment protection laws."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.544,
+            0.663,
+            0.559
+          ],
+          "content": "实施雇佣保护法。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.563,
+            0.607,
+            0.579
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.584,
+            0.74,
+            0.6
+          ],
+          "content": "enforcement n. 实施，执行"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.624,
+            0.689,
+            0.64
+          ],
+          "content": "compel /kəm'pel/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.643,
+            0.598,
+            0.658
+          ],
+          "content": "vt. 强迫"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.666,
+            0.932,
+            0.703
+          ],
+          "content": "妙记:com-（all）+ pel-（推）→大家一起推你去做事→强迫。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.662,
+            0.709,
+            0.795,
+            0.804
+          ],
+          "sub_type": "natural_image",
+          "content": "Abstract graphic with red and orange shapes and the word 'COMPEL' in bold red letters, set against a dark background (no readable text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_56.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.808,
+            0.627,
+            0.831
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.838,
+            0.843,
+            0.853
+          ],
+          "content": "① compel sb. to do sth. 强迫某人做某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.857,
+            0.684,
+            0.873
+          ],
+          "content": "【2013 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.878,
+            0.932,
+            0.913
+          ],
+          "content": "The Europe Union is now considering legislation to compel corporate boards to maintain a certain"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.831,
+            0.938,
+            0.882,
+            0.954
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.884,
+            0.937,
+            0.914,
+            0.955
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.919,
+            0.939,
+            0.963,
+            0.954
+          ],
+          "content": "/173"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.021,
+            0.035,
+            0.092,
+            0.069
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.107,
+            0.045,
+            0.371,
+            0.063
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.402,
+            0.045,
+            0.508,
+            0.062
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.094,
+            0.377,
+            0.108
+          ],
+          "continues_prev": true,
+          "content": "proportion of women — up to 60 percent."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.11,
+            0.479,
+            0.146
+          ],
+          "content": "现在，欧盟正在考虑立法，以强迫公司董事会保持特定比例的女性——最高到 60%。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.149,
+            0.152,
+            0.163
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.169,
+            0.262,
+            0.184
+          ],
+          "content": "compulsory adj. 强制的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.188,
+            0.278,
+            0.203
+          ],
+          "content": "compulsive adj. 强迫性的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.231,
+            0.221,
+            0.247
+          ],
+          "content": "propel /prə'pel/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.249,
+            0.242,
+            0.265
+          ],
+          "content": "vt. 推进，推动，促进"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.271,
+            0.478,
+            0.307
+          ],
+          "content": "妙记:pro-（前）+ pel-（推）→ 往前推 → 推进、促进。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.071,
+            0.317,
+            0.172,
+            0.338
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.345,
+            0.217,
+            0.36
+          ],
+          "content": "①常考释义：推动"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.364,
+            0.229,
+            0.38
+          ],
+          "content": "【2010 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.384,
+            0.456,
+            0.418
+          ],
+          "content": "Other birds spend less energy propelling themselves.\n其他鸟类在推动自己前进上花费更少的能量。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.422,
+            0.153,
+            0.437
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.441,
+            0.266,
+            0.458
+          ],
+          "content": "propulsion n. 推进（力）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.481,
+            0.254,
+            0.496
+          ],
+          "content": "promote /prəˈməʊt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.499,
+            0.321,
+            0.515
+          ],
+          "content": "vt. 推进，促进；使升职；促销"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.521,
+            0.48,
+            0.557
+          ],
+          "content": "妙记：谐音“破摩托” → 需要通过“促销”来“促进”销量。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.195,
+            0.561,
+            0.357,
+            0.671
+          ],
+          "sub_type": "text_image",
+          "content": "SALE\n破摩托车",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_body_20.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.676,
+            0.173,
+            0.696
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.703,
+            0.22,
+            0.718
+          ],
+          "content": "①常考释义：促进"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.723,
+            0.231,
+            0.739
+          ],
+          "content": "【2020 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.744,
+            0.443,
+            0.778
+          ],
+          "content": "Everyone should try hard to promote social justice.\n每个人都应该努力去促进社会正义。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.782,
+            0.468,
+            0.817
+          ],
+          "content": "②该单词可以表示“使升职”或“促销”:\n推进职位，叫作“升职”；推进销量，叫作“促销”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.821,
+            0.231,
+            0.837
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.842,
+            0.481,
+            0.916
+          ],
+          "content": "Even though there is plenty of evidence that the quality of the teachers is the most important variable, teachers' unions have fought against getting rid of bad ones and promoting good ones."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.091,
+            0.932,
+            0.146
+          ],
+          "content": "即便有大量的证据证明教师的质量是最重要的变量，教师工会仍然反对淘汰不好的教师以及提拔好的教师。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.151,
+            0.616,
+            0.166
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.17,
+            0.841,
+            0.187
+          ],
+          "content": "promotion n. 推进，促进; 升职; 促销"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.21,
+            0.699,
+            0.226
+          ],
+          "content": "prompt /pra:mpt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.228,
+            0.928,
+            0.244
+          ],
+          "content": "vt. 推动，促使; 导致 adj. 迅速的，及时的 n. 提示词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.251,
+            0.932,
+            0.286
+          ],
+          "content": "妙记：该单词是 promote 的变体，表示推动、促使，引申为“导致”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.296,
+            0.635,
+            0.318
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.325,
+            0.68,
+            0.34
+          ],
+          "content": "①常考释义：推动"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.344,
+            0.692,
+            0.361
+          ],
+          "content": "【2022 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.366,
+            0.932,
+            0.401
+          ],
+          "content": "Such an approach can both prompt new research as well as result in powerful art."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.405,
+            0.932,
+            0.441
+          ],
+          "content": "这种方法既能推动新的研究，又能导致极具影响力的艺术作品。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.445,
+            0.924,
+            0.481
+          ],
+          "content": "②该单词可以作形容词，表示“迅速的、及时的”，不断推动一件事，这件事的进程就会加快。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.485,
+            0.791,
+            0.501
+          ],
+          "content": "【2012 年英语（二）小作文导语】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.506,
+            0.932,
+            0.581
+          ],
+          "content": "Write an email to the customer service center to 1) make a complaint, and 2) demand a prompt solution.\n给客户服务中心写一封电子邮件，内容包括:1）提出投诉；2）要求迅速解决。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.584,
+            0.924,
+            0.62
+          ],
+          "content": "③该单词可以作名词，表示人工智能的“提示词”，热点概念，近年常考。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.624,
+            0.691,
+            0.64
+          ],
+          "content": "【2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.645,
+            0.932,
+            0.72
+          ],
+          "content": "His distinctive style is now one of the most commonly used prompts in the new open-source AI art generator. 他独特的风格如今已成为这款新的开源人工智能艺术生成器中使用最为广泛的提示词之一。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.723,
+            0.616,
+            0.739
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.744,
+            0.783,
+            0.76
+          ],
+          "content": "promptly adv. 迅速地；立即地"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.79,
+            0.7,
+            0.805
+          ],
+          "content": "increase /m'kri:s/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.809,
+            0.779,
+            0.825
+          ],
+          "content": "v./n. 增加，增长；扩大；提高"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.831,
+            0.932,
+            0.904
+          ],
+          "content": "妙记:in（谐音“因”）+ crea（联想 create 创造）+ se（看成 sir 先生）→ 因为这位先生创造了很多生产力工具，并得到应用，让这个国家的经济得到增长→增长。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.044,
+            0.941,
+            0.087,
+            0.956
+          ],
+          "content": "174/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.09,
+            0.939,
+            0.119,
+            0.956
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.122,
+            0.941,
+            0.173,
+            0.956
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.848,
+            0.02,
+            0.954,
+            0.058
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.188,
+            0.078,
+            0.357,
+            0.196
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a man in a suit standing beside a large gear labeled 'CREA' with abstract digital elements in the background (no readable text or symbols beyond the gear icon)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_6_image_body_1.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.202,
+            0.172,
+            0.223
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.229,
+            0.47,
+            0.265
+          ],
+          "content": "①该单词常考衍生形式:increasingly adv. 不断增加地"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.268,
+            0.228,
+            0.284
+          ],
+          "content": "【2017 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.289,
+            0.378,
+            0.304
+          ],
+          "content": "The child becomes increasingly distressed."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.307,
+            0.243,
+            0.323
+          ],
+          "content": "孩子变得越来越苦恼。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.327,
+            0.154,
+            0.342
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.346,
+            0.329,
+            0.362
+          ],
+          "content": "decrease v./n. 减少；减小；降低"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.386,
+            0.208,
+            0.401
+          ],
+          "content": "better /'betər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.405,
+            0.425,
+            0.423
+          ],
+          "content": "adj. 更好的，较好的 adv. 更好 (地) vt. 改善"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.428,
+            0.454,
+            0.446
+          ],
+          "content": "妙记：谐音“拜特”→拜托了，找点（更好的）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.454,
+            0.172,
+            0.476
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.483,
+            0.47,
+            0.518
+          ],
+          "content": "① better 可以作动词，表示“改善”，就是使变得更好。\n【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.523,
+            0.472,
+            0.556
+          ],
+          "content": "The Supreme Court decision Thursday will better businesses' relations with states."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.56,
+            0.455,
+            0.577
+          ],
+          "content": "最高法院的决定将会改善企业和各州之间的关系。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.58,
+            0.172,
+            0.595
+          ],
+          "content": "②常考短语："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.6,
+            0.455,
+            0.634
+          ],
+          "content": "better off 更好；更有钱；worse off 更差；更穷\n【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.64,
+            0.303,
+            0.673
+          ],
+          "content": "help poor families get better off\n帮助穷困家庭过得更好"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.678,
+            0.228,
+            0.693
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.698,
+            0.472,
+            0.733
+          ],
+          "content": "Consumers will be worse off if the industry cannot collect information about their preferences."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.078,
+            0.919,
+            0.113
+          ],
+          "content": "如果行业无法收集到有关消费者偏好的信息，消费者的情况将会变得更糟。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.136,
+            0.623,
+            0.151
+          ],
+          "content": "call /kɔːl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.156,
+            0.726,
+            0.171
+          ],
+          "content": "v. 叫，喊；打电话；召唤"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.178,
+            0.919,
+            0.195
+          ],
+          "content": "妙记：谐音“口” → 用口“叫喊、打电话、召唤”。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.647,
+            0.2,
+            0.798,
+            0.307
+          ],
+          "sub_type": "text_image",
+          "content": "CALL",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_6_image_body_25.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.311,
+            0.623,
+            0.334
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.34,
+            0.7,
+            0.356
+          ],
+          "content": "① calling n. 使命，事业"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.359,
+            0.679,
+            0.376
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.38,
+            0.854,
+            0.414
+          ],
+          "content": "These men believed in journalism as a calling.\n这些人把新闻工作视为一种使命。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.418,
+            0.921,
+            0.453
+          ],
+          "content": "② call A B 将 A 称作 B:常与 regard A as B（将 A 视为 B）相互替换。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.457,
+            0.749,
+            0.473
+          ],
+          "content": "【2011 年英语（一）第 22 题】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.477,
+            0.921,
+            0.59
+          ],
+          "content": "原文:Even Tommasini, who had advocated Gilbert's appointment in the Times, calls him“an unpretentious musician with no air of the formidable conductor about him”. 就连曾在《纽约时报》上支持吉尔伯特出任指挥的托马西尼也称他为“一位朴实无华的音乐家，身上没有那种令人敬畏的指挥家的气质”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.594,
+            0.918,
+            0.629
+          ],
+          "content": "题目:Tommasini regards Gilbert as an artist who is \\_. 托马西尼将吉尔伯特视为 \\_ 的艺术家。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.632,
+            0.688,
+            0.648
+          ],
+          "content": "答案：modest 谦虚的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.651,
+            0.697,
+            0.667
+          ],
+          "content": "③ call for 呼吁，要求"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.67,
+            0.679,
+            0.687
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.691,
+            0.921,
+            0.726
+          ],
+          "content": "The report calls for increased investment in research.\n该报告呼吁加大对研究领域的投资。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.074,
+            0.753,
+            0.218,
+            0.774
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.788,
+            0.168,
+            0.806
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.814,
+            0.923,
+            0.852
+          ],
+          "content": "1. Both France and the United States are involved in the organization's work. The word \"involved\" implies that both countries are \\_\\_\\_\\_."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.1,
+            0.855,
+            0.374,
+            0.927
+          ],
+          "sub_type": "text",
+          "content": "A. excluded from the work\nB. actively participating in the work\nC. criticizing the work\nD. indifferent to the work"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.823,
+            0.939,
+            0.904,
+            0.956
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.916,
+            0.94,
+            0.952,
+            0.955
+          ],
+          "content": "175"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.044,
+            0.034,
+            0.12,
+            0.067
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.136,
+            0.042,
+            0.41,
+            0.06
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.445,
+            0.041,
+            0.557,
+            0.058
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.09,
+            0.571,
+            0.105
+          ],
+          "content": "2. Businesses should engage in conversations with IT teams."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.125,
+            0.109,
+            0.472,
+            0.125
+          ],
+          "content": "The synonym of “conversations” is \\_\\_\\_\\_."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.126,
+            0.129,
+            0.242,
+            0.201
+          ],
+          "sub_type": "text",
+          "content": "A. debates\nB. talks\nC. conflicts\nD. arguments"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.212,
+            0.492,
+            0.227
+          ],
+          "content": "3. Countries must convert growth into well-being."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.126,
+            0.231,
+            0.354,
+            0.246
+          ],
+          "content": "\"Convert\" means to \\_\\_\\_\\_."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.126,
+            0.251,
+            0.236,
+            0.323
+          ],
+          "sub_type": "text",
+          "content": "A. ignore\nB. transform\nC. reduce\nD. oppose"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.333,
+            0.539,
+            0.348
+          ],
+          "content": "4. We are at the beginning of a revolution in technology."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.126,
+            0.352,
+            0.41,
+            0.367
+          ],
+          "content": "\"Revolution\" here refers to \\_\\_\\_\\_."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.126,
+            0.372,
+            0.312,
+            0.444
+          ],
+          "sub_type": "text",
+          "content": "A. a dramatic change\nB. a sudden collapse\nC. a repetitive cycle\nD. a minor adjustment"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.454,
+            0.505,
+            0.47
+          ],
+          "content": "5. He decline of formal English caused controversy."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.126,
+            0.473,
+            0.368,
+            0.489
+          ],
+          "content": "\"Controversy\" means \\_\\_\\_\\_."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.126,
+            0.493,
+            0.248,
+            0.563
+          ],
+          "sub_type": "text",
+          "content": "A. agreement\nB. celebration\nC. dispute\nD. silence"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.575,
+            0.442,
+            0.591
+          ],
+          "content": "6. America's evolution is a logical process."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.126,
+            0.594,
+            0.357,
+            0.61
+          ],
+          "content": "\"Evolution\" refers to \\_\\_\\_\\_."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.126,
+            0.614,
+            0.262,
+            0.686
+          ],
+          "sub_type": "text",
+          "content": "A. destruction\nB. development\nC. stagnation\nD. repetition"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.696,
+            0.429,
+            0.71
+          ],
+          "content": "7. Nail manufacturers turn steel into nails."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.126,
+            0.715,
+            0.402,
+            0.731
+          ],
+          "content": "\"Turn\" can be replaced by \\_\\_\\_\\_."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.126,
+            0.735,
+            0.216,
+            0.808
+          ],
+          "sub_type": "text",
+          "content": "A. break\nB. change\nC. lose\nD. reject"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.818,
+            0.478,
+            0.833
+          ],
+          "content": "8. Cheaper energy drove the price of nails down."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.126,
+            0.836,
+            0.32,
+            0.852
+          ],
+          "content": "\"Drove\" means \\_\\_\\_\\_."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.126,
+            0.856,
+            0.234,
+            0.927
+          ],
+          "sub_type": "text",
+          "content": "A. forced\nB. reduced\nC. promoted\nD. ignored"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.062,
+            0.943,
+            0.107,
+            0.959
+          ],
+          "content": "176/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.113,
+            0.942,
+            0.143,
+            0.959
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.146,
+            0.944,
+            0.2,
+            0.958
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 8,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.845,
+            0.008,
+            0.95,
+            0.044
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.066,
+            0.353,
+            0.081
+          ],
+          "content": "9. States force people to pay sales tax."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.103,
+            0.084,
+            0.396,
+            0.101
+          ],
+          "content": "\"Force\" is closest in meaning to \\_\\_\\_\\_."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.1,
+            0.105,
+            0.208,
+            0.177
+          ],
+          "sub_type": "text",
+          "content": "A. encourage\nB. compel\nC. invite\nD. discourage"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.188,
+            0.457,
+            0.204
+          ],
+          "content": "10. Preservation decisions impact future perceptions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.1,
+            0.207,
+            0.284,
+            0.223
+          ],
+          "content": "\"Impact\" means \\_\\_\\_\\_."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.1,
+            0.228,
+            0.199,
+            0.301
+          ],
+          "sub_type": "text",
+          "content": "A. ignore\nB. influence\nC. delay\nD. simplify"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.074,
+            0.313,
+            0.168,
+            0.33
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.074,
+            0.339,
+            0.62,
+            0.585
+          ],
+          "sub_type": "text",
+          "content": "1. The EU wants to \\_\\_\\_\\_ (compel) corporate boards to hire more women.\n2. Birds use energy to \\_\\_\\_\\_ (propel) themselves forward.\n3. Everyone should \\_\\_\\_\\_ (promote) social justice.\n4. AI art generators use \\_\\_\\_\\_ (prompt) to create images.\n5. The child became \\_\\_\\_\\_ (increase) distressed.\n6. The Supreme Court decision will \\_\\_\\_\\_ (better) business relations.\n7. Experts \\_\\_\\_\\_ (attribute) health benefits to oxytocin.\n8. Unofficial materials are \\_\\_\\_\\_ (distribute) to teachers.\n9. Journalism is regarded as a \\_\\_\\_\\_ (call).\n10. The report \\_\\_\\_\\_ (call) for more research funding."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.074,
+            0.595,
+            0.169,
+            0.612
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.623,
+            0.147,
+            0.639
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.649,
+            0.457,
+            0.665
+          ],
+          "content": "1. The falling price was driven by cheaper materials."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.73,
+            0.573,
+            0.746
+          ],
+          "content": "2. Economic weakness may decrease opportunities for young people."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.811,
+            0.147,
+            0.827
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.837,
+            0.614,
+            0.855
+          ],
+          "content": "1. Some countries struggle to [convert] economic growth into well-being."
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.823,
+            0.932,
+            0.874,
+            0.948
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.878,
+            0.932,
+            0.906,
+            0.949
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.911,
+            0.933,
+            0.955,
+            0.948
+          ],
+          "content": "/177"
+        }
+      ]
+    },
+    {
+      "page_idx": 9,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.05,
+            0.033,
+            0.524,
+            0.067
+          ],
+          "content": "考研英语 高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.09,
+            0.483,
+            0.104
+          ],
+          "content": "2. We are still at the beginning of this [revolution]."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.141,
+            0.782,
+            0.155
+          ],
+          "content": "3.[Conversely], if homework matters, it should account for a significant portion of the grade."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.472,
+            0.238,
+            0.57,
+            0.259
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.095,
+            0.282,
+            0.192,
+            0.298
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.314,
+            0.146,
+            0.327
+          ],
+          "content": "1. B."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.331,
+            0.158,
+            0.347
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.349,
+            0.496,
+            0.459
+          ],
+          "content": "句意：法国和美国都参与了该组织的工作。这里的“参与”一词意味着这两个国家都\\_\\_\\_\\_。考点：词汇语境义理解。根据句意，两国都“参与到”该组织的工作中，因此应当是“积极参与”，故 B.正确。A.被排除在工作之外、C.批评工作，D.对工作漠不关心均与“involved”的词义相反。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.475,
+            0.146,
+            0.488
+          ],
+          "content": "2. B."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.492,
+            0.159,
+            0.508
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.511,
+            0.495,
+            0.546
+          ],
+          "content": "句意：企业应当与信息技术团队进行交流。“交流”一词的同义词是\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.548,
+            0.496,
+            0.676
+          ],
+          "content": "考点：名词近义词辨析。Conversation 意为“交谈，对话”，指双方或多方之间非正式的交流。A. debates（辩论）通常指观点对立的正式辩论。B. talks（谈话，会谈）是“conversation”最直接的同义词，可指正式或非正式的交流。C. conflicts（冲突）和 D. arguments（争论）都带有负面和对抗的含义，与原文中积极的语境不符。故 B. 正确。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.692,
+            0.146,
+            0.706
+          ],
+          "content": "3. B."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.709,
+            0.158,
+            0.725
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.728,
+            0.495,
+            0.763
+          ],
+          "content": "句意：各国必须将经济增长转化为民众的福祉。“转化”一词的意思是\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.765,
+            0.496,
+            0.856
+          ],
+          "content": "考点：动词词义辨析。Convert 意为“(使) 转变，(使) 转化”, 指从一种形式或用途变为另一种。A. ignore (忽视)、C. reduce (减少)、D. oppose (反对) 均无法体现“转化”的核心含义。B. transform (改变，变换) 是“convert”的最佳同义词。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.872,
+            0.146,
+            0.885
+          ],
+          "content": "4. A."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.889,
+            0.158,
+            0.904
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.907,
+            0.495,
+            0.923
+          ],
+          "content": "句意：我们正处于一场技术变革的开端。这里的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.282,
+            0.729,
+            0.298
+          ],
+          "content": "“变革”指的是\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.3,
+            0.941,
+            0.409
+          ],
+          "content": "考点：名词语境义理解。Revolution 常见义为“革命”，在科技语境中引申为“彻底变革，巨变”。A. a dramatic change（剧烈的变化）准确地捕捉了其含义。B. a sudden collapse（突然崩溃），C. a repetitive cycle（重复循环），D. a minor adjustment（微小的调整）均与“revolution”的词义不符。故 A. 正确。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.426,
+            0.594,
+            0.439
+          ],
+          "content": "5. C."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.443,
+            0.606,
+            0.459
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.461,
+            0.938,
+            0.496
+          ],
+          "content": "句意：正式英语的衰落引发了争议。“争议”一词的意思是\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.499,
+            0.938,
+            0.589
+          ],
+          "content": "考点：名词词义辨析。Controversy 意为“争议，争论”, 指公开的、激烈的意见分歧。A. agreement(一致同意)、B. celebration (庆祝)、D. silence (沉默) 均与“controversy”的词义相反。C. dispute(争论，争端) 是其最佳同义词。故 C. 正确。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.606,
+            0.593,
+            0.619
+          ],
+          "content": "6. B."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.623,
+            0.606,
+            0.639
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.641,
+            0.938,
+            0.677
+          ],
+          "content": "句意：美国的发展是一个循序渐进的过程。“进化”指的是\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.679,
+            0.938,
+            0.77
+          ],
+          "content": "考点：名词词义辨析。Evolution 意为“演变，进化，发展”, 指一个逐渐发展的过程。A. destruction (破坏)、C. stagnation (停滞)、D. repetition (重复) 均与“evolution”的词义相反或无关。B. development (发展) 是其最佳同义词。故 B. 正确。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.786,
+            0.593,
+            0.799
+          ],
+          "content": "7. B."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.803,
+            0.606,
+            0.818
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.821,
+            0.938,
+            0.856
+          ],
+          "content": "句意：制钉者将钢材加工成钉子。“变成”这个词可以替换为\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.858,
+            0.938,
+            0.931
+          ],
+          "content": "考点：动词近义词辨析。Turn into 是固定短语，意为“把……变成……”。A. break（打破）、C. lose（失去）、D. reject（拒绝）均无法表达“转变”的含义。B. change（改变）可与“into”搭配，"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.069,
+            0.947,
+            0.106,
+            0.962
+          ],
+          "content": "178/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.114,
+            0.946,
+            0.197,
+            0.963
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 10,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.854,
+            0.001,
+            0.962,
+            0.04
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.059,
+            0.474,
+            0.093
+          ],
+          "continues_prev": true,
+          "content": "change into 意为“变为”，是“turn into”的最佳替换。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.11,
+            0.124,
+            0.123
+          ],
+          "content": "8. A."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.127,
+            0.135,
+            0.143
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.146,
+            0.474,
+            0.182
+          ],
+          "content": "句意：更廉价的能源导致了钉子价格的下降。“导致”在此处的意思是\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.184,
+            0.475,
+            0.335
+          ],
+          "content": "考点：动词词义辨析。Drove 是 drive 的过去式，在此处意为“驱使，导致”，表示因果关系。A. forced（迫使）可以表示“（某种因素）迫使价格下降”，符合“能源成本下降是导致钉子降价的原因”的语境。B. reduced（减少）是及物动词，后面直接接宾语，而原文中已有“down”。C. promoted（促进）通常指促使好的事情发生，与“价格下降”的语境不符。D. ignored（忽视）与句意无关。故 A. 正确。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.354,
+            0.121,
+            0.368
+          ],
+          "content": "9. B."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.372,
+            0.133,
+            0.388
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.391,
+            0.474,
+            0.427
+          ],
+          "content": "句意：各州强制人们缴纳销售税。“强制”这个词的意思最接近于\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.43,
+            0.474,
+            0.523
+          ],
+          "content": "考点：动词近义词辨析。Force 意为“强迫，迫使”。A. encourage(鼓励) 和 C. invite(邀请) 与“force”的强制含义相反。D. discourage(使气馁) 也与句意不符。B. compel(强迫，迫使) 是“force”最直接的近义词。故 B. 正确。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.539,
+            0.13,
+            0.553
+          ],
+          "content": "10. B."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.557,
+            0.133,
+            0.572
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.575,
+            0.472,
+            0.611
+          ],
+          "content": "句意：保护决策会影响人们对未来的看法。“影响”指的是\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.613,
+            0.474,
+            0.688
+          ],
+          "content": "考点：动词词义辨析。Impact 作动词时，意为“影响，对……起作用”。A. ignore(忽视)、C. delay(延迟)、D. simplify(简化) 均与“impact”的词义不符。B. influence(影响) 是其最佳同义词。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.714,
+            0.17,
+            0.731
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.747,
+            0.159,
+            0.762
+          ],
+          "content": "1. compel"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.765,
+            0.133,
+            0.78
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.783,
+            0.474,
+            0.839
+          ],
+          "content": "句意：欧盟想要\\_\\_\\_\\_公司董事会雇用更多女性。\n考点：动词形式。空格前为“to”，构成动词不定式，后需接动词原形。故填 compel。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.853,
+            0.154,
+            0.869
+          ],
+          "content": "2. propel"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.87,
+            0.133,
+            0.887
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.89,
+            0.396,
+            0.907
+          ],
+          "content": "句意：鸟类消耗能量以\\_\\_\\_\\_自己向前。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.06,
+            0.925,
+            0.096
+          ],
+          "content": "考点：动词形式。空格前为“to”，构成动词不定式，后需接动词原形。故填 propel。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.112,
+            0.62,
+            0.126
+          ],
+          "content": "3. promote"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.129,
+            0.585,
+            0.145
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.148,
+            0.829,
+            0.164
+          ],
+          "content": "句意：每个人都应当 \\_\\_\\_\\_ 社会正义。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.166,
+            0.924,
+            0.202
+          ],
+          "content": "考点：动词形式。情态动词“should”后需接动词原形。故填 promote。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.218,
+            0.62,
+            0.233
+          ],
+          "content": "4. prompts"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.235,
+            0.585,
+            0.251
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.254,
+            0.888,
+            0.27
+          ],
+          "content": "句意:AI 艺术生成器使用 \\_\\_\\_\\_ 来创建图像。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.273,
+            0.927,
+            0.328
+          ],
+          "content": "考点：词性转换 (动词→名词)。动词 prompt (提示) 在此处需转换为名词形式，且根据句意，生成器使用的是多条“提示”, 故用复数形式 prompts。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.344,
+            0.648,
+            0.36
+          ],
+          "content": "5. increasingly"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.362,
+            0.585,
+            0.378
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.381,
+            0.794,
+            0.397
+          ],
+          "content": "句意：这个孩子变得 \\_\\_\\_\\_ 痛苦。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.4,
+            0.925,
+            0.455
+          ],
+          "content": "考点：词性转换（动词→副词）。空格处修饰形容词“distressed”，需要副词。动词 increase（增加）的副词形式为 increasingly（日益，越来越）。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.471,
+            0.602,
+            0.485
+          ],
+          "content": "6. better"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.489,
+            0.585,
+            0.505
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.508,
+            0.864,
+            0.524
+          ],
+          "content": "句意：最高法院的裁决将\\_\\_\\_\\_商业关系。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.527,
+            0.925,
+            0.581
+          ],
+          "content": "考点：词性转换（形容词→动词）。形容词 better（更好的）在此处活用为动词，意为“改善，使更好”。情态动词“will”后接动词原形，故填 better。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.597,
+            0.622,
+            0.611
+          ],
+          "content": "7. attribute"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.615,
+            0.584,
+            0.631
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.634,
+            0.829,
+            0.651
+          ],
+          "content": "句意：专家将健康益处\\_\\_\\_\\_催产素。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.653,
+            0.924,
+            0.726
+          ],
+          "content": "考点：动词固定搭配。Attribute A to B 是固定搭配，意为“将 A 归因于 B”。句子陈述普遍事实，用一般现在时，主语“Experts”是复数，故填动词原形 attribute。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.742,
+            0.64,
+            0.756
+          ],
+          "content": "8. distributed"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.759,
+            0.585,
+            0.776
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.779,
+            0.828,
+            0.795
+          ],
+          "content": "句意：非官方材料被 \\_\\_\\_\\_ 给老师们。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.798,
+            0.922,
+            0.833
+          ],
+          "content": "考点：被动语态。空格前为“are”，构成被动语态 (be+ 过去分词)，故填 distribute 的过去分词 distributed。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.848,
+            0.606,
+            0.863
+          ],
+          "content": "9. calling"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.866,
+            0.585,
+            0.882
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.885,
+            0.786,
+            0.9
+          ],
+          "content": "句意：新闻业被视为一种\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.903,
+            0.919,
+            0.918
+          ],
+          "content": "考点：词性转换（动词→名词）。不定冠词“a”后"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.823,
+            0.933,
+            0.902,
+            0.95
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.913,
+            0.934,
+            0.951,
+            0.949
+          ],
+          "content": "/179"
+        }
+      ]
+    },
+    {
+      "page_idx": 11,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.044,
+            0.03,
+            0.114,
+            0.064
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.127,
+            0.039,
+            0.516,
+            0.057
+          ],
+          "content": "考研英语考研英语·一词三遍 高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.087,
+            0.486,
+            0.123
+          ],
+          "continues_prev": true,
+          "content": "需接单数名词。动词 call（呼唤）的名词形式为 calling（天职，职业）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.091,
+            0.138,
+            0.163,
+            0.152
+          ],
+          "level": 2,
+          "content": "10. calls"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.156,
+            0.151,
+            0.172
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.175,
+            0.39,
+            0.191
+          ],
+          "content": "句意：该报告 \\_\\_\\_\\_ 更多的研究资金。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.194,
+            0.486,
+            0.266
+          ],
+          "content": "考点：动词固定搭配。Call for 是固定搭配，意为“呼吁，要求”。主语“The report”是单数第三人称，且陈述一个当前事实，谓语动词需用一般现在时。故填 calls。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.276,
+            0.186,
+            0.294
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.539,
+            0.089,
+            0.613,
+            0.104
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.538,
+            0.108,
+            0.841,
+            0.142
+          ],
+          "sub_type": "text",
+          "content": "1. 价格下降是由材料成本降低推动的。\n2. 经济疲软可能减少年轻人的机会。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.54,
+            0.145,
+            0.613,
+            0.16
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.538,
+            0.165,
+            0.914,
+            0.256
+          ],
+          "sub_type": "text",
+          "content": "1. 有些国家在将经济增长【转化】为民众福祉方面遇到了困难。\n2. 我们仍处于这场【革命】的初始阶段。\n3.【相反】,如果家庭作业很重要，那么它就应该据相当大的比重。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.065,
+            0.935,
+            0.102,
+            0.949
+          ],
+          "content": "180/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.111,
+            0.934,
+            0.19,
+            0.95
+          ],
+          "content": "研过过"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:14:03",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 12,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.0,
+          "height_pt": 929.0
+        },
+        {
+          "page_idx": 8,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 9,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 10,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 11,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

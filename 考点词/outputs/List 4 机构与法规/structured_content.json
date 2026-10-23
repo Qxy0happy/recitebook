@@ -1,0 +1,4280 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.87,
+            0.033,
+            0.98,
+            0.069
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "doc_title",
+          "bbox": [
+            0.422,
+            0.088,
+            0.588,
+            0.118
+          ],
+          "level": 1,
+          "content": "人与社会"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.359,
+            0.162,
+            0.405,
+            0.194
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_2.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.413,
+            0.168,
+            0.624,
+            0.187
+          ],
+          "level": 2,
+          "content": "List 4 机构与法规"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.056,
+            0.224,
+            0.21,
+            0.243
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.255,
+            0.47,
+            0.272
+          ],
+          "content": "情节：社区危机→权威授权→立法审查→权力重构"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.068,
+            0.29,
+            0.145,
+            0.305
+          ],
+          "level": 2,
+          "content": "社区危机"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.309,
+            0.701,
+            0.364
+          ],
+          "content": "community（社区）的 domestic affairs section（家政事务科）向居民们报道了一起近期发生的家暴恶性事件。居住在此的知名 author（作家）亚瑟呼吁 state（州政府）augment（加强）监管。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.066,
+            0.389,
+            0.143,
+            0.404
+          ],
+          "level": 2,
+          "content": "权威授权"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.408,
+            0.701,
+            0.444
+          ],
+          "content": "他被授予“监管总监”的 title（头衔），empower（授权）他 charge（主管）家暴预防这一新 sector（领域）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.067,
+            0.47,
+            0.143,
+            0.485
+          ],
+          "level": 2,
+          "content": "立法审查"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.489,
+            0.701,
+            0.544
+          ],
+          "content": "亚瑟带领团队起草 legislation（法规），确保 legal（合法）且 legitimate（正当）的 regulation（监管）。经 peer（同行）评审，关键 sentence（条款）覆盖所有社会 segment（群体）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.064,
+            0.56,
+            0.143,
+            0.575
+          ],
+          "level": 2,
+          "content": "权力重构"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.579,
+            0.7,
+            0.634
+          ],
+          "content": "新法 entitled（赋予权利），公民可以申诉家暴事件。学习了亚瑟的方案后，整座城市被划分为多个区域，每个 sector（领域）独自行使对家暴事件的 authority（治理权）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.716,
+            0.284,
+            0.941,
+            0.639
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_14.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.052,
+            0.68,
+            0.206,
+            0.7
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.729,
+            0.243,
+            0.744
+          ],
+          "content": "authority /əˈθɔːrəti/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.747,
+            0.411,
+            0.763
+          ],
+          "content": "n. 权力，权威；权威人士；(pl.) 官方，当局"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.77,
+            0.471,
+            0.806
+          ],
+          "content": "妙记：王者荣耀的亚瑟（Arthur）是对抗路的权威（authority）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.154,
+            0.811,
+            0.369,
+            0.92
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a character in dynamic pose with dramatic lighting and a dynamic pose effect (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_19.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.727,
+            0.63,
+            0.748
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.755,
+            0.87,
+            0.771
+          ],
+          "content": "①常考复数形式，authorities 表示“当局”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.774,
+            0.691,
+            0.79
+          ],
+          "content": "【2014 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.795,
+            0.908,
+            0.828
+          ],
+          "content": "38. B. stop local authorities from building homes\n阻止地方政府盖房"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.833,
+            0.696,
+            0.848
+          ],
+          "content": "②常考释义：监管权"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.852,
+            0.691,
+            0.868
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.873,
+            0.941,
+            0.907
+          ],
+          "content": "States do have some regulatory authority over nuclear power.\n各州确实对核能拥有一定的监管权。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.84,
+            0.939,
+            0.894,
+            0.954
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.896,
+            0.938,
+            0.926,
+            0.956
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.947,
+            0.94,
+            0.971,
+            0.954
+          ],
+          "content": "65"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.031,
+            0.038,
+            0.102,
+            0.071
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.118,
+            0.047,
+            0.374,
+            0.064
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.404,
+            0.047,
+            0.506,
+            0.064
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.095,
+            0.224,
+            0.109
+          ],
+          "content": "author /'ɔːθər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.114,
+            0.15,
+            0.128
+          ],
+          "content": "n. 作者"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.135,
+            0.467,
+            0.17
+          ],
+          "content": "妙记：对于一本书解读很权威（authority）的人，就是作者（author）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.219,
+            0.176,
+            0.346,
+            0.264
+          ],
+          "sub_type": "text_image",
+          "content": "权威",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_6.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.268,
+            0.182,
+            0.289
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.295,
+            0.478,
+            0.33
+          ],
+          "content": "author 经常出现在阅读的题干中，用来提问作者的观点或态度。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.333,
+            0.24,
+            0.349
+          ],
+          "content": "【2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.351,
+            0.479,
+            0.384
+          ],
+          "content": "40.The author holds that the state lawmakers should \\_\\_\\_\\_."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.386,
+            0.394,
+            0.403
+          ],
+          "content": "作者认为，州政策的制定者们应当 \\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.421,
+            0.265,
+            0.437
+          ],
+          "content": "augment /ɔːgˈment/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.44,
+            0.264,
+            0.455
+          ],
+          "content": "vt. 提高；增加；扩大"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.457,
+            0.479,
+            0.491
+          ],
+          "content": "妙记:aug（谐音，阿哥）ment（谐音，出门）要增加（augment）侍卫。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.21,
+            0.496,
+            0.359,
+            0.571
+          ],
+          "sub_type": "natural_image",
+          "content": "Two stylized human figures in red and green robes standing in a forest setting (no text or symbols visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_15.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.576,
+            0.185,
+            0.597
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.603,
+            0.481,
+            0.638
+          ],
+          "content": "①常考释义：增强，尤其指通过添加或扩展来强化某物"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.641,
+            0.478,
+            0.674
+          ],
+          "content": "Machines can augment human labor rather than replace it.\n机器能够增强而非取代人类的劳动。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.676,
+            0.185,
+            0.691
+          ],
+          "content": "②固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.694,
+            0.33,
+            0.71
+          ],
+          "content": "augment reality(AR) 增强现实"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.094,
+            0.729,
+            0.197,
+            0.744
+          ],
+          "content": "title /'tartl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.748,
+            0.363,
+            0.764
+          ],
+          "content": "n. 标题；头衔；一本书 vt. 加标题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.77,
+            0.483,
+            0.806
+          ],
+          "content": "妙记：谐音“抬头”，抬头看广告板，看见的先是标题；抬头看人，看见的先是头衔。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.813,
+            0.185,
+            0.833
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.839,
+            0.44,
+            0.854
+          ],
+          "content": "①阅读题的题干中出现 title, 说明它是主旨题。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.857,
+            0.242,
+            0.873
+          ],
+          "content": "【2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.875,
+            0.483,
+            0.907
+          ],
+          "content": "30. Which of the following would be the best title for the text?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.911,
+            0.311,
+            0.927
+          ],
+          "content": "哪个选项是文章的最佳标题？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.093,
+            0.88,
+            0.108
+          ],
+          "content": "②该单词可以表示“头衔”，即一个人的标题。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.112,
+            0.685,
+            0.127
+          ],
+          "content": "【2020 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.13,
+            0.922,
+            0.163
+          ],
+          "content": "Britain is no longer able to apply for the much more prestigious title of European capital of culture."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.164,
+            0.922,
+            0.199
+          ],
+          "content": "英国已不再具备申请更具声望的“欧洲文化之都”这一称号的资格了。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.202,
+            0.922,
+            0.217
+          ],
+          "content": "③翻译题考过 title 表示“一本书”, 但仅仅考过一次。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.22,
+            0.731,
+            0.236
+          ],
+          "content": "【2018 年英语（二）翻译】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.24,
+            0.924,
+            0.273
+          ],
+          "content": "Gates chooses non-fiction titles because they explain how the world works."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.276,
+            0.923,
+            0.312
+          ],
+          "content": "盖茨选择非科幻类书籍是因为这类书籍能够阐释世界的运作方式。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.335,
+            0.674,
+            0.349
+          ],
+          "content": "entitle /m'tartl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.354,
+            0.654,
+            0.369
+          ],
+          "content": "vt. 授权；命名"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.376,
+            0.916,
+            0.411
+          ],
+          "content": "妙记：en-(使)+ title(头衔、标题)→给某人头衔，叫作“授权”;给某物标题，叫作“命名”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.422,
+            0.629,
+            0.442
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.449,
+            0.656,
+            0.464
+          ],
+          "content": "常考释义：命名"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.468,
+            0.686,
+            0.484
+          ],
+          "content": "【2013 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.488,
+            0.834,
+            0.503
+          ],
+          "content": "an essay entitled “Making It in America”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.506,
+            0.891,
+            0.522
+          ],
+          "content": "一篇被命名为《在美国闯出一番天地》的论文"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.546,
+            0.718,
+            0.562
+          ],
+          "content": "empower /ɪmˈpaʊər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.565,
+            0.668,
+            0.58
+          ],
+          "content": "vt. 授权，使能够"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.587,
+            0.925,
+            0.622
+          ],
+          "content": "妙记:em- = en-（使）+ power（权力）→ 使有权 → 授权，使能够。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.633,
+            0.629,
+            0.653
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.66,
+            0.657,
+            0.675
+          ],
+          "content": "常考释义：授权"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.679,
+            0.687,
+            0.695
+          ],
+          "content": "【2012 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.7,
+            0.925,
+            0.732
+          ],
+          "content": "empowering teachers to find what works best for their students"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.736,
+            0.924,
+            0.753
+          ],
+          "content": "授权教师，使教师能够去探寻最适合学生的学习方法"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.772,
+            0.678,
+            0.789
+          ],
+          "content": "charge /tʃɑːrdʒ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.791,
+            0.924,
+            0.826
+          ],
+          "content": "n./v.（使承担）责任；指控；指责 v. 收费；充电 n.\n电量；费用"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.83,
+            0.925,
+            0.864
+          ],
+          "content": "妙记:char-（长得像 car 车）+-ge→车可以承载货物→承载、承担（charge）。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.867,
+            0.733,
+            0.882
+          ],
+          "content": "1. 充电：承载更多电量；"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.886,
+            0.836,
+            0.902
+          ],
+          "content": "2. 控告：承担法律责任，引申为指责；"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.905,
+            0.734,
+            0.921
+          ],
+          "content": "3. 收费：承担经济责任。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.056,
+            0.942,
+            0.083,
+            0.956
+          ],
+          "content": "66"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.1,
+            0.94,
+            0.13,
+            0.957
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.133,
+            0.942,
+            0.183,
+            0.956
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.858,
+            0.028,
+            0.965,
+            0.065
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.077,
+            0.084,
+            0.173,
+            0.104
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.112,
+            0.177,
+            0.126
+          ],
+          "content": "① 固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.13,
+            0.418,
+            0.145
+          ],
+          "content": "be charged with = be in charge of 负责，掌管"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.149,
+            0.229,
+            0.164
+          ],
+          "content": "【2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.168,
+            0.477,
+            0.221
+          ],
+          "content": "Painter Thomas Moran and photographer Jackson were charged with capturing this astounding natural beauty and sharing it with the world."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.224,
+            0.476,
+            0.278
+          ],
+          "content": "画家托马斯·莫兰（Thomas Moran）和摄影师杰克逊（Jackson）负责捕捉这一令人惊叹的自然美景并将其呈献给全世界。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.281,
+            0.227,
+            0.297
+          ],
+          "content": "【2016 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.301,
+            0.383,
+            0.316
+          ],
+          "content": "And if Peretti were in charge at the Times?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.319,
+            0.388,
+            0.336
+          ],
+          "content": "倘若佩雷蒂掌管《纽约时报》会怎样呢？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.339,
+            0.474,
+            0.374
+          ],
+          "content": "②表示“收费”时，charge 既可以表示“向某人收费”，也可以表示“收取……费用”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.378,
+            0.227,
+            0.393
+          ],
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.398,
+            0.475,
+            0.471
+          ],
+          "content": "Customers were generally responsible for paying the sales tax to the state themselves if they weren't charged it. 如果客户未被收取销售税，那么他们通常会自行向所在州缴纳这笔税款。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.474,
+            0.226,
+            0.491
+          ],
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.495,
+            0.474,
+            0.528
+          ],
+          "content": "Now, rivals will be charging sales tax where they hadn't before."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.532,
+            0.473,
+            0.567
+          ],
+          "content": "现在，竞争对手们将会在之前未曾涉足的领域征收销售税。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.571,
+            0.25,
+            0.587
+          ],
+          "content": "③常考释义：给车充电"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.59,
+            0.226,
+            0.607
+          ],
+          "content": "【2023 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.61,
+            0.473,
+            0.644
+          ],
+          "content": "New residential buildings must have charging points for electric vehicles."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.648,
+            0.35,
+            0.664
+          ],
+          "content": "新的住所必须有电动汽车的充电桩。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.691,
+            0.338,
+            0.727
+          ],
+          "content": "community /kəˈmjuːnəti/\nn. 社区；界；团体；（生物）群落"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.733,
+            0.474,
+            0.788
+          ],
+          "content": "妙记：com- (all) + mun- (交流) +-ity (名词后缀) → 彼此之间有交流的所有人→社区，引申为界、团体、群落。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.179,
+            0.794,
+            0.357,
+            0.917
+          ],
+          "sub_type": "natural_image",
+          "content": "Silhouettes of four people standing in a dimly lit room with windows and warm lighting (no text or symbols visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_22.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.085,
+            0.629,
+            0.105
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.112,
+            0.692,
+            0.127
+          ],
+          "content": "①最常考：社区；界"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.131,
+            0.685,
+            0.146
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.15,
+            0.755,
+            0.165
+          ],
+          "content": "academic community 学术界"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.168,
+            0.685,
+            0.184
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.188,
+            0.78,
+            0.203
+          ],
+          "content": "astronomy community 天文学界"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.206,
+            0.685,
+            0.221
+          ],
+          "content": "【2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.226,
+            0.753,
+            0.241
+          ],
+          "content": "scientific community 科学界"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.244,
+            0.685,
+            0.259
+          ],
+          "content": "【2022 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.264,
+            0.73,
+            0.279
+          ],
+          "content": "business community 商界"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.282,
+            0.88,
+            0.298
+          ],
+          "content": "②翻译题考过“生物群落”，但仅仅考过一次。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.301,
+            0.73,
+            0.317
+          ],
+          "content": "【2010 年英语（一）翻译】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.321,
+            0.772,
+            0.336
+          ],
+          "content": "land community 陆生生物群落"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.364,
+            0.641,
+            0.377
+          ],
+          "content": "state /steɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.382,
+            0.89,
+            0.398
+          ],
+          "content": "n. 国家；州；状态 v. 陈述，声明 adj. 公立的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.404,
+            0.931,
+            0.44
+          ],
+          "content": "妙记：这个国家（state）声明（state）自己境内的所有大学都是公立的（state）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.652,
+            0.446,
+            0.807,
+            0.552
+          ],
+          "sub_type": "text_image",
+          "content": "我们国家的大学\n都是公立的",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_39.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.557,
+            0.627,
+            0.578
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.585,
+            0.626,
+            0.601
+          ],
+          "content": "①常考释义："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.605,
+            0.641,
+            0.62
+          ],
+          "content": "\\- 州（最常考）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.623,
+            0.683,
+            0.639
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.642,
+            0.931,
+            0.675
+          ],
+          "content": "There is just one path for a lawyer in most American states."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.678,
+            0.854,
+            0.695
+          ],
+          "content": "在美国大部分的州，成为律师只有一条路。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.698,
+            0.666,
+            0.714
+          ],
+          "content": "\\- 公立的，国有的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.717,
+            0.682,
+            0.733
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.736,
+            0.93,
+            0.77
+          ],
+          "content": "In many rich countries, average wages in the state sector are higher than in the private one."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.772,
+            0.929,
+            0.807
+          ],
+          "content": "在很多富裕国家，国有部门的平均工资要高于私营部门。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.811,
+            0.582,
+            0.826
+          ],
+          "content": "状态"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.829,
+            0.682,
+            0.845
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.849,
+            0.724,
+            0.864
+          ],
+          "content": "a state of mind 精神状态"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.868,
+            0.66,
+            0.883
+          ],
+          "content": "\\- the States 美国"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.886,
+            0.682,
+            0.902
+          ],
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.906,
+            0.907,
+            0.921
+          ],
+          "content": "revenue losses to the States 给美国带来的收入损失"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.83,
+            0.936,
+            0.914,
+            0.953
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.933,
+            0.938,
+            0.957,
+            0.951
+          ],
+          "content": "67"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.027,
+            0.035,
+            0.097,
+            0.066
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.111,
+            0.043,
+            0.371,
+            0.06
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.401,
+            0.043,
+            0.505,
+            0.059
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.088,
+            0.16,
+            0.103
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.105,
+            0.268,
+            0.12
+          ],
+          "content": "statement n. 陈述，声明"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.122,
+            0.234,
+            0.138
+          ],
+          "content": "【2015 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.14,
+            0.477,
+            0.173
+          ],
+          "content": "35. Which of the following statements is true about office speak?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.175,
+            0.401,
+            0.191
+          ],
+          "content": "关于办公室用语，下列哪个陈述是正确的？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.209,
+            0.288,
+            0.225
+          ],
+          "content": "regulation /ˌregjuˈleɪʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.227,
+            0.329,
+            0.242
+          ],
+          "content": "n. 控制，管理；法规，规章制度"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.248,
+            0.476,
+            0.283
+          ],
+          "content": "妙记：让一样东西变成常规的（regular），最好就是设立一个规章制度（regulation）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.074,
+            0.289,
+            0.175,
+            0.309
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.315,
+            0.474,
+            0.347
+          ],
+          "content": "① regulation 经常和 rule 进行同义替换，表示法规、规定。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.351,
+            0.231,
+            0.366
+          ],
+          "content": "【2011 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.369,
+            0.476,
+            0.402
+          ],
+          "content": "Germany thinks the euro must be saved by stricter rules on borrowing, spending and competitiveness."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.404,
+            0.476,
+            0.437
+          ],
+          "content": "德国认为，欧元必须通过更严格的借贷、支出和竞争力方面的规定来得以保全。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.441,
+            0.476,
+            0.474
+          ],
+          "content": "38. To solve the euro problem, Germany proposed that \\_\\_\\_\\_. 要解决欧元问题，德国提议 \\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.477,
+            0.333,
+            0.492
+          ],
+          "content": "B. stricter regulations be imposed"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.494,
+            0.274,
+            0.509
+          ],
+          "content": "施加更加严格的规章制度"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.511,
+            0.463,
+            0.527
+          ],
+          "content": "答案:B.（选项 regulations 和原文 rules 同义替换）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.53,
+            0.155,
+            0.545
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.548,
+            0.263,
+            0.563
+          ],
+          "content": "regulate vt. 控制，管理"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.565,
+            0.427,
+            0.581
+          ],
+          "content": "regime n. 统治制度，政体；政权；管理方式"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.584,
+            0.238,
+            0.6
+          ],
+          "content": "arrogant adj. 傲慢的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.619,
+            0.193,
+            0.635
+          ],
+          "content": "legal /'li:gl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.638,
+            0.243,
+            0.654
+          ],
+          "content": "adj. 法律的；合法的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.66,
+            0.478,
+            0.696
+          ],
+          "content": "妙记:legal 谐音“理够”，道理都够了，一般就合法 (legal)。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.074,
+            0.706,
+            0.174,
+            0.727
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.733,
+            0.478,
+            0.749
+          ],
+          "content": "① legal 既可以表示“法律上的”, 也可以表示“合法的”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.751,
+            0.231,
+            0.767
+          ],
+          "content": "【2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.771,
+            0.203,
+            0.786
+          ],
+          "content": "Take legal action."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.788,
+            0.191,
+            0.803
+          ],
+          "content": "采取法律行动。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.805,
+            0.231,
+            0.821
+          ],
+          "content": "【2013 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.824,
+            0.478,
+            0.857
+          ],
+          "content": "We divide newcomers into two categories: legal or illegal, good or bad."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.859,
+            0.478,
+            0.892
+          ],
+          "content": "我们将新来的人分成两类：合法的或非法的，好的或坏的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.895,
+            0.155,
+            0.91
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.913,
+            0.224,
+            0.929
+          ],
+          "content": "illegal adj. 非法的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.088,
+            0.747,
+            0.105
+          ],
+          "content": "legislation /ˌledʒɪsˈleɪʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.538,
+            0.107,
+            0.65,
+            0.123
+          ],
+          "content": "n. 法律；立法"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.133,
+            0.928,
+            0.168
+          ],
+          "content": "妙记：让一个事物合法（legal）的办法就是立法（legislation）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.177,
+            0.629,
+            0.197
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.204,
+            0.657,
+            0.219
+          ],
+          "content": "常考释义：立法"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.222,
+            0.687,
+            0.238
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.242,
+            0.93,
+            0.314
+          ],
+          "content": "Now the company is suddenly claiming that the 2002 agreement is invalid because of the 2006 legislation.\n现在，该公司突然宣称，由于 2006 年的立法，2002 年的协议是无效的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.336,
+            0.733,
+            0.353
+          ],
+          "content": "legitimate /lɪˈdʒɪtɪmət/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.355,
+            0.628,
+            0.372
+          ],
+          "content": "adj. 合法的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.382,
+            0.921,
+            0.417
+          ],
+          "content": "妙记：除了合法 (legal), 还有伙伴 (mate) 的支持，代表在法律和道德上都得到认可。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.427,
+            0.629,
+            0.448
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.455,
+            0.793,
+            0.471
+          ],
+          "content": "①近义词辨析:legitimate & legal"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.474,
+            0.929,
+            0.509
+          ],
+          "content": "\\- legitimate 与 legal 的核心区别在于，前者强调合理性与正当性，后者侧重于法律符合性;"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.512,
+            0.93,
+            0.566
+          ],
+          "content": "\\- legitimate 不仅包含合法性，还涉及道德和社会规范层面的认可；而 legal 仅指符合法律规定，不必涉及道德评价。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.569,
+            0.611,
+            0.585
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.588,
+            0.7,
+            0.604
+          ],
+          "content": "legitimacy n. 合法性"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.607,
+            0.838,
+            0.623
+          ],
+          "content": "③形近词辨析:legitimacy & legislation"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.625,
+            0.721,
+            0.642
+          ],
+          "content": "legitimacy 表示“合法”;"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.644,
+            0.723,
+            0.66
+          ],
+          "content": "legislation 表示“立法”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.663,
+            0.688,
+            0.679
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.682,
+            0.932,
+            0.715
+          ],
+          "content": "The court cannot maintain its legitimacy as guardian of the rule of law when justices behave like politicians."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.718,
+            0.931,
+            0.753
+          ],
+          "content": "如果法官像政客一样行事，法院就无法保持其作为法律规则守护者的合法性。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.774,
+            0.631,
+            0.789
+          ],
+          "content": "peer /pɪr/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.792,
+            0.726,
+            0.808
+          ],
+          "content": "n. 同辈；同等地位的人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.819,
+            0.908,
+            0.836
+          ],
+          "content": "妙记：和同辈（peer）才能畅快喝啤酒（beer）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.649,
+            0.841,
+            0.824,
+            0.932
+          ],
+          "sub_type": "natural_image",
+          "content": "Three people sitting at a table in a dimly lit indoor setting (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_62.jpg"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.044,
+            0.938,
+            0.07,
+            0.952
+          ],
+          "content": "68"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.087,
+            0.936,
+            0.117,
+            0.953
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.12,
+            0.938,
+            0.171,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.862,
+            0.026,
+            0.967,
+            0.063
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.086,
+            0.172,
+            0.105
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.113,
+            0.152,
+            0.127
+          ],
+          "content": "固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.131,
+            0.243,
+            0.146
+          ],
+          "content": "peer pressure 朋辈压力"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.149,
+            0.227,
+            0.165
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.169,
+            0.477,
+            0.259
+          ],
+          "content": "Tina Rosenberg contends that peer pressure can also be a positive force through what she calls the social cure.\n蒂娜·罗森伯格（Tina Rosenberg）认为，通过她所说的“社会疗法”，朋辈压力也能成为一种积极的力量。\npeer review 同行审查"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.262,
+            0.226,
+            0.278
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.282,
+            0.479,
+            0.317
+          ],
+          "content": "The journal Science is adding an extra round of statistical checks to its peer-review process."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.319,
+            0.476,
+            0.355
+          ],
+          "content": "《科学》杂志在其同行审查过程中添加一轮额外的统计学检查。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.375,
+            0.245,
+            0.389
+          ],
+          "content": "sentence /'sentəns/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.393,
+            0.272,
+            0.409
+          ],
+          "content": "n. 句子 vt./n. 判决，宣判"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.416,
+            0.477,
+            0.451
+          ],
+          "content": "妙记：法官说出句子（sentence）来审判（sentence）\n犯人。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.207,
+            0.456,
+            0.334,
+            0.544
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior scene with a person observing a judge at a podium, no visible text or symbols",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_12.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.071,
+            0.55,
+            0.168,
+            0.57
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.577,
+            0.37,
+            0.593
+          ],
+          "content": "常考释义：法律领域的“判决、宣判”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.596,
+            0.227,
+            0.612
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.616,
+            0.477,
+            0.67
+          ],
+          "content": "A judge might be more likely to send someone to prison if he had already sentenced five or six other defendants only to forced community service on that day."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.673,
+            0.476,
+            0.729
+          ],
+          "content": "如果一名法官在当天已经对另外五六个被告做出了社区服务的判决，这名法官就更有可能将一个人送进监狱。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.748,
+            0.217,
+            0.764
+          ],
+          "content": "section /'sekʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.767,
+            0.243,
+            0.783
+          ],
+          "content": "n. 部分；章节；部门"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.789,
+            0.474,
+            0.825
+          ],
+          "content": "妙记:sect 谐音“塞刻刀”，手里拿刻刀切出来的静态结果（-tion）就是章节、部门。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.836,
+            0.168,
+            0.856
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.863,
+            0.398,
+            0.878
+          ],
+          "content": "①一词多义，但都侧重于“内部的一部分”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.882,
+            0.251,
+            0.898
+          ],
+          "content": "章节：一本书的一部分"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.901,
+            0.268,
+            0.917
+          ],
+          "content": "部门：一个组织的一部分"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.084,
+            0.731,
+            0.099
+          ],
+          "content": "地区：一个国家的一部分"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.102,
+            0.731,
+            0.118
+          ],
+          "content": "阶层：社会人群的一部分"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.121,
+            0.676,
+            0.136
+          ],
+          "content": "②熟词僻义；分店"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.14,
+            0.689,
+            0.156
+          ],
+          "content": "【2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.16,
+            0.935,
+            0.193
+          ],
+          "content": "Waterstones branch managers were quietly retiring PRH books to their relevant sections."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.196,
+            0.935,
+            0.232
+          ],
+          "content": "水石书店的分店经理们悄悄地将企鹅兰登书屋（PRH）的图书转移到了相应的分区。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.259,
+            0.71,
+            0.274
+          ],
+          "content": "segment /'segmənt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.277,
+            0.707,
+            0.292
+          ],
+          "content": "n. 部分；片段；环节"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.299,
+            0.936,
+            0.335
+          ],
+          "content": "妙记：拿刻刀切（seg-）出的可分离的过程结果（-ment）是片段、环节、细分领域。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.673,
+            0.341,
+            0.795,
+            0.424
+          ],
+          "sub_type": "natural_image",
+          "content": "Colorful abstract geometric shapes arranged in a circular pattern on a blue background (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_34.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.429,
+            0.631,
+            0.45
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.457,
+            0.729,
+            0.473
+          ],
+          "content": "【英语（一）翻译题导语】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.477,
+            0.938,
+            0.511
+          ],
+          "content": "Read the following text carefully and then translate the underlined segments into Chinese."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.514,
+            0.916,
+            0.531
+          ],
+          "content": "仔细阅读以下文章，然后将划线部分翻译成中文。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.559,
+            0.672,
+            0.572
+          ],
+          "content": "sector /'sektər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.577,
+            0.651,
+            0.592
+          ],
+          "content": "n. 部门；行业"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.603,
+            0.936,
+            0.638
+          ],
+          "content": "妙记：拿刻刀切（sect-）出的场所（-or）是部门、行业。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.668,
+            0.645,
+            0.795,
+            0.731
+          ],
+          "sub_type": "text_image",
+          "content": "一个部门",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_42.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.735,
+            0.63,
+            0.756
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.763,
+            0.774,
+            0.779
+          ],
+          "content": "该单词最常考“部门”的含义："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.783,
+            0.706,
+            0.799
+          ],
+          "content": "public sector 公共部门"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.802,
+            0.71,
+            0.818
+          ],
+          "content": "private sector 私营部门"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.821,
+            0.688,
+            0.837
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.841,
+            0.938,
+            0.876
+          ],
+          "content": "In Britain, more than half of public-sector workers but only about 15% of private-sector ones are unionized."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.879,
+            0.938,
+            0.915
+          ],
+          "content": "在英国，超过半数的公共部门员工加入了工会，而私营部门员工中只有约 $15\\%$ 是工会成员。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.837,
+            0.935,
+            0.89,
+            0.95
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.892,
+            0.934,
+            0.922,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.942,
+            0.936,
+            0.966,
+            0.95
+          ],
+          "content": "69"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.86,
+            0.026,
+            0.965,
+            0.062
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.083,
+            0.172,
+            0.104
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.111,
+            0.152,
+            0.125
+          ],
+          "content": "固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.128,
+            0.242,
+            0.145
+          ],
+          "content": "peer pressure 朋辈压力"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.147,
+            0.227,
+            0.163
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.166,
+            0.474,
+            0.258
+          ],
+          "content": "Tina Rosenberg contends that peer pressure can also be a positive force through what she calls the social cure.\n蒂娜·罗森伯格（Tina Rosenberg）认为，通过她所说的“社会疗法”，朋辈压力也能成为一种积极的力量。\npeer review 同行审查"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.261,
+            0.225,
+            0.277
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.281,
+            0.477,
+            0.316
+          ],
+          "content": "The journal Science is adding an extra round of statistical checks to its peer-review process."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.318,
+            0.474,
+            0.355
+          ],
+          "content": "《科学》杂志在其同行审查过程中添加一轮额外的统计学检查。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.374,
+            0.243,
+            0.388
+          ],
+          "content": "sentence /'sentəns/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.393,
+            0.271,
+            0.408
+          ],
+          "content": "n. 句子 vt./n. 判决，宣判"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.416,
+            0.476,
+            0.451
+          ],
+          "content": "妙记：法官说出句子（sentence）来审判（sentence）\n犯人。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.207,
+            0.456,
+            0.334,
+            0.544
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior scene with a person standing beside a large screen displaying a man, and a silhouetted figure in the background (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_body_12.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.55,
+            0.168,
+            0.57
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.577,
+            0.369,
+            0.593
+          ],
+          "content": "常考释义：法律领域的“判决、宣判”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.596,
+            0.226,
+            0.612
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.617,
+            0.477,
+            0.67
+          ],
+          "content": "A judge might be more likely to send someone to prison if he had already sentenced five or six other defendants only to forced community service on that day."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.673,
+            0.474,
+            0.728
+          ],
+          "content": "如果一名法官在当天已经对另外五六个被告做出了社区服务的判决，这名法官就更有可能将一个人送进监狱。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.747,
+            0.216,
+            0.763
+          ],
+          "content": "section /'sekʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.766,
+            0.243,
+            0.782
+          ],
+          "content": "n. 部分；章节；部门"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.789,
+            0.474,
+            0.825
+          ],
+          "content": "妙记:sect 谐音“塞刻刀”，手里拿刻刀切出来的静态结果（-tion）就是章节、部门。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.835,
+            0.168,
+            0.856
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.863,
+            0.397,
+            0.878
+          ],
+          "content": "①一词多义，但都侧重于“内部的一部分”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.882,
+            0.25,
+            0.897
+          ],
+          "content": "章节：一本书的一部分"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.902,
+            0.267,
+            0.917
+          ],
+          "content": "部门：一个组织的一部分"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.082,
+            0.728,
+            0.097
+          ],
+          "content": "地区：一个国家的一部分"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.1,
+            0.729,
+            0.116
+          ],
+          "content": "阶层：社会人群的一部分"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.119,
+            0.674,
+            0.135
+          ],
+          "content": "②熟词僻义：分店"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.138,
+            0.686,
+            0.153
+          ],
+          "content": "【2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.158,
+            0.932,
+            0.191
+          ],
+          "content": "Waterstones branch managers were quietly retiring PRH books to their relevant sections."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.195,
+            0.932,
+            0.23
+          ],
+          "content": "水石书店的分店经理们悄悄地将企鹅兰登书屋（PRH）的图书转移到了相应的分区。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.258,
+            0.708,
+            0.273
+          ],
+          "content": "segment /'segment/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.276,
+            0.705,
+            0.291
+          ],
+          "content": "n. 部分；片段；环节"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.299,
+            0.934,
+            0.334
+          ],
+          "content": "妙记：拿刻刀切（seg-）出的可分离的过程结果（-ment）是片段、环节、细分领域。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.671,
+            0.34,
+            0.792,
+            0.424
+          ],
+          "sub_type": "natural_image",
+          "content": "Colorful abstract fan-shaped object on a blue background, no text or symbols visible",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_body_34.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.43,
+            0.629,
+            0.451
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.458,
+            0.727,
+            0.474
+          ],
+          "content": "【英语（一）翻译题导语】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.478,
+            0.935,
+            0.513
+          ],
+          "content": "Read the following text carefully and then translate the underlined segments into Chinese."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.516,
+            0.912,
+            0.532
+          ],
+          "content": "仔细阅读以下文章，然后将划线部分翻译成中文。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.56,
+            0.67,
+            0.574
+          ],
+          "content": "sector /'sektər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.579,
+            0.648,
+            0.594
+          ],
+          "content": "n. 部门；行业"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.605,
+            0.932,
+            0.64
+          ],
+          "content": "妙记：拿刻刀切（sect-）出的场所（-or）是部门、行业。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.665,
+            0.647,
+            0.792,
+            0.732
+          ],
+          "sub_type": "text_image",
+          "content": "一个部门",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_body_42.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.737,
+            0.628,
+            0.758
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.765,
+            0.771,
+            0.781
+          ],
+          "content": "该单词最常考“部门”的含义："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.785,
+            0.703,
+            0.8
+          ],
+          "content": "public sector 公共部门"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.804,
+            0.707,
+            0.819
+          ],
+          "content": "private sector 私营部门"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.823,
+            0.685,
+            0.838
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.843,
+            0.934,
+            0.877
+          ],
+          "content": "In Britain, more than half of public-sector workers but only about 15% of private-sector ones are unionized."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.88,
+            0.934,
+            0.916
+          ],
+          "content": "在英国，超过半数的公共部门员工加入了工会，而私营部门员工中只有约 15% 是工会成员。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.833,
+            0.936,
+            0.919,
+            0.953
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.937,
+            0.937,
+            0.961,
+            0.951
+          ],
+          "content": "69"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.039,
+            0.031,
+            0.107,
+            0.063
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.121,
+            0.04,
+            0.374,
+            0.058
+          ],
+          "content": "考研英语考研英语·一词三题"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.403,
+            0.04,
+            0.505,
+            0.057
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.087,
+            0.27,
+            0.102
+          ],
+          "content": "domestic /dəˈmestɪk/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.106,
+            0.321,
+            0.122
+          ],
+          "content": "adj. 家里的；国内的；家养的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.094,
+            0.128,
+            0.478,
+            0.182
+          ],
+          "content": "妙记:do（做）+mes（联想 mess. 杂乱）+-tic（形容词后缀）→做家里杂乱的事情→家里的，引申为国内的，家养的。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.215,
+            0.188,
+            0.348,
+            0.282
+          ],
+          "sub_type": "natural_image",
+          "content": "Silhouette of people in a dim setting at sunset, no visible text or symbols",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_6_image_body_6.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.087,
+            0.626,
+            0.108
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.114,
+            0.67,
+            0.129
+          ],
+          "content": "常考释义：国内的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.133,
+            0.681,
+            0.148
+          ],
+          "content": "【2024 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.152,
+            0.869,
+            0.187
+          ],
+          "content": "UK needs to increase its domestic wood supply.\n英国需要增加其国内的木材供应。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.301,
+            0.227,
+            0.323
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.337,
+            0.179,
+            0.354
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.363,
+            0.923,
+            0.418
+          ],
+          "content": "1. In many rich countries, average wages in the state sector are higher than in private ones. But the real gains come in benefits and work practices. Politicians have repeatedly backloaded public-sector pay deals, keeping the pay increases modest but adding to holidays and especially pensions that are already generous."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.105,
+            0.421,
+            0.686,
+            0.437
+          ],
+          "content": "It can be learned from Paragraph 4 that the income in the state sector is \\_\\_\\_\\_."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.108,
+            0.44,
+            0.294,
+            0.513
+          ],
+          "sub_type": "text",
+          "content": "A. illegally secured\nB. indirectly augmented\nC. excessively increased\nD. fairly adjusted"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.523,
+            0.923,
+            0.559
+          ],
+          "content": "2. The board of directors decided to \\_\\_\\_\\_ Mr. Johnson as Chief Executive Officer, a position which would \\_\\_\\_\\_ him to significant stock options and decision-making authority within the company."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.108,
+            0.562,
+            0.252,
+            0.633
+          ],
+          "sub_type": "text",
+          "content": "A. entitle ... title\nB. title ... entitle\nC. entitle ... entitle\nD. title ... title"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.644,
+            0.901,
+            0.66
+          ],
+          "content": "3. There's just one thing you should try to keep at least some time for, \\_\\_\\_\\_ your writing — and that's reading."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.108,
+            0.663,
+            0.24,
+            0.734
+          ],
+          "sub_type": "text",
+          "content": "A. in place of\nB. in charge of\nC. in response to\nD. in addition to"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.745,
+            0.923,
+            0.781
+          ],
+          "content": "4. Dark patterns also can be addressed on a self-regulatory basis, but only if organizations hold themselves accountable, not just to legal requirements but also to industry best practices and standards."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.789,
+            0.663,
+            0.806
+          ],
+          "content": "According to the last paragraph, a key to coping with dark patterns is \\_\\_\\_\\_."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.108,
+            0.809,
+            0.34,
+            0.88
+          ],
+          "sub_type": "text",
+          "content": "A. new legal requirements\nB. businesses, self-discipline\nC. strict regulatory standards\nD. consumers safety awareness"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.054,
+            0.937,
+            0.081,
+            0.951
+          ],
+          "content": "70"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.097,
+            0.935,
+            0.125,
+            0.952
+          ],
+          "content": "#"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.128,
+            0.937,
+            0.178,
+            0.95
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.858,
+            0.029,
+            0.963,
+            0.064
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.068,
+            0.086,
+            0.164,
+            0.102
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.111,
+            0.928,
+            0.142
+          ],
+          "content": "1. The new policy aims to \\_\\_\\_\\_ (power) local managers by giving them greater autonomy over budget allocation and staffing decisions. This is expected to increase efficiency and responsiveness."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.154,
+            0.928,
+            0.186
+          ],
+          "content": "2. The government is currently drafting new environmental \\_\\_\\_\\_ (legitimate) to address carbon emissions, which will require factories to adopt stricter pollution controls."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.197,
+            0.613,
+            0.21
+          ],
+          "content": "3. 请在空格中分别填入 segment 和 sector，填入单词可重复、可变形。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.217,
+            0.917,
+            0.25
+          ],
+          "content": "The latest market analysis reveals that the luxury goods \\_\\_\\_\\_ has outperformed other consumer \\_\\_\\_\\_, particularly in the technology \\_\\_\\_\\_ where premium products dominate."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.064,
+            0.262,
+            0.161,
+            0.278
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.068,
+            0.29,
+            0.139,
+            0.304
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.309,
+            0.932,
+            0.342
+          ],
+          "content": "1. In addressing urban environmental challenges, the local community must collaborate with the state to ensure that newly implemented regulations effectively balance industrial development with ecological preservation."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.402,
+            0.931,
+            0.435
+          ],
+          "content": "2. Following a rigorous peer review of the forensic evidence, the court's final sentence was forwarded to the appellate section for further assessment of potential procedural violations."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.495,
+            0.735,
+            0.508
+          ],
+          "content": "3. In the author's view, the Vermont case will test the federal authority over nuclear issues."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.576,
+            0.14,
+            0.59
+          ],
+          "content": "单词翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.595,
+            0.715,
+            0.61
+          ],
+          "content": "Boosting〔 domestic〕demand is vital; reducing〔 domestic〕conflict is equally important."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.452,
+            0.692,
+            0.551,
+            0.712
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.067,
+            0.736,
+            0.162,
+            0.752
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.068,
+            0.768,
+            0.114,
+            0.781
+          ],
+          "level": 2,
+          "content": "1. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.067,
+            0.785,
+            0.126,
+            0.8
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.803,
+            0.477,
+            0.894
+          ],
+          "content": "句意：在许多富裕国家，公共部门的平均工资高于私营部门。但真正的收益体现在福利和工作制度方面。政客们多次将公共部门的薪酬协议延期执行，虽然薪酬涨幅不大，但却增加了假期以及尤其是已经相当丰厚的养老金。从第四段可以得知，国有部"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.736,
+            0.687,
+            0.751
+          ],
+          "continues_prev": true,
+          "content": "门的收入是\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.753,
+            0.936,
+            0.881
+          ],
+          "content": "考点：阅读理解之细节推理题。从文中可知，公共部门员工的整体收入并非通过直接涨薪大幅提高，而是通过间接的福利形式得以增长。因此 B.选项“间接增加”为正确答案。A.“非法获得”文中未提及；C.“过度增加”与“涨幅适度”相悖；D.“公平调整”是中性表述，而文中“backloaded”一词隐含了策略性的、非直接的意味，并非单纯的“公平”。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.836,
+            0.935,
+            0.919,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.939,
+            0.936,
+            0.961,
+            0.95
+          ],
+          "content": "71"
+        }
+      ]
+    },
+    {
+      "page_idx": 8,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.036,
+            0.032,
+            0.507,
+            0.064
+          ],
+          "content": "高频词表"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.088,
+            0.13,
+            0.1
+          ],
+          "content": "2. B."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.104,
+            0.142,
+            0.12
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.123,
+            0.48,
+            0.174
+          ],
+          "content": "句意：董事会决定\\_\\_\\_\\_约翰逊先生为首席执行官，这一职位将\\_\\_\\_\\_他获得可观的股票期权和公司内部的决策权。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.176,
+            0.479,
+            0.266
+          ],
+          "content": "考点：动词辨析与固定搭配。第一个空，董事会决定“授予某人某个头衔/职位”，动词应用“title”，常用结构为“title sb. as...”。第二个空，表示“这个职位赋予他获得某物的权利”，动词应用“entitle”，固定搭配为“entitle sb. to sth.”。因此 B.选项正确。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.278,
+            0.129,
+            0.291
+          ],
+          "content": "3. D."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.295,
+            0.14,
+            0.31
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.313,
+            0.467,
+            0.347
+          ],
+          "content": "句意：只有一件事你至少应该留出些时间来做，\n\\_\\_\\_\\_你的写作——那就是阅读。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.35,
+            0.479,
+            0.496
+          ],
+          "content": "考点：短语辨析与逻辑关系。破折号后的“that's reading”是空格所填内容的同位语，对其进行解释说明。句子的逻辑是：你既要花时间写作，也要（除此之外）花时间阅读。因此，需要填入一个表示“除……之外（还有）”的短语。D. in addition to 符合句意。A. in place of“代替”; B. in charge of“负责”; C. in response to“响应，回应”，均不符合“写作与阅读并存”的逻辑。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.516,
+            0.128,
+            0.528
+          ],
+          "content": "4. B."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.533,
+            0.14,
+            0.548
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.551,
+            0.478,
+            0.623
+          ],
+          "content": "句意：不良设计模式也可以通过自我监管的方式得到解决，但前提是相关组织要承担起责任，不仅要遵守法律要求，还要遵循行业最佳实践和标准。根据最后一段，应对不良设计模式的一个关键是\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.625,
+            0.479,
+            0.771
+          ],
+          "content": "考点：阅读理解之细节题。文中明确指出关键在于企业或组织自身的、自觉的约束和负责任的行为，即“自律”。B. 选项是原文“self-regulatory”和“hold themselves accountable”的同义转述。A. 和 C. 选项中的“legal requirements（法律要求）”和“regulatory standards（监管标准）”是组织需要负责的对象之一，但并非“关键”，关键是其“自律”行为。D. “消费者安全意识”在段落中未提及。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.785,
+            0.177,
+            0.802
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.083,
+            0.817,
+            0.182,
+            0.832
+          ],
+          "level": 2,
+          "content": "1. empower"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.838,
+            0.142,
+            0.854
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.856,
+            0.478,
+            0.909
+          ],
+          "content": "句意：新政策旨在\\_\\_\\_\\_地方经理，给予他们在预算分配和人事决策上更大的自主权。这有望提高效率和响应能力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.911,
+            0.478,
+            0.928
+          ],
+          "content": "考点：词性转换（名词→动词）。括号中给出的是名"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.086,
+            0.919,
+            0.139
+          ],
+          "continues_prev": true,
+          "content": "词“power”（权力），空格前是“to”，需要填入动词原形。根据句意，政策目的是“给予权力”，故需将名词“power”变为动词“empower”（授权，使能够）"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.153,
+            0.637,
+            0.168
+          ],
+          "level": 2,
+          "content": "2. legislation"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.174,
+            0.589,
+            0.189
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.192,
+            0.919,
+            0.244
+          ],
+          "content": "句意：政府目前正在起草新的环境\\_\\_\\_\\_以解决碳排放问题，这将要求工厂采取更严格的污染控制措施。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.247,
+            0.92,
+            0.374
+          ],
+          "content": "考点：词性转换（形容词→名词）。括号中给出的是形容词“legitimate”（合法的），但空格需要填入一个名词作为“drafting”（起草）的宾语。政府起草的应是“法律、法规”，故需将形容词变为名词“legislation”（法律，立法）。“Legitimacy”（合法性）是另一个名词形式，但意为“合法性”，不符合“被起草”的语境。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.39,
+            0.747,
+            0.404
+          ],
+          "level": 2,
+          "content": "3. segment, sectors, sector"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.407,
+            0.589,
+            0.422
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.425,
+            0.919,
+            0.478
+          ],
+          "content": "句意：最新的市场分析显示，奢侈品\\_\\_\\_\\_的表现优于其他消费者\\_\\_\\_\\_，尤其是在高端产品占主导地位的技术\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.481,
+            0.92,
+            0.663
+          ],
+          "content": "考点：近义词辨析（sector vs. segment）。Sector 通常指经济或产业的“部门、领域”，如“technology sector”（技术领域）、“service sector”（服务行业）。Segment 通常指一个更大市场或群体中的“细分部分、细分市场”，如“luxury goods segment”（奢侈品细分市场）、“the youth segment”（年轻人群）。第一空：奢侈品是整体消费市场中的一个“细分部分”，故用“segment”。第二空：指与其他消费者“领域”相比，故用“sectors”。第三空：技术是一个产业“领域”，故用“sector”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.672,
+            0.623,
+            0.688
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.692,
+            0.602,
+            0.706
+          ],
+          "content": "全句翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.71,
+            0.92,
+            0.762
+          ],
+          "content": "1. 在应对城市环境挑战时，地方社区必须与国家政府协作，以确保新实施的法规能有效平衡工业发展与生态保护。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.766,
+            0.919,
+            0.818
+          ],
+          "content": "2. 经过对法医证据的严格同行评议后，法院的终审判决被移交至上诉部门，以便进一步评估潜在的程序违规行为。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.821,
+            0.918,
+            0.856
+          ],
+          "content": "3. 在作者看来，佛蒙特州的案件将考验联邦政府在核问题上的权威。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.859,
+            0.602,
+            0.873
+          ],
+          "content": "单词翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.876,
+            0.918,
+            0.911
+          ],
+          "content": "刺激【国内】需求至关重要；减少【家庭】冲突同样重要。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.056,
+            0.937,
+            0.081,
+            0.951
+          ],
+          "content": "72"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.097,
+            0.935,
+            0.18,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:12:58",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 9,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 839.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 8,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

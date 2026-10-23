@@ -1,0 +1,4902 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.85,
+            0.011,
+            0.955,
+            0.047
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.347,
+            0.068,
+            0.393,
+            0.1
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_1.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.4,
+            0.075,
+            0.621,
+            0.094
+          ],
+          "level": 2,
+          "content": "List 22 测量与评估"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.121,
+            0.213,
+            0.142
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.149,
+            0.51,
+            0.166
+          ],
+          "content": "情节发展：发现盲区→察觉问题→评估调整→解决方案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.186,
+            0.152,
+            0.201
+          ],
+          "level": 2,
+          "content": "发现盲区"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.205,
+            0.692,
+            0.261
+          ],
+          "content": "生态学家李博士的日常 routine（惯例）就是沿固定 route（路线）measure（测量）水质。他 count（计数）鱼类数量，examine（检查）pH level（水平），但是他 discount（不重视）偶然波动，认为这不 matter（要紧）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.282,
+            0.152,
+            0.297
+          ],
+          "level": 2,
+          "content": "察觉问题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.301,
+            0.692,
+            0.357
+          ],
+          "content": "某日 frequent（频繁的）暴雨后，数据 mean（平均值）异常升高。他切换 approach（方法），用新 means（手段）estimate（估算）污染源的范围，发现曾被 discount（忽视）的农田径流实为关键。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.378,
+            0.152,
+            0.393
+          ],
+          "level": 2,
+          "content": "评估调整"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.398,
+            0.691,
+            0.454
+          ],
+          "content": "李博士 evaluate（评估）所有 account（账户 / 数据），并且 esteem（尊重）团队意见，调整了 practice（实践流程）。他们 reexamine（复检）样本，确认污染物对生态系统存在危害。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.474,
+            0.153,
+            0.49
+          ],
+          "level": 2,
+          "content": "解决方案"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.494,
+            0.691,
+            0.549
+          ],
+          "content": "团队建立动态监测 means（方法），将暴雨纳入 account（考虑）。新 approach（方法）证明：真正 valuable（有价值的）是 measure（测量）与 evaluate（评估）结合的思维 level（水平）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.701,
+            0.179,
+            0.924,
+            0.556
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_13.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.59,
+            0.178,
+            0.607
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.632,
+            0.191,
+            0.646
+          ],
+          "content": "mean /miːn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.65,
+            0.468,
+            0.686
+          ],
+          "content": "v. 意思是，意味着，本意是 n. 平均数 adj. 平均的;吝啬的，小气的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.693,
+            0.47,
+            0.749
+          ],
+          "content": "妙记:mean（谐音“命”），意思是（mean）生命很短，要花在有意义（meaning）的事情上，不要对别人吝啬（mean）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.073,
+            0.753,
+            0.168,
+            0.774
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.781,
+            0.339,
+            0.797
+          ],
+          "content": "①考查其基本义：意思是；意味着"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.8,
+            0.225,
+            0.816
+          ],
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.82,
+            0.472,
+            0.854
+          ],
+          "content": "But that doesn't mean crucial ethical issues involving AI aren't at hand."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.857,
+            0.471,
+            0.892
+          ],
+          "content": "但这并不意味着涉及人工智能的重要伦理问题尚未出现。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.896,
+            0.303,
+            0.912
+          ],
+          "content": "②考查其基本义：意欲；打算"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.916,
+            0.225,
+            0.932
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.631,
+            0.685,
+            0.645
+          ],
+          "content": "Both sides mean well."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.649,
+            0.696,
+            0.665
+          ],
+          "content": "双方的本意都是好的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.668,
+            0.837,
+            0.685
+          ],
+          "content": "③固定搭配:mean to do sth. 打算做某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.689,
+            0.76,
+            0.705
+          ],
+          "content": "I meant to call you, but I forgot."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.707,
+            0.762,
+            0.723
+          ],
+          "content": "我本想打电话给你，但忘记了。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.726,
+            0.605,
+            0.741
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.746,
+            0.883,
+            0.761
+          ],
+          "content": "meanwhile adv. 同时；当时 = in the meantime"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.765,
+            0.8,
+            0.781
+          ],
+          "content": "meaningful adj. 有意义的；重要的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.785,
+            0.763,
+            0.8
+          ],
+          "content": "mean-minded adj. 思想狭隘的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.824,
+            0.689,
+            0.84
+          ],
+          "content": "measure /'meʒər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.843,
+            0.915,
+            0.879
+          ],
+          "content": "v./n. 测量；衡量 n. 测量尺度，衡量标准；方法，措施"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.886,
+            0.925,
+            0.922
+          ],
+          "content": "妙记:measure 音似“买这”，我要买这块地，快来给我测量测量（measure）。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.827,
+            0.94,
+            0.878,
+            0.956
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.881,
+            0.939,
+            0.909,
+            0.957
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.919,
+            0.941,
+            0.959,
+            0.956
+          ],
+          "content": "/223"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.026,
+            0.032,
+            0.095,
+            0.063
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.111,
+            0.04,
+            0.374,
+            0.058
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.405,
+            0.04,
+            0.51,
+            0.058
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.201,
+            0.089,
+            0.359,
+            0.197
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of two children interacting with a stone or excavator in a garden setting with butterflies and flowers (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_3.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.201,
+            0.179,
+            0.223
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.229,
+            0.482,
+            0.264
+          ],
+          "content": "① 常见搭配:take measures to do sth. 采取措施做某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.268,
+            0.235,
+            0.284
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.289,
+            0.482,
+            0.343
+          ],
+          "content": "Authorities could take reasonable measures to ensure that phone data are not erased or altered while waiting for a warrant."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.347,
+            0.482,
+            0.384
+          ],
+          "content": "当局可以采取合理措施确保在等待搜查令期间手机数据不会被删除或篡改。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.387,
+            0.429,
+            0.404
+          ],
+          "content": "②考查其作名词时的含义：尺度，标准，程度"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.408,
+            0.482,
+            0.444
+          ],
+          "content": "a measure of sth. 某事物的一种衡量 / 尺度；一定程度的某物"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.448,
+            0.482,
+            0.483
+          ],
+          "content": "in some / large / great measure 在某种 / 很大 / 极大程度上"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.487,
+            0.235,
+            0.503
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.508,
+            0.482,
+            0.564
+          ],
+          "content": "While GDP has been the most common method for measuring the economic activity of nations, as a measure, it is no longer enough."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.567,
+            0.469,
+            0.603
+          ],
+          "content": "虽然 GDP 一直是衡量各国经济活动的最常用方法，\n但作为一种衡量标准，它已经不够了。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.606,
+            0.159,
+            0.621
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.626,
+            0.297,
+            0.641
+          ],
+          "content": "measurement n. 测量，衡量"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.645,
+            0.425,
+            0.662
+          ],
+          "content": "measurable adj. 可测量的；显著的；重要的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.665,
+            0.234,
+            0.682
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.686,
+            0.482,
+            0.722
+          ],
+          "content": "A good laugh is unlikely to have measurable benefits the way, say, walking or jogging does."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.725,
+            0.446,
+            0.742
+          ],
+          "content": "大笑不太可能像散步或慢跑那样有显著的成效。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.746,
+            0.462,
+            0.762
+          ],
+          "content": "immeasurable adj. 无法衡量的；巨大的；无限的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.782,
+            0.214,
+            0.795
+          ],
+          "content": "means /mi:nz/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.8,
+            0.24,
+            0.815
+          ],
+          "content": "n. 方法，途径，手段"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.823,
+            0.479,
+            0.839
+          ],
+          "content": "妙记：means 与 mean 无关，它来自 measure(方法)。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.844,
+            0.177,
+            0.866
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.871,
+            0.48,
+            0.906
+          ],
+          "content": "① means 是单复同形，与可数名词 measure 和 method 不同。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.909,
+            0.234,
+            0.926
+          ],
+          "content": "【2020 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.088,
+            0.845,
+            0.105
+          ],
+          "content": "23. A. tried to practice a means of escape"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.106,
+            0.734,
+            0.122
+          ],
+          "content": "试图寻找一种逃跑的方法"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.126,
+            0.855,
+            0.142
+          ],
+          "content": "②固定搭配:by means of 通过……方法"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.145,
+            0.692,
+            0.161
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.165,
+            0.925,
+            0.2
+          ],
+          "content": "Most archaeological sites have been located by mean of careful searching."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.202,
+            0.923,
+            0.219
+          ],
+          "content": "大多数考古遗址都是通过仔细搜寻的方式被发现的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.222,
+            0.788,
+            0.238
+          ],
+          "content": "③固定搭配:by all means 当然"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.241,
+            0.692,
+            0.257
+          ],
+          "content": "【2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.261,
+            0.926,
+            0.295
+          ],
+          "content": "Ancient art that is displayed in foreign countries by all means should be returned to the original country."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.298,
+            0.926,
+            0.334
+          ],
+          "content": "在外国展出的古代艺术品，无论如何都应该被归还给其原属国。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.337,
+            0.829,
+            0.353
+          ],
+          "content": "④固定搭配：by no means 绝不意味着"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.356,
+            0.692,
+            0.372
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.376,
+            0.926,
+            0.412
+          ],
+          "content": "Our visions of the future were largely — though by no means uniformly — glowingly positive."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.414,
+            0.925,
+            0.45
+          ],
+          "content": "我们对未来的看法在很大程度上——尽管绝不一致——都是乐观的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.469,
+            0.717,
+            0.485
+          ],
+          "content": "examine /ɪɡˈzæmɪn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.488,
+            0.889,
+            0.504
+          ],
+          "content": "v. 考，测验；检测，检验，检查；调查，考查"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.51,
+            0.901,
+            0.527
+          ],
+          "content": "妙记：来自 exam（考试），引申为检验、调查。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.654,
+            0.531,
+            0.819,
+            0.643
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a factory worker operating machinery with conveyor belt (no text or symbols visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_45.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.647,
+            0.634,
+            0.669
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.675,
+            0.771,
+            0.692
+          ],
+          "content": "①考查其基本义：检查；检验"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.694,
+            0.692,
+            0.711
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.715,
+            0.926,
+            0.75
+          ],
+          "content": "A discovery claim becomes credible after it has been examined by the scientific community."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.752,
+            0.852,
+            0.769
+          ],
+          "content": "一项发现在被科学界检验之后变得可信。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.772,
+            0.926,
+            0.807
+          ],
+          "content": "②表示“考试”的单词，通常都可以引申表示“检测、检验”，如:test。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.81,
+            0.692,
+            0.827
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.831,
+            0.928,
+            0.864
+          ],
+          "content": "The Vermont case will test the limits of states' powet over nuclear issues."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.868,
+            0.925,
+            0.884
+          ],
+          "content": "佛蒙特州的案例将检测各州在核问题上的权力极限："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.887,
+            0.616,
+            0.903
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.907,
+            0.732,
+            0.923
+          ],
+          "content": "examination n. 考试，检查"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.042,
+            0.941,
+            0.083,
+            0.956
+          ],
+          "content": "224/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.091,
+            0.94,
+            0.12,
+            0.957
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.123,
+            0.942,
+            0.174,
+            0.956
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.846,
+            0.021,
+            0.95,
+            0.057
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.076,
+            0.207,
+            0.089
+          ],
+          "content": "count /kaunt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.094,
+            0.388,
+            0.11
+          ],
+          "content": "v. 数，计算，算入; 重要 n. 计数; 总数"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.116,
+            0.46,
+            0.152
+          ],
+          "content": "妙记：本义表示“计数”, 能够被计算进来的东西，通常是重要的东西，故而引申表示“重要”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.08,
+            0.161,
+            0.175,
+            0.182
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.189,
+            0.408,
+            0.204
+          ],
+          "content": "①单词可以表示“……很重要”，写作常用。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.21,
+            0.472,
+            0.244
+          ],
+          "content": "In the pursuit of success, hard work counts, but emotional intelligence often counts for even more."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.247,
+            0.471,
+            0.282
+          ],
+          "content": "在追求成功的过程中，努力很重要，但情商往往更重要。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.286,
+            0.333,
+            0.302
+          ],
+          "content": "②常见搭配:count for 占（比例）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.305,
+            0.23,
+            0.322
+          ],
+          "content": "【2012 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.327,
+            0.474,
+            0.362
+          ],
+          "content": "Homework may no longer count for more than 10% of a student's academic grade."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.365,
+            0.472,
+            0.4
+          ],
+          "content": "家庭作业在学生的学术成绩评定中的占比可能不会再超过 10%。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.404,
+            0.341,
+            0.42
+          ],
+          "content": "③常见搭配:count on 依靠，指望"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.423,
+            0.23,
+            0.44
+          ],
+          "content": "【2019 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.445,
+            0.473,
+            0.499
+          ],
+          "content": "Even as we humans count on forests to soak up a good share of the carbon dioxide we produce, we are threatening their ability to do so."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.502,
+            0.472,
+            0.539
+          ],
+          "content": "即便我们人类指望森林能够吸收我们所排放的大量二氧化碳，但我们却在威胁着它们的能力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.542,
+            0.156,
+            0.557
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.561,
+            0.416,
+            0.577
+          ],
+          "content": "countless adj. 数不清的，数不尽的，无数的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.6,
+            0.258,
+            0.615
+          ],
+          "content": "discount /'dɪskaʊnt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.619,
+            0.329,
+            0.636
+          ],
+          "content": "n. 折扣 vt. 打折；不重视，低估"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.642,
+            0.472,
+            0.679
+          ],
+          "content": "妙记:dis-（否定）+ count（计数）→ 不计算进来的部分 → 折扣、打折。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.688,
+            0.176,
+            0.71
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.717,
+            0.352,
+            0.733
+          ],
+          "content": "①该单词可以表示“不重视、低估”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.736,
+            0.231,
+            0.753
+          ],
+          "content": "【2022 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.756,
+            0.473,
+            0.791
+          ],
+          "content": "The data points extracted from our studies do not discount what is learned in a zoo visit."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.794,
+            0.472,
+            0.831
+          ],
+          "content": "从我们的研究中提取的数据点并未低估我们在动物园参观中所学到的东西的价值。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.835,
+            0.335,
+            0.85
+          ],
+          "content": "discount the importance of evidence"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.853,
+            0.221,
+            0.869
+          ],
+          "content": "低估证据的重要性"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.872,
+            0.295,
+            0.888
+          ],
+          "content": "②同根词对比（阅读干扰项）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.892,
+            0.364,
+            0.907
+          ],
+          "content": "account v. 记账；描述 n. 账户，账目"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.912,
+            0.262,
+            0.926
+          ],
+          "content": "counter v. 反对 n. 柜台"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.079,
+            0.671,
+            0.093
+          ],
+          "content": "matter /'mætər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.098,
+            0.751,
+            0.113
+          ],
+          "content": "n. 问题；事情；物质 v. 重要"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.12,
+            0.916,
+            0.155
+          ],
+          "content": "妙记：物质（matter）质量是一个重要（matter）的物理概念。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.639,
+            0.161,
+            0.804,
+            0.278
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior view of a wooden workshop with a metal workbench and wooden tools (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_34.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.285,
+            0.623,
+            0.307
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.314,
+            0.81,
+            0.33
+          ],
+          "content": "① matter = count = be important 重要"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.334,
+            0.771,
+            0.349
+          ],
+          "content": "matter to sb. 对某人来说很重要"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.352,
+            0.678,
+            0.369
+          ],
+          "content": "【2012 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.373,
+            0.919,
+            0.408
+          ],
+          "content": "A key question unanswered about homework is whether it counts much in schooling."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.411,
+            0.918,
+            0.446
+          ],
+          "content": "关于家庭作业的一个悬而未决的关键问题是：它在学校教育中是否很重要。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.45,
+            0.801,
+            0.466
+          ],
+          "content": "② no matter 不重要，无所谓；无论"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.469,
+            0.918,
+            0.504
+          ],
+          "content": "no matter + 疑问词（无论）:引导让步状语从句，不可用于名词性从句。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.508,
+            0.676,
+            0.524
+          ],
+          "content": "【2016 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.528,
+            0.919,
+            0.582
+          ],
+          "content": "No matter how formal or informal the work environment, the way you present yourself has an impact."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.585,
+            0.918,
+            0.62
+          ],
+          "content": "无论工作环境是正式还是非正式，你展现自己的方式都会产生影响。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.624,
+            0.885,
+            0.639
+          ],
+          "content": "③写作常用句型:What matters is... 很重要……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.644,
+            0.919,
+            0.679
+          ],
+          "content": "In education, what matters is cultivating critical thinking rather than memorizing facts."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.681,
+            0.911,
+            0.697
+          ],
+          "content": "在教育中，重要的是培养批判性思维，而非死记硬背。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.7,
+            0.677,
+            0.717
+          ],
+          "content": "【2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.721,
+            0.919,
+            0.755
+          ],
+          "content": "Again, the story an exhibit is trying to tell is what matters."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.759,
+            0.88,
+            0.775
+          ],
+          "content": "再次强调，展品试图讲述的故事才是关键所在。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.778,
+            0.835,
+            0.794
+          ],
+          "content": "④考查其作名词时的基本义：问题，事情"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.798,
+            0.677,
+            0.814
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.817,
+            0.864,
+            0.833
+          ],
+          "content": "The Heart of Matter 事情的核心；问题的关键"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.836,
+            0.789,
+            0.852
+          ],
+          "content": "⑤考查其作名词时的生僻义：物质"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.855,
+            0.677,
+            0.872
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.876,
+            0.821,
+            0.891
+          ],
+          "content": "There is no gap between mind and matter."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.894,
+            0.726,
+            0.91
+          ],
+          "content": "意识与物质之间并无隔阂。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.82,
+            0.934,
+            0.87,
+            0.951
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.873,
+            0.934,
+            0.902,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.91,
+            0.936,
+            0.949,
+            0.951
+          ],
+          "content": "/225"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.041,
+            0.036,
+            0.108,
+            0.069
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.123,
+            0.045,
+            0.379,
+            0.063
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.409,
+            0.045,
+            0.512,
+            0.062
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.094,
+            0.25,
+            0.108
+          ],
+          "content": "account /ə'kaunt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.096,
+            0.112,
+            0.42,
+            0.127
+          ],
+          "content": "v. 记账；描述 n. 账户，账目；描述；解释"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.134,
+            0.483,
+            0.188
+          ],
+          "content": "妙记:ac- = ad-（一再）+ count（计数）→ 一再计数 → 记账 → 账户、账目。记账是对账目的描述，引申为描述。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.195,
+            0.184,
+            0.215
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.222,
+            0.166,
+            0.236
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.241,
+            0.404,
+            0.256
+          ],
+          "content": "accountable = responsible adj. 负有责任的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.26,
+            0.237,
+            0.276
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.28,
+            0.482,
+            0.315
+          ],
+          "content": "Well-paid executives should not be accountable for what happens in the organisations that they run."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.318,
+            0.482,
+            0.353
+          ],
+          "content": "高薪的高管不应为他们所管理的组织内部所发生的事情负责。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.356,
+            0.18,
+            0.371
+          ],
+          "content": "②常见搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.375,
+            0.252,
+            0.39
+          ],
+          "content": "account for 占；导致"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.394,
+            0.236,
+            0.41
+          ],
+          "content": "【2012 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.415,
+            0.482,
+            0.449
+          ],
+          "content": "Conversely, if homework matters, it should account for a significant portion of the grade."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.452,
+            0.482,
+            0.487
+          ],
+          "content": "相反，如果家庭作业很重要，那么它就应该在成绩中占相当大的比重。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.49,
+            0.163,
+            0.506
+          ],
+          "content": "【2007 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.511,
+            0.444,
+            0.526
+          ],
+          "content": "What might account for this strange phenomenon?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.529,
+            0.343,
+            0.544
+          ],
+          "content": "是什么导致了这一奇怪的现象呢？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.548,
+            0.48,
+            0.582
+          ],
+          "content": "③常见搭配:take...into account = take account of 考虑，顾及"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.586,
+            0.238,
+            0.602
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.606,
+            0.483,
+            0.678
+          ],
+          "content": "a vague agreement which took far too little account of the patients' rights and their expectations of privacy\n一项含混不清的协议，这项协议几乎没有考虑患者的权利以及他们对隐私的期望"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.681,
+            0.181,
+            0.696
+          ],
+          "content": "④常见搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.7,
+            0.327,
+            0.716
+          ],
+          "content": "by all accounts 据说，大家都说"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.718,
+            0.237,
+            0.734
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.738,
+            0.404,
+            0.754
+          ],
+          "content": "By all accounts he was a freethinking person."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.755,
+            0.339,
+            0.771
+          ],
+          "content": "大家都说他是一个思想自由的人。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.774,
+            0.163,
+            0.789
+          ],
+          "content": "⑤派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.793,
+            0.232,
+            0.808
+          ],
+          "content": "accounting n. 会计"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.811,
+            0.331,
+            0.826
+          ],
+          "content": "accountant n. 会计人员，会计师"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.849,
+            0.195,
+            0.863
+          ],
+          "content": "level /'levl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.867,
+            0.48,
+            0.902
+          ],
+          "content": "n. 水平；质量；程度；级别 vt. 使相等，使平等\nadj. 相等的，平等的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.908,
+            0.479,
+            0.925
+          ],
+          "content": "妙记:level 这个单词两边对称，即是水平（level）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.677,
+            0.093,
+            0.794,
+            0.174
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_34.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.536,
+            0.179,
+            0.636,
+            0.2
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.206,
+            0.92,
+            0.241
+          ],
+          "content": "①常见搭配:level out 趋于稳定；平稳；（地面等）变平坦"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.244,
+            0.692,
+            0.26
+          ],
+          "content": "【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.264,
+            0.914,
+            0.299
+          ],
+          "content": "It peaks in young adulthood, levels out for a period of time, and then generally starts to slowly decline as we age."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.302,
+            0.918,
+            0.336
+          ],
+          "content": "它在青年时期达到顶峰，会稳定一段时间，然后通常会随着我们年龄的增长而开始慢慢下降。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.34,
+            0.869,
+            0.355
+          ],
+          "content": "②考查其作动词时的含义：使相等，使平等"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.359,
+            0.87,
+            0.374
+          ],
+          "content": "level the playing field 创造平等的竞争环境"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.378,
+            0.691,
+            0.393
+          ],
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.398,
+            0.918,
+            0.431
+          ],
+          "content": "The ruling levels the playing field for local and online businesses."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.435,
+            0.909,
+            0.451
+          ],
+          "content": "该判决为当地和网络公司创造了平等的竞争环境。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.475,
+            0.721,
+            0.49
+          ],
+          "content": "frequent /'fri:kwənt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.544,
+            0.493,
+            0.825,
+            0.51
+          ],
+          "content": "adj. 经常的，频繁的 vt. 常去 (某地)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.516,
+            0.918,
+            0.551
+          ],
+          "content": "妙记:frequent 谐音“夫人困的” → 夫人非常容易困，常常犯困 → 频繁的。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.673,
+            0.557,
+            0.798,
+            0.644
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a person in a purple suit and hat reading a book in a lecture hall, with audience members and a speaker in the background (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_48.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.648,
+            0.634,
+            0.669
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.675,
+            0.892,
+            0.692
+          ],
+          "content": "①考查 frequent 作动词时的含义：常去（某地）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.695,
+            0.689,
+            0.711
+          ],
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.715,
+            0.872,
+            0.73
+          ],
+          "content": "You're lost in an area humans tend to frequent."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.733,
+            0.775,
+            0.749
+          ],
+          "content": "你在人们经常去的地方迷路了。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.753,
+            0.615,
+            0.768
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.772,
+            0.731,
+            0.788
+          ],
+          "content": "frequency n. 频率；频繁"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.791,
+            0.763,
+            0.807
+          ],
+          "content": "frequently adv. 经常，频繁地"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.81,
+            0.905,
+            0.826
+          ],
+          "content": "infrequent adj. 不经常的，很少发生的 (in-否定)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.849,
+            0.713,
+            0.864
+          ],
+          "content": "evaluate /ɪˈvæljueɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.867,
+            0.653,
+            0.882
+          ],
+          "content": "vt. 评估，评价"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.889,
+            0.918,
+            0.924
+          ],
+          "content": "妙记:e- = ex-（出）+ valu-（=value 价）→ 出价→\n评估、评价（evaluate）。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.049,
+            0.941,
+            0.09,
+            0.956
+          ],
+          "content": "226/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.097,
+            0.939,
+            0.127,
+            0.956
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.129,
+            0.941,
+            0.179,
+            0.955
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.848,
+            0.018,
+            0.952,
+            0.054
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.075,
+            0.179,
+            0.097
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.102,
+            0.474,
+            0.137
+          ],
+          "content": "①常考“重新评估”, 可以写成 reevaluate, 也可以写成 re-evaluate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.141,
+            0.234,
+            0.158
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.161,
+            0.354,
+            0.175
+          ],
+          "content": "36. D. reevaluate some of their assets"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.18,
+            0.258,
+            0.195
+          ],
+          "content": "重新评估它的一些资产"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.2,
+            0.16,
+            0.215
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.219,
+            0.26,
+            0.234
+          ],
+          "content": "evaluation n. 评估，评价"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.258,
+            0.253,
+            0.272
+          ],
+          "content": "estimate /'estiment/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.277,
+            0.215,
+            0.293
+          ],
+          "content": "vt./n. 评估，评价"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.3,
+            0.474,
+            0.336
+          ],
+          "content": "妙记：评估（estimate）一下最高价，然后最高价（est 最高级）买（音似，ma）它（音似 te）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.207,
+            0.341,
+            0.348,
+            0.43
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of two people inspecting a car under bright lighting (no text or symbols visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_11.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.436,
+            0.176,
+            0.456
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.463,
+            0.474,
+            0.499
+          ],
+          "content": "①该单词通常与 over 或 under 连用进行考查，且经常出现在阅读的选项中。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.502,
+            0.234,
+            0.519
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.523,
+            0.446,
+            0.557
+          ],
+          "content": "23. D. overestimate the value of live performances\n高估现场演出的价值"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.561,
+            0.234,
+            0.577
+          ],
+          "content": "【2020 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.581,
+            0.436,
+            0.616
+          ],
+          "content": "34. A. the underestimation of elite women's role  \n低估精英女性的角色"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.62,
+            0.159,
+            0.635
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.639,
+            0.273,
+            0.655
+          ],
+          "content": "estimation n. 评估，评价"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.658,
+            0.474,
+            0.694
+          ],
+          "content": "underestimate v. 低估，对……估计不足；轻视\noverestimate v. 过高估计（能力、影响或价值）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.718,
+            0.223,
+            0.732
+          ],
+          "content": "esteem /ɪˈstiːm/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.736,
+            0.373,
+            0.752
+          ],
+          "content": "vt. 评价（某人）；尊重 n. 好评；尊重"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.759,
+            0.474,
+            0.815
+          ],
+          "content": "妙记:esteem 是 estimate（评价）的变写，本义表示评价，后引申为好的评价或高度评价，即好评或尊重。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.825,
+            0.176,
+            0.846
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.853,
+            0.327,
+            0.869
+          ],
+          "content": "①考查其作动词的基本义：尊重"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.872,
+            0.234,
+            0.888
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.892,
+            0.474,
+            0.927
+          ],
+          "content": "Star watchers were among the most esteemed members of Hawaiian society."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.076,
+            0.848,
+            0.092
+          ],
+          "content": "观星人是夏威夷社会中最受人尊敬的成员。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.095,
+            0.731,
+            0.111
+          ],
+          "content": "②复合词:self-esteem 自尊"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.114,
+            0.678,
+            0.131
+          ],
+          "content": "【2025 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.135,
+            0.918,
+            0.207
+          ],
+          "content": "If you struggle with low self-esteem, you might find it especially difficult to reach out for help because you have the added worry of the other person declining your request."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.211,
+            0.917,
+            0.246
+          ],
+          "content": "如果你饱受自卑之苦，你可能会发现寻求帮助格外困难，因为你还会额外担心对方拒绝你的请求。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.269,
+            0.704,
+            0.285
+          ],
+          "content": "valuable /'væljuəbl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.288,
+            0.687,
+            0.304
+          ],
+          "content": "adj. 值钱的，宝贵的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.311,
+            0.907,
+            0.346
+          ],
+          "content": "妙记:valuable 音似“挖了宝” →宝藏是宝贵的，值钱的（valuable）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.357,
+            0.624,
+            0.377
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.385,
+            0.907,
+            0.42
+          ],
+          "content": "分清下列单词是值钱还是不值钱，特别是 invaluable,\n虽然很少考，但极易造成误解："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.423,
+            0.919,
+            0.459
+          ],
+          "content": "valueless adj. 没有价值的，不值钱的 (-less 没有 + value 价值 → 没有价值的 → 不值钱的)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.462,
+            0.918,
+            0.497
+          ],
+          "content": "priceless adj. 无价的，宝贵的（-less 没有 + price 价格 → 没有价格的 → 无价之宝）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.501,
+            0.919,
+            0.536
+          ],
+          "content": "invaluable adj. 宝贵的，极具价值的 (in-否定 + val-价 + able 能 → 不能用价格衡量的)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.556,
+            0.692,
+            0.572
+          ],
+          "content": "practice /'præktɪs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.575,
+            0.743,
+            0.59
+          ],
+          "content": "n. 练习；实践，做法；惯例"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.598,
+            0.918,
+            0.634
+          ],
+          "content": "妙记:pr 联想成胖人，act 表演，ice 冰，一个胖人（pr）的表演（act）在冰（ice）上练习（practice）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.662,
+            0.639,
+            0.782,
+            0.724
+          ],
+          "sub_type": "text_image",
+          "content": "practice\n水上练习",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_44.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.729,
+            0.624,
+            0.751
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.757,
+            0.754,
+            0.773
+          ],
+          "content": "①最常考的含义：实践、惯例"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.776,
+            0.679,
+            0.793
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.797,
+            0.835,
+            0.812
+          ],
+          "content": "It may change the legal practices in the U.S."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.815,
+            0.779,
+            0.831
+          ],
+          "content": "它可能改变美国的法律实践惯例。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.835,
+            0.916,
+            0.869
+          ],
+          "content": "②名词衍生形式 malpractice 特指“玩忽职守”，但直接理解成“不好的（mal-）做法”，也完全没问题。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.873,
+            0.678,
+            0.889
+          ],
+          "content": "【2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.892,
+            0.917,
+            0.927
+          ],
+          "content": "Scopus itself has all the data necessary to detect this malpractice."
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.82,
+            0.934,
+            0.869,
+            0.95
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.872,
+            0.934,
+            0.902,
+            0.951
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.911,
+            0.935,
+            0.949,
+            0.95
+          ],
+          "content": "/227"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.039,
+            0.03,
+            0.108,
+            0.063
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.123,
+            0.039,
+            0.374,
+            0.058
+          ],
+          "content": "考研英语考研英语·一词三遍"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.404,
+            0.039,
+            0.507,
+            0.057
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.086,
+            0.479,
+            0.121
+          ],
+          "content": "Scopus 本身就有检测这种“不好的做法”所需的全部数据。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.124,
+            0.467,
+            0.159
+          ],
+          "content": "③常考其副词形式：practically 几乎（通常接 every, 翻译成“几乎每个”）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.162,
+            0.169,
+            0.178
+          ],
+          "content": "【2008 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.182,
+            0.406,
+            0.198
+          ],
+          "content": "Alvarez paid practically everything by check."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.2,
+            0.427,
+            0.217
+          ],
+          "content": "阿尔瓦雷斯几乎每个东西都是用支票支付的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.219,
+            0.24,
+            0.236
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.24,
+            0.478,
+            0.274
+          ],
+          "content": "Practically every week features at least one celebrity mom, or mom-to-be, smiling on the newsstands."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.277,
+            0.477,
+            0.312
+          ],
+          "content": "几乎每周都有至少一位明星妈妈或准妈妈微笑着出现在报摊上。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.315,
+            0.168,
+            0.331
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.335,
+            0.314,
+            0.351
+          ],
+          "content": "practical adj. 实际的，实用的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.354,
+            0.367,
+            0.37
+          ],
+          "content": "impractical adj. 不实际的，不实用的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.393,
+            0.22,
+            0.407
+          ],
+          "content": "routine/ru: 'ti:n/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.412,
+            0.307,
+            0.428
+          ],
+          "content": "n. 惯例 adj. 惯例的，惯常的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.096,
+            0.434,
+            0.479,
+            0.47
+          ],
+          "content": "妙记:routine 音似“路停”，路上停车进行常规的（routine）检查。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.215,
+            0.476,
+            0.353,
+            0.566
+          ],
+          "sub_type": "text_image",
+          "content": "routine check",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_body_17.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.565,
+            0.184,
+            0.585
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.086,
+            0.592,
+            0.399,
+            0.626
+          ],
+          "sub_type": "text",
+          "content": "①固定搭配:break the routine 打破常规\n②派生词:routinely adv. 照例，通常"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.63,
+            0.24,
+            0.646
+          ],
+          "content": "【2020 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.65,
+            0.479,
+            0.685
+          ],
+          "content": "Scientific publishers routinely report profit margins approaching 40% on their operations."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.687,
+            0.478,
+            0.722
+          ],
+          "content": "科学出版商通常会报告其业务运营的利润率接近 40%。"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.097,
+            0.746,
+            0.317,
+            0.781
+          ],
+          "sub_type": "text",
+          "content": "approach /əˈprəʊtʃ/\nn. 方法 vt. 接近；处理，应对"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.096,
+            0.786,
+            0.478,
+            0.823
+          ],
+          "content": "妙记:approach 谐音“鹅扑肉吃”，鹅扑肉吃就是在接近（approach）肉。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.214,
+            0.828,
+            0.351,
+            0.921
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a white duck with wings and raised arms, standing on a rocky ground with a wooden fence (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_body_29.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.088,
+            0.627,
+            0.109
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.115,
+            0.795,
+            0.131
+          ],
+          "content": "①考查其作名词时的基本义：方法"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.134,
+            0.683,
+            0.15
+          ],
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.527,
+            0.154,
+            0.916,
+            0.207
+          ],
+          "sub_type": "text",
+          "content": "24. C. the approaches to promoting“long-termism”促进“长期主义”的方法\n②考查其作动词时的基本义：接近"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.21,
+            0.683,
+            0.227
+          ],
+          "content": "【2020 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.231,
+            0.916,
+            0.266
+          ],
+          "content": "Scientific publishers routinely report profit margins approaching 40%."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.268,
+            0.912,
+            0.285
+          ],
+          "content": "科学出版商通常会报告其业务运营的利润率接近 40%。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.288,
+            0.831,
+            0.304
+          ],
+          "content": "③考查其作动词时的基本义：处理应对"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.307,
+            0.61,
+            0.323
+          ],
+          "content": "【2009 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.327,
+            0.915,
+            0.362
+          ],
+          "content": "Humans are born with the capacity to approach challenges in four primary ways."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.365,
+            0.904,
+            0.381
+          ],
+          "content": "人类生来就有四种主要的方式来应对挑战的能力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.384,
+            0.61,
+            0.399
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.403,
+            0.814,
+            0.42
+          ],
+          "content": "approachable adj. 易接近的；友好的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.444,
+            0.643,
+            0.457
+          ],
+          "content": "route /raʊt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.462,
+            0.735,
+            0.477
+          ],
+          "content": "n. 常规路线；路线；途径"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.484,
+            0.913,
+            0.501
+          ],
+          "content": "妙记：来自 road（路）→路线、途径→常规路线。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.511,
+            0.627,
+            0.531
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.538,
+            0.854,
+            0.554
+          ],
+          "content": "①核心常考含义：途径、渠道（抽象概念）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.557,
+            0.681,
+            0.573
+          ],
+          "content": "【2022 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.577,
+            0.913,
+            0.611
+          ],
+          "content": "Education was no longer a secure route of social mobility."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.614,
+            0.873,
+            0.631
+          ],
+          "content": "教育不再是一条确保社会流动性的可靠途径。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.633,
+            0.609,
+            0.649
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.653,
+            0.808,
+            0.669
+          ],
+          "content": "routine n. 惯例 adj. 惯例的，惯常的"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.055,
+            0.937,
+            0.093,
+            0.952
+          ],
+          "content": "228/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.101,
+            0.936,
+            0.13,
+            0.953
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.132,
+            0.938,
+            0.182,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.85,
+            0.0,
+            0.957,
+            0.035
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.057,
+            0.219,
+            0.078
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.093,
+            0.169,
+            0.109
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.114,
+            0.454,
+            0.129
+          ],
+          "content": "1. He didn't \\_\\_\\_\\_ to hurt you; it was an accident."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.133,
+            0.174,
+            0.148
+          ],
+          "content": "A. mean"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.133,
+            0.409,
+            0.147
+          ],
+          "content": "B. means"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.134,
+            0.635,
+            0.149
+          ],
+          "content": "C. meaning"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.782,
+            0.134,
+            0.86,
+            0.147
+          ],
+          "content": "D. meant"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.158,
+            0.535,
+            0.174
+          ],
+          "content": "2. The phrase “by no means” is closest in meaning to \\_\\_\\_\\_."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.178,
+            0.207,
+            0.193
+          ],
+          "content": "A. absolutely"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.178,
+            0.425,
+            0.192
+          ],
+          "content": "B. not at all"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.178,
+            0.633,
+            0.194
+          ],
+          "content": "C. partially"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.783,
+            0.178,
+            0.887,
+            0.193
+          ],
+          "content": "D. inevitably"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.203,
+            0.926,
+            0.239
+          ],
+          "content": "3. The sentence “Up until a few decades ago, our visions of the future were largely — though by no means uniformly — glowingly positive” implies that \\_\\_\\_\\_"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.096,
+            0.243,
+            0.491,
+            0.318
+          ],
+          "sub_type": "text",
+          "content": "A. all future visions were consistently optimistic.\nB. positive outlooks dominated but varied in degree.\nC. uniformity was the key feature of past predictions.\nD. negativity began to emerge only recently."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.328,
+            0.722,
+            0.344
+          ],
+          "content": "4. The store manager agreed to give me a 20% \\_\\_\\_\\_ because I was a regular customer."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.349,
+            0.188,
+            0.363
+          ],
+          "content": "A. account"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.349,
+            0.423,
+            0.362
+          ],
+          "content": "B. discount"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.349,
+            0.614,
+            0.362
+          ],
+          "content": "C. count"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.783,
+            0.349,
+            0.871,
+            0.362
+          ],
+          "content": "D. counter"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.374,
+            0.928,
+            0.429
+          ],
+          "content": "5. In international negotiations, each party should be \\_\\_\\_\\_ for their commitments, as trust is what \\_\\_\\_\\_ in building long-term cooperation. When disputes occur, both sides need to put forward practical \\_\\_\\_\\_ instead of blaming each other."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.434,
+            0.404,
+            0.449
+          ],
+          "content": "A. accountable; counts; countermeasures"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.434,
+            0.849,
+            0.45
+          ],
+          "content": "B. unaccountable; discounts; counterparts"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.096,
+            0.454,
+            0.318,
+            0.469
+          ],
+          "content": "C. countable; recounts; court"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.454,
+            0.808,
+            0.469
+          ],
+          "content": "D. countless; miscounts; encounters"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.48,
+            0.543,
+            0.496
+          ],
+          "content": "6. \\_\\_\\_\\_ how much they give away, this excess leads to waste."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.5,
+            0.204,
+            0.514
+          ],
+          "content": "A. No matter"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.5,
+            0.415,
+            0.514
+          ],
+          "content": "B. Even if"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.5,
+            0.64,
+            0.515
+          ],
+          "content": "C. Although"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.783,
+            0.5,
+            0.871,
+            0.515
+          ],
+          "content": "D. Despite"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.526,
+            0.851,
+            0.542
+          ],
+          "content": "7. Many beginners \\_\\_\\_\\_ the difficulty of learning a programming language and end up struggling later."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.546,
+            0.242,
+            0.56
+          ],
+          "content": "A. underestimated"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.546,
+            0.466,
+            0.561
+          ],
+          "content": "B. overestimating"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.546,
+            0.672,
+            0.56
+          ],
+          "content": "C. underestimate"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.783,
+            0.546,
+            0.916,
+            0.56
+          ],
+          "content": "D. overestimated"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.571,
+            0.774,
+            0.587
+          ],
+          "content": "8. Online courses have become a practical \\_\\_\\_\\_ to higher education for working professionals."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.591,
+            0.182,
+            0.606
+          ],
+          "content": "A. routine"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.329,
+            0.592,
+            0.391,
+            0.607
+          ],
+          "content": "B. path"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.592,
+            0.608,
+            0.605
+          ],
+          "content": "C. route"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.783,
+            0.592,
+            0.845,
+            0.605
+          ],
+          "content": "D. root"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.618,
+            0.169,
+            0.634
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.645,
+            0.795,
+            0.661
+          ],
+          "content": "1. The \\_\\_\\_\\_ (frequent) of extreme weather events has increased significantly in recent decades."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.67,
+            0.926,
+            0.706
+          ],
+          "content": "2. A large part of \\_\\_\\_\\_(evaluate) is calling out bad arguments, but we also need to admit good arguments by opponents and to apply the same critical standards to ourselves."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.716,
+            0.553,
+            0.732
+          ],
+          "content": "3. You need a thorough medical \\_\\_\\_\\_ (examine) before the trip."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.741,
+            0.926,
+            0.817
+          ],
+          "content": "4. The old family photo album may seem ordinary to others, but to us, it holds memories that are\\_\\_\\_\\_(value) no amount of money could replace them. On the contrary, the fake diamond necklace I bought by mistake turned out to be\\_\\_\\_\\_(value); it's not even worth a dollar. As for the rare manuscript passed down from the 18th century, its cultural significance makes it\\_\\_\\_\\_(price) in the eyes of collectors."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.826,
+            0.724,
+            0.843
+          ],
+          "content": "5. Although the idea sounds perfect in theory, it is not \\_\\_\\_\\_ (practice) due to high costs."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.852,
+            0.923,
+            0.887
+          ],
+          "content": "6. Customers now \\_\\_\\_\\_(routine) see menus of suggested default options — often well above 20% of what they owe."
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.823,
+            0.934,
+            0.873,
+            0.95
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.876,
+            0.933,
+            0.906,
+            0.951
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.918,
+            0.935,
+            0.953,
+            0.949
+          ],
+          "content": "229"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.036,
+            0.033,
+            0.107,
+            0.066
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.12,
+            0.042,
+            0.511,
+            0.06
+          ],
+          "content": "考研英语 高频抢分册"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.088,
+            0.185,
+            0.105
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.116,
+            0.158,
+            0.131
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.14,
+            0.918,
+            0.177
+          ],
+          "content": "1. But we have at least drawn nearer the point of admitting that birds should continue as a matter of intrinsic right, regardless of the presence or absence of economic advantage to us."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.239,
+            0.922,
+            0.276
+          ],
+          "content": "2. Those societies came out of the war with levels of enrollment that had been roughly constant at 3%—5% of the relevant age groups during the decades before the war."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.339,
+            0.921,
+            0.375
+          ],
+          "content": "3. The way consumers now approach the process of making purchase decisions means that marketing's impact stems from a broad range of factors beyond conventional paid media."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.439,
+            0.158,
+            0.455
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.464,
+            0.897,
+            0.482
+          ],
+          "content": "1. This may not only do damage to your relationship with your child but also affect your child's [self-esteem]."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.517,
+            0.921,
+            0.552
+          ],
+          "content": "2. Lawmakers and regulators are slowly starting to address the ambiguity around dark patterns, most recently at the\n [state level]."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.588,
+            0.862,
+            0.605
+          ],
+          "content": "3. By most [measures], corporate governance has become a lot tighter and more rigorous since the 1970s."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.728,
+            0.178,
+            0.745
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.76,
+            0.131,
+            0.774
+          ],
+          "level": 2,
+          "content": "1. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.777,
+            0.142,
+            0.793
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.796,
+            0.422,
+            0.812
+          ],
+          "content": "句意：他并非 \\_\\_\\_\\_ 伤害你；那是个意外。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.814,
+            0.484,
+            0.885
+          ],
+          "content": "考点：动词固定搭配（mean to do）及时态。mean to do something 是固定搭配，意为“故意做某事，打算做某事”。主语是“He”，时态为一般过去时（didn't），故需用动词原形 mean。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.46,
+            0.685,
+            0.558,
+            0.706
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.73,
+            0.581,
+            0.744
+          ],
+          "level": 2,
+          "content": "2. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.747,
+            0.594,
+            0.764
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.767,
+            0.922,
+            0.894
+          ],
+          "content": "句意：短语“一点也不”在意思上最接近\\_\\_\\_\\_。\n考点：短语同义替换。“By no means”是一个强烈的否定短语，意为“绝不，一点也不”。A. absolutely（绝对地）表示肯定。B. not at all（一点也不）是“by no means”的完美同义替换。C. partially（部分地）和 D. inevitably（不可避免地）均与“强烈否定”的语义不符。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.049,
+            0.942,
+            0.087,
+            0.957
+          ],
+          "content": "230"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.097,
+            0.941,
+            0.127,
+            0.959
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.129,
+            0.943,
+            0.18,
+            0.958
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 8,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.856,
+            0.004,
+            0.963,
+            0.042
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.066,
+            0.116,
+            0.079
+          ],
+          "level": 2,
+          "content": "3. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.071,
+            0.083,
+            0.129,
+            0.099
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.101,
+            0.471,
+            0.155
+          ],
+          "content": "句意：句子“直到几十年前，我们对未来的设想大多——尽管并非完全如此——都是充满着乐观色彩的”意味着\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.157,
+            0.471,
+            0.269
+          ],
+          "content": "考点：句子逻辑理解（插入语的作用）。破折号之间的插入语“尽管绝非一致地”是对主句的修正和补充，表明主流是乐观的，但并非所有人的看法或所有预测都完全相同，即乐观的程度和普遍性存在差异。故 B.“积极的看法占主导，但在程度上有所不同”正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.071,
+            0.285,
+            0.115,
+            0.299
+          ],
+          "level": 2,
+          "content": "4. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.071,
+            0.303,
+            0.129,
+            0.319
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.321,
+            0.471,
+            0.357
+          ],
+          "content": "句意：商店经理同意给我打 20% 的\\_\\_\\_\\_，因为我是老顾客。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.359,
+            0.471,
+            0.433
+          ],
+          "content": "考点：名词辨析及上下文逻辑。A. account（账户；叙述）。B. discount（折扣），20% discount 意为“八折”，符合“老顾客优惠”的语境。C. count（计数）。D. counter（柜台；计数器）。故 B. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.071,
+            0.449,
+            0.116,
+            0.463
+          ],
+          "level": 2,
+          "content": "5. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.071,
+            0.466,
+            0.129,
+            0.483
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.485,
+            0.471,
+            0.559
+          ],
+          "content": "句意：在国际谈判中，各方都应对自己的承诺\\_\\_\\_\\_，因为信任是建立长期合作中\\_\\_\\_\\_的东西。当争端发生时，双方需要提出切实的\\_\\_\\_\\_，而不是互相指责。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.561,
+            0.471,
+            0.711
+          ],
+          "content": "考点：同根词词义与词性辨析。第一空：需要形容词，与 be... for 构成搭配，表示“对……负责”。accountable（负有责任的）符合要求。第二空:what 引导表语从句并在从句中作主语，需要第三人称单数动词。count（重要，有价值）符合“信任是重要的”语境。第三空：需要名词，被 practical 修饰。countermeasures（对策，应对措施）符合“解决争端”的语境。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.071,
+            0.727,
+            0.116,
+            0.74
+          ],
+          "level": 2,
+          "content": "6. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.071,
+            0.744,
+            0.129,
+            0.76
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.762,
+            0.471,
+            0.798
+          ],
+          "content": "句意:\\_\\_\\_\\_他们赠送出去多少，这种过量都会导致浪费。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.8,
+            0.471,
+            0.911
+          ],
+          "content": "考点：连词 / 介词辨析。D. Despite(尽管) 是介词，后接名词或动名词，不能直接接从句，故排除。A. No matter (无论)、B. Even if (即使)、C. Although (虽然) 均可引导从句，但根据句意“无论给出去多少都会导致浪费”, 表示一种无条件关系，No matter how much (无论多少) 是最佳选择。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.065,
+            0.572,
+            0.079
+          ],
+          "level": 2,
+          "content": "7. C."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.083,
+            0.584,
+            0.099
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.101,
+            0.916,
+            0.136
+          ],
+          "content": "句意：许多初学者\\_\\_\\_\\_学习编程语言的难度，结果后来陷入挣扎。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.139,
+            0.929,
+            0.308
+          ],
+          "content": "考点：动词词义辨析及时态。句子陈述一个普遍现象，时态为一般现在时。主语“Many beginners”是复数。A. underestimated（过去式）和 D. overestimated（过去式）时态不符。B. overestimating（现在分词）不能直接作谓语。C. underestimate(低估) 是动词原形，与复数主语搭配，表示一种常见行为，且“低估难度导致后来挣扎”逻辑通顺。overestimate（高估）则与“end up struggling”逻辑不符。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.323,
+            0.571,
+            0.336
+          ],
+          "level": 2,
+          "content": "8. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.34,
+            0.584,
+            0.356
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.359,
+            0.928,
+            0.395
+          ],
+          "content": "句意：在线课程已成为在职专业人士接受高等教育的一条实用的\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.397,
+            0.929,
+            0.528
+          ],
+          "content": "考点：近义词辨析（path/route/way）。三者均可表示“途径，道路”，但搭配和侧重点略有不同。A. routine(常规，惯例)，与“to”搭配不当。B. path(道路，途径)，常与 to 连用，比喻“达成某事的途径”，符合“获得高等教育的途径”的语境。C. route(路线，路程)，多指具体的行进路线或交通路线。D. root(根，根源)，与句意无关。故 B. path 为最佳答案。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.538,
+            0.625,
+            0.555
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.571,
+            0.631,
+            0.586
+          ],
+          "level": 2,
+          "content": "1. frequency"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.588,
+            0.584,
+            0.604
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.607,
+            0.929,
+            0.681
+          ],
+          "content": "句意：极端天气事件的\\_\\_\\_\\_在近几十年显著增加。\n考点：词性转换（形容词→名词）。定冠词 The 后及介词 of 前需要名词。形容词 frequent（频繁的）的名词形式为 frequency（频率，频繁程度）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.696,
+            0.634,
+            0.71
+          ],
+          "level": 2,
+          "content": "2. evaluation"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.713,
+            0.584,
+            0.73
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.732,
+            0.929,
+            0.786
+          ],
+          "content": "句意:\\_\\_\\_\\_的很大一部分是指出糟糕的论点，但我们也需要承认对手的好论点，并将同样的批判性标准用在自己身上。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.789,
+            0.928,
+            0.843
+          ],
+          "content": "考点：词性转换（动词→名词）。介词 of 后需要名词。动词 evaluate（评估，评价）的名词形式为 evaluation。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.859,
+            0.649,
+            0.873
+          ],
+          "level": 2,
+          "content": "3. examination"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.876,
+            0.584,
+            0.892
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.895,
+            0.916,
+            0.911
+          ],
+          "content": "句意：旅行前你需要进行一次彻底的医疗\\_\\_\\_\\_。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.829,
+            0.934,
+            0.912,
+            0.95
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.919,
+            0.935,
+            0.958,
+            0.95
+          ],
+          "content": "/231"
+        }
+      ]
+    },
+    {
+      "page_idx": 9,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.038,
+            0.032,
+            0.108,
+            0.064
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.123,
+            0.04,
+            0.521,
+            0.058
+          ],
+          "content": "考研英语 高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.087,
+            0.493,
+            0.139
+          ],
+          "content": "考点：词性转换（动词→名词）。形容词 medical 修饰空格处，因此需要名词。动词 examine（检查）的名词形式为 examination。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.155,
+            0.368,
+            0.17
+          ],
+          "level": 2,
+          "content": "4. invaluable, valueless, priceless"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.172,
+            0.148,
+            0.188
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.19,
+            0.493,
+            0.299
+          ],
+          "content": "句意：那本旧的家庭相册对别人来说可能很普通，但对我们而言，它承载着\\_\\_\\_\\_记忆，再多金钱也无法替代。相反，我误买的那条假钻石项链结果是\\_\\_\\_\\_；它甚至一文不值。至于那本从 18 世纪流传下来的罕见手稿，其文化意义在收藏家眼中使它\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.301,
+            0.493,
+            0.446
+          ],
+          "content": "考点：形容词词义辨析。第一空：根据“多少钱都无法替代”可知记忆是“极其珍贵的”，故填 invaluable（无价的，极其宝贵的）或 valuable（有价值的）。第二空：根据“甚至不值一美元”可知项链是“毫无价值的”，故填 worthless（毫无价值的）。第三空：根据“cultural significance”（文化意义）和“collectors”（收藏家）可知手稿是“无价的，极其珍贵的”，故填 priceless（无价的）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.461,
+            0.187,
+            0.476
+          ],
+          "level": 2,
+          "content": "5. practical"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.479,
+            0.148,
+            0.494
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.497,
+            0.492,
+            0.532
+          ],
+          "content": "句意：尽管这个想法在理论上听起来很完美，但由于成本高昂，它并不\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.534,
+            0.492,
+            0.587
+          ],
+          "content": "考点：词性转换（名词→形容词）。系动词 is 后需要形容词作表语。名词 practice（实践）的形容词形式为 practical（实际的，可行的）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.546,
+            0.088,
+            0.646,
+            0.103
+          ],
+          "level": 2,
+          "content": "6. routinely"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.544,
+            0.105,
+            0.606,
+            0.12
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.123,
+            0.938,
+            0.214
+          ],
+          "content": "句意：顾客现在\\_\\_\\_\\_看到建议的默认选项菜单——这些选项通常远高于他们应付金额的 20%。\n考点：词性转换（名词→副词）。空格处修饰动词 see，因此需要副词。名词 routine（常规）的副词形式为 routinely（常规地，通常地）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.543,
+            0.223,
+            0.648,
+            0.239
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.546,
+            0.242,
+            0.62,
+            0.257
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.543,
+            0.26,
+            0.938,
+            0.423
+          ],
+          "sub_type": "text",
+          "content": "1. 但至少我们更接近于承认这样一个观点：基于其固有的内在权利，鸟类应该继续存在，无论其对我们是否存在经济利益。\n2. 那些社会在战后呈现的入学率水平，在战前几十年间一直保持基本稳定，占相关年龄群体的 3%\\~5%。\n3. 如今消费者做出购买决策的方式意味着，营销的影响力源自一系列广泛的因素，而非仅仅局限于传统的付费媒体。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.547,
+            0.427,
+            0.62,
+            0.442
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.545,
+            0.445,
+            0.938,
+            0.571
+          ],
+          "sub_type": "text",
+          "content": "1. 这不仅可能会损害你与孩子的关系，还会影响孩子的【自尊心】。\n2. 立法者和监管机构正逐步着手解决暗黑模式的法律模糊性问题，最近主要在【州级层面】推进相关工作。\n3. 从大多数【标准】来看，自 20 世纪 70 年代以来，公司治理已变得更加严格和规范。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.053,
+            0.937,
+            0.096,
+            0.952
+          ],
+          "content": "232/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.101,
+            0.935,
+            0.186,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:14:30",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 10,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 8,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 9,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

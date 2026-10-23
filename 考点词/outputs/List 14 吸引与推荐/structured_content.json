@@ -1,0 +1,3930 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.348,
+            0.037,
+            0.395,
+            0.071
+          ],
+          "content": "#"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.402,
+            0.045,
+            0.623,
+            0.065
+          ],
+          "level": 2,
+          "content": "List 14 吸引与推荐"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.862,
+            0.0,
+            0.97,
+            0.014
+          ],
+          "content": "考点词<"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.062,
+            0.101,
+            0.21,
+            0.123
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.13,
+            0.409,
+            0.148
+          ],
+          "content": "情节发展：初次接触→建立好感→深化关系"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.165,
+            0.147,
+            0.181
+          ],
+          "level": 2,
+          "content": "初次接触"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.184,
+            0.697,
+            0.242
+          ],
+          "content": "艺术展上，一幅抽象画 draw/attract/appeal（吸引）了许多观众。其中，一位 acquaintance（熟人）向新来的观众 introduce（介绍）画家，并 comment（评论）道:“这风格 resemble（像）大师手笔。”"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.261,
+            0.147,
+            0.278
+          ],
+          "level": 2,
+          "content": "建立好感"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.281,
+            0.697,
+            0.32
+          ],
+          "content": "画家 conduct（主持）讲座时，特意 pick（挑选）了几位观众互动。他 compliment（称赞）他们的见解，并 recommend（推荐）相关书籍，赢得众人 favor（好感）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.35,
+            0.146,
+            0.366
+          ],
+          "level": 2,
+          "content": "深化关系"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.37,
+            0.697,
+            0.408
+          ],
+          "content": "一位常客与画家逐渐 familiar（熟悉），被 regard（视为）知音。画家 concern（关心）她的艺术成长，主动提出指导。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.721,
+            0.163,
+            0.917,
+            0.417
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_11.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.064,
+            0.454,
+            0.208,
+            0.476
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.506,
+            0.177,
+            0.521
+          ],
+          "content": "draw /drɔː/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.526,
+            0.289,
+            0.542
+          ],
+          "content": "v. 抽，拉; 画; 吸引; 获得"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.55,
+            0.472,
+            0.607
+          ],
+          "content": "妙记：谐音“拽”→就是“抽、拉”的意思，而用笔拽出线条就是“画画”，把人拽过来围观就是“吸引”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.066,
+            0.614,
+            0.162,
+            0.636
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.064,
+            0.643,
+            0.47,
+            0.68
+          ],
+          "content": "①该单词可以表示“吸引”，即把注意力拉过来。常考短语:draw attention to 吸引……的注意。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.684,
+            0.221,
+            0.7
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.705,
+            0.472,
+            0.74
+          ],
+          "content": "They want to use their wealth to draw attention to those who have succeeded in science."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.745,
+            0.472,
+            0.781
+          ],
+          "content": "他们想用自身的财富来引起人们对那些在科学领域有所成就之人的关注。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.785,
+            0.47,
+            0.822
+          ],
+          "content": "②该单词可以表示“获得”，即把东西拉到自己这里。\n【2015 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.826,
+            0.472,
+            0.88
+          ],
+          "content": "At work, people pretty much know what they're supposed to be doing: working, making money, doing the tasks they have to do in order to draw an income."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.884,
+            0.471,
+            0.921
+          ],
+          "content": "在工作中，人们大致清楚自己应该做什么：工作、挣钱、完成那些为了获得收入而必须完成的任务。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.505,
+            0.608,
+            0.522
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.526,
+            0.71,
+            0.542
+          ],
+          "content": "drawing n. 图画，绘画"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.571,
+            0.678,
+            0.586
+          ],
+          "content": "attract /ə'trækt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.59,
+            0.805,
+            0.607
+          ],
+          "content": "vt. 吸引；引起、招致（某种反应）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.614,
+            0.938,
+            0.652
+          ],
+          "content": "妙记:at- = ad-（一再）+ tract-（拉）→一再拉，表示吸引，逻辑与 draw（吸引）相似。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.526,
+            0.662,
+            0.628,
+            0.684
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.691,
+            0.936,
+            0.728
+          ],
+          "content": "①该单词可以表示“引起、招致”，依然是把……吸引过来。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.731,
+            0.84,
+            0.749
+          ],
+          "content": "【2012 年英语（一）、2013 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.753,
+            0.761,
+            0.769
+          ],
+          "content": "attract the attention 引起注意"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.772,
+            0.839,
+            0.789
+          ],
+          "content": "【2011 年英语（二）、2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.793,
+            0.816,
+            0.809
+          ],
+          "content": "attract much criticism 招致很多批评"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.813,
+            0.609,
+            0.829
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.833,
+            0.719,
+            0.85
+          ],
+          "content": "attractive adj. 吸引人的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.854,
+            0.763,
+            0.869
+          ],
+          "content": "attraction n. 吸引；旅游胜地"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.873,
+            0.936,
+            0.91
+          ],
+          "content": "attraction 可以表示“旅游胜地”，不常考，但写作中考过，需要注意。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.835,
+            0.934,
+            0.887,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.89,
+            0.934,
+            0.919,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.924,
+            0.935,
+            0.967,
+            0.951
+          ],
+          "content": "/151"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.039,
+            0.008,
+            0.108,
+            0.042
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.123,
+            0.019,
+            0.375,
+            0.036
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.407,
+            0.019,
+            0.509,
+            0.035
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.066,
+            0.305,
+            0.083
+          ],
+          "content": "【2017 年英语（一）小作文】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.087,
+            0.482,
+            0.122
+          ],
+          "content": "...recommending some tourist attractions in your city.\n推荐一些你的城市的旅游胜地。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.145,
+            0.223,
+            0.16
+          ],
+          "content": "appeal /ə'piːl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.163,
+            0.372,
+            0.179
+          ],
+          "content": "vi./n. 恳求，请求;【法】上诉; 吸引"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.186,
+            0.483,
+            0.223
+          ],
+          "content": "妙记：谐音‘我辟谣’ → 为了辟谣需要请求 (appeal)\n法官，完成上诉 (appeal)。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.209,
+            0.228,
+            0.361,
+            0.337
+          ],
+          "sub_type": "text_image",
+          "content": "APPEAL.\n我转拍！",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_8.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.342,
+            0.185,
+            0.362
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.369,
+            0.479,
+            0.386
+          ],
+          "content": "①向某人、某机构提出请求、申请，叫作 appeal to sb."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.389,
+            0.203,
+            0.406
+          ],
+          "content": "【2003 年阅读】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.41,
+            0.482,
+            0.464
+          ],
+          "content": "Shippers who feel they are being overcharged have the right to appeal to the federal government's Surface Transportation Board for rate relief."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.468,
+            0.482,
+            0.504
+          ],
+          "content": "那些觉得自己被收取了过高运费的托运人有权向联邦政府的运输局提出申诉，请求降低运费。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.507,
+            0.448,
+            0.524
+          ],
+          "content": "②该单词可以表示“吸引”，用法为 appeal to sb."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.527,
+            0.241,
+            0.544
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.548,
+            0.482,
+            0.583
+          ],
+          "content": "Lower-income jobs like gardening or day care don't appeal to robots."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.586,
+            0.481,
+            0.622
+          ],
+          "content": "像花匠、日常护理这样的低收入工作对机器人没有吸引力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.625,
+            0.326,
+            0.642
+          ],
+          "content": "③常考:appeals court 上诉法庭"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.645,
+            0.24,
+            0.661
+          ],
+          "content": "【2012 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.665,
+            0.358,
+            0.681
+          ],
+          "content": "federal appeals court 联邦上诉法庭"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.684,
+            0.24,
+            0.7
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.705,
+            0.432,
+            0.74
+          ],
+          "content": "the U.S. Court of Appeals for the Federal Circuit\n美国联邦巡回上诉法庭"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.743,
+            0.167,
+            0.759
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.763,
+            0.332,
+            0.779
+          ],
+          "content": "plea n. 请求，恳求;【法】抗辩"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.782,
+            0.392,
+            0.798
+          ],
+          "content": "plead v. 恳求，请求;【法】为……辩护"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.822,
+            0.324,
+            0.838
+          ],
+          "content": "acquaintance /ə'kweɪntəns/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.841,
+            0.387,
+            0.857
+          ],
+          "content": "n. 相识的人；认识，相识；所知，了解"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.864,
+            0.482,
+            0.9
+          ],
+          "content": "妙记：谐音“a queen 探视” → 能让女王前来探视的人，一定是女王熟悉了解的人。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.648,
+            0.064,
+            0.81,
+            0.181
+          ],
+          "sub_type": "natural_image",
+          "content": "Black-and-white photo of a woman in a crown standing in a glass window, with another person visible in the background (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_29.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.533,
+            0.186,
+            0.631,
+            0.207
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.215,
+            0.63,
+            0.23
+          ],
+          "content": "①常见搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.234,
+            0.705,
+            0.249
+          ],
+          "content": "make sb.'s acquaintance"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.716,
+            0.234,
+            0.79,
+            0.249
+          ],
+          "content": "结识某人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.254,
+            0.701,
+            0.269
+          ],
+          "content": "on further acquaintance"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.714,
+            0.254,
+            0.821,
+            0.269
+          ],
+          "content": "进一步了解后"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.273,
+            0.675,
+            0.289
+          ],
+          "content": "②常考释义：熟人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.293,
+            0.686,
+            0.309
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.315,
+            0.917,
+            0.391
+          ],
+          "content": "For a social epidemic to occur, however, each person so affected must then influence his or her own acquaintances, who must in turn influence theirs, and so on."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.396,
+            0.916,
+            0.454
+          ],
+          "content": "然而，要形成一种社会上的流行趋势，每一个受到影响的人随后都必须去影响自己的熟人，而这些熟人又必须去影响他们的熟人，如此层层传递下去。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.457,
+            0.612,
+            0.473
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.478,
+            0.681,
+            0.493
+          ],
+          "content": "acquaint v. 使熟悉"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.498,
+            0.71,
+            0.514
+          ],
+          "content": "acquainted adj. 熟悉的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.545,
+            0.702,
+            0.56
+          ],
+          "content": "familiar /fəˈmɪliər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.565,
+            0.628,
+            0.58
+          ],
+          "content": "adj. 熟悉的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.592,
+            0.916,
+            0.628
+          ],
+          "content": "妙记:family(家庭) + -ar（形容词）→如家庭般的→就是“熟悉的”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.533,
+            0.638,
+            0.631,
+            0.659
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.67,
+            0.804,
+            0.686
+          ],
+          "content": "① be familiar with 表示“主动熟悉”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.69,
+            0.686,
+            0.707
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.712,
+            0.917,
+            0.789
+          ],
+          "content": "If you are unfamiliar with words or idioms, you guess at their meaning, using clues presented in the context. 如果你不熟悉某些单词或习语，你就根据上下文所提供的线索来猜测它们的意思。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.796,
+            0.8,
+            0.812
+          ],
+          "content": "② be familiar to 表示“被动熟知”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.818,
+            0.775,
+            0.834
+          ],
+          "content": "This name is familiar to everyone."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.837,
+            0.717,
+            0.853
+          ],
+          "content": "这个名字大家都很熟悉。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.86,
+            0.612,
+            0.876
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.881,
+            0.711,
+            0.896
+          ],
+          "content": "unfamiliar adj. 不熟悉的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.9,
+            0.73,
+            0.916
+          ],
+          "content": "familiarity n. 精通；熟悉"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.055,
+            0.936,
+            0.096,
+            0.951
+          ],
+          "content": "152/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.101,
+            0.934,
+            0.129,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.132,
+            0.937,
+            0.181,
+            0.951
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.866,
+            0.006,
+            0.976,
+            0.023
+          ],
+          "content": "考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.045,
+            0.248,
+            0.06
+          ],
+          "content": "resemble /rɪˈzembl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.066,
+            0.17,
+            0.081
+          ],
+          "content": "vt. 像，类似"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.089,
+            0.474,
+            0.125
+          ],
+          "content": "妙记:re-（加强）+ sembl-（相似）+e→使强烈相似→“像，与……相似”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.065,
+            0.136,
+            0.164,
+            0.157
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.165,
+            0.192,
+            0.18
+          ],
+          "content": "①常考释义：像"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.184,
+            0.223,
+            0.201
+          ],
+          "content": "【2015 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.206,
+            0.476,
+            0.242
+          ],
+          "content": "The robot was the same size as a regular rat but resembled a simple plastic box on wheels."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.245,
+            0.474,
+            0.282
+          ],
+          "content": "这个机器人与普通老鼠的大小相同，但外形却像一个装有轮子的简易塑料盒子。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.286,
+            0.222,
+            0.303
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.308,
+            0.476,
+            0.364
+          ],
+          "content": "But the result was a new social pattern which, although it resembled European society in many ways, had a character that was distinctly American."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.368,
+            0.474,
+            0.425
+          ],
+          "content": "但最终形成的却是一种全新的社会模式，尽管它在许多方面与欧洲社会相似，但其自身却有着鲜明的美国特色。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.429,
+            0.145,
+            0.445
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.45,
+            0.248,
+            0.466
+          ],
+          "content": "resemblance n. 相似性"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.491,
+            0.255,
+            0.506
+          ],
+          "content": "comment /'ka:ment/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.511,
+            0.157,
+            0.527
+          ],
+          "content": "vi./n. 评论"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.534,
+            0.474,
+            0.571
+          ],
+          "content": "妙记：谐音“看门的”→看门的大爷喜欢“评论”别人。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.2,
+            0.577,
+            0.34,
+            0.677
+          ],
+          "sub_type": "natural_image",
+          "content": "Black-and-white photo of a man riding a bicycle and a man in uniform holding a glass, with a building in the background (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_17.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.065,
+            0.682,
+            0.166,
+            0.704
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.711,
+            0.166,
+            0.727
+          ],
+          "content": "①常见搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.731,
+            0.369,
+            0.747
+          ],
+          "content": "make comments on... 对……发表评论"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.752,
+            0.248,
+            0.768
+          ],
+          "content": "no comment 无可奉告"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.771,
+            0.212,
+            0.787
+          ],
+          "content": "②常考释义：评论"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.791,
+            0.224,
+            0.808
+          ],
+          "content": "【2020 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.812,
+            0.476,
+            0.868
+          ],
+          "content": "One study found that people responded best to comments that shifted from negative to positive, possibly because it suggested they had won somebody over."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.061,
+            0.87,
+            0.474,
+            0.927
+          ],
+          "content": "一项研究发现，人们对从负面转向正面的评价反应最为积极，这可能是因为这种转变暗示着他们已经成功说服了他人。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.047,
+            0.61,
+            0.063
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.067,
+            0.859,
+            0.084
+          ],
+          "content": "commentary n.(事件 / 比赛的) 实况解说"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.087,
+            0.786,
+            0.103
+          ],
+          "content": "commentator n. 评论员，解说员"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.128,
+            0.758,
+            0.144
+          ],
+          "content": "recommend /ˌrekəˈmend/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.147,
+            0.657,
+            0.163
+          ],
+          "content": "vt. 推荐；建议"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.171,
+            0.938,
+            0.207
+          ],
+          "content": "妙记:re-（反复）+ comment（评论）+ -d（加强语气）→\n反复评论，就是“推荐”。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.656,
+            0.213,
+            0.812,
+            0.324
+          ],
+          "sub_type": "text_image",
+          "content": "小编推荐!\n请稍好好吧!\n你实好吧!\n我是 -1\n-2",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_32.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.329,
+            0.631,
+            0.35
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.358,
+            0.63,
+            0.374
+          ],
+          "content": "①常见搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.379,
+            0.86,
+            0.395
+          ],
+          "content": "recommend sb. to do sth. 推荐某人做某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.399,
+            0.76,
+            0.415
+          ],
+          "content": "highly recommend 强烈推荐"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.419,
+            0.688,
+            0.435
+          ],
+          "content": "【2022 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.44,
+            0.94,
+            0.495
+          ],
+          "content": "All the experts we spoke with highly recommend walking because it's the easiest, most accessible form of exercise."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.499,
+            0.938,
+            0.536
+          ],
+          "content": "我们采访的所有专家都强烈推荐散步，因为这是最简单、最容易进行的锻炼方式。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.54,
+            0.61,
+            0.555
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.56,
+            0.795,
+            0.577
+          ],
+          "content": "recommendation n. 推荐信 / 建议"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.581,
+            0.769,
+            0.597
+          ],
+          "content": "recommendable adj. 可推荐的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.62,
+            0.73,
+            0.637
+          ],
+          "content": "introduce /ˌɪntrəˈduːs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.64,
+            0.657,
+            0.656
+          ],
+          "content": "vt. 介绍；引入"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.664,
+            0.938,
+            0.701
+          ],
+          "content": "妙记:intro-（向内）+ duc-（引导）+e→引导进入→引入、介绍。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.649,
+            0.707,
+            0.816,
+            0.826
+          ],
+          "sub_type": "natural_image",
+          "content": "Woman in business attire standing in front of glass display cases through a glass doorway (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_46.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.83,
+            0.63,
+            0.852
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.859,
+            0.629,
+            0.875
+          ],
+          "content": "①常见搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.88,
+            0.802,
+            0.896
+          ],
+          "content": "introduce sb. to... 向某人介绍……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.899,
+            0.804,
+            0.916
+          ],
+          "content": "introduce a new policy 引入新政策"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.834,
+            0.937,
+            0.886,
+            0.954
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.887,
+            0.937,
+            0.916,
+            0.954
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.92,
+            0.938,
+            0.966,
+            0.953
+          ],
+          "content": "/153"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.036,
+            0.012,
+            0.104,
+            0.046
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.12,
+            0.023,
+            0.379,
+            0.04
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.41,
+            0.023,
+            0.513,
+            0.04
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.071,
+            0.23,
+            0.087
+          ],
+          "content": "②常考释义：引入"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.09,
+            0.241,
+            0.106
+          ],
+          "content": "【2023 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.11,
+            0.485,
+            0.184
+          ],
+          "content": "The Royal Horticultural Society (RHS), which runs the annual show in west London, says it has introduced the ban because of the damage plastic grass does to the environment and biodiversity."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.187,
+            0.484,
+            0.243
+          ],
+          "content": "负责在伦敦西部举办年度花卉展览的皇家园艺学会（RHS）表示，之所以引入这项禁令，是因为塑料草坪对环境和生物多样性造成了损害。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.246,
+            0.166,
+            0.263
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.266,
+            0.298,
+            0.282
+          ],
+          "content": "introduction n. 介绍；引言"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.286,
+            0.275,
+            0.302
+          ],
+          "content": "reintroduce v. 重新引入"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.327,
+            0.258,
+            0.342
+          ],
+          "content": "conduct /kənˈdʌkt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.345,
+            0.356,
+            0.362
+          ],
+          "content": "vt. 引导，指挥；组织实施 n. 行为"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.369,
+            0.484,
+            0.405
+          ],
+          "content": "妙记:con-（共同）+ duct-（引导）→ 共同引导→ 指挥；引导言行→行为。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.21,
+            0.411,
+            0.359,
+            0.517
+          ],
+          "sub_type": "natural_image",
+          "content": "Conductor performing on stage with orchestra in background (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_13.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.522,
+            0.183,
+            0.543
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.55,
+            0.265,
+            0.566
+          ],
+          "content": "①常考释义：组织实施"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.569,
+            0.241,
+            0.586
+          ],
+          "content": "【2022 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.59,
+            0.484,
+            0.644
+          ],
+          "content": "a survey conducted by Harris Poll for TD Ameritrade\n由哈里斯民意调查公司为德美利证券公司实施的一项调查"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.648,
+            0.228,
+            0.664
+          ],
+          "content": "②常考释义：行为"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.667,
+            0.241,
+            0.684
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.688,
+            0.484,
+            0.722
+          ],
+          "content": "But it did so while holding its nose at the ethics of his conduct."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.726,
+            0.484,
+            0.762
+          ],
+          "content": "但它却在明知其行为有违道德准则的情况下仍如此行事。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.766,
+            0.165,
+            0.782
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.785,
+            0.282,
+            0.802
+          ],
+          "content": "conductor n. 导体；指挥"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.805,
+            0.275,
+            0.821
+          ],
+          "content": "misconduct n. 不当行为"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.845,
+            0.323,
+            0.861
+          ],
+          "content": "compliment /'kɑːmplɪmənt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.865,
+            0.172,
+            0.879
+          ],
+          "content": "n./vt. 赞扬"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.887,
+            0.483,
+            0.922
+          ],
+          "content": "妙记：com-(共同的)+ pli-(音似“扑来”)+ -ment(名词后缀)→共同扑倒在地，俯首称臣→赞扬。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.655,
+            0.07,
+            0.816,
+            0.184
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a cartoon prince with a crown and a piggy bank, no text or symbols present",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_28.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.537,
+            0.194,
+            0.635,
+            0.214
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.222,
+            0.636,
+            0.239
+          ],
+          "content": "①常见搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.243,
+            0.786,
+            0.26
+          ],
+          "content": "pay sb. a compliment（称赞某人）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.263,
+            0.83,
+            0.28
+          ],
+          "content": "compliment sb. on sth. 因某事赞美某人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.284,
+            0.68,
+            0.3
+          ],
+          "content": "②常考释义：赞扬"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.304,
+            0.692,
+            0.321
+          ],
+          "content": "【2020 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.326,
+            0.915,
+            0.383
+          ],
+          "content": "We often feel the need to tell others how we feel, whether it's a concern about a project, a stray thought, or a compliment."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.386,
+            0.92,
+            0.444
+          ],
+          "content": "我们常常会想要向他人倾诉自己的感受，无论是对某个项目的担忧、突发的念头，还是对某人的赞美之词。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.449,
+            0.617,
+            0.465
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.469,
+            0.82,
+            0.486
+          ],
+          "content": "complimentary adj. 赞美的；免费的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.547,
+            0.514,
+            0.638,
+            0.531
+          ],
+          "content": "pick /pɪk/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.547,
+            0.533,
+            0.701,
+            0.55
+          ],
+          "content": "v. 拾，采，摘；挑选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.547,
+            0.556,
+            0.914,
+            0.592
+          ],
+          "content": "妙记：本义表示“拾、采、摘”，在果园采摘时，会挑选好的水果，故而引申表示“挑选”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.537,
+            0.603,
+            0.635,
+            0.624
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.631,
+            0.68,
+            0.647
+          ],
+          "content": "①常考释义：挑选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.651,
+            0.691,
+            0.668
+          ],
+          "content": "【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.672,
+            0.921,
+            0.707
+          ],
+          "content": "prevent broadband providers from picking winners and\nlosers online"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.712,
+            0.858,
+            0.729
+          ],
+          "content": "防止宽带提供商们挑选在线的赢家和输家"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.732,
+            0.754,
+            0.749
+          ],
+          "content": "② pick up 表示“接（电话）”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.752,
+            0.691,
+            0.769
+          ],
+          "content": "【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.774,
+            0.736,
+            0.79
+          ],
+          "content": "pick up the phone 接电话"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.793,
+            0.714,
+            0.81
+          ],
+          "content": "③ pick up 表示“获取”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.813,
+            0.691,
+            0.83
+          ],
+          "content": "【2020 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.835,
+            0.921,
+            0.871
+          ],
+          "content": "Quinn and her colleagues conducted a test to see if rats can pick up social signals from non-living rats."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.873,
+            0.92,
+            0.91
+          ],
+          "content": "奎因和她的同事们进行了一个测试，以观察老鼠是否能够从无生命的老鼠那里获取社交信号。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.049,
+            0.943,
+            0.087,
+            0.958
+          ],
+          "content": "154/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.095,
+            0.941,
+            0.125,
+            0.959
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.127,
+            0.944,
+            0.178,
+            0.958
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.866,
+            0.0,
+            0.999,
+            0.014
+          ],
+          "content": "考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.034,
+            0.243,
+            0.051
+          ],
+          "content": "④ pick up 表示“好转”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.054,
+            0.218,
+            0.072
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.076,
+            0.472,
+            0.112
+          ],
+          "content": "As the economy picks up, opportunities will abound for aspiring leaders."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.115,
+            0.449,
+            0.133
+          ],
+          "content": "随着经济好转，有抱负的领导们将迎来大量机遇。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.136,
+            0.14,
+            0.152
+          ],
+          "content": "⑤派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.156,
+            0.2,
+            0.174
+          ],
+          "content": "picky adj. 挑剔的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.197,
+            0.269,
+            0.213
+          ],
+          "content": "favor(favour) /'fervər/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.217,
+            0.36,
+            0.234
+          ],
+          "content": "n./vt. 偏爱，偏袒；赞同，支持；帮助"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.241,
+            0.459,
+            0.279
+          ],
+          "content": "妙记：谐音“飞吻” → 对一个人飞吻，即“偏爱”, 也就是愿意“支持、帮助”。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.185,
+            0.285,
+            0.341,
+            0.392
+          ],
+          "sub_type": "natural_image",
+          "content": "Person standing in a dimly lit room with water spray and a glowing object in the background (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_10.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.058,
+            0.398,
+            0.157,
+            0.42
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.427,
+            0.204,
+            0.443
+          ],
+          "content": "①常考释义：偏爱"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.447,
+            0.216,
+            0.464
+          ],
+          "content": "【2016 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.469,
+            0.471,
+            0.506
+          ],
+          "content": "The most loyal customers would still get the product they favor."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.509,
+            0.398,
+            0.526
+          ],
+          "content": "最忠实的客户仍然会购买它们偏爱的产品。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.53,
+            0.377,
+            0.546
+          ],
+          "content": "② in favor (of) 偏爱；偏袒；赞同，支持"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.55,
+            0.216,
+            0.567
+          ],
+          "content": "【2020 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.571,
+            0.399,
+            0.588
+          ],
+          "content": "Generation Zs are in favor of office job offers."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.591,
+            0.304,
+            0.607
+          ],
+          "content": "Z 世代偏爱办公室的工作机会。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.611,
+            0.468,
+            0.648
+          ],
+          "content": "③派生词 favourable（赞同的，支持的）经常出现在态度题的选项中。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.652,
+            0.216,
+            0.669
+          ],
+          "content": "【2020 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.674,
+            0.433,
+            0.69
+          ],
+          "content": "What is the author's attitude towards the proposal?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.693,
+            0.287,
+            0.71
+          ],
+          "content": "作者对这项提议持什么态度？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.714,
+            0.272,
+            0.731
+          ],
+          "content": "选项 C. Favourable 赞同的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.735,
+            0.471,
+            0.772
+          ],
+          "content": "④ “偏爱、偏袒”的名词叫作 favoritism；而 favorite 直接作名词，特指受到偏爱、偏袒的人或物。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.776,
+            0.214,
+            0.793
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.798,
+            0.471,
+            0.835
+          ],
+          "content": "Officials must not be allowed to play favorites in providing information."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.838,
+            0.416,
+            0.855
+          ],
+          "content": "官员们在提供信息时不允许对某些人有偏袒。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.858,
+            0.214,
+            0.875
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.88,
+            0.471,
+            0.917
+          ],
+          "content": "The court's ruling is a step forward in the struggle against both corruption and official favoritism."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.036,
+            0.939,
+            0.074
+          ],
+          "content": "法院的判决向前迈出了与腐败和官方偏袒行为斗争的一步。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.098,
+            0.685,
+            0.115
+          ],
+          "content": "regard /rɪˈɡɑːrd/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.118,
+            0.921,
+            0.135
+          ],
+          "content": "n./vt. 关心，关注；凝视，注视 n.(pl.) 尊敬，致意"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.141,
+            0.939,
+            0.178
+          ],
+          "content": "妙记：谐音“伟大的” →伟大的人都值得被“关心、注视、尊敬”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.189,
+            0.629,
+            0.211
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.218,
+            0.758,
+            0.235
+          ],
+          "content": "① regard A as B 将 A 视为 B"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.238,
+            0.688,
+            0.255
+          ],
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.26,
+            0.942,
+            0.297
+          ],
+          "content": "The influence of consumer culture is commonly regarded as the cause of grade inflation."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.3,
+            0.906,
+            0.317
+          ],
+          "content": "消费者文化的影响通常被视为分数膨胀的原因。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.321,
+            0.829,
+            0.338
+          ],
+          "content": "② regarding = with regard to prep. 关于"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.341,
+            0.688,
+            0.358
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.363,
+            0.875,
+            0.379
+          ],
+          "content": "a legal case regarding business-method patents"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.382,
+            0.805,
+            0.399
+          ],
+          "content": "关于商业方法专利的一个法律案件"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.403,
+            0.805,
+            0.42
+          ],
+          "content": "③ regardless of 不管，不顾，不考虑"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.423,
+            0.688,
+            0.44
+          ],
+          "content": "【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.445,
+            0.942,
+            0.501
+          ],
+          "content": "Regardless of transferability, the study shows that what's good for people may also be good for the environment."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.505,
+            0.941,
+            0.542
+          ],
+          "content": "不考虑可转移性，该研究表明，对人类有益的东西或许对环境也有益处。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.546,
+            0.609,
+            0.562
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.567,
+            0.718,
+            0.584
+          ],
+          "content": "guard v./n. 守卫；防护"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.587,
+            0.74,
+            0.604
+          ],
+          "content": "disregard v./n. 忽视，漠视"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.629,
+            0.708,
+            0.644
+          ],
+          "content": "concern /kənˈsɜːrn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.649,
+            0.939,
+            0.686
+          ],
+          "content": "v./n. 关心，关注; (使) 担心 vt. 与……有关，涉及 n. 重要的事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.697,
+            0.939,
+            0.715
+          ],
+          "content": "妙记：谐音‘吭声儿’ → 不吭声儿，就会让人“担心”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.725,
+            0.629,
+            0.748
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.755,
+            0.712,
+            0.772
+          ],
+          "content": "①常考释义：重要的事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.775,
+            0.687,
+            0.792
+          ],
+          "content": "【2020 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.797,
+            0.937,
+            0.835
+          ],
+          "content": "Feasibility should be a prime concern in policymaking.\n在制定政策时，可行性应该是一件最重要的事。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.839,
+            0.719,
+            0.855
+          ],
+          "content": "②阅读态度题常见选项："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.858,
+            0.776,
+            0.875
+          ],
+          "content": "concerned adj. 担心的，担忧的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.879,
+            0.609,
+            0.895
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.899,
+            0.706,
+            0.917
+          ],
+          "content": "concerning prep. 关于"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.834,
+            0.939,
+            0.885,
+            0.956
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.889,
+            0.938,
+            0.917,
+            0.957
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.921,
+            0.94,
+            0.967,
+            0.955
+          ],
+          "content": "/155"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.044,
+            0.011,
+            0.118,
+            0.046
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.127,
+            0.02,
+            0.379,
+            0.038
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.407,
+            0.02,
+            0.509,
+            0.038
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.092,
+            0.069,
+            0.237,
+            0.09
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.09,
+            0.105,
+            0.187,
+            0.122
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.132,
+            0.682,
+            0.148
+          ],
+          "content": "1. The wealthy want to use their money to \\_\\_\\_\\_ attention to successful scientists."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.117,
+            0.152,
+            0.191,
+            0.168
+          ],
+          "content": "A. draw"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.342,
+            0.152,
+            0.418,
+            0.167
+          ],
+          "content": "B. attract"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.152,
+            0.625,
+            0.168
+          ],
+          "content": "C. appeal"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.785,
+            0.153,
+            0.85,
+            0.169
+          ],
+          "content": "D. pick"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.178,
+            0.512,
+            0.194
+          ],
+          "content": "2. Low-income jobs like gardening don't \\_\\_\\_\\_ to robots."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.117,
+            0.198,
+            0.197,
+            0.212
+          ],
+          "content": "A. attract"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.342,
+            0.198,
+            0.419,
+            0.214
+          ],
+          "content": "B. appeal"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.547,
+            0.198,
+            0.642,
+            0.212
+          ],
+          "content": "C. resemble"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.785,
+            0.198,
+            0.874,
+            0.212
+          ],
+          "content": "D. conduct"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.223,
+            0.465,
+            0.239
+          ],
+          "content": "3. The robot \\_\\_\\_\\_ a simple plastic box on wheels."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.117,
+            0.243,
+            0.203,
+            0.257
+          ],
+          "content": "A. attracts"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.342,
+            0.244,
+            0.443,
+            0.257
+          ],
+          "content": "B. resembles"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.547,
+            0.244,
+            0.65,
+            0.257
+          ],
+          "content": "C. comments"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.785,
+            0.244,
+            0.862,
+            0.257
+          ],
+          "content": "D. favors"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.269,
+            0.58,
+            0.285
+          ],
+          "content": "4. People respond best to \\_\\_\\_\\_ that shift from negative to positive."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.117,
+            0.289,
+            0.242,
+            0.304
+          ],
+          "content": "A. compliments"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.342,
+            0.29,
+            0.444,
+            0.303
+          ],
+          "content": "B. comments"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.547,
+            0.29,
+            0.64,
+            0.303
+          ],
+          "content": "C. concerns"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.785,
+            0.29,
+            0.862,
+            0.303
+          ],
+          "content": "D. favors"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.314,
+            0.607,
+            0.331
+          ],
+          "content": "5. Broadband providers should not be allowed to \\_\\_\\_\\_ winners online."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.117,
+            0.335,
+            0.218,
+            0.349
+          ],
+          "content": "A. comment"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.342,
+            0.336,
+            0.417,
+            0.349
+          ],
+          "content": "B. attract"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.547,
+            0.336,
+            0.641,
+            0.349
+          ],
+          "content": "C. resemble"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.785,
+            0.335,
+            0.85,
+            0.35
+          ],
+          "content": "D. pick"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.088,
+            0.36,
+            0.186,
+            0.377
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.09,
+            0.387,
+            0.816,
+            0.507
+          ],
+          "sub_type": "text",
+          "content": "1. At work, people do tasks to \\_\\_\\_\\_ an income. (draw)\n2. Each person must influence his or her own \\_\\_\\_\\_. (acquaintance)\n3. If you are \\_\\_\\_\\_ with words, you guess their meaning. (familiar)\n4. We often feel the need to tell others how we feel, whether it's a concern or a \\_\\_\\_\\_. (compliment)\n5. Gen Zs are in \\_\\_\\_\\_ of office job offers. (favor)"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.088,
+            0.516,
+            0.185,
+            0.533
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.544,
+            0.164,
+            0.559
+          ],
+          "content": "全句翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.571,
+            0.617,
+            0.587
+          ],
+          "content": "1. Consumer culture is commonly regarded as the cause of grade inflation."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.651,
+            0.501,
+            0.667
+          ],
+          "content": "2. Feasibility should be a prime concern in policymaking."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.091,
+            0.732,
+            0.164,
+            0.747
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.757,
+            0.76,
+            0.774
+          ],
+          "content": "1. They want to use their wealth to [draw] attention to those who have succeeded in science."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.81,
+            0.458,
+            0.826
+          ],
+          "content": "2. The case was heard in a federal [appeals] court."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.862,
+            0.548,
+            0.878
+          ],
+          "content": "3. Experts highly [recommend] walking as the easiest exercise,"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.061,
+            0.938,
+            0.102,
+            0.952
+          ],
+          "content": "156/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.107,
+            0.936,
+            0.136,
+            0.954
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.138,
+            0.938,
+            0.187,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.862,
+            0.0,
+            0.999,
+            0.028
+          ],
+          "content": "考点词<2"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.452,
+            0.061,
+            0.553,
+            0.082
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.109,
+            0.168,
+            0.126
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.144,
+            0.119,
+            0.157
+          ],
+          "level": 2,
+          "content": "1. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.165,
+            0.13,
+            0.181
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.183,
+            0.474,
+            0.219
+          ],
+          "content": "句意：富人们想用他们的钱来 \\_\\_\\_\\_ 人们对成功科学家的关注。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.221,
+            0.477,
+            0.356
+          ],
+          "content": "考点：动词固定搭配。A. draw 可与 attention 构成固定搭配 draw attention to，意为“吸引对……的关注”。B. attract 虽意为“吸引”，但其常见搭配为 attract one's attention，而非直接接 attention to。C. appeal（吸引，呼吁）常与 to 连用，结构为 appeal to sb.（吸引某人）或 appeal for sth.（呼吁某事），不接 attention。D. pick（挑选）与句意无关。故 A. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.372,
+            0.116,
+            0.386
+          ],
+          "level": 2,
+          "content": "2. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.394,
+            0.128,
+            0.41
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.413,
+            0.478,
+            0.546
+          ],
+          "content": "句意：像园艺这样的低收入工作对机器人没有\\_\\_\\_\\_。\n考点：动词固定搭配。A. attract（吸引）是及物动词，后直接接宾语，不需加 to。B. appeal 可与 to 构成固定搭配 appeal to，意为“对……有吸引力”，符合“工作对机器人没有吸引力”的语境。C. resemble（与……相似）和 D. conduct（实施，进行）均与 to 搭配不当，且语义不符。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.563,
+            0.115,
+            0.576
+          ],
+          "level": 2,
+          "content": "3. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.584,
+            0.128,
+            0.6
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.603,
+            0.477,
+            0.719
+          ],
+          "content": "句意：这个机器人 \\_\\_\\_\\_ 一个带轮子的简单塑料箱。\n考点：动词辨析。根据句意，机器人在外形或功能上“类似于”一个塑料箱。A. attracts（吸引）语义不符。\nB. resembles（与……相似，类似于）符合“机器人与某物相似”的语境。C. comments（评论）和 D. favors（偏爱，有利于）均与句意无关。故 B. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.734,
+            0.116,
+            0.748
+          ],
+          "level": 2,
+          "content": "4. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.069,
+            0.755,
+            0.128,
+            0.772
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.776,
+            0.478,
+            0.909
+          ],
+          "content": "句意：人们对从负面转向正面的 \\_\\_\\_\\_ 反应最好。\n考点：名词辨析。空格处的词应是一种积极的、正向的言语。A. compliments（称赞，赞美）符合“从负面转向正面”的积极语境。B. comments（评论）和 C. concerns（担忧）均为中性词，无法体现“转向正面”的含义。D. favors（偏爱，恩惠）与言语无关。故 A. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.111,
+            0.578,
+            0.124
+          ],
+          "level": 2,
+          "content": "5. D."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.128,
+            0.588,
+            0.144
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.147,
+            0.892,
+            0.164
+          ],
+          "content": "句意：不应允许宽带提供商在线 \\_\\_\\_\\_ 赢家。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.166,
+            0.935,
+            0.279
+          ],
+          "content": "考点：动词辨析。句子讨论的是网络中立性原则，即提供商不应“选择性地扶持”某些网站或服务，使其成为“赢家”。A. comment(评论)、B. attract(吸引)、C. resemble（相似）均与“选择性地扶持”的语义不符。D. pick（挑选，选择）符合“提供商不应自行挑选赢家”的语境。故 D. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.29,
+            0.626,
+            0.307
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.323,
+            0.6,
+            0.337
+          ],
+          "level": 2,
+          "content": "1. draw"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.341,
+            0.589,
+            0.357
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.361,
+            0.905,
+            0.377
+          ],
+          "content": "句意：在工作中，人们完成任务以\\_\\_\\_\\_收入。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.38,
+            0.935,
+            0.416
+          ],
+          "content": "考点：固定搭配。括号中给出动词 draw。Draw an income 是固定搭配，意为“获得收入”。故填 draw。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.433,
+            0.669,
+            0.448
+          ],
+          "level": 2,
+          "content": "2. acquaintances"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.451,
+            0.589,
+            0.467
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.47,
+            0.868,
+            0.487
+          ],
+          "content": "句意：每个人都必须影响他自己的\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.489,
+            0.934,
+            0.545
+          ],
+          "content": "考点：名词单复数。形容词性物主代词 own 后接名词。名词 acquaintance（熟人）在此处指“所有熟人”，需用复数形式 acquaintances。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.561,
+            0.621,
+            0.575
+          ],
+          "level": 2,
+          "content": "3. familiar"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.579,
+            0.589,
+            0.595
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.598,
+            0.934,
+            0.672
+          ],
+          "content": "句意：如果你 \\_\\_\\_\\_ 词汇，你就会猜测它们的意思。\n考点：固定搭配。括号中给出形容词 familiar。Be familiar with 是固定搭配，意为“熟悉……”。故填 familiar。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.689,
+            0.651,
+            0.705
+          ],
+          "level": 2,
+          "content": "4. compliment"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.707,
+            0.589,
+            0.723
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.726,
+            0.932,
+            0.762
+          ],
+          "content": "句意：我们常常觉得需要告诉别人我们的感受，无论是担忧还是\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.765,
+            0.932,
+            0.84
+          ],
+          "content": "考点：名词辨析。由连接词“or”可知，空格处的词与“担忧”形成并列选择关系，词义应与之相对，表示一种积极的感受。名词 compliment（赞美）符合语境。故填 compliment。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.856,
+            0.6,
+            0.87
+          ],
+          "level": 2,
+          "content": "5. favor"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.874,
+            0.589,
+            0.89
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.893,
+            0.854,
+            0.91
+          ],
+          "content": "句意:Z 世代\\_\\_\\_\\_办公室工作的 offer。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.833,
+            0.933,
+            0.883,
+            0.95
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.885,
+            0.933,
+            0.915,
+            0.95
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.919,
+            0.934,
+            0.964,
+            0.949
+          ],
+          "content": "/157"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.044,
+            0.01,
+            0.12,
+            0.046
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.136,
+            0.02,
+            0.412,
+            0.038
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.446,
+            0.02,
+            0.558,
+            0.037
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.07,
+            0.529,
+            0.125
+          ],
+          "content": "考点：固定搭配。括号中给出名词 favor。Be in favor of 是固定搭配，意为“支持，赞成”。故填 favor。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.096,
+            0.134,
+            0.202,
+            0.151
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.099,
+            0.155,
+            0.178,
+            0.169
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.097,
+            0.174,
+            0.443,
+            0.208
+          ],
+          "sub_type": "text",
+          "content": "1. 消费文化通常被视为分数膨胀的原因。\n2. 可行性应该是政策制定的首要关注点。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.099,
+            0.212,
+            0.178,
+            0.227
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.096,
+            0.23,
+            0.526,
+            0.322
+          ],
+          "sub_type": "text",
+          "content": "1. 他们希望通过自己的财富来【吸引】人们对那些在科学领域取得成就的人的关注。\n2. 该案件在联邦【上诉】法院进行了审理。\n3. 专家们强烈【推荐】散步，认为这是最简单的锻炼方式。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.069,
+            0.936,
+            0.111,
+            0.951
+          ],
+          "content": "158/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.118,
+            0.935,
+            0.206,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:13:54",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 8,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.0,
+          "height_pt": 909.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

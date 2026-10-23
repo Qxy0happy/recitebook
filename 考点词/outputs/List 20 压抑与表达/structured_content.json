@@ -1,0 +1,3104 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.846,
+            0.018,
+            0.95,
+            0.054
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.354,
+            0.075,
+            0.645,
+            0.108
+          ],
+          "level": 2,
+          "content": "List 20 压抑与表达"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.13,
+            0.223,
+            0.15
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.157,
+            0.416,
+            0.173
+          ],
+          "content": "情节发展：初遇压力→自我克制→积极管理"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.093,
+            0.202,
+            0.164,
+            0.217
+          ],
+          "level": 2,
+          "content": "初遇压力"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.22,
+            0.688,
+            0.276
+          ],
+          "content": "李明是一名高三学生，面对高考 stress（压力），他感到 depress（沮丧）。一天，他在课堂上公开 express（表达）了对考试的负面 impression（印象），被老师批评影响班级氛围，让他更加沮丧。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.093,
+            0.316,
+            0.165,
+            0.332
+          ],
+          "level": 2,
+          "content": "自我克制"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.335,
+            0.687,
+            0.391
+          ],
+          "content": "李明决定自我克制：他试图 suppress（抑制）负面情绪，restrict（限制）课外活动，restrain（克制）消遣的念头，并努力 curb（控制）焦虑情绪。但过度自律效果反而不佳，这让他很 discourage（气馁）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.093,
+            0.433,
+            0.165,
+            0.449
+          ],
+          "level": 2,
+          "content": "积极管理"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.452,
+            0.687,
+            0.509
+          ],
+          "content": "在好友的 encourage（鼓励）下，李明重新振作，他意识到精力 finite（有限），将学习时段 confine（限制）在特定时间，为科目设定时间 limit（上限），这种高效安排帮他找回自信，也让他重新 define（定义）了学习方法的意义。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.699,
+            0.186,
+            0.915,
+            0.525
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_10.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.558,
+            0.223,
+            0.578
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.607,
+            0.234,
+            0.623
+          ],
+          "content": "depress /dɪˈpres/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.625,
+            0.435,
+            0.642
+          ],
+          "content": "vt. 压，下压; 降低; 使抑郁，使沮丧; 使萧条"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.649,
+            0.425,
+            0.665
+          ],
+          "content": "妙记:de-（下）+press（压）→下压，压低。"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.093,
+            0.668,
+            0.355,
+            0.723
+          ],
+          "sub_type": "text",
+          "content": "1. 把数据压低 → 降低;\n2. 把情绪压低 → 使抑郁、使沮丧；\n3. 把经济状况压低 → 使萧条。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.21,
+            0.729,
+            0.344,
+            0.826
+          ],
+          "sub_type": "text_image",
+          "content": "Illustration showing a person with a face with a downward-trending red line graph above, suggesting financial or market analysis.",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_19.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.085,
+            0.831,
+            0.178,
+            0.851
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.858,
+            0.178,
+            0.874
+          ],
+          "content": "①常见释义："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.878,
+            0.154,
+            0.893
+          ],
+          "content": "\\- 使沮丧"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.898,
+            0.458,
+            0.913
+          ],
+          "content": "The rainy weather always seems to depress her mood."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.606,
+            0.814,
+            0.622
+          ],
+          "content": "阴雨天似乎总是让她的心情变得沮丧。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.625,
+            0.596,
+            0.641
+          ],
+          "level": 2,
+          "content": "\\- 使萧条"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.646,
+            0.915,
+            0.681
+          ],
+          "content": "The pandemic depressed the tourism industry for years.\n疫情使旅游业多年陷入萧条。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.686,
+            0.809,
+            0.701
+          ],
+          "content": "②派生词:depression n. 抑郁；萧条"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.705,
+            0.676,
+            0.721
+          ],
+          "level": 2,
+          "content": "【2011 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.727,
+            0.918,
+            0.761
+          ],
+          "content": "During the Depression and the war, Americans had learned to live with less."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.766,
+            0.913,
+            0.782
+          ],
+          "content": "在经济大萧条和战争期间，美国人学会了极简生活。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.814,
+            0.683,
+            0.829
+          ],
+          "content": "express /ɪkˈspres/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.832,
+            0.915,
+            0.867
+          ],
+          "content": "vt. 表达，表示，表现 adj. 快速的; 明确 (表示) 的 n. 快递"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.871,
+            0.915,
+            0.906
+          ],
+          "content": "妙记:ex-（出）+ press（压）→ 把脑中想法压出来 → 表达、表示、表现。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.819,
+            0.935,
+            0.869,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.872,
+            0.935,
+            0.9,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.911,
+            0.937,
+            0.948,
+            0.951
+          ],
+          "content": "/207"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.031,
+            0.032,
+            0.102,
+            0.064
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.116,
+            0.039,
+            0.371,
+            0.057
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.402,
+            0.039,
+            0.507,
+            0.055
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.206,
+            0.087,
+            0.353,
+            0.189
+          ],
+          "sub_type": "text_image",
+          "content": "How to be a good way to do it",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_3.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.194,
+            0.179,
+            0.214
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.221,
+            0.478,
+            0.256
+          ],
+          "content": "①常考释义：明确的，直白的，就是直接表达出来的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.259,
+            0.236,
+            0.276
+          ],
+          "content": "【2024 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.28,
+            0.48,
+            0.332
+          ],
+          "content": "FTC requires the company to get app users' express affirmative consent before sharing their health information."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.336,
+            0.48,
+            0.372
+          ],
+          "content": "FTC 要求公司在分享 app 用户的健康信息之前，先要获得用户明确、肯定的同意。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.375,
+            0.456,
+            0.391
+          ],
+          "content": "②熟词僻义：快速的，被压出来，速度必然很快。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.395,
+            0.246,
+            0.411
+          ],
+          "content": "express way 高速公路"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.413,
+            0.161,
+            0.429
+          ],
+          "content": "【1986 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.434,
+            0.355,
+            0.449
+          ],
+          "content": "the construction of a new express way"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.452,
+            0.279,
+            0.468
+          ],
+          "content": "一条新的高速公路的建设"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.471,
+            0.161,
+            0.487
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.491,
+            0.279,
+            0.506
+          ],
+          "content": "expression n. 表达，表现"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.51,
+            0.313,
+            0.526
+          ],
+          "content": "expressive adj. 富于表现力的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.548,
+            0.277,
+            0.565
+          ],
+          "content": "impression /ɪmˈpreʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.568,
+            0.2,
+            0.583
+          ],
+          "content": "n. 压痕；印象"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.59,
+            0.48,
+            0.626
+          ],
+          "content": "妙记:im- = in-（进入）+ press（压）→ 压进去 → 压痕；压进大脑 → 形成印象 → 压痕，印象。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.205,
+            0.632,
+            0.356,
+            0.738
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a person sleeping under a brain in an open book, with steam rising (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_20.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.742,
+            0.18,
+            0.763
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.77,
+            0.225,
+            0.785
+          ],
+          "content": "①常见释义：印象"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.789,
+            0.237,
+            0.805
+          ],
+          "content": "【2021 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.809,
+            0.48,
+            0.843
+          ],
+          "content": "We're fairly good at judging people based on first impressions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.846,
+            0.427,
+            0.863
+          ],
+          "content": "我们相当善于根据初步印象对人们做出评判。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.865,
+            0.162,
+            0.88
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.884,
+            0.322,
+            0.9
+          ],
+          "content": "impress vt. 压印；使印象深刻"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.904,
+            0.333,
+            0.919
+          ],
+          "content": "impressive adj. 令人印象深刻的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.086,
+            0.696,
+            0.102
+          ],
+          "content": "suppress /sə'pres/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.104,
+            0.805,
+            0.12
+          ],
+          "content": "vt. 镇压，压制；阻止；压抑，抑制"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.127,
+            0.922,
+            0.161
+          ],
+          "content": "妙记:sup- = sub-（下）+ press（压）→ 压下去→\n镇压，抑制。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.655,
+            0.167,
+            0.803,
+            0.271
+          ],
+          "sub_type": "natural_image",
+          "content": "Monochrome landscape painting of a mountain with a large rock formation and a figure in a boat (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_32.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.277,
+            0.629,
+            0.297
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.304,
+            0.923,
+            0.339
+          ],
+          "content": "①常见用法：既可表示来自外界的镇压、压制、阻止，也可表示自己对于自己的压抑、抑制。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.342,
+            0.686,
+            0.359
+          ],
+          "content": "【2012 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.363,
+            0.92,
+            0.397
+          ],
+          "content": "Gene patents suppress innovation rather than reward it.\n基因专利会阻止创新，而不是奖励创新。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.401,
+            0.685,
+            0.417
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.422,
+            0.923,
+            0.476
+          ],
+          "content": "As we grow up, we learn to control our emotions. But too often we take this process too far and end up suppressing emotions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.478,
+            0.922,
+            0.514
+          ],
+          "content": "长大后，我们学会控制自己的情绪。但我们总是过度地进行这个过程，并最终压抑自己的情绪。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.517,
+            0.61,
+            0.533
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.537,
+            0.922,
+            0.571
+          ],
+          "content": "oppress vt. 压迫；压抑（op- = ob- 反 + press 压 → 压回去）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.575,
+            0.922,
+            0.61
+          ],
+          "content": "repress v. 镇压；压迫；压抑（re- 反 + press 压 → 压回去）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.634,
+            0.65,
+            0.648
+          ],
+          "content": "stress /stres/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.652,
+            0.746,
+            0.668
+          ],
+          "content": "n. 紧张，精神压力 vt. 强调"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.674,
+            0.922,
+            0.71
+          ],
+          "content": "妙记:stress（谐音“死拽”），死拽你给你很大的压力（stress）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.721,
+            0.628,
+            0.74
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.748,
+            0.734,
+            0.764
+          ],
+          "content": "①常见释义：动词“强调”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.767,
+            0.685,
+            0.783
+          ],
+          "content": "【2022 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.787,
+            0.923,
+            0.841
+          ],
+          "content": "This is not to say that there is no point in getting a degree, but rather stress that a degree is not for everyone."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.844,
+            0.921,
+            0.879
+          ],
+          "content": "这并不是说获得学位毫无意义，而是要强调学位并非适合所有人。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.882,
+            0.776,
+            0.899
+          ],
+          "content": "②近义词辨析:pressure & stress"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.902,
+            0.922,
+            0.918
+          ],
+          "content": "\\- pressure 可以表示任何压力，而 stress 通常特指精"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.048,
+            0.938,
+            0.087,
+            0.952
+          ],
+          "content": "208/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.095,
+            0.936,
+            0.125,
+            0.953
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.128,
+            0.938,
+            0.178,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.85,
+            0.008,
+            0.957,
+            0.046
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.066,
+            0.135,
+            0.081
+          ],
+          "content": "神压力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.084,
+            0.225,
+            0.101
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.104,
+            0.303,
+            0.121
+          ],
+          "content": "psychological stress 心理压力"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.124,
+            0.374,
+            0.14
+          ],
+          "content": "【2011 年英语（一）、2011 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.144,
+            0.252,
+            0.159
+          ],
+          "content": "stress-free 毫无压力的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.184,
+            0.227,
+            0.198
+          ],
+          "content": "restrict /rɪˈstrikt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.204,
+            0.143,
+            0.219
+          ],
+          "content": "vt. 限制"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.226,
+            0.47,
+            0.263
+          ],
+          "content": "妙记:re-（前缀，表“反复”）+ strict（严格的）→反复严格对待就是一种限制（restrict）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.2,
+            0.268,
+            0.342,
+            0.371
+          ],
+          "sub_type": "natural_image",
+          "content": "Four-panel collage showing dark, textured scenes with indistinct figures and objects, no visible text or symbols",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_9.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.375,
+            0.17,
+            0.397
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.404,
+            0.17,
+            0.42
+          ],
+          "content": "①固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.424,
+            0.28,
+            0.44
+          ],
+          "content": "\\- restrict to... 把……限制"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.445,
+            0.459,
+            0.48
+          ],
+          "content": "The rules will restrict speeds to 25 kilometers an hour.\n该规定将车速限制在每小时 25 公里以内。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.484,
+            0.32,
+            0.5
+          ],
+          "content": "\\- restriction on 对于……的限制"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.503,
+            0.227,
+            0.519
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.524,
+            0.47,
+            0.558
+          ],
+          "content": "22. B. to accept the government's restrictions on the allowance"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.562,
+            0.27,
+            0.579
+          ],
+          "content": "接受政府对于津贴的限制"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.582,
+            0.152,
+            0.598
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.602,
+            0.217,
+            0.618
+          ],
+          "content": "restriction n. 限制"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.622,
+            0.265,
+            0.638
+          ],
+          "content": "restrictive adj. 限制性的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.666,
+            0.238,
+            0.68
+          ],
+          "content": "restrain /rɪˈstreɪn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.686,
+            0.143,
+            0.701
+          ],
+          "content": "vt. 限制"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.708,
+            0.47,
+            0.745
+          ],
+          "content": "妙记：休息（rest）的时候下雨（rain），是老天想阻止（restrain）我们出去玩。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.755,
+            0.17,
+            0.776
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.783,
+            0.325,
+            0.798
+          ],
+          "content": "①近义词辨析:restrict & restrain"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.803,
+            0.348,
+            0.818
+          ],
+          "content": "\\- restrict 只能表示来自外界的限制；"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.822,
+            0.469,
+            0.857
+          ],
+          "content": "\\- restrain 既可以表示来自外界的限制，也可以表示自己对自己的控制或抑制。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.861,
+            0.153,
+            0.876
+          ],
+          "content": "【2004 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.881,
+            0.47,
+            0.915
+          ],
+          "content": "Schooling and rigorous book learning put unnatural restraints on children."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.066,
+            0.915,
+            0.083
+          ],
+          "content": "学校和严格的书本学习会对孩子施加不自然的限制。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.086,
+            0.709,
+            0.103
+          ],
+          "content": "【2000 年完形填空选项】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.106,
+            0.785,
+            0.122
+          ],
+          "content": "self-restrained 自控的，有自制力的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.125,
+            0.603,
+            0.141
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.146,
+            0.653,
+            0.161
+          ],
+          "content": "restraint n. 限制"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.19,
+            0.641,
+            0.204
+          ],
+          "content": "curb /kɜːrb/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.208,
+            0.647,
+            0.224
+          ],
+          "content": "vt. 限制；抑制"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.235,
+            0.921,
+            0.272
+          ],
+          "content": "妙记：谐音“刻薄”，刻薄的老板会限制（curb）员工休息。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.282,
+            0.622,
+            0.304
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.31,
+            0.921,
+            0.345
+          ],
+          "content": "常见用法：既可指自外界的限制，也可指自己对自己的控制或抑制。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.519,
+            0.349,
+            0.678,
+            0.366
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.371,
+            0.81,
+            0.387
+          ],
+          "content": "34. curb our ambition to reshape history"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.39,
+            0.756,
+            0.407
+          ],
+          "content": "限制我们重塑历史的雄心壮志"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.411,
+            0.923,
+            0.448
+          ],
+          "content": "She decided to curb her impulsive shopping habits by setting a strict monthly budget."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.451,
+            0.923,
+            0.489
+          ],
+          "content": "她决定通过设定严格的月度预算来克制自己冲动的购物习惯。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.517,
+            0.72,
+            0.534
+          ],
+          "content": "encourage /ɪnˈkɜːrɪdʒ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.533,
+            0.537,
+            0.647,
+            0.552
+          ],
+          "content": "vt. 鼓励；促进"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.563,
+            0.923,
+            0.6
+          ],
+          "content": "妙记:en-（使）+ courage（勇气）→使鼓起勇气→使一个人鼓起勇气需要鼓励（encourage）他。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.61,
+            0.621,
+            0.631
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.519,
+            0.638,
+            0.922,
+            0.695
+          ],
+          "sub_type": "text",
+          "content": "①常考释义：表示“促进”，常与 promote（促进）进行同义替换。\n②常见用法:encourage sb. to do sth. 鼓励……做……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.7,
+            0.922,
+            0.735
+          ],
+          "content": "Parents should encourage children to explore their interests."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.52,
+            0.74,
+            0.798,
+            0.756
+          ],
+          "content": "家长应该鼓励孩子探索自己的兴趣。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.76,
+            0.603,
+            0.776
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.781,
+            0.704,
+            0.797
+          ],
+          "content": "encouragement n. 鼓励"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.828,
+            0.73,
+            0.844
+          ],
+          "content": "discourage /dis'kɜːrɪdʒ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.847,
+            0.813,
+            0.863
+          ],
+          "content": "vt. 使泄气，使丧失信心；阻碍，阻止"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.873,
+            0.918,
+            0.909
+          ],
+          "content": "妙记:dis-（否定）+ courage（勇气）→使失去勇气→使泄气、丧失信心。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.819,
+            0.937,
+            0.869,
+            0.954
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.871,
+            0.937,
+            0.9,
+            0.954
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.911,
+            0.939,
+            0.948,
+            0.953
+          ],
+          "content": "/209"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.042,
+            0.034,
+            0.11,
+            0.066
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.126,
+            0.043,
+            0.51,
+            0.06
+          ],
+          "content": "考研英语 高频抢分册"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.093,
+            0.09,
+            0.189,
+            0.112
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.118,
+            0.482,
+            0.152
+          ],
+          "content": "①常考释义：阻碍、阻止，是 encourage（促进）的反义词。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.156,
+            0.245,
+            0.172
+          ],
+          "content": "【2024 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.176,
+            0.484,
+            0.209
+          ],
+          "content": "The existing health privacy law has discouraged medical misconduct."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.213,
+            0.415,
+            0.229
+          ],
+          "content": "现行的健康隐私法阻止了医学的不当行为。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.233,
+            0.188,
+            0.248
+          ],
+          "content": "②固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.252,
+            0.478,
+            0.269
+          ],
+          "content": "discourage sb. from doing sth. 阻碍 / 阻止某人做某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.271,
+            0.243,
+            0.286
+          ],
+          "content": "【2012 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.291,
+            0.392,
+            0.306
+          ],
+          "content": "discourage students from doing homework"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.309,
+            0.215,
+            0.324
+          ],
+          "content": "阻碍学生做作业"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.328,
+            0.17,
+            0.343
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.347,
+            0.408,
+            0.363
+          ],
+          "content": "discouragement n. 气馁；挫折；劝阻"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.1,
+            0.386,
+            0.23,
+            0.4
+          ],
+          "content": "define /dɪˈfam/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.1,
+            0.405,
+            0.227,
+            0.42
+          ],
+          "content": "vt. 下定义，界定"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.427,
+            0.483,
+            0.462
+          ],
+          "content": "妙记:de-（下）+ fin-（界限）+e → define（下定界限）→界定，下定义。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.091,
+            0.472,
+            0.19,
+            0.494
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.5,
+            0.41,
+            0.516
+          ],
+          "content": "①固定搭配:define A as B 将 A 定义为 B"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.519,
+            0.289,
+            0.535
+          ],
+          "content": "【2014 年英语（二）翻译】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.54,
+            0.483,
+            0.574
+          ],
+          "content": "Most people would define optimism as being endlessly happy."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.576,
+            0.398,
+            0.592
+          ],
+          "content": "大部分人会将乐观定义为无止境的快乐。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.595,
+            0.373,
+            0.611
+          ],
+          "content": "②常考派生词:redefine vt. 重新定义"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.615,
+            0.245,
+            0.631
+          ],
+          "content": "【2016 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.635,
+            0.408,
+            0.65
+          ],
+          "content": "21. A. Physical beauty would be redefined."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.653,
+            0.259,
+            0.669
+          ],
+          "content": "形体美会被重新定义。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.672,
+            0.205,
+            0.688
+          ],
+          "content": "③其他派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.692,
+            0.23,
+            0.707
+          ],
+          "content": "definition n. 定义"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.711,
+            0.317,
+            0.727
+          ],
+          "content": "definite adj. 明确的；确定的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.73,
+            0.446,
+            0.746
+          ],
+          "content": "indefinite adj. 不明确的；不确定的（in-否定）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.1,
+            0.766,
+            0.252,
+            0.78
+          ],
+          "content": "confine /kən'fain/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.1,
+            0.785,
+            0.296,
+            0.801
+          ],
+          "content": "vt. 限制 n.(pl.) 边界，界限"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.098,
+            0.807,
+            0.483,
+            0.842
+          ],
+          "content": "妙记：一起（con）变好（fine），必须限制和约束（confine）自己。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.091,
+            0.852,
+            0.189,
+            0.873
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.88,
+            0.171,
+            0.894
+          ],
+          "content": "名词区分："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.899,
+            0.317,
+            0.914
+          ],
+          "content": "\\- confinement, 表示“限制”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.918,
+            0.483,
+            0.933
+          ],
+          "content": "During the pandemic, strict home confinement was"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.089,
+            0.785,
+            0.104
+          ],
+          "content": "imposed to control the virus spread."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.106,
+            0.904,
+            0.122
+          ],
+          "content": "疫情期间实施了严格的居家隔离以控制病毒传播。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.125,
+            0.875,
+            0.14
+          ],
+          "content": "• confines 直接作名词，表示“边界、界限”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.144,
+            0.686,
+            0.159
+          ],
+          "content": "【2014 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.163,
+            0.915,
+            0.215
+          ],
+          "content": "A range of new forms, including Body Art, Performance Art and Action Art, pushed art beyond the traditional confines of the studio and gallery."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.217,
+            0.915,
+            0.252
+          ],
+          "content": "一系列新的艺术形式，包括身体艺术、行为艺术和行动艺术，推动艺术超越了工作室和画廊的传统界限。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.271,
+            0.654,
+            0.286
+          ],
+          "content": "limit /'lɪmɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.29,
+            0.765,
+            0.305
+          ],
+          "content": "vt. 限制 n. 限制，限度，局限"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.312,
+            0.915,
+            0.347
+          ],
+          "content": "妙记:limit（谐音“力没的”）→力气没了→达到了精力的限度（limit）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.354,
+            0.632,
+            0.375
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.382,
+            0.767,
+            0.396
+          ],
+          "content": "①近义词辨析:limit & confine"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.532,
+            0.4,
+            0.914,
+            0.455
+          ],
+          "sub_type": "text",
+          "content": "- limit 既可以表示 来自自身因素的限制，也可以表示来自外界（如法律法规）的限制;\n- confine 通常只能表示来自外界的限制。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.459,
+            0.914,
+            0.511
+          ],
+          "content": "His fear of failure limits his willingness to take risks.\n他对失败的恐惧限制了他冒险的意愿。(此处不可用\nconfine 替换)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.514,
+            0.613,
+            0.529
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.532,
+            0.755,
+            0.548
+          ],
+          "content": "limited adj. 有限的；受限的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.551,
+            0.721,
+            0.566
+          ],
+          "content": "limitation n. 限制，制约"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.593,
+            0.669,
+            0.608
+          ],
+          "content": "finite /'fainait/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.612,
+            0.63,
+            0.628
+          ],
+          "content": "adj. 有限的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.638,
+            0.913,
+            0.673
+          ],
+          "content": "妙记:finite（谐音“犯难的”），令人犯难的是资源有限（finite）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.683,
+            0.631,
+            0.705
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.711,
+            0.914,
+            0.766
+          ],
+          "content": "常见释义:fin- 既可以表示“界限”，也可以表示“终点”，所以，finite 和 infinite 既可以表示有 / 没有界限，也可以表示有 / 没有终点。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.769,
+            0.687,
+            0.785
+          ],
+          "content": "【2022 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.789,
+            0.634,
+            0.803
+          ],
+          "content": "Time is finite."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.807,
+            0.913,
+            0.843
+          ],
+          "content": "时间是有限的。(时间有终点，会用完，而不是有界限)\n【2015 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.847,
+            0.913,
+            0.88
+          ],
+          "content": "Not only are the tasks apparently infinite, the co-workers are much harder to motivate."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.883,
+            0.914,
+            0.919
+          ],
+          "content": "不仅任务明显是无穷无尽的，而且同事们也更难被激励。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.059,
+            0.94,
+            0.102,
+            0.955
+          ],
+          "content": "210/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.107,
+            0.938,
+            0.134,
+            0.955
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.136,
+            0.94,
+            0.186,
+            0.954
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.864,
+            0.009,
+            0.97,
+            0.046
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.069,
+            0.066,
+            0.215,
+            0.086
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.067,
+            0.101,
+            0.164,
+            0.118
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.127,
+            0.938,
+            0.162
+          ],
+          "content": "1. Much more could be done to encourage “long-termism”, such as changes in the tax code and quicker disclosure of stock acquisitions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.166,
+            0.509,
+            0.182
+          ],
+          "content": "The US and France examples are used to illustrate \\_\\_\\_\\_."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.092,
+            0.186,
+            0.464,
+            0.26
+          ],
+          "sub_type": "text",
+          "content": "A. the obstacles to preventing “short-termism”\nB. the significance of long-term thinking\nC. the approaches to promoting “long-termism”\nD. the prevalence of short-term thinking"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.27,
+            0.748,
+            0.286
+          ],
+          "content": "2. This means that our noses are \\_\\_\\_\\_ to perceiving those smells which float through the air."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.29,
+            0.181,
+            0.304
+          ],
+          "content": "A. limited"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.218,
+            0.29,
+            0.335,
+            0.304
+          ],
+          "content": "B. committed"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.377,
+            0.29,
+            0.484,
+            0.304
+          ],
+          "content": "C. dedicated"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.29,
+            0.624,
+            0.304
+          ],
+          "content": "D. confined"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.315,
+            0.938,
+            0.351
+          ],
+          "content": "3. The strict education system tends to \\_\\_\\_\\_ children's natural curiosity, while self-discipline helps individuals \\_\\_\\_\\_ their impulses in social situations."
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.092,
+            0.355,
+            0.276,
+            0.429
+          ],
+          "sub_type": "text",
+          "content": "A. restrict; restrain\nB. restrain; restrict\nC. restrict; restrict\nD. restrain; restraining"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.069,
+            0.44,
+            0.155,
+            0.457
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.065,
+            0.466,
+            0.937,
+            0.644
+          ],
+          "sub_type": "text",
+          "content": "1. High school students who have an\\_\\_\\_\\_personal project they are working on independently often impress colleges.(impress)\n2. Long-term \\_\\_\\_\\_ can affect both mental and physical health, requiring professional treatment.(depress)\n3. The early study was restricted \\_\\_\\_\\_ laboratory conditions and needed field validation. (填入介词)\n4. In quantum computing, we define“decoherence” — the disruptive phenomenon where quantum superposition states collapse due to environmental interactions—\\_\\_\\_\\_ the primary technical obstacle preventing reliable qubit operations and scalable quantum error correction in practical implementations. (填入介词)\n5. Her feeling of \\_\\_\\_\\_ in the small apartment grew stronger after months of remote work.(confine)"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.069,
+            0.654,
+            0.155,
+            0.671
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.069,
+            0.683,
+            0.14,
+            0.698
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.702,
+            0.617,
+            0.717
+          ],
+          "content": "1. The French Senate has passed a bill to curb the influence of advertising."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.777,
+            0.725,
+            0.791
+          ],
+          "content": "2. Not only are the tasks apparently infinite, the co-workers are much harder to motivate."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.852,
+            0.645,
+            0.866
+          ],
+          "content": "3. The government tried to suppress the protest by imposing a media blackout."
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.834,
+            0.934,
+            0.886,
+            0.95
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.889,
+            0.934,
+            0.917,
+            0.951
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.921,
+            0.936,
+            0.964,
+            0.95
+          ],
+          "content": "/211"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.031,
+            0.033,
+            0.102,
+            0.067
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.116,
+            0.043,
+            0.511,
+            0.06
+          ],
+          "content": "考研英语 高频抢分册"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.083,
+            0.09,
+            0.154,
+            0.104
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.078,
+            0.114,
+            0.714,
+            0.234
+          ],
+          "sub_type": "text",
+          "content": "1. The witness provided [express] testimony that contradicted the defendant's alibi.\n2. The professor [ stressed] that accurate data collection is crucial for this experiment.\n3. The teacher [ discouraged] cheating by making students sit far apart during exams."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.458,
+            0.314,
+            0.558,
+            0.334
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.358,
+            0.175,
+            0.374
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.386,
+            0.129,
+            0.399
+          ],
+          "level": 2,
+          "content": "1. C."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.403,
+            0.139,
+            0.418
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.421,
+            0.481,
+            0.474
+          ],
+          "content": "句意：在鼓励“长期主义”方面，还有很多事情可以做，比如修改税法，加快股票收购的披露速度。文中提到美国和法国的例子是为了说明\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.476,
+            0.481,
+            0.583
+          ],
+          "content": "考点：例证题。解题关键在于理解例子所支撑的论点。“such as”后的例子是为了具体说明可以采取哪些方法来促进“长期主义”。A. “障碍”、B. “意义”和 D. “流行”虽然可能是文章其他部分讨论的内容，但并非此例证直接说明的观点。故 C. 为正确答案。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.595,
+            0.129,
+            0.608
+          ],
+          "level": 2,
+          "content": "2. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.612,
+            0.14,
+            0.627
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.63,
+            0.481,
+            0.664
+          ],
+          "content": "句意：这意味着，我们的鼻子 \\_\\_\\_\\_ 闻到那些飘浮在空气中的气味。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.667,
+            0.481,
+            0.793
+          ],
+          "content": "考点：形容词短语辨析及上下文逻辑。四个选项均可与“to”搭配，但含义不同。A. limited to(局限于) 表示能力有限，只能做某事。B. committed to（致力于）和 C. dedicated to（献身于）主语通常是人，表示一种主动的承诺。D. confined to（被限制在）通常指空间或活动范围的限制。原文旨在说明人类鼻子的局限性，因此 A. 最符合“功能有限”的语境。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.805,
+            0.129,
+            0.818
+          ],
+          "level": 2,
+          "content": "3. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.081,
+            0.822,
+            0.14,
+            0.837
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.84,
+            0.481,
+            0.892
+          ],
+          "content": "句意：严格的教育体系倾向于\\_\\_\\_\\_孩子们天生的好奇心，而自律则帮助人们在社交场合\\_\\_\\_\\_自己的冲动。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.895,
+            0.481,
+            0.911
+          ],
+          "content": "考点：近义词辨析。Strict 强调从外部设置规则、界"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.357,
+            0.927,
+            0.484
+          ],
+          "continues_prev": true,
+          "content": "限或限制以控制某事的范围、大小或数量。Restrain 强调从内部进行自我克制或抑制以防止某种行为或情绪。第一空主语是“education system”（教育体系），是外部力量，其行为是“限制好奇心的范围和程度”，故用 restrict。第二空主语是“self-discipline”（自律），是内部力量，其行为是“抑制、克制冲动”，故用 restrain。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.495,
+            0.629,
+            0.511
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.523,
+            0.645,
+            0.537
+          ],
+          "level": 2,
+          "content": "1. impressive"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.54,
+            0.593,
+            0.555
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.558,
+            0.926,
+            0.591
+          ],
+          "content": "句意：拥有一个他们正在独立进行的\\_\\_\\_\\_个人项目的高中生常常能给大学招生官留下深刻印象。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.594,
+            0.926,
+            0.665
+          ],
+          "content": "考点：词性转换（动词→形容词）。不定冠词 an 和形容词 personal 共同修饰空格处的词，因此需要形容词。动词 impress（给……留下印象）的形容词形式为 impressive（令人印象深刻的）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.677,
+            0.645,
+            0.691
+          ],
+          "level": 2,
+          "content": "2. depression"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.693,
+            0.593,
+            0.708
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.711,
+            0.926,
+            0.798
+          ],
+          "content": "句意：长期 \\_\\_\\_\\_ 会影响身心健康，需要专业治疗。\n考点：词性转换（动词→名词）。形容词 Long-term 修饰空格处，且其作为主语，需要名词。动词 depress（使沮丧）的名词形式为 depression（抑郁，抑郁症）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.81,
+            0.579,
+            0.823
+          ],
+          "level": 2,
+          "content": "3. to"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.827,
+            0.593,
+            0.842
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.845,
+            0.926,
+            0.877
+          ],
+          "content": "句意：这项早期研究 \\_\\_\\_\\_ 实验室条件，需要实地验证。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.88,
+            0.926,
+            0.915
+          ],
+          "content": "考点：固定搭配（restrict to）。动词“restrict”的常用搭配是“restrict something to something”，意为"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.047,
+            0.937,
+            0.087,
+            0.952
+          ],
+          "content": "212/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.095,
+            0.935,
+            0.125,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.128,
+            0.938,
+            0.178,
+            0.951
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.848,
+            0.016,
+            0.957,
+            0.053
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.076,
+            0.407,
+            0.092
+          ],
+          "continues_prev": true,
+          "content": "“将……限制在……范围内”。故填介词 to。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.078,
+            0.109,
+            0.124,
+            0.122
+          ],
+          "level": 2,
+          "content": "4. as"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.078,
+            0.125,
+            0.136,
+            0.141
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.143,
+            0.472,
+            0.215
+          ],
+          "content": "句意：在量子计算中，我们将“退相干”——一种因环境相互作用而导致量子叠加态崩溃的破坏性现象——\\_\\_\\_\\_主要的技术障碍，它阻碍了在实际应用中实现可靠的量子比特操作和可扩展的量子纠错。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.217,
+            0.472,
+            0.271
+          ],
+          "content": "考点：固定搭配（define...as...）。动词“define”的固定搭配是“define A as B”，意为“将 A 定义为 B”。故填介词 as。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.078,
+            0.287,
+            0.199,
+            0.301
+          ],
+          "level": 2,
+          "content": "5. confinement"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.078,
+            0.305,
+            0.133,
+            0.32
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.323,
+            0.472,
+            0.358
+          ],
+          "content": "句意：在经历了几个月的远程工作后，她在那间小公寓里的\\_\\_\\_\\_感变得越来越强烈。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.361,
+            0.472,
+            0.396
+          ],
+          "content": "考点：词性转换（动词→名词）。介词 of 后及形容词性物主代词 Her 修饰的名词短语中，需要名词。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.076,
+            0.923,
+            0.11
+          ],
+          "content": "动词 confine（限制，禁闭）的名词形式为 confinement（限制，拘禁）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.12,
+            0.619,
+            0.136
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.139,
+            0.597,
+            0.154
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.522,
+            0.158,
+            0.922,
+            0.229
+          ],
+          "sub_type": "text",
+          "content": "1. 法国议会通过了一项限制广告影响的立法。\n2. 不仅任务明显是无穷无尽的，而且同事们也更难被激励。\n3. 政府试图通过媒体封锁来压制抗议活动。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.233,
+            0.597,
+            0.247
+          ],
+          "level": 2,
+          "content": "单词翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.522,
+            0.251,
+            0.922,
+            0.343
+          ],
+          "sub_type": "text",
+          "content": "1. 证人提供了与被告不在场证明相矛盾的【明确的】证词。\n2. 教授【强调】准确的数据收集对本次实验至关重要。\n3. 老师通过让学生考试时分开坐来【防止】作弊。"
+        },
+        {
+          "type": "aside_text",
+          "bbox": [
+            0.04,
+            0.594,
+            0.059,
+            0.93
+          ],
+          "content": "治\nag 拉\n动\n拥有\n5 要\nof"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.82,
+            0.938,
+            0.9,
+            0.955
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.909,
+            0.939,
+            0.949,
+            0.954
+          ],
+          "content": "/213"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:14:18",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 7,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

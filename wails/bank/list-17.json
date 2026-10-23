@@ -1,0 +1,787 @@
+{
+  "list_no": 17,
+  "title": "询问与处理",
+  "association": {
+    "outline": "情节发展：古宅探秘→真相追寻→圆满收官",
+    "scenes": [
+      {
+        "title": "古宅探秘",
+        "story": "考古系研究生小林 enquire/inquire（询问）当地文物局，获准 address（解决）废弃古宅修复问题。uncover（揭开）cover（覆盖）的油布后，他 discover（发现）被 discard（丢弃）的信件，这 cause（引起）他的兴趣。"
+      },
+      {
+        "title": "真相追寻",
+        "story": "通过研究信件，小林找到了原主人曾 possess（拥有）的珍品，并上报文物局。之后，他协助文物局 dispose（处置）。过程中，他 obsess（痴迷）研究文物，这份热忱 motivate（激励）了整个团队。"
+      },
+      {
+        "title": "圆满收官",
+        "story": "修复后，古宅 recover（恢复）原貌，展览 boost（提升）了小镇知名度，完美 cater/satisfy（满足）了保护需求。小林决定 reside（定居）当地，继续从事保护工作。"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "inquire",
+      "ipa": "/m'kwaɪər/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "询问；研究"
+        }
+      ],
+      "mnemonic": "quire-=seek（寻求）",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "最常考释义",
+          "body": "学术研究、科学研究\n\n【2011 年英语（一）】\n\nAcademic inquiry, at least in some fields, may need to become less exclusionary and more holistic.\n\n至少在某些领域，学术探究或许需要变得不那么排他，且更加全面。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "enquiry/inquiry n. 询问；研究"
+        }
+      ]
+    },
+    {
+      "spelling": "address",
+      "ipa": "/ə'dres/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "地址；演讲"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "写信；发表演讲；设法解决，处理，应对"
+        }
+      ],
+      "mnemonic": "有了地址（address）就能写信（address）来解决（address）问题。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常见释义",
+          "body": "“处理、应对”问题，即“指向”一个问题。\n\n【2018 年英语（一）】\n\nThis practice does not address the real worry.\n这个做法没能解决真正的担忧。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "考研小作文导语",
+          "body": "Do not write the address.\n\n不要写地址。"
+        }
+      ]
+    },
+    {
+      "spelling": "cause",
+      "ipa": "/kɔːz/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "原因；事业，奋斗目标"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "导致，引起"
+        }
+      ],
+      "mnemonic": "导致（cause）我们不努力的原因（cause） 是奋斗目标（cause）的丧失。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "常见用法",
+          "body": "- cause sth. 引起，导致某事 (通常指不好的事)\n\nThe heavy rain caused the flood.\n\n大雨引发了洪水。\n\n- cause sb. to do sth. 使某人做某事\n\nWhat caused you to change your mind?\n\n是什么使你改变了主意？"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "熟词僻义",
+          "body": "可作名词，意为事业\n\n【2020 年英语（二）】\n\na sense of being dedicated to a cause\n\n一种致力于某一事业的使命感"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "because conj. 因为"
+        }
+      ]
+    },
+    {
+      "spelling": "dispose",
+      "ipa": "/dɪˈspouz/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "排列，安排"
+        },
+        {
+          "pos": "vi.",
+          "meaning_cn": "处理"
+        }
+      ],
+      "mnemonic": "pos- 表示放。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "常见用法",
+          "body": "- 表示排列时，及物动词\n\nThere are too many items and I don't know how to dispose them.\n\n东西太多了，我不知道该如何排列它们。\n\n- 表示处理时，不及物动词\n\ndispose of sth. 处理某事\n\nHe doesn't know how to dispose of those matters.\n\n他不知道该如何处理那些事情。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "disposal n. 处理；排列\n\ndisposition n. 处理，处置; 性格，性情 (性格是一个人处理事情的风格)\n\ndisposable adj. 用后即弃的，一次性的 (-able 能、可以)"
+        },
+        {
+          "marker": "③",
+          "kind": "常考释义",
+          "label_raw": "",
+          "body": "disposal 常考释义：垃圾、废物的处理。\n\n【2022 年英语（二）】\n\naccelerating the disposal of waste\n\n加速废物的处理"
+        },
+        {
+          "marker": "④",
+          "kind": "常考释义",
+          "label_raw": "",
+          "body": "disposable 常考释义：一次性的，即用完就可以（-able）被处理掉（dispose）的。\n\n【2013 年英语（一）】\n\nThese labels encourage style-conscious consumers  $t_{0}$  see clothes as disposable.\n\n这些品牌鼓励在乎风格的消费者将衣服视为一次性的东西。"
+        }
+      ]
+    },
+    {
+      "spelling": "discard",
+      "ipa": "/dr'ska:rd/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "丢弃"
+        }
+      ],
+      "mnemonic": "dis-（否定）+ card（扑克牌）→不要这张牌、弃牌→丢弃。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "考点点拨",
+          "body": "常见释义：丢弃\n\n【2015 年英语（一）】\n\nThey should start by discarding California's lame argument that exploring the contents of a smartphone is similar to, say, going through a suspect's purse.\n\n他们应该从丢弃加州蹩脚的观点开始，这种观点认为，搜索一部手机的内容就像是搜查一个人的钱包"
+        }
+      ]
+    },
+    {
+      "spelling": "cover",
+      "ipa": "/'kʌvər/",
+      "senses": [
+        {
+          "pos": "vt./n.",
+          "meaning_cn": "覆盖；掩盖；包括，涉及"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "盖子；封面"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "报道"
+        }
+      ],
+      "mnemonic": "本义表示“盖子”，引申为“覆盖、掩盖”:盖子是用来覆盖的。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "cover 作动词，表示“覆盖”或“报道” 【2010 年英语（一）】\n\nIn those far-off days, it was taken for granted that the critics of major papers would write in detail and length about the events they covered.\n\n在那些久远的岁月里，人们理所当然地认为，各大报纸的评论家们会详细且长篇大论地撰写他们所报道的事件的相关内容。"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "cover A with B/A be covered with B 用 B 覆盖 A\n\nI cover the pencil with the paper.\n\n我用纸覆盖这支铅笔。\n\nThe pencil is covered with the paper.\n\n这支铅笔被纸覆盖了。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "coverage n. 覆盖范围；新闻报道"
+        }
+      ]
+    },
+    {
+      "spelling": "discover",
+      "ipa": "/dɪˈskʌvər/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "发现；弄清"
+        }
+      ],
+      "mnemonic": "dis-（否定）+ cover（盖）→ 去掉盖子，不盖起来 → 发现，引申为弄清。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常见释义",
+          "body": "发现\n\n【2024 年英语（一）】\n\nThe Romans buried the nails so deep that they would not be discovered for almost two millennia.\n\n罗马人把钉子埋得如此之深，以至于近两千年之后人们才发现它们的存在。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "discovery n. 发现"
+        }
+      ]
+    },
+    {
+      "spelling": "uncover",
+      "ipa": "/ʌnˈkʌvər/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "揭开，揭露"
+        }
+      ],
+      "mnemonic": "un-（否定）+ cover（盖）→ 去掉盖子，不盖起来 → 揭开、揭露。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常见释义",
+          "body": "揭开，揭露\n\n【2017 年英语（一）】\n\nProgress in today's astronomy may uncover the origin of Hawaiian culture.\n\n当今的天文学领域的进步或许能够揭开夏威夷文化的起源之谜。"
+        },
+        {
+          "marker": "②",
+          "kind": "辨析",
+          "label_raw": "近义词辨析",
+          "body": "uncover & discover\n\n(1) 构词分析：\n\n- uncover = un-(去除)+cover(覆盖), 字面义为“揭开覆盖物”;\n\n- discover = dis-（去除）+ cover（覆盖），原指“移开覆盖以观察”，后发展为“发现未知”。\n\n(2) 隐含动作差异：\n\n- uncover 暗示事物原本被遮蔽（如秘密、证据），需\n\n主动移除障碍才能发现；\n\n- discover 不强调障碍存在，仅突出事物首次被认知，如自然现象或抽象规律。"
+        }
+      ]
+    },
+    {
+      "spelling": "recover",
+      "ipa": "/rɪˈkʌvər/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "恢复；康复"
+        }
+      ],
+      "mnemonic": "re-再次 +cover 盖住，把东西再次盖住就是恢复原样。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "recover from sth. 从某种状态中恢复，常用于疾病、打击\n\nIt took her months to recover from the surgery.\n\n她花了好几个月才从手术中恢复过来。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "recovery n. 恢复；康复\n\n【2011 年英语（一）】\n\nAs the first signs of recovery begin to take hold, deputy\nchiefs may be more willing to make the jump without a net.\n\n随着复苏迹象开始显现，副手们或许会更愿意放手一搏。"
+        }
+      ]
+    },
+    {
+      "spelling": "motivate",
+      "ipa": "/'moutiveit/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "促动，刺激，激励，激发"
+        }
+      ],
+      "mnemonic": "来自 mot- = motion（运动，移动）→使一个东西运动起来，即“促动”→“促动”需要一定的“刺激”或“激励”，这也是一个“激发”潜能的过程。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "常见用法",
+          "body": "形容某事有激励作用、鼓舞人心，叫作 motivating；而形容某人被激励、充满动力，叫作 motivated。\n\n【2015 年英语（二）】\n\nHousehold tasks are generally more motivating.\n\n家庭任务总体上讲更加鼓舞人心。\n\n【2015 年英语（二）】\n\nkeep employees motivated\n\n保持员工充满动力"
+        },
+        {
+          "marker": "②",
+          "kind": "辨析",
+          "label_raw": "近义词",
+          "body": "motivate 激励 = promote、prompt 促进 = encourage 鼓励\n\n【2014 年英语（一）】\n\nWhat motivated him, we were to understand, was his zeal for “ fundamental fairness ” — protecting the taxpayer...\n\n我们了解到，激励他这样做的原因是他对“基本公平”的热情——即保护纳税人权益。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "motive n. 动机"
+        }
+      ]
+    },
+    {
+      "spelling": "boost",
+      "ipa": "/bu:st/",
+      "senses": [
+        {
+          "pos": "n./vt.",
+          "meaning_cn": "提高，增加；促进，激励"
+        }
+      ],
+      "mnemonic": "穿上一双（s）靴子（boot）可以增加（boost）身高。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常见释义",
+          "body": "促进\n\n【2021 年英语（二）】\n\nA move back to self-sufficiency, the argument goes, would boost the farming industry, political sovereignty and even the nation's health.\n\n这种观点认为，回归自给自足将促进农业、政治主权，甚至国家健康。"
+        },
+        {
+          "marker": "②",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "boost 提高（生产力 / 产量）\n\n【2018、2022 年英语（一）、2024 年英语（二）】\nboost productivity 提高生产力\n\n【2021 年英语（一）、2021 年英语（二）】boost production 提高产量"
+        }
+      ]
+    },
+    {
+      "spelling": "satisfy",
+      "ipa": "/'sætɪsfaɪ/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "使满意；满足"
+        }
+      ],
+      "mnemonic": "谐音“That is fine.”那是好的，即对此“满意”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "常见用法",
+          "body": "satisfy sb. 满足某人；使某人满意\n【2001 年】\n\nThe newspaper industry cannot satisfy the readers.\n报纸行业无法满足读者。"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "最常考用法",
+          "body": "satisfy sb.'s need 满足某人的需求\n【2015 年英语（二）】\n\nsatisfies the real need of the jobless\n满足没有工作的人的真实需求"
+        },
+        {
+          "marker": "③",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "satisfy sb. with sth. 使某人对某事感到满意\n\n【2011 年英语（一）】\n\nChildless folks are less likely to be satisfied with their life. 没有孩子的人群更不可能对他们的生活感到满意。"
+        },
+        {
+          "marker": "④",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "satisfaction n. 满意\n\ndissatisfaction n. 不满"
+        }
+      ]
+    },
+    {
+      "spelling": "cater",
+      "ipa": "/'keɪtər/",
+      "senses": [
+        {
+          "pos": "vi.",
+          "meaning_cn": "满足，迎合"
+        }
+      ],
+      "mnemonic": "cater=cat（猫）+-er（人）养猫人需要满足（cater）猫的各种需求。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "cater to sb. 满足、迎合某人\n\n【2010 年英语（一）】\n\n24. C. His style caters largely to modern specialists.\n他的风格在很大程度上迎合了当代专家们。"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "常见用法",
+          "body": "cater to sb.'s need 满足、迎合某人的需求\n\n【2023 年英语（一）】24. D. cater to local needs 满足当地人的需求"
+        }
+      ]
+    },
+    {
+      "spelling": "possess",
+      "ipa": "/pə'zes/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "占有，拥有"
+        }
+      ],
+      "mnemonic": "pos-（=put 放）+ sess- = sit-（坐）→ 把东西放在一个座位上，就是占有这个座位。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "possession n. 持有，拥有；所有物；pl. 财产"
+        },
+        {
+          "marker": "②",
+          "kind": "常考释义",
+          "label_raw": "常考释义",
+          "body": "possession 复数形式表示“财产”\n\n【2015 年英语（一）】\n\nAuthorities may search through the possessions of\nsuspects at the time of their arrest.\n\n在嫌疑犯被逮捕的期间，当局可能会搜查嫌疑犯的财产。"
+        }
+      ]
+    },
+    {
+      "spelling": "obsess",
+      "ipa": "/əbˈses/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "使痴迷，使迷恋"
+        }
+      ],
+      "mnemonic": "ob-（否定）+ sess-（坐）→ 坐不住 → 痴迷于一件事时，会总想干这件事，坐不住。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "be obsessed by/with 痴迷于\n\n【2024 年英语（一）】\n\nI make no apology for being obsessed by a particular feature of everyday objects: their price.\n\n我并不会为自己着迷于日用品的价格这个特定特征而感到抱歉。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词",
+          "body": "obsession n. 痴迷，着迷"
+        }
+      ]
+    },
+    {
+      "spelling": "reside",
+      "ipa": "/rɪ'zaɪd/",
+      "senses": [
+        {
+          "pos": "vi.",
+          "meaning_cn": "居住；（存）在于"
+        }
+      ],
+      "mnemonic": "re-(重复)+side(谐音“在的”) 居住 (reside) 在哪儿意味着一直 (re-) 在 (side) 哪儿。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "",
+          "body": "需要特别当心的固定搭配:reside in... 存在于……中\nThe power to make decisions resides in the hands of the board.\n\n做出决定的权力掌握在董事会手中。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "",
+          "body": "派生词 residence 除了“居住”，还可以表示“住宅、住所”，相当于 home"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "其他派生词",
+          "body": "resident adj. 居住的 n. 居民"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L17-01",
+      "kind": "single",
+      "stem": "But exploring one's smartphone is more like entering his or her home. The author believes that exploring one's phone contents is comparable to ____.",
+      "options": [
+        "getting into one's residence",
+        "handling one's historical records",
+        "scanning one's correspondences",
+        "going through one's wallet"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [],
+      "reading": true
+    },
+    {
+      "id": "L17-02",
+      "kind": "single",
+      "stem": "The ____ atmosphere of the startup, where every success story was celebrated, kept employees ____ even during crunch time – a dynamic that many competitors failed to replicate.",
+      "options": [
+        "motivated...motivating",
+        "motivating...motivated",
+        "motivation...motivating",
+        "motivated...motivation"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "motivate",
+          "bind": "词形"
+        },
+        {
+          "n": 2,
+          "word": "motivate",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L17-03",
+      "kind": "single",
+      "stem": "The laboratory's new policy requires researchers to ____ chemical containers properly after use, with special ____ procedures for toxic substances. This reflects both their cautious ____ and the growing concern over ____ medical waste in the facility.",
+      "options": [
+        "dispose...disposal...disposition...disposable",
+        "dispose of...disposed...disposition...disposal",
+        "dispose...disposal...disposable...disposition",
+        "dispose of...disposal...disposition...disposable"
+      ],
+      "answer": 3,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "dispose",
+          "bind": "词形"
+        },
+        {
+          "n": 2,
+          "word": "dispose",
+          "bind": "词形"
+        },
+        {
+          "n": 3,
+          "word": "dispose",
+          "bind": "词形"
+        },
+        {
+          "n": 4,
+          "word": "dispose",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L17-04",
+      "kind": "single",
+      "stem": "____ the economic crisis, the country has implemented a series of stimulus measures.",
+      "options": [
+        "Recovering",
+        "To recover",
+        "Having recovered from",
+        "Being recovered by"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "recover",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L17-05",
+      "kind": "fill",
+      "stem": "Adult women do not remember being so obsessed ____ pink.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "with"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "obsess",
+          "bind": "介词"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L17-06",
+      "kind": "fill",
+      "stem": "But this distinction misses the point that it is processing and aggregation, not the mere ____ of bits, that gives the data value.(possess)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "possession"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "possess",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L17-07",
+      "kind": "fill",
+      "stem": "This new product is designed to cater ____ the needs of young consumers.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "to"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "cater",
+          "bind": "介词"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L17-08",
+      "kind": "fill",
+      "stem": "Finally, the public receives the new ____ and possibly accompanying technology.(discover)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "discovery"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "discover",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L17-09",
+      "kind": "fill",
+      "stem": "She sent an ____ to the hotel regarding room availability.(inquire)",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "inquiry"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "inquire",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L17-10",
+      "kind": "translate_sentence",
+      "stem": "The author of a paper is required to cover the cost of its publication.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "cover",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L17-11",
+      "kind": "translate_sentence",
+      "stem": "There is a way in which grade forgiveness satisfies colleges' own needs.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "satisfy",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L17-12",
+      "kind": "translate_sentence",
+      "stem": "Please discard plastic bottles in the recycling bin instead of regular trash.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "discard",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L17-13",
+      "kind": "translate_word",
+      "stem": "According to Confor, the UK government's fresh incentives can hardly [address] a construction crisis.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "address",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L17-14",
+      "kind": "translate_word",
+      "stem": "This would [boost incomes], encourage work, reward companies for job creation, and reduce inequality.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "boost",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L17-15",
+      "kind": "translate_word",
+      "stem": "We should fight for the Republican [cause].",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "cause",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L17-16",
+      "kind": "translate_word",
+      "stem": "The journalist worked tirelessly to [uncover] the corruption scandal within the government.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "uncover",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

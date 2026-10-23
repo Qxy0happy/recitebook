@@ -1,0 +1,1012 @@
+{
+  "list_no": 24,
+  "title": "增强与减弱",
+  "association": {
+    "outline": "情节发展：奋发受挫→喜获良机→精准调整→拾级而上",
+    "scenes": [
+      {
+        "title": "奋发受挫",
+        "story": "Tom 努力想 enhance（增强）英语能力，通过阅读 enrich（丰富）词汇。但巨大的压力反而 reduce（削弱）了他的动力，导致成绩开始 decline（下滑），这让他非常沮丧。"
+      },
+      {
+        "title": "喜获良机",
+        "story": "他获得一个 precious（珍贵的）chance（机会）参加一个 perfect（完美的）备考研讨会。虽然资料是 abundant（充足的），但很快发现其中很多内容是 superfluous（多余的）。更糟的是，他只有刚好 sufficient（足够的）时间来消化真正有用的信息。"
+      },
+      {
+        "title": "精准调整",
+        "story": "导师强调 precise（精确的）练习是关键，建议付出 moderate（适度的）努力，选择 medium(中等) 难度的材料，并且要避免拖延，即使是 mild(轻微的)。因此，他需要 balance（平衡）强度与休息。"
+      },
+      {
+        "title": "拾级而上",
+        "story": "Tom 慢慢学会 weigh（权衡）任务的优先级，采取 gradual（渐进的）学习步骤。这种 modest（稳妥的）方法最终 raise（提升）了他的成绩，成功阻止了成绩的 drop/descend（下降）趋势。"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "enhance",
+      "ipa": "/ɪnˈhæns/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "提高，增强，提升"
+        }
+      ],
+      "mnemonic": "en-（使）+ hanc-（= height 高）+e → 使变高 → 提高、增强。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "enhanced adj. 被提高的，被增强的",
+          "body": "【2017 年英语（一）】\nEnhanced security measures since then, combined with a rise in airline travel due to the improving economy and and low oil prices, have resulted in long waits at major airports.\n从那时起加强的安检措施，加上经济改善和低油价带来的航空旅客人数的增加，导致了各大机场长时间的等待。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "self-enhancing adj. 自我提升的",
+          "body": "【2014 年英语（二）】\nWe have a deep-seated need to feel good about ourselves and we naturally employ a number of self-enhancing strategies to achieve this.\n我们有着强烈的需求，想要对自己感到满意，于是，我们自然而然地采用多种自我提升的策略来达成这一目标。"
+        }
+      ]
+    },
+    {
+      "spelling": "enrich",
+      "ipa": "/ɪnˈrɪtʃ/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "使富有；使丰富，充实"
+        }
+      ],
+      "mnemonic": "en-（使）+ rich（丰富、富裕）→使丰富，使富有。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "常考释义",
+          "label_raw": "常考释义：丰富，可以表示抽象意义上的丰富",
+          "body": "enrich knowledge 丰富知识\nenrich experience 丰富经历\nenrich culture 丰富文化\nenrich understanding 深化理解\nenrich content 丰富内容\n【2015 年英语（二）】\n30. C. social class greatly helps enrich educational experiences\n社会阶层非常有助于丰富教育经历"
+        }
+      ]
+    },
+    {
+      "spelling": "raise",
+      "ipa": "/reɪz/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "举起；提高，增加；提出；导致，引起；养育，抚养"
+        }
+      ],
+      "mnemonic": "本义表示“举起”, 如 raise your hands (举手), 引申为“提高、增加”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "增加，提高（水平、标准、数量、价格、意识等）",
+          "body": "raise the price 提高价格\nraise awareness 提高意识"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "提出（问题、议题、观点、疑问等）",
+          "body": "raise question 提出问题，引发质疑"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "引起，激起（反应、情绪、关注等）",
+          "body": "raise concerns 引发担忧\nraise suspicion 引起怀疑；引发猜疑"
+        },
+        {
+          "marker": "④",
+          "kind": "其他",
+          "label_raw": "抚养，养育（孩子）",
+          "body": "raise children 抚养孩子\n【2010 年英语（一）】\nJennifer Senior suggests in her article that raising a child can bring happiness in retrospect.\n詹妮弗在其文章中指出，抚养孩子的过程在回顾的时候会带来快乐。"
+        },
+        {
+          "marker": "⑤",
+          "kind": "其他",
+          "label_raw": "形近词区分：",
+          "body": "rise vi. 升起，上升，上涨；起身\nraise 是及物动词 (vt.): 必须带宾语 (raise sth.)\nrise 是不及物动词 (vi.): 不带宾语 (sth. rises)"
+        }
+      ]
+    },
+    {
+      "spelling": "reduce",
+      "ipa": "/rɪˈduːs/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "（使）减少；（使）缩小；（使）降低；简化"
+        }
+      ],
+      "mnemonic": "re-（back）+ duc-（引导）+e→ 往回引导→ 减少、缩小、降低。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "该单词可以表示“简化”，相当于 simplify",
+          "body": "The problem can be reduced to a few key points.\n这个问题可以简化为几个关键点。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词:reduction n. 减少；缩小；降低；简化",
+          "body": "【2023 年英语（一）】\nWaterstones branches suffer a severe reduction in revenue.\n水石书店的分店的营收大幅减少。"
+        }
+      ]
+    },
+    {
+      "spelling": "decline",
+      "ipa": "/dɪˈkleɪn/",
+      "senses": [
+        {
+          "pos": "vi./n.",
+          "meaning_cn": "下降，衰退"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "拒绝"
+        }
+      ],
+      "mnemonic": "de-（下）+ clin-（=climb 爬）+e→往下爬→下降，衰退。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义：作名词，表示下降/衰退",
+          "body": "【2013 年英语（一）】\noverall population decline 总人口数量的减少\n【2017 年英语（一）】\neconomic decline 经济的衰退"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "该单词可以表示“拒绝”，且特指“婉拒”，即给人一个台阶爬（clin-）下去（de-）。",
+          "body": "【2008 年】\nDepending on the comments received, the editor would accept the paper for publication or decline it.\n根据收到的评论，编辑会决定接受或拒绝这篇论文的发表。\n【2023 年英语（一）】\nPRH declined to comment on the issue.\n企鹅兰登书屋拒绝对这个问题做出评论。"
+        }
+      ]
+    },
+    {
+      "spelling": "drop",
+      "ipa": "/dra:p/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "(使) 下降，(使) 落下"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "滴; 下降"
+        }
+      ],
+      "mnemonic": "谐音“抓破”→抓破气球，使下降（drop）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "常考动词短语 drop out 或名词 dropout, 表示辍学。",
+          "body": "【2011 年英语（一）】\nUp to half of all doctoral students drop out before getting their degrees.\n高达半数的博士生在获得学位前辍学。\n【2015 年英语（二）】\nTheir grades are lower and their dropout rates are higher.\n他们的成绩更低，辍学率更高。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词:backdrop n. 背景（back 背后 + drop 落 → 从背后落下来的大幕 → 背景）",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "spelling": "descend",
+      "ipa": "/dɪˈsend/",
+      "senses": [
+        {
+          "pos": "vi.",
+          "meaning_cn": "下去；下降"
+        }
+      ],
+      "mnemonic": "descend“第三的”, 那就是水平下降 (descend) 了。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配:descend from A to B 从 A 逐渐下降到 B，从 A 逐渐堕落到 B",
+          "body": "【2013 年英语（一）】\nPriestly explains how the deep blue color of the assistant's sweater descended from fashion shows to department stores and to the bargain bin.\n普赖斯蒂尔（Priestly）解释了助理那件深蓝色的毛衣是如何从时装秀逐渐堕落到百货商店，再到廉价货架上的。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "形近词区分:decent adj. 得体的；像样的",
+          "body": "We descend the stairs to a decent meal.\n我们走下楼梯去吃一顿像样的饭。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "descent n. 下降\ndescendant n. 后裔，后代，晚辈\nascend vi. 登高；升高（a- 强调）\ntranscend vt. 超越（trans- 穿越、跨越）"
+        }
+      ]
+    },
+    {
+      "spelling": "precise",
+      "ipa": "/pri'saɪs/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "精确的，准确的；严谨的"
+        }
+      ],
+      "mnemonic": "pre-（提前）+ cise-（联想:size，尺码），提前知道尺码就准确（precise）了。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "强调句 It is precisely... that/who 正是……",
+          "body": "【2012 年英语（一）】\nIt is precisely these superfluous things that define human culture and ultimately what it is to be human.\n正是这些多余的东西定义了人类文化，并最终定义了什么是人类。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "precision n. 准确；严谨"
+        }
+      ]
+    },
+    {
+      "spelling": "precious",
+      "ipa": "/ˈpreʃəs/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "珍贵的，贵重的"
+        }
+      ],
+      "mnemonic": "以前的（previous）记忆都很珍贵（precious）。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "形近词辨析：",
+          "body": "previous adj. 以前的;\nprecise adj. 准确。"
+        }
+      ]
+    },
+    {
+      "spelling": "chance",
+      "ipa": "/tʃæns/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "机会；可能性；偶然性"
+        }
+      ],
+      "mnemonic": "谐音“趁此” →趁此机会（chance），我会好好学习英语。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "by chance 偶然 = accidentally",
+          "body": ""
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "take a chance、take chances 冒险，碰运气",
+          "body": "【2020 年英语（二）】\nGeneration Zs aren't interested in taking any chances.\nZ 世代对冒险不感兴趣。"
+        }
+      ]
+    },
+    {
+      "spelling": "perfect",
+      "ipa": "/'pɜːrfɪkt/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "完美的"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "使完美"
+        }
+      ],
+      "mnemonic": "per-（每一个都）+ fect-（做）→ 每一件事都做到了 → 完美（perfect）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "考查形容词基本义：完美的",
+          "body": "【2016 年英语（一）】\n24. A. pursuing perfect physical conditions\n追求完美的身体状况"
+        },
+        {
+          "marker": "②",
+          "kind": "常考释义",
+          "label_raw": "考查 perfect 作动词：使完美，即完善",
+          "body": "【2013 年英语（一）】\nIt took Beaumont decades to perfect her craft.\n贝蒙特花了好几十年去完善她的技艺。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "perfectly 除了“完美地”，也可以表示“非常”，相当于 very 或 badly",
+          "body": "【2021 年英语（二）】\nMany people are actually perfectly willing to talk.\n很多人实际上非常愿意交流。"
+        }
+      ]
+    },
+    {
+      "spelling": "sufficient",
+      "ipa": "/səˈfɪʃnt/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "充足的，足够的"
+        }
+      ],
+      "mnemonic": "suf- = sub- (向下、往下) + fic- = fect- (做) + -ient(形容词后缀) → 一直往下做，总有一天能做到“足够”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "self-sufficient 表示“自给自足的”。",
+          "body": "【2021 年英语（二）】\nSome people argue that food self-sufficiency in the UK would contribute to the nation's well-being.\n一些人争论说，英国食物的自给自足会对国家的幸福做出贡献。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "sufficiency n. 充足，足够\nThe village's food sufficiency allowed them to weather the harsh winter.\n村庄的食物充足使他们得以度过严冬。\ninsufficient adj. 不足的（in-否定）\n【2023 年英语（一）】\n23. A. climate education is insufficient at state public schools.\n在国有公立学校，气候教育不够充分。\ndeficient adj. 不足的（de-低、下→做事效率低下→不足）\nHis diet is deficient in vitamin D, leading to fatigue.\n他的饮食缺乏维生素 D，导致疲劳。"
+        }
+      ]
+    },
+    {
+      "spelling": "superfluous",
+      "ipa": "/su: 'pɜːrfluəs/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "多余的，过剩的"
+        }
+      ],
+      "mnemonic": "super-（顶部）+ flu-（流）+-ous（形容词后缀）→从顶部流出来→过多、过剩。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "常考释义",
+          "label_raw": "考查基本义：",
+          "body": "【2012 年英语（一）】\nIt is precisely these superfluous things that define human culture and ultimately what it is to be human.\n正是这些多余的元素定义了人类文化，并最终决定了什么是人类。"
+        }
+      ]
+    },
+    {
+      "spelling": "abundant",
+      "ipa": "/əˈbʌndənt/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "大量的，丰富的，充足的"
+        }
+      ],
+      "mnemonic": "abundant“啊半吨的”，就是大量的（abundant）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "近义词辨析:abundant & enough",
+          "body": "\\- abundant 通常只能表示数量充足；\n\\- enough 既可以表示数量充足，也可以表示程度足够。\n【2010 年英语（一）】\nAn awareness that they were being experimented upon seemed to be ____ to alter workers' behavior.\n意识到自己正在被试验这一点似乎 ____ 改变工人的行为。\nC. enough 足够的 D. abundant 充足的\n答案：C"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "近义词",
+          "body": "abound vi. 大量存在\naffluent adj. 大量的，丰富的 (af- = ad- 强调 + flu-\n水流 + ent 形容词后缀→ 强调水很多→ 大量、丰富)"
+        }
+      ]
+    },
+    {
+      "spelling": "medium",
+      "ipa": "/'mi:diəm/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "中等的，中号的"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "(pl.media) 媒介；媒体"
+        }
+      ],
+      "mnemonic": "med- = middle（中间）→ 中等的（medium）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "它的复数形式 media 才能表示“媒体”，而它的建数形式 medium 只能表示“媒介”。",
+          "body": "【2012 年英语（一）】\nFor the past half-century, much of the world's media culture has been defined by a single medium — television — and television is defined by downloading. 在过去半个世纪里，全世界大部分媒体文化都由单一媒介——电视所主导，而电视是被下载所定义的。"
+        },
+        {
+          "marker": "②",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配:in the short/medium/long term 短/中长期来看",
+          "body": "【2018 年英语（一）】\nBut in the medium term, middle-class workers may need a lot of help adjusting.\n但从中期来看，中产阶级劳动者可能需要大量帮助来适应这种变化。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "近义词：",
+          "body": "amid prep. 在……中间，在……之中\nmidst n. 中间，当中"
+        }
+      ]
+    },
+    {
+      "spelling": "mild",
+      "ipa": "/maɪld/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "温和的；不强烈的，轻微的；不浓的"
+        }
+      ],
+      "mnemonic": "来自 middle（中间），中间的往往都比较温和（mild）。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "该单词的各种含义，归根结底都是“适中的、适度的”。",
+          "body": "【2010 年英语（二）】\nThe majority of patients experienced only mild symptoms.\n大多数患者仅经历了轻微的症状。"
+        }
+      ]
+    },
+    {
+      "spelling": "modest",
+      "ipa": "/'ma:dist/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "适中的，适度的，不太大的; 谦虚的"
+        }
+      ],
+      "mnemonic": "mod- = middle（中间）→ 适中的、适度的谦虚的。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "常考释义",
+          "label_raw": "考查基本义：适度的",
+          "body": "【2012 年英语（一）】\nkeeping the pay increases modest\n保持适度的薪酬增长幅度"
+        }
+      ]
+    },
+    {
+      "spelling": "moderate",
+      "ipa": "/'ma:dərət/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "中等的，适度的；不极端的；不偏激的，温和的"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "缓和，使适中"
+        }
+      ],
+      "mnemonic": "mode（模式）+ rate（频率、比率）→ 把模式调到一个合适的频率上 → 适度的。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "常考释义",
+          "label_raw": "考查其作动词时的基本义：缓和",
+          "body": "【2011 年英语（一）】\nSuch bodily reaction might help moderate the effects of psychological stress.\n这种生理反应或许有助于缓和心理压力所带来的影响。"
+        }
+      ]
+    },
+    {
+      "spelling": "gradual",
+      "ipa": "/'grædʒuəl/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "逐步的，逐渐的"
+        }
+      ],
+      "mnemonic": "grad- 来自 grade（级），一级一级地改变，就是逐步的、逐渐的。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "派生词",
+          "label_raw": "派生词:gradually adv. 逐渐，逐步",
+          "body": "【2010 年英语（二）】\nHabits like hand washing with soap should be changed gradually.\n像用肥皂洗手这样的习惯应当逐渐改变。"
+        }
+      ]
+    },
+    {
+      "spelling": "balance",
+      "ipa": "/'bæləns/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "天平；平衡；余额"
+        },
+        {
+          "pos": "v.",
+          "meaning_cn": "使平衡；权衡"
+        }
+      ],
+      "mnemonic": "ba- = bi-（二）+ lance-（谐音“篮子”）→天平就是由两个篮子构成的，引申为平衡、权衡。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "balance 可以表示“余额”，即一段时间的收支平衡状况。",
+          "body": "【2020 年英语（二）】\nCollege loan balances in the U.S. now stand at a record\n\\$1.5 trillion, according to the Federal Reserve.\n美国联邦储备委员会（Federal Reserve）的数据显示，美国大学贷款余额目前达到创纪录的 1.5 万亿美元。"
+        },
+        {
+          "marker": "②",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配:balance A with/and B 兼顾，同等重视",
+          "body": "【2013 年英语（二）】\nbalance work and family 兼顾工作和家庭"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "counterbalance vt. 平衡，抗衡，抵消 n. 制衡因素 (counter 表示“相反”)\n【2017 年英语（二）】\nPeople use their free time to counterbalance the intellectual and emotional demands of their jobs.\n人们利用业余时间来抵消工作带来的智力和情感方面的压力。"
+        }
+      ]
+    },
+    {
+      "spelling": "weigh",
+      "ipa": "/weɪ/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "称……重量"
+        },
+        {
+          "pos": "vt./vi.",
+          "meaning_cn": "权衡"
+        }
+      ],
+      "mnemonic": "weigh“胃”，胃好能吃，就重 (weigh)。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "weigh in（在讨论、辩论等中）发表重量级的意见",
+          "body": "【2021 年英语（一）】\nA federal appeals court weighed in again Tuesday, but instead of providing a badly needed resolution, it only prolonged the fight.\n周二，联邦上诉法庭再次介入此事，但这却让这场争论进一步拖延下去，而不是提供急需的解决方案。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "weight n. 重量；负担；重要性\n【2022 年英语（一）】\nAs the latest crop of students pen their undergraduate application form and weigh up their options, it may be worth considering just how the point, purpose and value of a degree has changed.\n随着最新一批学生填写本科入学申请表并权衡自己的选择，或许有必要思考一下学位的内涵、目的以及价值究竟发生了怎样的变化。\noutweigh vt. 比……更重；(在重要性或意义上) 超过\n【2013 年英语（一）】\nThe White House claims that its power of enforcement outweighs that held by the states.\n白宫宣称其执法权凌驾于各州所拥有的执法权之上。"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L24-01",
+      "kind": "single",
+      "stem": "This perspective makes sense if you simplify the workings of a complex brain, ____ it to an array of electrical pulses.",
+      "options": [
+        "attaching",
+        "reducing",
+        "returning",
+        "exposing"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "reduce",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L24-02",
+      "kind": "single",
+      "stem": "Which sentence correctly uses a word to mean sufficient in degree or extent (not just quantity)?",
+      "options": [
+        "We have abundant time to finish the project.",
+        "The garden has an abundance of flowers.",
+        "Do we have enough chairs for everyone?",
+        "The instructions were clear enough for me to understand."
+      ],
+      "answer": 3,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "sufficient",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L24-03",
+      "kind": "single",
+      "stem": "She ____ of college last year to pursue her passion for music.",
+      "options": [
+        "drop out",
+        "dropped",
+        "dropped out",
+        "drop out of"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "drop",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L24-04",
+      "kind": "single",
+      "stem": "Time is very ____, we should use it wisely.",
+      "options": [
+        "precious",
+        "little",
+        "fast",
+        "long"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "precious",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L24-05",
+      "kind": "single",
+      "stem": "The adventurous entrepreneur was always willing to ____ to start a new business in an untested market.",
+      "options": [
+        "take a chance",
+        "accidentally",
+        "by chance",
+        "have a chance"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "chance",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L24-06",
+      "kind": "single",
+      "stem": "To ____ her presentation skills before the important conference, Sarah practiced daily. Her manager thought she was ____ prepared.",
+      "options": [
+        "perfect; perfect",
+        "perfect; perfectly",
+        "perfectly; perfect",
+        "perfectly; perfectly"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "perfect",
+          "bind": "词形"
+        },
+        {
+          "n": 2,
+          "word": "perfect",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L24-07",
+      "kind": "single",
+      "stem": "The project failed because there was ____ funds to complete it on time.",
+      "options": [
+        "deficient",
+        "self-sufficient",
+        "efficient",
+        "sufficient"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "sufficient",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L24-08",
+      "kind": "single",
+      "stem": "The manager asked the team to remove all ____ details from the report, focusing only on essential information.",
+      "options": [
+        "necessary",
+        "superficial",
+        "superfluous",
+        "abundant"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "superfluous",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L24-09",
+      "kind": "single",
+      "stem": "____ such as television and newspapers play a crucial role in shaping public opinion, while digital ____ are becoming increasingly dominant.",
+      "options": [
+        "Medium; media",
+        "Media; mediums",
+        "Media; media",
+        "Medium; medium"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "medium",
+          "bind": "词形"
+        },
+        {
+          "n": 2,
+          "word": "medium",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L24-10",
+      "kind": "single",
+      "stem": "The new policy aims to ____ the negative impact of climate change on coastal communities.",
+      "options": [
+        "motivate",
+        "accelerate",
+        "moderate",
+        "eliminate"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "moderate",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L24-11",
+      "kind": "single",
+      "stem": "To ensure economic stability, the government plans to keep the budget deficit ____ this year.",
+      "options": [
+        "modest",
+        "excessive",
+        "generous",
+        "modern"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "modest",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L24-12",
+      "kind": "single",
+      "stem": "Most patients with the common cold experience only ____ symptoms, such as a runny nose or slight cough.",
+      "options": [
+        "severe",
+        "acute",
+        "mild",
+        "chronic"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "mild",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L24-13",
+      "kind": "fill",
+      "stem": "Reading widely can ____ (rich) your knowledge, making you intellectually rich.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "enrich"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "enrich",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L24-14",
+      "kind": "fill",
+      "stem": "Interpersonal links can be ____ (enhance) through the media.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "enhanced"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "enhance",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L24-15",
+      "kind": "fill",
+      "stem": "The elevator will descend ____ the 10th floor ____ the lobby in seconds.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "from",
+        "to"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "descend",
+          "bind": "介词"
+        },
+        {
+          "n": 2,
+          "word": "descend",
+          "bind": "介词"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L24-16",
+      "kind": "fill",
+      "stem": "The machine can cut with high____(precise).",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "precision"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "precise",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L24-17",
+      "kind": "fill",
+      "stem": "To adapt to the new environment, the company decided to implement the policy ____ (gradual) rather than all at once.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "gradually"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "gradual",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L24-18",
+      "kind": "translate_sentence",
+      "stem": "Although only a research project at this stage, the request has raised the prospect of regulators wading into early stage tech markets that until now have been beyond their reach.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "尽管目前这只是一个研究项目，但该请求引发了一种可能性，即监管机构将涉足此前他们无法触及的早期科技市场。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "raise",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L24-19",
+      "kind": "translate_sentence",
+      "stem": "The sharp hit to growth predicted around the world and in the UK could lead to a decline in the everyday services we depend on for our well-being and for growth.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "全球以及英国预计会遭受的经济增长严重冲击，可能会导致我们日常生活中赖以维持幸福生活和推动经济增长的服务出现衰退。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "decline",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L24-20",
+      "kind": "translate_sentence",
+      "stem": "Ideally, different kinds of reading inform each other, and act as useful reference points for and counterbalances to one another.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "理想情况下，不同类型的阅读可以相互启发，互为有用的参考点，并且相互制衡。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "balance",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L24-21",
+      "kind": "translate_word",
+      "stem": "Some people argue that food [self-sufficiency] in the UK would contribute to the nation's well-being.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "一些人争论说，英国食物的【自给自足】会对国家的幸福做出贡献。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "sufficient",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

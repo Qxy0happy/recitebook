@@ -1,0 +1,939 @@
+{
+  "list_no": 8,
+  "title": "科学与娱乐",
+  "association": {
+    "outline": "情节发展：危机初现→科学曙光→管理行动→休闲娱乐",
+    "scenes": [
+      {
+        "title": "危机初现",
+        "story": "在一个 farm（农场）社区，population（人口）过度增长导致粮食需求增加。但 crop（作物）收成不佳，因为 ground（土壤）贫瘠、air（空气）污染，这是一个严重的 issue（问题）。"
+      },
+      {
+        "title": "科学曙光",
+        "story": "为此，science（科学）及 astronomy（天文学）等领域的专家们来研究最佳 plant（种植）品种和时间，并开发一种高效方式来 cure（解决）土壤问题。"
+      },
+      {
+        "title": "管理行动",
+        "story": "administration（行政）部门处理资金 transaction（交易）方面的问题，制定 agenda（议程）和 schedule（时间表），政府 agent（代理）监督各 project（项目）执行。"
+      },
+      {
+        "title": "休闲娱乐",
+        "story": "项目成功后，社区开始发展 entertainment（娱乐）活动，大家可以通过丰富多样的活动来 amuse（取悦）自己，充足的 recreation（休闲）和 rest（休息）使人 relax（放松），社区恢复了活力。"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "science",
+      "ipa": "/ˈsaɪəns/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "科学；学科"
+        }
+      ],
+      "mnemonic": "“赛先生”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "scientific adj. 科学上的 scientist n. 科学家"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词表示“科学”时，是不可数名词；它表示“学科”时，是可数名词。 【2014 年英语（一）】 the importance of the humanities and social sciences 人文学科和社会学科的重要性"
+        }
+      ]
+    },
+    {
+      "spelling": "astronomy",
+      "ipa": "/əˈstrɒnəmi/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "天文学"
+        }
+      ],
+      "mnemonic": "Astro 是阿童本的名字，阿童木飞起来像一颗流星，所以 astro 是跟星星相关的。-nomy 是“××学”的意思。星星学就是天文学。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "astronomer n. 天文学家 astronaut n. 宇航员"
+        }
+      ]
+    },
+    {
+      "spelling": "air",
+      "ipa": "/er/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "气；空气；空中；气质，神态"
+        }
+      ],
+      "mnemonic": "他望着空中（air）飘荡的蒲公英，清新的空气（air）轻抚面庞，那沉醉的神态（air）仿佛与自然融为一体。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "airplane n. 飞机 airline n. (飞机) 航线 airport n. 机场"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "常见词组",
+          "body": "air conditioner 空调"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "air 可以表示“气质、神态”，由“气”引申而来，中文也有类似的说法，叫作“气场”。 【2011 年英语（一）】 Even Tommasini calls him“an unpretentious musician with no air of the formidable conductor about him”. 即使是托马西尼，也称他是“一位谦逊的音乐家，身上毫无令人敬畏的指挥家架子”。"
+        }
+      ]
+    },
+    {
+      "spelling": "cure",
+      "ipa": "/kjʊr/",
+      "senses": [
+        {
+          "pos": "v./n.",
+          "meaning_cn": "治愈；解决（办法、措施）"
+        }
+      ],
+      "mnemonic": "没有芭比只有 Q, 证明还没芭比 Q, 是被治愈了。用“治愈” (cure) 的方式“解决” (cure) 内心困扰。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "最常考",
+          "body": "解决办法、解决措施 【2019 年英语（二）】 cure for this labor shortage 劳动力短缺的解决办法 【2016、2020 年英语（一）、2023 年英语（二）】 cure-all 灵丹妙药"
+        },
+        {
+          "marker": "②",
+          "kind": "辨析",
+          "label_raw": "区分",
+          "body": "cure & treatment cure 表示疾病治好了或问题成功解决了。如： 【2013 年英语（一）】 Science and technology would cure all the ills of humanity. 科学和技术会治愈所有的人类疾病。 treatment 仅仅表示治疗疾病或处理问题，无论是否治愈或是否成功解决。如： 【2010 年英语（二）】 medical treatment 医学治疗"
+        }
+      ]
+    },
+    {
+      "spelling": "plant",
+      "ipa": "/plaːnt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "植物；工厂"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "种植"
+        }
+      ],
+      "mnemonic": "为了提升绿化率，工厂（plant）里种植（plant）了大量植物（plant）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "plant 可以作名词，表示工厂。 【2012 年英语（一）】 The corporation bought Vermont's only nuclear power plant. 该公司收购了佛蒙特州唯一的核电站。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "plant 可以作动词，表示种植。 【2024 年英语（二）】 The UK is facing a future construction crisis because of a failure to plant trees to produce wood. 由于在种树以生产木材上的失败，英国正在面临一场未来的建设危机。"
+        }
+      ]
+    },
+    {
+      "spelling": "farm",
+      "ipa": "/faːrm/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "农场"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "耕种，种植；饲养"
+        }
+      ],
+      "mnemonic": "农场（farm）里种植（farm）着大量的作物并饲养（farm）了许多牲畜。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "farmer n. 农场主 farmer 不是普通的农民，而是农场主；普通的农民叫作 peasant。 【2019 年英语（二）】 American farmers have been complaining of labor shortages for several years. 美国的农场主已经抱怨劳动力短缺问题好几年了。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "farm 可以作动词，表示耕种、种植或饲养，就是在农场上做的事。 【2018 年英语（二）】 Some ants farm the bugs called aphids for the honeydew they produce when they feed. 一些蚂蚁会为了获取蚜虫进食时分泌的蜜露而饲养蚜虫。"
+        }
+      ]
+    },
+    {
+      "spelling": "population",
+      "ipa": "/ˌpɒpjuˈleɪʃn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "人口；（某种）人群或群体"
+        }
+      ],
+      "mnemonic": "把 people（人）统计在一起，就成了 population（人口）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词表示“人口”是不可数名词，它作可数名词时表示某种人群或群体。 【2016 年英语（一）】 the size of population in Britain 英国人口的规模 【2010 年英语（一）】 Even the most influential members of a population simply don't interact with that many others. 即便是最具影响力的群体，也不可能与那么多其他人互动。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "拓展",
+          "body": "还有两个单词，也经常用来表示“人群”，都引申自“军队”的含义。 force n. 军队；人群 army n. 军队；人群 【2016 年英语（二）】"
+        }
+      ]
+    },
+    {
+      "spelling": "crop",
+      "ipa": "/kraːp/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "庄稼，农作物；一群人"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "收割；收获"
+        }
+      ],
+      "mnemonic": "谐音“可绕脖” → 大丰收的农作物绕在老牛脖子上。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "crop 可以表示一群人。 【2022 年英语（一）】 the latest crop of students 最新一批的学生"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "crop 作动词可以表示收获任何东西，而不仅仅是收割庄稼。 【2006 年】 the maximum sustainable yield that can be cropped from a fishery 可从渔场获得的最大可持续产量"
+        },
+        {
+          "marker": "③",
+          "kind": "搭配",
+          "label_raw": "短语搭配",
+          "body": "crop up 出现，发生（只考过一次，但它是完形填空的正确选项）"
+        }
+      ]
+    },
+    {
+      "spelling": "ground",
+      "ipa": "/graund/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "地，地面；场地，场所；(pl.) 理由，根据"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "以……为根据（通常用被动）"
+        }
+      ],
+      "mnemonic": "本义表示地面。在 ground（地面）上的立体空间，就是场地、场所；理论和行动所处的“地面”，就是理由、依据。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "playground n. 操场（play 玩、比赛 → 玩要或比赛用的场地） underground adj./adv. 地下（的）；秘密（的）(under 在下面) groundless adj. 毫无道理的（-less 没有）"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "【2014 年英语（一）】 But there are few places where clients have more grounds for complaint than America. 但是，在所有国家中，美国的客户最有理由抱怨。"
+        },
+        {
+          "marker": "③",
+          "kind": "搭配",
+          "label_raw": "短语搭配",
+          "body": "be grounded in = be based on 以……为根据，基于…… on the ground 当场；落实 【2024 年英语（二）】 While the UK government has stated its ambition for more tree planting, there has been little action on the ground. 虽然英国政府表达了种更多树的雄心壮志，但并没有落实什么行动。 on the grounds that 理由是 【2003 年】 Railroads justify rate discrimination against captive shippers on the grounds that in the long run it reduces everyone's cost. 铁路公司为其对受控制的承运商的费率歧视进行辩护，理由是长期来看，这能降低所有人的成本。"
+        }
+      ]
+    },
+    {
+      "spelling": "administration",
+      "ipa": "/ədˌmɪnɪˈstreɪʃn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "管理；执行；行政机关；管理部门"
+        }
+      ],
+      "mnemonic": "ad-（强调）+ minister（部长、大臣）→ 强调部长 / 大臣的职责就是管理、执行（administration）这个部门 / 国家。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "administer vt. 管理；执行"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "the Administration 特指美国联邦政府，相当于 the White House 或 the federal government 【2013 年英语（一）】"
+        }
+      ]
+    },
+    {
+      "spelling": "transaction",
+      "ipa": "/trænˈzækʃn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "交易"
+        }
+      ],
+      "mnemonic": "trans-（从 A 到 B 或从 B 到 A）+action（行为）→所谓交易，就是 A 把钱给 B，B 把货给 A 这样转移的行为。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "online transaction 网络交易，在线交易 【2010 年英语（一）】 That ruling produced an explosion in business method patent filings, initially by emerging internet companies trying to stake out exclusive rights to specific types of online transactions. 这一裁决导致商业方法专利申请激增，最初是新兴互联网公司试图获得特定类型在线交易的专有权。"
+        }
+      ]
+    },
+    {
+      "spelling": "agenda",
+      "ipa": "/əˈdʒendə/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "议事日程，议程表；议题"
+        }
+      ],
+      "mnemonic": "谐音“呃真的啊”→开会时看着议程表感叹:“呃真的啊，这么多待办事项！”",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词可以表示“议题”，即议事日程上列示的东西。 【2006 年】 These messages have an agenda—to lure us to open our wallets. 这些信息有一个议题——引诱我们打开我们的钱包。"
+        }
+      ]
+    },
+    {
+      "spelling": "schedule",
+      "ipa": "/ˈskedʒuːl/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "时间表"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "给……制定时间表，给……安排时间"
+        }
+      ],
+      "mnemonic": "s+schedule（联想“车堵了”的拼音）→S 形的路容易让车堵了，导致时间表（schedule）有变。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词可以作动词，表示“给……制定时间表、给……安排时间”。 【2016 年英语（二）】 Scheduling regular times for reading helps achieve immersive reading. 安排固定的阅读时间有助于实现沉浸式阅读。"
+        }
+      ]
+    },
+    {
+      "spelling": "issue",
+      "ipa": "/ˈɪʃuː/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "问题，议题"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "宣布，公布，发布"
+        }
+      ],
+      "mnemonic": "在会议上，主持人宣布（issue）将“交通拥堵”这一问题（issue）列为核心议题（issue），并正式发布（issue）了相关的调研方案。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词不仅可以表示“议题”，还可以表示“问题”，相当于 problem。 【2024 年英语（一）】 a means of resolving issues 一个解决问题的方法"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词作动词，表示“公布、发布、宣布”，通常考查法院发布一项法律、命令或宣布一项判决。 【2010 年英语（一）】 The Federal Circuit issued an unusual order. 联邦巡回法庭发布了一项不同寻常的命令。 【2024 年英语（一）】 The U.S. Supreme Court issued a ruling in an Idaho case. 美国最高法院针对一个爱达荷州的案件宣布了一项判决。"
+        }
+      ]
+    },
+    {
+      "spelling": "agent",
+      "ipa": "/ˈeɪdʒənt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "代理；联邦官员；特工；动因"
+        }
+      ],
+      "mnemonic": "ag- = act（做）+ -ent（人）→ 替你做事的人 → 替普通人做事，叫作“代理”；替政府做事，叫作“联邦官员、特工”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "agency. n. 代理机构；政府机构 【2013 年英语（二）、2023 年英语（一）】 literary agent 著作代理人 【2019 年英语（二）、2023 年英语（一）】 real estate agent 不动产中介"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词可以表示“动因”，来自 ag-=act 表示“活动”。 【2002 年】 Since much of the variation is due to genes, one more agent of evolution has gone. 由于大部分的变异是由基因造成的，所以又有一个进化的动因消失了。"
+        }
+      ]
+    },
+    {
+      "spelling": "project",
+      "ipa": "/ˈpraːdʒekt/ /prəˈdʒekt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "工程，项目"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "投射；发出；展示，展现；投影，放映"
+        }
+      ],
+      "mnemonic": "pro-（前）+ ject-（扔）→ 向前扔出 → 投射发出。 1. 把一个事物向前扔出，让大家看到 → 展示、展现; 2. 把光学影像向前扔到屏幕上 → 投影、放映； 3. 工程、项目的含义来自“投标、竞标”，即向前扔出自己公司的优势。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "projection n. 投影；展示，展现 【2015 年英语（一）】 Colonial America was a projection of Europe. 殖民时期的美国是欧洲的投影。"
+        }
+      ]
+    },
+    {
+      "spelling": "entertainment",
+      "ipa": "/ˌentərˈteɪnmənt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "招待，款待；娱乐，取悦"
+        }
+      ],
+      "mnemonic": "enter（进入）+ tain-（保持、保留）+-ment→将进来的客户留住→款待、招待，引申为娱乐、取悦（entertainment）。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "entertain vt. 款待，招待；取悦，使快乐 entertaining adj. 娱乐性的；有趣的 【2011 年英语（一）】 News about pregnant celebrities is entertaining. 关于怀孕的名人的新闻很有趣。"
+        }
+      ]
+    },
+    {
+      "spelling": "amuse",
+      "ipa": "/əˈmjuːz/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "取悦，使快乐"
+        }
+      ],
+      "mnemonic": "自古希腊神话的 Muse（缪斯）女神，她们是掌管艺术的神，众神在宴会的时候，这些缪斯要出来吹拉弹唱取悦众神，所以有了“娱乐”的含义。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "amusement n. 娱乐 Her impersonations provided great amusement for us. 她的模仿表演给我们带来了很多欢乐。"
+        }
+      ]
+    },
+    {
+      "spelling": "recreation",
+      "ipa": "/ˌrekriˈeɪfn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "娱乐"
+        }
+      ],
+      "mnemonic": "re-（反复）+ cre-（create 创新）+-ation（名词后缀）→娱乐需要反复创新（recreation）。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "recreate vt. 重现，再现；参加娱乐 recreate 可以表示“重现、再现”，即再次创造出来，并不常考，但翻译题考过，需要注意。 【1999 年】"
+        }
+      ]
+    },
+    {
+      "spelling": "rest",
+      "ipa": "/rest/",
+      "senses": [
+        {
+          "pos": "v./n.",
+          "meaning_cn": "休息"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "剩余部分"
+        },
+        {
+          "pos": "vi.",
+          "meaning_cn": "依赖，依靠"
+        }
+      ],
+      "mnemonic": "他决定先休息（rest），再处理剩余部分（rest），毕竟完成任务不能只依靠（rest）着急忙慌。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "rest 可以表示剩余部分，常考 the rest of sth., 表示某事物的剩余部分。 【2016 年英语（二）】 These kids are going to be surrounded by computers for the rest of their lives. 这些孩子往后余生都会被计算机所围绕。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "rest on = rely on = count on 依赖，依靠 【2017 年英语（一）】 Good governance rests on an understanding of the inherent worth of each individual. 良好的管理建立在对每个人内在价值的理解之上。"
+        }
+      ]
+    },
+    {
+      "spelling": "relax",
+      "ipa": "/rɪˈlæks/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "（使）放松"
+        }
+      ],
+      "mnemonic": "re-（反复）+lax- = leas-（松）→ 反复松 → 松开、使放松。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "relaxation n. 放松 【2015 年英语（二）】 Most previous surveys found that home offered greater relaxation than the workplace. 大部分之前的调查表明，相比工作场所，家提供了更大的放松。"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L8-01",
+      "kind": "single",
+      "stem": "The corporation bought Vermont's only nuclear power____.",
+      "options": [
+        "farm",
+        "plant",
+        "air",
+        "cure"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "plant",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L8-02",
+      "kind": "single",
+      "stem": "As much of Mexico City shut down at the height of a panic, cases began to ____ in New York City, the southwestern United States and around the world.",
+      "options": [
+        "stay up",
+        "crop up",
+        "fill up",
+        "cover up"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "crop",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L8-03",
+      "kind": "single",
+      "stem": "Negative attitudes toward obesity, ____ in health concerns, have stimulated a number of anti-obesity policies.",
+      "options": [
+        "amused",
+        "planted",
+        "rested",
+        "grounded"
+      ],
+      "answer": 3,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "ground",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L8-04",
+      "kind": "single",
+      "stem": "That ruling produced an explosion in business-method patent filings, initially by emerging Internet companies trying to stake out exclusive rights to specific types of online____.",
+      "options": [
+        "transactions",
+        "grounds",
+        "entertainments",
+        "schedules"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "transaction",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L8-05",
+      "kind": "single",
+      "stem": "I stopped weighing myself every day and switched to a bimonthly weighing____ instead.",
+      "options": [
+        "agent",
+        "issue",
+        "schedule",
+        "project"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "schedule",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L8-06",
+      "kind": "single",
+      "stem": "Good governance ____ on an understanding of the inherent worth of each individual.",
+      "options": [
+        "rests",
+        "grounds",
+        "entertains",
+        "cures"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "rest",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L8-07",
+      "kind": "single",
+      "stem": "After weeks of intense exam preparation, she finally had a chance to ____ and enjoy a quiet evening with her friends.",
+      "options": [
+        "retire",
+        "recede",
+        "require",
+        "relax"
+      ],
+      "answer": 3,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "relax",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L8-08",
+      "kind": "fill",
+      "stem": "Social media permits users to re-share news as a ____ (project) of their values and interests.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "projection"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "project",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L8-09",
+      "kind": "fill",
+      "stem": "American ____ (farm) have been complaining of labor shortages for several years.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "farmers"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "farm",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L8-10",
+      "kind": "fill",
+      "stem": "Applications have the potential to add stickiness by ____(amuse), entertaining and enlightening others.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "amusing"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "amuse",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L8-11",
+      "kind": "fill",
+      "stem": "For example, neighborhoods with a large elderly ____ (population) or informal dwellings that cope poorly with heat could get special warnings or be bolstered with cooling centers.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "population"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "population",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L8-12",
+      "kind": "fill",
+      "stem": "Professional____(science) are expected to know how to analyse data, but statistical errors are alarmingly common in published research.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "scientists"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "science",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L8-13",
+      "kind": "fill",
+      "stem": "【2018 年英语（一）】Court, school, organizations of amateurs, and the traveling actors were all rivals in supplying a widespread desire for dramatic ____ (entertainment).",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "entertainment"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "entertainment",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L8-14",
+      "kind": "fill",
+      "stem": "【2019 年英语 (二)】State governments are well accustomed to managing forests, but traditionally they've focused on wildlife, watersheds and opportunities for ____(recreate).",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "recreation"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "recreation",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L8-15",
+      "kind": "translate_sentence",
+      "stem": "The new ultra-low emission zone (Ulez) is likely to be a big issue in next year's election.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "issue",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L8-16",
+      "kind": "translate_sentence",
+      "stem": "The astronomy community is making compromises to change its use of Mauna Kea.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "astronomy",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L8-17",
+      "kind": "translate_sentence",
+      "stem": "She walked into the room with an air of confidence, as if she had already known the result of the competition.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "air",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L8-18",
+      "kind": "translate_sentence",
+      "stem": "One oft-debated cure for this labor shortage remains as implausible as it's been all along: Native U.S. workers won't be returning to the farm.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "cure",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L8-19",
+      "kind": "translate_sentence",
+      "stem": "But on the more important matter of the Constitution, the decision was an 8-0 defeat for the Administration's effort to upset the balance of power between the federal government and the states.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "administration",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L8-20",
+      "kind": "translate_sentence",
+      "stem": "First, most people do not realise that there are strong commercial agendas at work to keep them in passive consumption mode.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "agenda",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L8-21",
+      "kind": "translate_sentence",
+      "stem": "Many of the aspects of homebuying aren't a consideration for children, said Tracey Hampson, a real estate agent based in Santa Clarita, Calif.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "agent",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

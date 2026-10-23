@@ -1,0 +1,1073 @@
+{
+  "list_no": 2,
+  "title": "感知与组成",
+  "association": {
+    "outline": "情节发展：困境萌生→心境转变→认知升华→成长蜕变",
+    "scenes": [
+      {
+        "title": "困境萌生",
+        "story": "sensitive（敏感的）莉莉的想法被 perceive（察觉）有误时，总会 upset（心烦）。她感到 alone（孤独）而又 desperate（绝望），觉得处境很 absurd（荒谬）。"
+      },
+      {
+        "title": "心境转变",
+        "story": "朋友们的 sympathy（同情）让她 aspire（渴望）变得 optimistic（乐观）。带着 curiosity（好奇），她 wonder（想知道）sentiment（情绪）的 concept（概念）。"
+      },
+      {
+        "title": "认知升华",
+        "story": "原来，正是情境中的情绪 compose（组成）了情感，而 sensible（理智的）头脑如“调节器”。她让行动与成长愿望 accord（相符），发现心脑和谐让挑战不再沉重。"
+      },
+      {
+        "title": "成长蜕变",
+        "story": "将敏感视为礼物 consist（组成）其新人生哲学；用理性调和情绪是核心。这些转变共同 constitute（构成）指引她用温柔坚韧来驾驭复杂生活的蓝图。"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "sentiment",
+      "ipa": "/ˈsentɪmənt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "情感；情绪"
+        }
+      ],
+      "mnemonic": "sensi-（看作 sense 感觉）+ -ment（表示具体物）→对某物的感觉→意见，观点。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "sentimental adj. 情感的；多愁善感的"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "常见搭配",
+          "body": "public sentiment 公众舆论 market sentiment 市场情绪 prevailing sentiment 主流情绪，普遍情绪"
+        }
+      ]
+    },
+    {
+      "spelling": "sensitive",
+      "ipa": "/ˈsensətɪv/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "敏感的；敏锐的；灵敏的"
+        }
+      ],
+      "mnemonic": "他很敏感（sensitive），与人交谈前会（三思体悟），sensitive 谐音三思体悟。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "sensitivity n. 敏感性，灵敏度 insensitive adj. 不敏感的；不敏锐的；不灵敏的"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "sensitive 既可表示某人很敏感，也可表示某事物很敏感，后者常用 be sensitive to sth. He is highly sensitive to criticism. 他对批评非常敏感。"
+        }
+      ]
+    },
+    {
+      "spelling": "upset",
+      "ipa": "/ˌʌpˈset/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "沮丧的"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "使沮丧，使烦恼; 推翻，弄翻"
+        }
+      ],
+      "mnemonic": "负面情绪不停地往上面（up）堆放（set），越堆越多，更心烦（upset）了。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "作动词，表示使某人沮丧。 His criticism upset her. 他的批评令她很伤心。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "形容词形式，可表示身体的不适，不舒服。 upset stomach 不适的肠胃 The patient's upset stomach made him feel emotionally upset about the upcoming surgery. 病人不适的肠胃让他对即将到来的手术感到情绪低落。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "熟词僻义 upset v. 推翻，弄翻，颠覆 She was so upset that she accidentally upset (v. 弄翻) the cup of coffee on the table. 她非常沮丧，以至于不小心打翻了桌上的咖啡杯。"
+        }
+      ]
+    },
+    {
+      "spelling": "desperate",
+      "ipa": "/ˈdespərət/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "绝望的；孤注一掷的，不顾一切的；极度渴望的"
+        }
+      ],
+      "mnemonic": "（desper）谐音“待撕破”，待到撕破脸皮的时候就是不顾一切的，绝望的（desperate）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "desperation n. 绝望"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "be desperate for sth. 急需 / 渴望某物 be desperate to do sth. 迫切想 / 渴望做某事"
+        }
+      ]
+    },
+    {
+      "spelling": "sympathy",
+      "ipa": "/ˈsɪmpəθi/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "同情；同感"
+        }
+      ],
+      "mnemonic": "sym 发音似 same（相同的），path（路），沦落在同一条路上的人互相同情（sympathy）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "sympathetic adj. 同情的；赞同的 sympathize v. 同情，体谅; 赞同，支持 compassion n. 同情"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "show/have sympathy for 对……表示同情 We should show sympathy for her loss. 我们应当对她的损失表示同情。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "show/have sympathy with 对……深有同感，赞同 I have sympathy with this point of view. 我赞同这个观点。"
+        },
+        {
+          "marker": "④",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "sympathize with sb./sth. 同情某人 / 赞同某观点"
+        }
+      ]
+    },
+    {
+      "spelling": "aspire",
+      "ipa": "/əˈspaɪər/",
+      "senses": [
+        {
+          "pos": "vi.",
+          "meaning_cn": "渴望"
+        }
+      ],
+      "mnemonic": "a-（表不能）spir-（表呼吸）了，不能呼吸了就 aspire（渴望）呼吸。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "aspire to/after sth. 追求某物 aspire after truth 追求真理"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "aspire to do sth. 渴望做某事 He aspired to study abroad. 他渴望出国留学。"
+        },
+        {
+          "marker": "③",
+          "kind": "辨析",
+          "label_raw": "",
+          "body": "形近词区分 inspire vt. 启发，赋予灵感; 激发，引发"
+        },
+        {
+          "marker": "④",
+          "kind": "辨析",
+          "label_raw": "近义词区分",
+          "body": "aspire 偏向崇高追求，desire 偏向普通欲望。"
+        }
+      ]
+    },
+    {
+      "spelling": "curiosity",
+      "ipa": "/ˌkjʊriˈɑːsəti/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "好奇心"
+        }
+      ],
+      "mnemonic": "谐音克优瑞奥赛题，克优瑞对奥赛题特别好奇（curiosity）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "curious adj. 好奇的；令人好奇的，不寻常的，奇怪的"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "be curious about 对……很好奇"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "curious 可表示不寻常的，奇怪的 Curious scientists study curious phenomena. 好奇的科学家们研究不同寻常的现象。"
+        }
+      ]
+    },
+    {
+      "spelling": "wonder",
+      "ipa": "/ˈwʌndər/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "想知道，想弄明白；感到惊讶"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "惊讶；奇迹；奇事"
+        }
+      ],
+      "mnemonic": "wonder 谐音（弯的），我想知道（wonder） 很多自然奇迹（wonder）为什么是弯的。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "常考 wonder 作名词，表示奇迹、奇事。 the wonders of the natural world 自然世界的奇迹"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "do wonders for 为……创造奇迹，对……产生神奇作用 wonder about 对……感到好奇 it's a wonder (that) 奇怪的是…… (it's) no wonder (that) 难怪……"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "wonder 接 if/whether 引导宾语从句，表示委婉请求或不确定。 I wonder if you could help me. 我想知道你能否帮我。"
+        }
+      ]
+    },
+    {
+      "spelling": "alone",
+      "ipa": "/əˈləʊn/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "独自；孤独；单独；只有"
+        },
+        {
+          "pos": "adv.",
+          "meaning_cn": "独自；只有；仅仅；孤独地"
+        }
+      ],
+      "mnemonic": "al-（all）+ one（一个）→总共只有一个人→独自、孤独。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "最常考",
+          "body": "alone 用于名词或代词后以加强语气，通常翻译成“仅仅”或“只有”。 Time alone will tell. 只有时间能证明。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "let alone 更不用说 Too shy to speak publicly, let alone perform on stage, she therefore often feels lonely. 羞于公开讲话，更别说登台表演，她因此常感孤独。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "alone 表示“孤独的”时，与 lonely 的区别： alone 不能放在名词前，强调主观层面的失落感，而 lonely 可以放在名词前，描述客观状态的独自状态。 A lonely road, but I walk alone. 一条孤独的路，而我独自前行。"
+        }
+      ]
+    },
+    {
+      "spelling": "absurd",
+      "ipa": "/əbˈsɜːrd/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "荒谬的"
+        }
+      ],
+      "mnemonic": "ab-（谐音俺不）surd（形似 sure，确定），俺不确定，因为这事太荒谬（absurd）了。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "辨析",
+          "label_raw": "近义词辨析",
+          "body": "absurd & ridiculous - absurd 适用场景偏向观点、理论、主张； - ridiculous 偏向于行为、表象、浅层判断，且含贬义。"
+        }
+      ]
+    },
+    {
+      "spelling": "sensible",
+      "ipa": "/ˈsensəbl/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "合理的，明智的"
+        }
+      ],
+      "mnemonic": "谐音三思啵，凡事三思是明智的（sensible）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "辨析",
+          "label_raw": "",
+          "body": "与 sensitive 进行辨析 sensible (-ible = 能力)→“有感知能力的”→引申为“明智的”; sensitive (-ive = 状态)→“处于易感状态的”→引申为“敏感的”。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "名词形式的 sense 可以表示“道理”，考研常考。 make sense 有道理，合理，明智 nonsense n. 胡说八道 common sense 常识"
+        }
+      ]
+    },
+    {
+      "spelling": "optimistic",
+      "ipa": "/ˌɒptɪˈmɪstɪk/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "乐观的"
+        }
+      ],
+      "mnemonic": "opti-谐音“俺不提”，mistic-发音类似 mistake（错误），俺不提错误，俺很乐观 (optimistic)。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "optimism n. 乐观；乐天派"
+        },
+        {
+          "marker": "②",
+          "kind": "辨析",
+          "label_raw": "反义词",
+          "body": "pessimistic adj. 悲观的（pess- 联想为 pass 通过考试 → 通过考试却看到一堆错误 → 悲观） The optimistic see the glass half full, while the pessimistic see it half empty. 乐观者看到杯子半满，悲观者看到杯子半空。"
+        }
+      ]
+    },
+    {
+      "spelling": "wrong",
+      "ipa": "/rɔːŋ/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "错的"
+        },
+        {
+          "pos": "adv.",
+          "meaning_cn": "错误地，不正确地"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "不公正地对待"
+        }
+      ],
+      "mnemonic": "谐音:“嚷”→做错事被人嚷→错误的。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词常考 wrong 作动词，且通常都是被动态，be wronged 表示被不公正地对待。 Farmers are wronged by unfair pricing, yet policy protection remains weak. 农民因价格不公平而受到伤害，但政策保护仍然薄弱。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "名词派生词",
+          "body": "wrongdoing 表面义：wrong (错误) + doing (行为) → “错误行为”真题深层义：“不法行为 / 舞弊” (尤指违反法律或道德的行为)。 Corporations must be held accountable for their wrong doings. 公司必须对其不当行为负责。"
+        }
+      ]
+    },
+    {
+      "spelling": "concept",
+      "ipa": "/ˈkɑːnsept/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "概念；思想，观念"
+        }
+      ],
+      "mnemonic": "con-（共同，一起），cept-（拿，取），可以理解为把一些相关的想法或观念“拿到一起”，形成一个“概念”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "conception n. 构想；怀孕 conceptual adj. 概念的，观念的"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "常考衍生形式",
+          "body": "misconception n. 误解"
+        },
+        {
+          "marker": "③",
+          "kind": "搭配",
+          "label_raw": "固定搭配",
+          "body": "core concept 核心概念 / 核心理念"
+        },
+        {
+          "marker": "④",
+          "kind": "辨析",
+          "label_raw": "",
+          "body": "阅读中可能涉及的近义词替换： notion, idea, theory, perspective"
+        }
+      ]
+    },
+    {
+      "spelling": "perceive",
+      "ipa": "/pərˈsiːv/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "感知到，感觉到，感受到，注意到"
+        }
+      ],
+      "mnemonic": "per-（每一个都）+ ceive-（抓、拿）→ 每个特征都抓住 → 形成感知。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "perception n. 感知；感觉；感受 perceptive adj. 敏锐的"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "perceive A as B 将 A 视为 B"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "be perceived to be... 被认为…… The policy is perceived to be unfair. 这项政策被认为是不公平的。"
+        },
+        {
+          "marker": "④",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "perceive that + 从句 意识到 / 认为…… Scientists perceive that climate change is accelerating. 科学家们认为气候变化正在加速。"
+        }
+      ]
+    },
+    {
+      "spelling": "accord",
+      "ipa": "/əˈkɔːrd/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "协议；协定；一致；和谐"
+        },
+        {
+          "pos": "v.",
+          "meaning_cn": "一致；给予；相符；协调"
+        }
+      ],
+      "mnemonic": "ac- = ad-（强调）+ cord- = core（心、核心）→与核心保持一致。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "accordingly adv. 相应地；因此 accordance n. 一致，符合; 按照，依据; 授予"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "according to prep. 根据……, 依照……"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "accord with 与……一致"
+        },
+        {
+          "marker": "④",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "in accordance with 按照；与……一致"
+        }
+      ]
+    },
+    {
+      "spelling": "compose",
+      "ipa": "/kəmˈpəʊz/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "组合，混合，组成; 作文; 作曲"
+        }
+      ],
+      "mnemonic": "com-（all together）+ pos-（= put 放）→ 放到一起 → 组合、混合、组成。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "composite adj. 组合成的，混合成的 composition n. 组成，构成; 组合物，混合物; 作文; 作曲 component n. 组成成分"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "compose 可以表示作文（把一堆文字放到一起）或作曲（把一堆音符放到一起）。"
+        },
+        {
+          "marker": "③",
+          "kind": "搭配",
+          "label_raw": "",
+          "body": "常用短语辨析； be composed of(组成，构成) = consist of (由……组成) 整体 + be composed of + 组成部分"
+        },
+        {
+          "marker": "④",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "composed 作形容词，除了表示“组成的”，还可以表示“镇定的、镇静的”，只在 2020 年英语（二）考过一次。"
+        }
+      ]
+    },
+    {
+      "spelling": "constitute",
+      "ipa": "/ˈkɑːnstɪtuːt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "组成，构成"
+        }
+      ],
+      "mnemonic": "con-（all together）+st-（站）+itute→站到一起→组合、混合、组成。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "constitution n. 构成，组成; 宪法 constituent n. 组成成分；选民"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "constitution 最常考“宪法”的含义，constitutional 表示宪法的、合宪的，unconstitutional 表示违宪的。 The California measure may go against the Constitution. 加州方法可能违宪。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "constituent 除了“组成成分”之外，还可以表示“选民”。"
+        }
+      ]
+    },
+    {
+      "spelling": "consist",
+      "ipa": "/kənˈsɪst/",
+      "senses": [
+        {
+          "pos": "vi.",
+          "meaning_cn": "由……组成；存在于……中"
+        }
+      ],
+      "mnemonic": "好妹妹，只要你 con-（谐音肯）和我站在一起（sist-），我们一定能组成（consist）最强姐妹团。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "搭配",
+          "label_raw": "",
+          "body": "consist of 由……组成 此搭配强调整体构成，整体 + consist of + 组成部分，永远没有被动语态。 The committee consists of ten experts. 委员会由十位专家组成。"
+        },
+        {
+          "marker": "②",
+          "kind": "搭配",
+          "label_raw": "",
+          "body": "consist in 存在于……中 此搭配强调本质或核心，抽象概念 + consist in + 核心要素 True happiness consists in contentment. 真正的幸福在于知足。"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "consist with 与……一致 / 符合 事物 A+ consist with + 事物 B The results must consist with the experimental data. 结果需与实验数据一致。"
+        },
+        {
+          "marker": "④",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "consistency n. 一致性，连贯性 consistent adj. 一致的，连贯的; 稳定的，始终如一的 inconsistent adj. 不一致的，矛盾的；反复无常的，不稳定的 consistently adv. 一致地，连贯地；稳定地，始终如一地"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L2-01",
+      "kind": "single",
+      "stem": "Sarah is very ____ about her weight. She gets easily upset if anyone comments on it.",
+      "options": [
+        "sensible",
+        "sentimental",
+        "sensitive",
+        "curious"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "sensitive",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-02",
+      "kind": "single",
+      "stem": "They gave justices permanent positions so they would be free to ____ those in power and have no need to cultivate political support.",
+      "options": [
+        "excite",
+        "upset",
+        "concern",
+        "reflect"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "upset",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-03",
+      "kind": "single",
+      "stem": "Facing eviction and with no family to turn to, Maria felt ____. She began selling her few belongings just to buy food.",
+      "options": [
+        "desperate",
+        "worried",
+        "determined",
+        "separate"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "desperate",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-04",
+      "kind": "single",
+      "stem": "People expressed deep sympathy ____ the victims of the natural disaster.",
+      "options": [
+        "for",
+        "with",
+        "to",
+        "about"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "sympathy",
+          "bind": "介词"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-05",
+      "kind": "single",
+      "stem": "She always ____ to become a renowned scientist, being dedicated to exploring the mysteries of the universe.",
+      "options": [
+        "desires",
+        "aspires",
+        "inspires",
+        "requires"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "aspire",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-06",
+      "kind": "single",
+      "stem": "The children ____ the mysterious package left on the doorstep and were eager to know what was inside.",
+      "options": [
+        "were curious about",
+        "aroused curiosity",
+        "satisfied curiosity",
+        "curious with"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "curiosity",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-07",
+      "kind": "single",
+      "stem": "Be ____ but realistic, and you will stand out.",
+      "options": [
+        "adorable",
+        "contented",
+        "pessimistic",
+        "optimistic"
+      ],
+      "answer": 3,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "optimistic",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-08",
+      "kind": "single",
+      "stem": "The proposal to build a bridge out of tissue paper was immediately labeled ____ due to its complete disregard for basic physics.",
+      "options": [
+        "abstract",
+        "absolute",
+        "absurd",
+        "ridiculous"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "absurd",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-09",
+      "kind": "single",
+      "stem": "____ one classical theory of emotion, our feelings are partially rooted in physical reactions.",
+      "options": [
+        "According to",
+        "As long as",
+        "So far",
+        "As for"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "accord",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-10",
+      "kind": "single",
+      "stem": "The ____ that humans use only 10% of their brains is false; the actual ____ is far more complex.",
+      "options": [
+        "misconception",
+        "context",
+        "concept",
+        "expect"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "concept",
+          "bind": "词义"
+        },
+        {
+          "n": 2,
+          "word": "concept",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-11",
+      "kind": "fill",
+      "stem": "The decision to stop weighing myself every day has ____ wonders for my overall health, fitness and well-being.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "done"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "wonder",
+          "bind": "搭配"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-12",
+      "kind": "fill",
+      "stem": "There's actually research that shows that advice-seekers are ____ (perceive) as more competent, not less.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "perceived"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "perceive",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-13",
+      "kind": "fill",
+      "stem": "It was a musician who discovered the planet Uranus in the 18th century by making his own telescope with mirrors ____ (compose) of copper and tin.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "composed"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "compose",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-14",
+      "kind": "fill",
+      "stem": "____ (constitute) law is political because it results from choices rooted in fundamental social concepts like liberty and property.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "constitutional"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "constitute",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-15",
+      "kind": "fill",
+      "stem": "True leadership consists ____ inspiring others through actions, not words.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "in"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "consist",
+          "bind": "介词"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-16",
+      "kind": "fill",
+      "stem": "All employees must act in ____ (accord) with company policy.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "accordance"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "accord",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-17",
+      "kind": "fill",
+      "stem": "For the experiment to be valid, the methodology must remain ____ (consist) throughout all trials.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "consistent"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "consist",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-18",
+      "kind": "translate_sentence",
+      "stem": "We may be able to sustain the illusion of control through the conscious mind alone.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "perceive",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-19",
+      "kind": "translate_sentence",
+      "stem": "The proposal might be regarded by some as a sensible compromise.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "sensible",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-20",
+      "kind": "translate_sentence",
+      "stem": "Young people perceive social media as a double-edged sword.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "perceive",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-21",
+      "kind": "translate_sentence",
+      "stem": "The meaning of a text depends on its context; ignoring this can cause a contest of opinions.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "concept",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-22",
+      "kind": "translate_word",
+      "stem": "Any guaranteed bonus of top executives could be delayed 10 years if their banks are under investigation for 【wrongdoing】.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "wrong",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L2-23",
+      "kind": "translate_word",
+      "stem": "In sociological studies,[public sentiment] towards new technologies often significantly shapes policy decisions.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "sentiment",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

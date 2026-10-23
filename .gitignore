@@ -1,0 +1,33 @@
+.taste-skill/
+
+# Local runtime data: the app writes its SQLite database beside the executable.
+data/
+*.db
+*.db-wal
+*.db-shm
+*.corrupt-*
+
+# Local credentials and signing material. Never publish these.
+.env
+.env.*
+*.pem
+*.key
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.mobileprovision
+
+# OS and editor clutter
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Internal process docs: kept locally, never published.
+.scratch/
+AGENTS.md
+docs/
+
+# Dependency directories (any depth)
+node_modules/

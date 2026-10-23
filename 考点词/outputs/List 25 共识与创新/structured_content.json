@@ -1,0 +1,3709 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.053,
+            0.03,
+            0.118,
+            0.061
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.132,
+            0.039,
+            0.375,
+            0.055
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.405,
+            0.039,
+            0.505,
+            0.055
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.363,
+            0.086,
+            0.404,
+            0.116
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_3.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.411,
+            0.091,
+            0.623,
+            0.11
+          ],
+          "level": 2,
+          "content": "List 25 共识与创新"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.098,
+            0.139,
+            0.237,
+            0.159
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.165,
+            0.506,
+            0.182
+          ],
+          "content": "情节发展：出现分歧→破局立约→创新燎原→共识筑新"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.108,
+            0.201,
+            0.179,
+            0.216
+          ],
+          "level": 2,
+          "content": "出现分歧"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.22,
+            0.687,
+            0.275
+          ],
+          "content": "关于新型清洁能源 novel（新颖的）提案，与会者起初无法达成 consensus（共识）。发起方希望能够 create（创造）变革，但部分专家表示不能达成 consent（同意）的共识。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.108,
+            0.302,
+            0.179,
+            0.317
+          ],
+          "level": 2,
+          "content": "破局立约"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.32,
+            0.686,
+            0.357
+          ],
+          "content": "经过辩论，双方作出 compromise（妥协）:支持者 admit（承认）技术风险，反对者 permit（允许）小范围试验。这一 concession（让步）使合作成为可能。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.108,
+            0.392,
+            0.179,
+            0.407
+          ],
+          "level": 2,
+          "content": "创新燎原"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.411,
+            0.685,
+            0.447
+          ],
+          "content": "试验中，一项关键 innovation（创新）emerge（涌现），其高效能引发关注。消息广泛传播，迅速成为行业 epidemic（流行的）fashion（风尚）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.108,
+            0.482,
+            0.179,
+            0.498
+          ],
+          "level": 2,
+          "content": "共识筑新"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.502,
+            0.686,
+            0.538
+          ],
+          "content": "最终，该技术在全球推广，证明 consensus（共识）与 compromise（妥协）能推动 novel（新颖的）innovation（创新）从理念发展为改变世界的浪潮。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.699,
+            0.194,
+            0.904,
+            0.553
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_15.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.098,
+            0.582,
+            0.236,
+            0.602
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.108,
+            0.631,
+            0.332,
+            0.647
+          ],
+          "content": "compromise /'kɑːmprəmaɪz/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.108,
+            0.65,
+            0.243,
+            0.665
+          ],
+          "content": "vt. 使妥协 n. 妥协"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.672,
+            0.478,
+            0.708
+          ],
+          "content": "妙记：com-（all）+ promise（承诺）→ 共同给出承诺 → 互相作出妥协。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.098,
+            0.718,
+            0.192,
+            0.739
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.745,
+            0.293,
+            0.76
+          ],
+          "content": "①考查作动词时的基本义："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.763,
+            0.246,
+            0.779
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.783,
+            0.479,
+            0.816
+          ],
+          "content": "The independence of standard-setters is being compromised."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.819,
+            0.344,
+            0.834
+          ],
+          "content": "政策制定者的独立性正在被妥协。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.837,
+            0.477,
+            0.871
+          ],
+          "content": "② “妥协”作名词时，通常当作可数名词使用，且通常用复数形式。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.874,
+            0.246,
+            0.89
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.894,
+            0.451,
+            0.909
+          ],
+          "content": "The astronomy community is making compromises."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.911,
+            0.277,
+            0.927
+          ],
+          "content": "天文学界正在作出妥协。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.631,
+            0.713,
+            0.647
+          ],
+          "content": "concession /kənˈseʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.65,
+            0.639,
+            0.665
+          ],
+          "content": "n. 让步，妥协"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.672,
+            0.907,
+            0.708
+          ],
+          "content": "妙记:con-（all）+ cess-（走）+-ion（名词后缀）→共同走一步→互相作出妥协。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.529,
+            0.718,
+            0.623,
+            0.738
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.745,
+            0.814,
+            0.76
+          ],
+          "content": "固定搭配:make concessions 作出让步"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.764,
+            0.678,
+            0.78
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.528,
+            0.785,
+            0.907,
+            0.819
+          ],
+          "content": "They are inviting pressure to make more concessions.\n他们正面临压力以作出更多让步。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.843,
+            0.724,
+            0.857
+          ],
+          "content": "consensus /kənˈsensəs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.861,
+            0.717,
+            0.876
+          ],
+          "content": "n.（意见等）一致，共识"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.537,
+            0.883,
+            0.907,
+            0.918
+          ],
+          "content": "妙记:con-（all）+ sens-（感觉）+ -us（名词后缀）→一起有一样的感觉→共识。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.067,
+            0.936,
+            0.103,
+            0.95
+          ],
+          "content": "254"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.113,
+            0.935,
+            0.19,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.048,
+            0.029,
+            0.117,
+            0.061
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.131,
+            0.038,
+            0.375,
+            0.055
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.405,
+            0.037,
+            0.505,
+            0.054
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.362,
+            0.085,
+            0.403,
+            0.115
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_3.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.411,
+            0.09,
+            0.623,
+            0.108
+          ],
+          "level": 2,
+          "content": "List 25 共识与创新"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.097,
+            0.138,
+            0.236,
+            0.158
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.096,
+            0.164,
+            0.506,
+            0.181
+          ],
+          "content": "情节发展：出现分歧→破局立约→创新燎原→共识筑新"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.107,
+            0.201,
+            0.177,
+            0.216
+          ],
+          "level": 2,
+          "content": "出现分歧"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.106,
+            0.219,
+            0.686,
+            0.275
+          ],
+          "content": "关于新型清洁能源 novel（新颖的）提案，与会者起初无法达成 consensus（共识）。发起方希望能够 create（创造）变革，但部分专家表示不能达成 consent（同意）的共识。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.107,
+            0.302,
+            0.177,
+            0.317
+          ],
+          "level": 2,
+          "content": "破局立约"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.106,
+            0.32,
+            0.686,
+            0.357
+          ],
+          "content": "经过辩论，双方作出 compromise（妥协）:支持者 admit（承认）技术风险，反对者 permit（允许）小范围试验。这一 concession（让步）使合作成为可能。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.107,
+            0.392,
+            0.177,
+            0.408
+          ],
+          "level": 2,
+          "content": "创新燎原"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.106,
+            0.411,
+            0.686,
+            0.447
+          ],
+          "content": "试验中，一项关键 innovation（创新）emerge（涌现），其高效能引发关注。消息广泛传播，迅速成为行业 epidemic（流行的）fashion（风尚）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.107,
+            0.483,
+            0.177,
+            0.499
+          ],
+          "level": 2,
+          "content": "共识筑新"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.106,
+            0.502,
+            0.686,
+            0.539
+          ],
+          "content": "最终，该技术在全球推广，证明 consensus（共识）与 compromise（妥协）能推动 novel（新颖的）innovation（创新）从理念发展为改变世界的浪潮。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.699,
+            0.193,
+            0.904,
+            0.554
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_15.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.097,
+            0.583,
+            0.236,
+            0.604
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.633,
+            0.331,
+            0.648
+          ],
+          "content": "compromise /'kɑːmprəmaɪz/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.652,
+            0.242,
+            0.667
+          ],
+          "content": "vt. 使妥协 n. 妥协"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.107,
+            0.673,
+            0.478,
+            0.71
+          ],
+          "content": "妙记：com-（all）+ promise（承诺）→ 共同给出承诺 → 互相作出妥协。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.097,
+            0.72,
+            0.192,
+            0.74
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.747,
+            0.293,
+            0.762
+          ],
+          "content": "①考查作动词时的基本义："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.765,
+            0.246,
+            0.781
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.784,
+            0.478,
+            0.817
+          ],
+          "content": "The independence of standard-setters is being compromised."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.82,
+            0.344,
+            0.836
+          ],
+          "content": "政策制定者的独立性正在被妥协。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.839,
+            0.476,
+            0.873
+          ],
+          "content": "② “妥协”作名词时，通常当作可数名词使用，且通常用复数形式。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.876,
+            0.246,
+            0.892
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.895,
+            0.451,
+            0.929
+          ],
+          "content": "The astronomy community is making compromises.\n天文学界正在作出妥协。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.633,
+            0.713,
+            0.648
+          ],
+          "content": "concession /kənˈseʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.652,
+            0.639,
+            0.667
+          ],
+          "content": "n. 让步，妥协"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.674,
+            0.909,
+            0.71
+          ],
+          "content": "妙记:con-（all）+ cess-（走）+-ion（名词后缀）→共同走一步→互相作出妥协。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.719,
+            0.623,
+            0.74
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.747,
+            0.814,
+            0.763
+          ],
+          "content": "固定搭配:make concessions 作出让步"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.766,
+            0.678,
+            0.783
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.787,
+            0.909,
+            0.821
+          ],
+          "content": "They are inviting pressure to make more concessions.\n他们正面临压力以作出更多让步。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.845,
+            0.723,
+            0.859
+          ],
+          "content": "consensus /kənˈsensəs/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.863,
+            0.716,
+            0.879
+          ],
+          "content": "n.（意见等）一致，共识"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.885,
+            0.909,
+            0.921
+          ],
+          "content": "妙记:con-（all）+ sens-（感觉）+ -us（名词后缀）→一起有一样的感觉→共识。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.067,
+            0.938,
+            0.106,
+            0.952
+          ],
+          "content": "254/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.111,
+            0.937,
+            0.138,
+            0.954
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.141,
+            0.938,
+            0.19,
+            0.953
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.848,
+            0.03,
+            0.95,
+            0.066
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.086,
+            0.085,
+            0.18,
+            0.105
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.112,
+            0.429,
+            0.146
+          ],
+          "content": "固定搭配:reach/achieve a consensus 达成共识\n【2020 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.15,
+            0.477,
+            0.241
+          ],
+          "content": "In response to these many unilateral measures, the Organization for Economic Cooperation and Development (OECD) is currently working with 131 countries to reach a consensus by the end of 2020 on an international solution."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.244,
+            0.476,
+            0.299
+          ],
+          "content": "针对这些众多的单边措施，经济合作与发展组织 (OECD) 目前正与 131 个国家合作，争取在 2020 年底就一项国际解决方案达成共识。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.322,
+            0.245,
+            0.356
+          ],
+          "content": "consent /kənˈsent/\nvi./n. 同意，准许"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.364,
+            0.463,
+            0.4
+          ],
+          "content": "妙记:con-（all）+ sent-（感觉）→共同的感觉，即共识→双方达成共识，就是彼此同意。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.409,
+            0.179,
+            0.429
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.437,
+            0.421,
+            0.452
+          ],
+          "content": "① consent 作动词时不及物，必须搭配介词 to"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.457,
+            0.273,
+            0.471
+          ],
+          "content": "consent to sth. 同意某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.476,
+            0.312,
+            0.491
+          ],
+          "content": "consent to do sth. 同意做某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.496,
+            0.474,
+            0.529
+          ],
+          "content": "Patients must consent to surgery before the procedure.\n患者必须在手术前同意接受手术。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.534,
+            0.368,
+            0.548
+          ],
+          "content": "She consented to lead the research team."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.552,
+            0.249,
+            0.567
+          ],
+          "content": "她同意领导研究团队。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.571,
+            0.443,
+            0.586
+          ],
+          "content": "② informed consent 知情同意（医疗 / 法律场景）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.59,
+            0.234,
+            0.606
+          ],
+          "content": "【2018 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.61,
+            0.469,
+            0.644
+          ],
+          "content": "There are lessons about informed patient consent to learn.\n需要汲取关于患者知情同意的经验教训。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.664,
+            0.321,
+            0.698
+          ],
+          "content": "permit /pərˈmɪt/\nv. 准许，允许 n. 执照，许可证"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.705,
+            0.476,
+            0.74
+          ],
+          "content": "妙记:per-（每一个都）+ mit-（扔、投、抛）→ 每个人都给你投票 → 准许。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.75,
+            0.179,
+            0.772
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.778,
+            0.414,
+            0.794
+          ],
+          "content": "① consent 和 permission 经常进行同义替换。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.797,
+            0.257,
+            0.813
+          ],
+          "content": "• 【2024 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.817,
+            0.476,
+            0.87
+          ],
+          "content": "Flo Health and FTC required the company to get app users' express affirmative consent before sharing their health information. Flo Health"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.873,
+            0.474,
+            0.909
+          ],
+          "content": "和联邦贸易委员会（FTC）要求该公司在分享用户健康信息之前，必须获得用户的明确同意。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.086,
+            0.916,
+            0.12
+          ],
+          "content": "\\- Before shari8ng its users' health information, Flo Health is required to obtain their explicit permission."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.123,
+            0.916,
+            0.157
+          ],
+          "content": "\\- 在分享用户健康信息之前，Flo Health 被要求获得他们明确的同意。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.16,
+            0.623,
+            0.174
+          ],
+          "content": "②固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.179,
+            0.806,
+            0.194
+          ],
+          "content": "permit sb. to do sth. 允许某人做某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.197,
+            0.752,
+            0.212
+          ],
+          "content": "permit doing sth. 允许做某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.215,
+            0.623,
+            0.229
+          ],
+          "content": "③考查名词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.234,
+            0.693,
+            0.248
+          ],
+          "content": "permit 许可证，执照"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.253,
+            0.732,
+            0.267
+          ],
+          "content": "a work permit 工作许可证"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.271,
+            0.727,
+            0.285
+          ],
+          "content": "hold a permit 持有许可证"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.289,
+            0.731,
+            0.304
+          ],
+          "content": "without a permit 未经许可"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.308,
+            0.917,
+            0.342
+          ],
+          "content": "④区分 permission（抽象许可；不可数名词）和 permit（具体文件）。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.346,
+            0.908,
+            0.38
+          ],
+          "content": "You need permission from the manager to access the file.\n你需要得到经理的许可才能访问该文件。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.384,
+            0.748,
+            0.398
+          ],
+          "content": "You need a permit to park here."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.401,
+            0.798,
+            0.417
+          ],
+          "content": "你需要一张许可证才能在这里停车。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.437,
+            0.757,
+            0.471
+          ],
+          "content": "admit /ədˈmɪt/\nvt. 准许（加入或进入）；承认"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.534,
+            0.478,
+            0.918,
+            0.513
+          ],
+          "content": "妙记:ad-（一再）+ mit-（扔、投、抛）→一再给你投票→准许，引申为承认。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.523,
+            0.623,
+            0.544
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.55,
+            0.685,
+            0.565
+          ],
+          "content": "①考查基本义：承认"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.569,
+            0.72,
+            0.583
+          ],
+          "content": "admit(that) ... 承认……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.587,
+            0.764,
+            0.602
+          ],
+          "content": "admit doing sth. 承认做过某事"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.605,
+            0.89,
+            0.62
+          ],
+          "content": "admit to + 名词 承认抽象状态 / 情感（考过一次）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.623,
+            0.679,
+            0.639
+          ],
+          "content": "【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.643,
+            0.841,
+            0.658
+          ],
+          "content": "He admits to mixed feelings about the result."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.66,
+            0.746,
+            0.676
+          ],
+          "content": "他承认对这个结果心情复杂。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.679,
+            0.916,
+            0.713
+          ],
+          "content": "②固定搭配:be admitted to 被录取（在某些语境中可能指“获准进入机构 / 组织”）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.717,
+            0.776,
+            0.731
+          ],
+          "content": "Only VIPs are admitted to the club."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.734,
+            0.731,
+            0.75
+          ],
+          "content": "仅 VIP 可进入这家俱乐部。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.753,
+            0.916,
+            0.786
+          ],
+          "content": "③常考 admission 表示“招生”，即准许进入某所大学就读"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.79,
+            0.679,
+            0.805
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.809,
+            0.86,
+            0.824
+          ],
+          "content": "university-admissions process 大学招生程序"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.843,
+            0.796,
+            0.878
+          ],
+          "content": "novel /'na:vl/\nn. 小说 adj. 新的，新奇的，新颖的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.885,
+            0.916,
+            0.919
+          ],
+          "content": "妙记:nov- 来自 new（新），单词本义表示新颖的、新奇的；所谓小说，就是说一些新颖的故事的作品。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.821,
+            0.934,
+            0.9,
+            0.95
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.909,
+            0.935,
+            0.95,
+            0.95
+          ],
+          "content": "/255"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.029,
+            0.032,
+            0.102,
+            0.064
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.114,
+            0.04,
+            0.374,
+            0.058
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.405,
+            0.039,
+            0.511,
+            0.057
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.08,
+            0.088,
+            0.179,
+            0.107
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.113,
+            0.461,
+            0.128
+          ],
+          "content": "①核心考点：考查形容词词性（新奇的；新颖的）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.132,
+            0.234,
+            0.147
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.15,
+            0.48,
+            0.184
+          ],
+          "content": "New, disruptive technology sometimes demands novel applications of the Constitution's protections."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.186,
+            0.48,
+            0.22
+          ],
+          "content": "新的、颠覆性的技术有时确实需要对宪法所规定的保护措施作出新的应用。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.224,
+            0.158,
+            0.239
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.242,
+            0.357,
+            0.257
+          ],
+          "content": "novelty n. 新奇，新颖；新奇的事物"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.261,
+            0.225,
+            0.275
+          ],
+          "content": "novelist n. 小说家"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.28,
+            0.48,
+            0.312
+          ],
+          "content": "The novelist struggled to create a sense of novelty in his latest work."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.316,
+            0.474,
+            0.332
+          ],
+          "content": "这位小说家努力想在他最新的作品中创造一种新奇感。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.351,
+            0.281,
+            0.367
+          ],
+          "content": "innovation /ˌɪnəˈveɪʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.37,
+            0.193,
+            0.386
+          ],
+          "content": "n. 创新，革新"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.393,
+            0.48,
+            0.428
+          ],
+          "content": "妙记：谐音“以脑为生”→以脑为生的人最重要的就是 innovation（创新）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.438,
+            0.179,
+            0.458
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.465,
+            0.223,
+            0.479
+          ],
+          "content": "①常考释义：创新"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.483,
+            0.235,
+            0.498
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.503,
+            0.382,
+            0.517
+          ],
+          "content": "This keeps fees high and innovation slow."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.52,
+            0.406,
+            0.536
+          ],
+          "content": "这一直使得费用居高不下，并且创新缓慢。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.539,
+            0.16,
+            0.553
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.558,
+            0.264,
+            0.572
+          ],
+          "content": "innovate v. 创新，革新"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.576,
+            0.277,
+            0.591
+          ],
+          "content": "innovative adj. 创新性的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.595,
+            0.481,
+            0.684
+          ],
+          "content": "To maintain competitiveness, tech companies must constantly innovate in product design and adopt innovative strategies to meet evolving market demands. 为保持竞争力，科技公司必须在产品设计上持续创新，并采取创新性的策略以满足不断变化的市场需求。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.687,
+            0.234,
+            0.702
+          ],
+          "content": "【2021 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.074,
+            0.706,
+            0.48,
+            0.738
+          ],
+          "content": "High growth rates increased the chances for academic innovation."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.742,
+            0.338,
+            0.758
+          ],
+          "content": "高增长率增加了学术创新的机会。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.781,
+            0.221,
+            0.796
+          ],
+          "content": "fashion /'fæʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.8,
+            0.261,
+            0.815
+          ],
+          "content": "n. 时尚，流行 vt. 制定"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.822,
+            0.479,
+            0.838
+          ],
+          "content": "妙记：发饰（fashi）在你头上（on）很时尚（fashion）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.235,
+            0.841,
+            0.323,
+            0.92
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_31.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.535,
+            0.086,
+            0.635,
+            0.106
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.113,
+            0.818,
+            0.128
+          ],
+          "content": "①常考短语:fashion industry 时尚业"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.132,
+            0.692,
+            0.147
+          ],
+          "content": "【2017 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.152,
+            0.926,
+            0.205
+          ],
+          "content": "Two years before graduating from secondary school, I took a sewing and design course thinking that I would move on to a fashion design course."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.208,
+            0.926,
+            0.243
+          ],
+          "content": "在中学毕业前两年，我参加了一门缝纫与设计课程，当时想着之后要继续学习时装设计课程。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.248,
+            0.926,
+            0.282
+          ],
+          "content": "I knew that no one could imagine me in the fashion industry at all!"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.285,
+            0.913,
+            0.301
+          ],
+          "content": "我就知道，根本没人能想象到我会进入时尚行业！"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.305,
+            0.774,
+            0.32
+          ],
+          "content": "②该单词作动词，表示“制定”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.324,
+            0.691,
+            0.34
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.344,
+            0.926,
+            0.379
+          ],
+          "content": "Arizona had attempted to fashion state policies that ran parallel to the existing federal ones."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.382,
+            0.922,
+            0.397
+          ],
+          "content": "亚利桑那州曾试图制定与现有联邦政策平行的州政策。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.401,
+            0.616,
+            0.417
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.421,
+            0.788,
+            0.436
+          ],
+          "content": "fashionable adj. 流行的，时髦的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.441,
+            0.756,
+            0.456
+          ],
+          "content": "unfashionable adj. 不流行的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.48,
+            0.698,
+            0.495
+          ],
+          "content": "emerge /ɪˈmɜːrdʒ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.544,
+            0.499,
+            0.655,
+            0.513
+          ],
+          "content": "vt. 浮现，出现"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.542,
+            0.52,
+            0.918,
+            0.556
+          ],
+          "content": "妙记：e-(使)+merge(合并)→使两种元素合并，能出现新的元素→emerge(浮现、出现)。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.668,
+            0.561,
+            0.801,
+            0.653
+          ],
+          "sub_type": "natural_image",
+          "content": "Abstract digital artwork featuring a glowing blue and orange flame-like shape against a dark background (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_49.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.657,
+            0.633,
+            0.678
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.685,
+            0.633,
+            0.7
+          ],
+          "content": "①固定搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.705,
+            0.779,
+            0.72
+          ],
+          "content": "emerge from 从……中浮现出来"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.723,
+            0.69,
+            0.739
+          ],
+          "content": "【2019 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.744,
+            0.926,
+            0.777
+          ],
+          "content": "Pairs of opponents hit the ball back and forth until one winner emerges from all who entered."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.78,
+            0.926,
+            0.815
+          ],
+          "content": "各组双方选手来回击球，直到胜者从所有入围选手中浮现出来。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.819,
+            0.75,
+            0.835
+          ],
+          "content": "emerge as 作为……而出现"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.838,
+            0.689,
+            0.853
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.858,
+            0.926,
+            0.89
+          ],
+          "content": "Peer pressure often emerges as a cause of undesirable behaviors."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.894,
+            0.863,
+            0.91
+          ],
+          "content": "朋辈压力经常作为不良行为的原因而出现。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.041,
+            0.936,
+            0.087,
+            0.952
+          ],
+          "content": "256/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.09,
+            0.935,
+            0.12,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.122,
+            0.937,
+            0.174,
+            0.951
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.853,
+            0.01,
+            0.957,
+            0.047
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.066,
+            0.454,
+            0.082
+          ],
+          "content": "②形容词 emerging 表示“新兴的、刚刚出现的”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.086,
+            0.227,
+            0.101
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.106,
+            0.425,
+            0.14
+          ],
+          "content": "38. C. the application of emerging technologies\n新兴技术的应用"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.144,
+            0.403,
+            0.16
+          ],
+          "content": "③ merger 作名词，特指机构或企业的合并。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.164,
+            0.227,
+            0.179
+          ],
+          "content": "【2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.185,
+            0.471,
+            0.219
+          ],
+          "content": "35. D. The merger of publishers is a worrying trend.\n出版商之间的合并是一个令人担忧的趋势。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.223,
+            0.152,
+            0.238
+          ],
+          "content": "④派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.243,
+            0.277,
+            0.258
+          ],
+          "content": "emergence n. 出现；兴起"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.263,
+            0.282,
+            0.278
+          ],
+          "content": "merge v. 浸没；(使) 合并"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.283,
+            0.472,
+            0.318
+          ],
+          "content": "immerse vt. 使浸没；使沉浸于（im- = in- 里面 + mer- 浸没 → 浸没到里面 → 浸没、沉浸）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.322,
+            0.471,
+            0.358
+          ],
+          "content": "submerge v. 沉没，淹没 (sub- 下 + mer- 浸没 → 浸没下去 → 沉没)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.383,
+            0.269,
+            0.399
+          ],
+          "content": "epidemic /ˌepɪˈdemɪk/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.402,
+            0.369,
+            0.418
+          ],
+          "content": "adj. 流行性的 n. 流行，传播; 流行病"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.429,
+            0.471,
+            0.485
+          ],
+          "content": "妙记：epi(谐音“恶癖”)demic(谐音“得密壳”), 流行性的 (epidemic) 恶癖要放在密封壳子里避免传染。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.204,
+            0.491,
+            0.341,
+            0.59
+          ],
+          "sub_type": "natural_image",
+          "content": "Person in full PPE handling a transparent container in a cleanroom facility (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_15.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.075,
+            0.596,
+            0.171,
+            0.617
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.624,
+            0.336,
+            0.639
+          ],
+          "content": "①该单词可以作名词，表示流行病"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.643,
+            0.228,
+            0.659
+          ],
+          "content": "【2010 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.664,
+            0.471,
+            0.698
+          ],
+          "content": "The outbreak of swine flu that was first detected in Mexico was declared a global epidemic on June 11, 2009."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.702,
+            0.471,
+            0.738
+          ],
+          "content": "2009 年 6 月 11 日，首先在墨西哥发现的猪流感的暴发被宣布成为全球流行病。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.741,
+            0.234,
+            0.757
+          ],
+          "content": "②考查基本义：流行"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.761,
+            0.228,
+            0.777
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.782,
+            0.471,
+            0.855
+          ],
+          "content": "For a social epidemic to occur, however, each person so affected must then influence his or her own acquaintances, who must in turn influence theirs, and so on."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.859,
+            0.471,
+            0.916
+          ],
+          "content": "但是，社会流行要想发生，每个受影响的人都必须继而去影响他或她的熟人，这些熟人必须再去影响他们的熟人，如此继续。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.068,
+            0.806,
+            0.083
+          ],
+          "content": "③比喻义/引申义：不良现象的泛滥"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.088,
+            0.922,
+            0.121
+          ],
+          "content": "An epidemic of fake news spread across social media."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.126,
+            0.782,
+            0.142
+          ],
+          "content": "虚假新闻在社交媒体上蔓延成灾。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.167,
+            0.66,
+            0.18
+          ],
+          "content": "create /kri'eɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.185,
+            0.804,
+            0.201
+          ],
+          "content": "vt. 创造；创建；创作；引起，造成"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.208,
+            0.922,
+            0.244
+          ],
+          "content": "妙记:cre（形似 cry）+ ate（吃）→边哭边吃边\ncreate（创作）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.648,
+            0.25,
+            0.801,
+            0.359
+          ],
+          "sub_type": "text_image",
+          "content": "CREATE",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_31.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.526,
+            0.365,
+            0.624,
+            0.387
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.394,
+            0.588,
+            0.409
+          ],
+          "content": "派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.414,
+            0.674,
+            0.429
+          ],
+          "content": "\\- creation n. 创造"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.433,
+            0.68,
+            0.449
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.453,
+            0.925,
+            0.508
+          ],
+          "content": "What counts as meaningful uploading? My definition revolves around the concept of “stickiness” — creations and experiences to which others adhere."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.512,
+            0.925,
+            0.567
+          ],
+          "content": "什么才算是有意义的上传呢？我的定义围绕着“黏性”这一概念展开——即那些能吸引他人关注的创作和体验。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.571,
+            0.911,
+            0.587
+          ],
+          "content": "\\- creative adj. 创造性的，原创性的；有创造力的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.59,
+            0.68,
+            0.607
+          ],
+          "content": "【2021 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.611,
+            0.841,
+            0.627
+          ],
+          "content": "Vocabulary comprehension needs creativity."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.63,
+            0.694,
+            0.646
+          ],
+          "content": "词汇理解需要创造性。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.65,
+            0.837,
+            0.666
+          ],
+          "content": "\\- creativity n. 独创性，原创性; 创造力"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.669,
+            0.68,
+            0.686
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.69,
+            0.925,
+            0.724
+          ],
+          "content": "There is no radical innovation without creative destruction."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.728,
+            0.814,
+            0.745
+          ],
+          "content": "没有创造性破坏，就没有彻底的创新。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.749,
+            0.924,
+            0.784
+          ],
+          "content": "\\- creature n. 生物（来自圣经《创世记》，世间万物都是上帝创造出来的）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.788,
+            0.68,
+            0.804
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.808,
+            0.924,
+            0.863
+          ],
+          "content": "Yet these creatures are members of the biotic community, and if its stability depends on its integrity, they are entitled to continuance."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.866,
+            0.924,
+            0.921
+          ],
+          "content": "然而，这些生物都是生物群落的成员。如果生物群落的稳定性取决于其完整性，那么这些生物就有权利持续生存下去。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.825,
+            0.94,
+            0.907,
+            0.957
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.919,
+            0.941,
+            0.955,
+            0.956
+          ],
+          "content": "/257"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.048,
+            0.038,
+            0.117,
+            0.071
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.13,
+            0.047,
+            0.51,
+            0.065
+          ],
+          "content": "考研英语 高频抢分册"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.095,
+            0.098,
+            0.236,
+            0.119
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.094,
+            0.133,
+            0.192,
+            0.15
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.158,
+            0.912,
+            0.194
+          ],
+          "content": "1. In order to end the prolonged labor dispute, the management finally agreed to \\_\\_\\_\\_ to the workers' demands for higher wages and safer working conditions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.119,
+            0.198,
+            0.264,
+            0.213
+          ],
+          "content": "A. make privileges"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.34,
+            0.198,
+            0.424,
+            0.212
+          ],
+          "content": "B. make it"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.119,
+            0.218,
+            0.275,
+            0.231
+          ],
+          "content": "C. make concessions"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.34,
+            0.218,
+            0.509,
+            0.231
+          ],
+          "content": "D. make commitments"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.242,
+            0.656,
+            0.258
+          ],
+          "content": "2. The school rules don't \\_\\_\\_\\_ students \\_\\_\\_\\_ mobile phones during exams."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.119,
+            0.262,
+            0.247,
+            0.277
+          ],
+          "content": "A. permit; to use"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.34,
+            0.262,
+            0.468,
+            0.277
+          ],
+          "content": "B. permit; using"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.262,
+            0.653,
+            0.276
+          ],
+          "content": "C. allow; use"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.783,
+            0.262,
+            0.884,
+            0.276
+          ],
+          "content": "D. let; using"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.287,
+            0.442,
+            0.303
+          ],
+          "content": "3. He finally \\_\\_\\_\\_ cheating in the competition."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.119,
+            0.306,
+            0.23,
+            0.321
+          ],
+          "content": "A. admitted to"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.34,
+            0.307,
+            0.436,
+            0.321
+          ],
+          "content": "B. admitted"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.307,
+            0.674,
+            0.32
+          ],
+          "content": "C. was admitted"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.783,
+            0.307,
+            0.9,
+            0.32
+          ],
+          "content": "D. admitted for"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.331,
+            0.911,
+            0.366
+          ],
+          "content": "4. While there is some optimism that \\_\\_\\_\\_ countermeasures and best practices may see piracy begin to plateau by 2027, there is no consensus among stakeholders as to when it may begin to decline."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.119,
+            0.371,
+            0.216,
+            0.386
+          ],
+          "content": "A. emerging"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.34,
+            0.372,
+            0.435,
+            0.384
+          ],
+          "content": "B. immerse"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.372,
+            0.633,
+            0.386
+          ],
+          "content": "C. emerge"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.783,
+            0.372,
+            0.892,
+            0.386
+          ],
+          "content": "D. emergence"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.396,
+            0.518,
+            0.411
+          ],
+          "content": "5. The United States emerged \\_\\_\\_\\_ an international power."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.119,
+            0.415,
+            0.165,
+            0.429
+          ],
+          "content": "A. to"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.34,
+            0.416,
+            0.389,
+            0.429
+          ],
+          "content": "B. as"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.416,
+            0.595,
+            0.429
+          ],
+          "content": "C. in"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.783,
+            0.417,
+            0.834,
+            0.429
+          ],
+          "content": "D. at"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.44,
+            0.596,
+            0.456
+          ],
+          "content": "6. Teachers and students are admitted \\_\\_\\_\\_ a community of scholars."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.119,
+            0.46,
+            0.165,
+            0.473
+          ],
+          "content": "A. to"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.34,
+            0.461,
+            0.389,
+            0.473
+          ],
+          "content": "B. as"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.461,
+            0.599,
+            0.474
+          ],
+          "content": "C. of"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.783,
+            0.461,
+            0.834,
+            0.474
+          ],
+          "content": "D. at"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.091,
+            0.485,
+            0.189,
+            0.502
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.092,
+            0.512,
+            0.909,
+            0.617
+          ],
+          "sub_type": "text",
+          "content": "1. Participants must sign a form consenting \\_\\_\\_\\_ the use of their data. (填入介词)\n2. You also quickly learn to adapt and come up with \\_\\_\\_\\_ (create) solutions to the problems the painting presents, and thinking outside the box will become your second nature.\n3. I was really excited to hear that you'd invite some young craftsmen to demonstrate their \\_\\_\\_\\_ (innovate) craft-making on campus."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.092,
+            0.626,
+            0.19,
+            0.644
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.095,
+            0.651,
+            0.164,
+            0.666
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.092,
+            0.675,
+            0.911,
+            0.864
+          ],
+          "sub_type": "text",
+          "content": "1. We neither understand nor respect each other, and we have no basis for compromise or cooperation.\n2. There is no consensus among stakeholders as to when it may begin to decline.\n3. AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, and fashions to provide unique content in marketing messages put out through social media."
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.062,
+            0.949,
+            0.102,
+            0.964
+          ],
+          "content": "258/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.108,
+            0.948,
+            0.187,
+            0.965
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.848,
+            0.029,
+            0.957,
+            0.066
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.086,
+            0.147,
+            0.101
+          ],
+          "content": "单词翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.11,
+            0.414,
+            0.126
+          ],
+          "content": "[ Novelty ] itself frequently provokes disbelief."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.449,
+            0.206,
+            0.548,
+            0.226
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.071,
+            0.248,
+            0.166,
+            0.266
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.28,
+            0.119,
+            0.294
+          ],
+          "level": 2,
+          "content": "1. C."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.071,
+            0.297,
+            0.13,
+            0.313
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.316,
+            0.472,
+            0.499
+          ],
+          "content": "句意：为了结束旷日持久的劳资纠纷，管理层最终同意\\_\\_\\_\\_工人提高工资和改善工作条件的要求。考点：动词短语辨析。解决纠纷时，管理层同意工人的要求，这是一种“让步”。A. make privileges（给予特权）与“demands”（要求）不搭配。B. make it（成功做到，赶到）与句意无关。C. make concessions（作出让步）是固定搭配，符合“同意对方要求以结束争执”的语境。D. make commitments（做出承诺）虽为正面动作，但不如“让步”精准地描述谈判中的妥协行为。故 C. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.515,
+            0.118,
+            0.528
+          ],
+          "level": 2,
+          "content": "2. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.532,
+            0.13,
+            0.548
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.55,
+            0.47,
+            0.584
+          ],
+          "content": "句意：校规不 \\_\\_\\_\\_ 学生 \\_\\_\\_\\_ 在考试期间使用手机。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.587,
+            0.472,
+            0.753
+          ],
+          "content": "考点：本题考查 permit, allow, let 的用法区别。Permit 常用结构为 permit sb. to do sth.。permit doing sth. 的结构虽然存在，但它的意思是“允许做某事”，动作发出者是隐含的、泛指的，而不是“允许某人做某事”。但此题中明确出现了动作的发出者“students”，因此必须用 permit sb. to do sth. 的结构。选项 A. 符合此结构，是正确答案。Allow 常用结构为 allow sb. to do sth., let 常用结构为 let sb. do sth., C. 和 D. 均不正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.768,
+            0.118,
+            0.782
+          ],
+          "level": 2,
+          "content": "3. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.071,
+            0.785,
+            0.129,
+            0.801
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.073,
+            0.804,
+            0.356,
+            0.82
+          ],
+          "content": "句意：他最终\\_\\_\\_\\_在比赛中作弊。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.823,
+            0.472,
+            0.913
+          ],
+          "content": "考点：动词固定搭配。Admit 表示“承认”时，有两种常用结构，admit doing sth. 强调直接、明确的承认，动作与承认之间无心理障碍，admit to doing sth. 则隐含需要克服抵触情绪或外部压力后的承认，带有间接性。由于题干中他是“最终”承认，故而"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.248,
+            0.927,
+            0.32
+          ],
+          "continues_prev": true,
+          "content": "隐含抵触情绪，应当用 admit to doing sth. 的结构，故 A. 正确。C. was admitted(被录取，被准许进入) 语义不符。D. admitted for(因……被接收，如住院) 搭配和语义均错误。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.337,
+            0.571,
+            0.349
+          ],
+          "level": 2,
+          "content": "4. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.353,
+            0.583,
+            0.369
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.372,
+            0.925,
+            0.443
+          ],
+          "content": "句意：尽管有些人乐观地认为，\\_\\_\\_\\_的对策和最佳实践可能会使盗版现象在 2027 年开始趋于平稳，但利益相关者之间对于盗版何时开始减少仍未达成一致意见。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.446,
+            0.927,
+            0.536
+          ],
+          "content": "考点：词性辨析。空格处修饰名词“countermeasures” (对策), 需要形容词。A. emerging(新兴的，出现的) 是形容词，符合语境。B. immerse(使沉浸) 是动词。C. emerge(出现) 是动词。D. emergence(出现) 是名词。故 A. 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.551,
+            0.569,
+            0.565
+          ],
+          "level": 2,
+          "content": "5. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.522,
+            0.568,
+            0.582,
+            0.584
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.587,
+            0.828,
+            0.603
+          ],
+          "content": "句意：美国 \\_\\_\\_\\_ 一个国际强国出现。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.606,
+            0.924,
+            0.659
+          ],
+          "content": "考点：固定搭配 (emerge as)。Emerge as 是固定搭配，意为“作为……出现，崛起成为……”。其他介词均不能与 emerge 构成此意。故 B. as 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.675,
+            0.571,
+            0.687
+          ],
+          "level": 2,
+          "content": "6. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.522,
+            0.691,
+            0.582,
+            0.707
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.71,
+            0.924,
+            0.782
+          ],
+          "content": "句意：教师和学生被准许 \\_\\_\\_\\_ 一个学者共同体。\n考点：固定搭配。Admit 表示“准许进入”时，与介词 to 搭配，即 be admitted to（被准许进入……）。故 A. to 正确。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.522,
+            0.792,
+            0.624,
+            0.809
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.825,
+            0.569,
+            0.838
+          ],
+          "level": 2,
+          "content": "1. to"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.522,
+            0.841,
+            0.583,
+            0.857
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.86,
+            0.923,
+            0.894
+          ],
+          "content": "句意：参与者必须签署一份表格，同意\\_\\_\\_\\_使用他们的数据。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.897,
+            0.912,
+            0.913
+          ],
+          "content": "考点：固定搭配（consent to）。Consent 作动词时，"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.825,
+            0.937,
+            0.907,
+            0.953
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.919,
+            0.939,
+            0.956,
+            0.953
+          ],
+          "content": "/259"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.031,
+            0.033,
+            0.107,
+            0.069
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.118,
+            0.043,
+            0.374,
+            0.06
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.405,
+            0.043,
+            0.51,
+            0.06
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.09,
+            0.482,
+            0.125
+          ],
+          "continues_prev": true,
+          "content": "为不及物动词，后接宾语需加介词 to，意为“同意……”。故填介词 to。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.14,
+            0.173,
+            0.154
+          ],
+          "level": 2,
+          "content": "2. creative"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.157,
+            0.142,
+            0.173
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.176,
+            0.482,
+            0.228
+          ],
+          "content": "句意：你也会很快学会适应并提出\\_\\_\\_\\_的解决方案来解决绘画带来的问题，跳出固有思维模式将成为你的第二天性。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.231,
+            0.482,
+            0.286
+          ],
+          "content": "考点：词性转换（动词→形容词）。空格处修饰名词“solutions”（解决方案），需要形容词。动词 create（创造）的形容词形式为 creative（创造性的）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.3,
+            0.192,
+            0.314
+          ],
+          "level": 2,
+          "content": "3. innovative"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.317,
+            0.142,
+            0.333
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.336,
+            0.482,
+            0.371
+          ],
+          "content": "句意：听说你们要邀请一些年轻工匠来校园展示他们\\_\\_\\_\\_的工艺制作，我真的很兴奋。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.374,
+            0.482,
+            0.39
+          ],
+          "content": "考点：词性转换（动词→形容词）。空格处修饰名词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.09,
+            0.923,
+            0.144
+          ],
+          "continues_prev": true,
+          "content": "短语“craft-making”（工艺制作），需要形容词。动词 innovate（创新）的形容词形式为 innovative（创新的）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.154,
+            0.634,
+            0.17
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.533,
+            0.173,
+            0.607,
+            0.188
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.531,
+            0.191,
+            0.922,
+            0.336
+          ],
+          "sub_type": "text",
+          "content": "1. 我们既不理解彼此，也不尊重彼此，并且没有妥协或合作的基础。\n2. 利益相关者之间对于它何时可能开始下降没有达成共识。\n3. 人工智能还可用于识别客户在兴趣爱好、喜爱的名人以及时尚潮流方面的生活方式选择，以便在通过社交媒体发布的营销信息中提供独特的内容。\n单词翻译"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.339,
+            0.803,
+            0.356
+          ],
+          "content": "【新奇事物】本身常常会引发怀疑。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.047,
+            0.941,
+            0.087,
+            0.955
+          ],
+          "content": "260/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.095,
+            0.938,
+            0.125,
+            0.955
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.127,
+            0.94,
+            0.178,
+            0.954
+          ],
+          "content": "研过过"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:14:43",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 8,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

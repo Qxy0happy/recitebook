@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<!--
+  只读原型：保留用于状态机参考与历史验证，不参与构建，不再修改。
+  READ-ONLY prototype. Kept for state-machine reference; not part of any build.
+-->
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>原型 · 循环背诵状态机</title>
+<style>
+  :root {
+    --bg: #faf9f7;
+    --card: #ffffff;
+    --ink: #1c1917;
+    --muted: #6b6560;
+    --line: #e7e2dc;
+    --accent: #2563eb;
+    --wrong: #b91c1c;
+    --ok: #15803d;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font: 15px/1.6 -apple-system, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  }
+  main { max-width: 1000px; margin: 0 auto; padding: 32px 20px 64px; }
+  h1 { font-size: 24px; margin: 0 0 6px; letter-spacing: .01em; }
+  h2 { font-size: 15px; margin: 0 0 12px; color: var(--muted); font-weight: 600; }
+  h3 { font-size: 14px; margin: 18px 0 8px; color: var(--muted); font-weight: 600; }
+  .badge {
+    display: inline-block; font-size: 11px; letter-spacing: .08em;
+    color: var(--accent); border: 1px solid var(--accent);
+    border-radius: 999px; padding: 1px 8px; margin-bottom: 10px;
+  }
+  .lede { max-width: 760px; color: var(--muted); margin: 0 0 20px; }
+  .card {
+    background: var(--card); border: 1px solid var(--line);
+    border-radius: 10px; padding: 20px; margin-bottom: 18px;
+  }
+  .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
+  .label { display: block; font-size: 12px; color: var(--muted); }
+  .value { font-weight: 600; font-size: 15px; }
+  .msg {
+    margin: 14px 0 0; padding: 10px 12px; background: #f5f3ef;
+    border-left: 3px solid var(--accent); border-radius: 4px;
+    font-size: 14px; min-height: 44px;
+  }
+  .changed { color: var(--accent); font-weight: 600; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  th, td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--line); }
+  th { color: var(--muted); font-weight: 600; font-size: 12px; }
+  tr:last-child td { border-bottom: none; }
+  .tag { font-size: 12px; border-radius: 4px; padding: 1px 7px; font-weight: 600; }
+  .tag.ok { color: var(--ok); background: #ecfdf3; }
+  .tag.bad { color: var(--wrong); background: #fef2f2; }
+  .tag.none { color: var(--muted); background: #f5f3ef; }
+  button {
+    font: inherit; border-radius: 7px; border: 1px solid var(--line);
+    background: #fff; color: var(--ink); padding: 8px 14px; cursor: pointer;
+  }
+  button:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+  button:disabled { opacity: .4; cursor: not-allowed; }
+  button.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+  button.primary:hover:not(:disabled) { color: #fff; opacity: .92; }
+  .controls { display: flex; flex-wrap: wrap; gap: 8px; }
+  .tabs { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 14px; }
+  .tab { font-size: 13px; padding: 6px 11px; }
+  .tab.active { border-color: var(--accent); color: var(--accent); background: #eff4ff; }
+  .scenario-desc { color: var(--muted); font-size: 14px; margin: 0 0 14px; }
+  .steps { display: grid; gap: 8px; }
+  .step { display: flex; align-items: center; gap: 10px; }
+  .step .idx {
+    width: 22px; height: 22px; border-radius: 50%; display: inline-flex;
+    align-items: center; justify-content: center; font-size: 12px;
+    border: 1px solid var(--line); color: var(--muted); flex: none;
+  }
+  .step.done .idx { background: var(--ok); border-color: var(--ok); color: #fff; }
+  .step.next .idx { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .step.pending button { opacity: .45; }
+  .qbox { margin: 14px 0 0; padding: 14px; border: 1px dashed var(--line); border-radius: 8px; }
+  .qbox .stem { font-size: 16px; margin-bottom: 4px; }
+  .qbox .bind { color: var(--muted); font-size: 13px; }
+  .foot { color: var(--muted); font-size: 12px; margin-top: 24px; }
+  @media (max-width: 720px) {
+    .grid { grid-template-columns: repeat(2, 1fr); }
+  }
+</style>
+</head>
+<body>
+<main>
+  <span class="badge">原型 · 不是产品代码</span>
+  <h1>循环背诵状态机</h1>
+  <p class="lede">
+    这个原型只回答一个问题：<b>当「错题内循环」「队列回插」「跨轮重考」同时出现时，这套规则是否仍然可解释？</b>
+    演示数据是 3 个 List、每个 List 6 个词、6 道题。所有状态只在内存里，刷新即重置。
+  </p>
+
+  <section class="card">
+    <h2>当前状态</h2>
+    <div class="grid">
+      <div><span class="label">轮次</span><span class="value" id="s-round">—</span></div>
+      <div><span class="label">队列</span><span class="value" id="s-queue">—</span></div>
+      <div><span class="label">当前 List</span><span class="value" id="s-current">—</span></div>
+      <div><span class="label">当前题</span><span class="value" id="s-question">—</span></div>
+    </div>
+    <div class="qbox" id="s-qbox" hidden></div>
+    <p class="msg" id="s-msg">—</p>
+    <h3>List 状态</h3>
+    <table>
+      <thead><tr><th>List</th><th>本轮首错</th><th>待清</th><th>状态</th></tr></thead>
+      <tbody id="s-lists"></tbody>
+    </table>
+    <h3>当前 List 的单词最近结果</h3>
+    <div id="s-words-wrap"><table><tbody id="s-words"></tbody></table></div>
+  </section>
+
+  <section class="card">
+    <h2>自由操作</h2>
+    <div class="controls" id="free"></div>
+  </section>
+
+  <section class="card">
+    <h2>引导场景</h2>
+    <div class="tabs" id="tabs"></div>
+    <p class="scenario-desc" id="sc-desc"></p>
+    <div class="steps" id="steps"></div>
+    <div style="margin-top:14px"><button id="restart-scenario">重新开始此场景</button></div>
+  </section>
+
+  <p class="foot">原型文件：wails/prototype/state-model.html。双击即可运行；无网络、无存储、无依赖。</p>
+</main>
+
+<script>
+/* =====================================================================
+   纯逻辑模块（无 DOM、无事件、无存储）
+   可直接搬进真实代码库。页面只调用这里导出的函数。
+   ===================================================================== */
+const CATALOG = [
+  {
+    id: 1,
+    title: 'List 1 人与认知',
+    words: ['intelligence', 'intellect', 'conscious', 'intuition', 'gene', 'gift'],
+    questions: [
+      { id: '1-1', text: 'artificial ____', slots: [0] },
+      { id: '1-2', text: 'Unlike ____, ____ refers to academic reasoning', slots: [0, 1] },
+      { id: '1-3', text: 'become ____ of', slots: [2] },
+      { id: '1-4', text: 'based on ____ rather than logical analysis', slots: [3] },
+      { id: '1-5', text: '____ modified crops', slots: [4] },
+      { id: '1-6', text: 'a ____ for music', slots: [5] }
+    ]
+  },
+  {
+    id: 2,
+    title: 'List 2 保护与免疫',
+    words: ['save', 'preserve', 'reserve', 'conservation', 'survive', 'immune'],
+    questions: [
+      { id: '2-1', text: '____ for 除了', slots: [0] },
+      { id: '2-2', text: 'nature ____ 自然保护区', slots: [2] },
+      { id: '2-3', text: 'be immune ____ criticism', slots: [5] },
+      { id: '2-4', text: 'the ____ of biodiversity', slots: [3] },
+      { id: '2-5', text: '____ the journey', slots: [4] },
+      { id: '2-6', text: '____ water quality', slots: [1] }
+    ]
+  },
+  {
+    id: 3,
+    title: 'List 3 感知与反映',
+    words: ['reflect', 'observe', 'track', 'reverse', 'collect', 'response'],
+    questions: [
+      { id: '3-1', text: '____ the change 反映', slots: [0] },
+      { id: '3-2', text: '____ birds 观察', slots: [1] },
+      { id: '3-3', text: 'keep ____ of 跟踪', slots: [2] },
+      { id: '3-4', text: '____ the trend 逆转', slots: [3] },
+      { id: '3-5', text: '____ data 收集', slots: [4] },
+      { id: '3-6', text: 'in ____ to 回应', slots: [5] }
+    ]
+  }
+];
+
+const listOf = id => CATALOG.find(l => l.id === id);
+const qOf = (listId, qid) => listOf(listId).questions.find(q => q.id === qid);
+const clone = s => structuredClone(s);
+
+function freshState() {
+  const lists = {};
+  for (const l of CATALOG) {
+    lists[l.id] = { attempts: [], pending: [], firstWrong: [], prevFirstWrong: [], unclean: 0, completedRound: null };
+  }
+  return {
+    round: 1,
+    queue: CATALOG.map(l => l.id),
+    current: null,
+    quiz: null,
+    lists,
+    seq: 0,
+    message: '新的一轮。队列按 List 1 → List 2 → List 3。点「进入下一个 List」开始。',
+    changed: []
+  };
+}
+
+function fail(state, why) {
+  const s = clone(state);
+  s.message = '不能执行：' + why;
+  s.changed = [];
+  return s;
+}
+
+function latestIn(list, qid, round) {
+  let r = null;
+  for (const a of list.attempts) if (a.round === round && a.qid === qid) r = a.result;
+  return r;
+}
+
+function poolFor(state, listId) {
+  const L = state.lists[listId];
+  const hasThisRound = L.attempts.some(a => a.round === state.round);
+  const src = hasThisRound ? state.round : state.round - 1;
+  return listOf(listId).questions
+    .map(q => q.id)
+    .filter(qid => !L.pending.includes(qid) && latestIn(L, qid, src) === '对');
+}
+
+function orderOf(listId, qid) {
+  return listOf(listId).questions.findIndex(q => q.id === qid);
+}
+
+function buildQuizIds(state, listId) {
+  const L = state.lists[listId];
+  if (L.attempts.length === 0) return listOf(listId).questions.map(q => q.id);
+  if (L.pending.length === 0) return [];
+  const pending = [...L.pending].sort((a, b) => orderOf(listId, a) - orderOf(listId, b));
+  const pool = poolFor(state, listId);
+  const total = Math.floor(L.pending.length * 1.2);
+  const add = Math.min(Math.max(total - L.pending.length, 0), pool.length);
+  return [...pending, ...pool.slice(0, add)];
+}
+
+function enterNext(state) {
+  if (state.quiz) return fail(state, '当前题集还没答完');
+  const s = clone(state);
+  s.changed = [];
+
+  if (s.current !== null && s.lists[s.current].pending.length > 0) {
+    const id = s.current;
+    const ids = buildQuizIds(s, id);
+    s.quiz = { listId: id, ids, index: 0 };
+    s.message = `${listOf(id).title} 还有 ${s.lists[id].pending.length} 道待清错题，进入内循环：本组 ${ids.length} 题。`;
+    return s;
+  }
+
+  while (s.queue.length) {
+    const id = s.queue[0];
+    const ids = buildQuizIds(s, id);
+    if (ids.length === 0) {
+      s.queue.shift();
+      s.lists[id].unclean = 0;
+      s.lists[id].completedRound = s.round;
+      s.message = `${listOf(id).title} 没有待清错题，直接完成。`;
+      s.current = null;
+      continue;
+    }
+    s.current = id;
+    s.quiz = { listId: id, ids, index: 0 };
+    const firstTime = s.lists[id].attempts.length === 0;
+    s.message = firstTime
+      ? `首次进入 ${listOf(id).title}，本组 ${ids.length} 题（书中全部题）。`
+      : `${listOf(id).title} 本组 ${ids.length} 题：待清 ${s.lists[id].pending.length} 道，补足 ${ids.length - s.lists[id].pending.length} 道。`;
+    return s;
+  }
+
+  s.current = null;
+  s.quiz = null;
+  s.message = '队列已空。所有 List 都已完成。';
+  return s;
+}
+
+function answer(state, result, via = '作答') {
+  if (!state.quiz) return fail(state, '当前没有进行中的题集');
+  const s = clone(state);
+  const { listId, ids, index } = s.quiz;
+  const qid = ids[index];
+  const L = s.lists[listId];
+  const q = qOf(listId, qid);
+  const priorThisRound = L.attempts.filter(a => a.round === s.round && a.qid === qid);
+
+  L.attempts.push({ round: s.round, qid, result, via, seq: ++s.seq });
+
+  if (result === '对') {
+    L.pending = L.pending.filter(x => x !== qid);
+  } else {
+    if (!L.pending.includes(qid)) L.pending.push(qid);
+    if (priorThisRound.length === 0 && !L.firstWrong.includes(qid)) L.firstWrong.push(qid);
+  }
+
+  s.changed = q.slots.map(i => listOf(listId).words[i]);
+  s.quiz.index++;
+
+  if (s.quiz.index >= ids.length) {
+    if (L.pending.length === 0) {
+      L.unclean = 0;
+      if (s.queue[0] === listId) s.queue.shift();
+      L.completedRound = s.round;
+      s.current = null;
+      s.message = `${listOf(listId).title} 错题清空，完成。`;
+    } else {
+      L.unclean = L.pending.length;
+      s.message = `${listOf(listId).title} 本组结束，还剩 ${L.pending.length} 道错题；默认继续本 List。`;
+    }
+    s.quiz = null;
+  } else {
+    s.message = `${result === '对' ? '答对' : (via === '查词' ? '查词，整题判错' : '答错')}：${q.text}。下一题。`;
+  }
+  return s;
+}
+
+function jumpOut(state) {
+  if (!state.quiz) return fail(state, '当前没有进行中的题集');
+  const s = clone(state);
+  const id = s.quiz.listId;
+  const L = s.lists[id];
+  s.changed = [];
+
+  if (L.pending.length === 0) {
+    s.queue = s.queue.filter(x => x !== id);
+    L.unclean = 0;
+    s.current = null;
+    s.quiz = null;
+    s.message = `跳出时 ${listOf(id).title} 的错题已清空，按完成处理。`;
+    return s;
+  }
+
+  L.unclean = L.pending.length;
+  s.queue = s.queue.filter(x => x !== id).concat([id]);
+  s.current = null;
+  s.quiz = null;
+  s.message = `跳出 ${listOf(id).title}，放回队尾。未清 ${L.pending.length} 道题。`;
+  return s;
+}
+
+function roundReady(state) {
+  return CATALOG.every(l => state.lists[l.id].attempts.some(a => a.round === state.round));
+}
+
+function startNewRound(state) {
+  if (!roundReady(state)) return fail(state, '还有 List 本轮没有作答');
+  const s = clone(state);
+  let totalWrong = 0;
+  for (const l of CATALOG) {
+    const L = s.lists[l.id];
+    L.prevFirstWrong = [...L.firstWrong];
+    L.firstWrong = [];
+    L.pending = [...L.prevFirstWrong];
+    L.unclean = 0;
+    L.completedRound = null;
+    totalWrong += L.pending.length;
+  }
+  s.round++;
+  s.queue = CATALOG.map(l => l.id);
+  s.current = null;
+  s.quiz = null;
+  s.changed = [];
+  s.message = `进入第 ${s.round} 轮。错题基准取上一轮首次作答，共 ${totalWrong} 道。`;
+  return s;
+}
+
+function answerRestCorrect(state) {
+  let s = state;
+  let guard = 0;
+  while (s.quiz && guard++ < 100) s = answer(s, '对');
+  return s;
+}
+
+function wordStates(state, listId) {
+  const L = state.lists[listId];
+  return listOf(listId).words.map((word, i) => {
+    let result = null;
+    for (const a of L.attempts) {
+      if (a.round !== state.round) continue;
+      if (qOf(listId, a.qid).slots.includes(i)) result = a.result;
+    }
+    return { word, state: result === '对' ? '对' : result === '错' ? '错' : '未考' };
+  });
+}
+
+function listStatus(state, listId) {
+  const L = state.lists[listId];
+  if (state.quiz && state.quiz.listId === listId) return '进行中';
+  if (L.completedRound === state.round) return '已清';
+  if (L.pending.length > 0) return `未清 ${L.pending.length}`;
+  if (L.attempts.some(a => a.round === state.round)) return '已清';
+  if (L.attempts.length > 0) return '本轮未开始';
+  return '未开始';
+}
+
+/* =====================================================================
+   页面外壳（只负责渲染与按钮）
+   ===================================================================== */
+const Logic = {
+  freshState, enterNext, answer, jumpOut, startNewRound, answerRestCorrect,
+  wordStates, listStatus, roundReady, listOf, qOf
+};
+
+const ACTIONS = {
+  enter: s => Logic.enterNext(s),
+  correct: s => Logic.answer(s, '对'),
+  wrong: s => Logic.answer(s, '错'),
+  lookup: s => Logic.answer(s, '错', '查词'),
+  jump: s => Logic.jumpOut(s),
+  newRound: s => Logic.startNewRound(s),
+  rest: s => Logic.answerRestCorrect(s)
+};
+
+let state = Logic.freshState();
+let scenarioIndex = 0;
+let stepIndex = 0;
+
+const $ = id => document.getElementById(id);
+
+function esc(t) {
+  return String(t).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+}
+
+function render() {
+  $('s-round').textContent = '第 ' + state.round + ' 轮';
+  $('s-queue').textContent = state.queue.length
+    ? state.queue.map(id => (id === state.current ? '《' + id + '》' : id)).join(' → ')
+    : '空';
+  $('s-current').textContent = state.current ? Logic.listOf(state.current).title : '—';
+
+  const qbox = $('s-qbox');
+  if (state.quiz) {
+    const id = state.quiz.listId;
+    const qid = state.quiz.ids[state.quiz.index];
+    const q = Logic.qOf(id, qid);
+    const words = q.slots.map(i => Logic.listOf(id).words[i]).join('、');
+    $('s-question').textContent = `第 ${state.quiz.index + 1} / ${state.quiz.ids.length} 题`;
+    qbox.hidden = false;
+    qbox.innerHTML = `<div class="stem">${esc(q.text)}</div><div class="bind">绑定词：${esc(words)}</div>`;
+  } else {
+    $('s-question').textContent = '—';
+    qbox.hidden = true;
+    qbox.innerHTML = '';
+  }
+
+  const changed = state.changed.length
+    ? `<span class="changed">本次影响：${esc(state.changed.join('、'))}</span>　`
+    : '';
+  $('s-msg').innerHTML = changed + esc(state.message);
+
+  const listsBody = $('s-lists');
+  listsBody.innerHTML = '';
+  for (const l of CATALOG) {
+    const L = state.lists[l.id];
+    const tr = document.createElement('tr');
+    const status = Logic.listStatus(state, l.id);
+    const cls = status === '已清' ? 'ok' : status.startsWith('未清') ? 'bad' : 'none';
+    tr.innerHTML = `<td>${esc(l.title)}</td>
+      <td>${L.firstWrong.length}</td>
+      <td>${L.pending.length}</td>
+      <td><span class="tag ${cls}">${esc(status)}</span></td>`;
+    listsBody.appendChild(tr);
+  }
+
+  const wordsBody = $('s-words');
+  wordsBody.innerHTML = '';
+  if (state.current) {
+    for (const w of Logic.wordStates(state, state.current)) {
+      const cls = w.state === '对' ? 'ok' : w.state === '错' ? 'bad' : 'none';
+      const tr = document.createElement('tr');
+      tr.innerHTML = `<td>${esc(w.word)}</td><td><span class="tag ${cls}">${esc(w.state)}</span></td>`;
+      wordsBody.appendChild(tr);
+    }
+  } else {
+    wordsBody.innerHTML = '<tr><td colspan="2" style="color:var(--muted)">先进入一个 List。</td></tr>';
+  }
+
+  renderFreeButtons();
+  renderScenario();
+}
+
+function renderFreeButtons() {
+  const wrap = $('free');
+  wrap.innerHTML = '';
+  const spec = [
+    ['进入 / 继续本 List', ACTIONS.enter, !state.quiz],
+    ['答对', ACTIONS.correct, !!state.quiz],
+    ['答错', ACTIONS.wrong, !!state.quiz],
+    ['查词后作答', ACTIONS.lookup, !!state.quiz],
+    ['跳出本 List', ACTIONS.jump, !!state.quiz],
+    ['答完剩余（全部答对）', ACTIONS.rest, !!state.quiz],
+    ['开始新一轮', ACTIONS.newRound, Logic.roundReady(state) && !state.quiz],
+    ['重置', () => Logic.freshState(), true]
+  ];
+  for (const [label, fn, enabled] of spec) {
+    const b = document.createElement('button');
+    b.textContent = label;
+    if (label.startsWith('进入')) b.className = 'primary';
+    b.disabled = !enabled;
+    b.onclick = () => {
+      state = fn(state);
+      stepIndex = 0;
+      render();
+    };
+    wrap.appendChild(b);
+  }
+}
+
+/* ---------- 场景 ---------- */
+
+function presetAfterRound1() {
+  const s = Logic.freshState();
+  s.queue = [];
+  for (const l of CATALOG) {
+    const L = s.lists[l.id];
+    for (const q of l.questions) {
+      L.attempts.push({ round: 1, qid: q.id, result: '对', via: '作答', seq: ++s.seq });
+    }
+    L.pending = [];
+    L.firstWrong = [];
+    L.unclean = 0;
+  }
+  const L1 = s.lists[1];
+  const qs = Logic.listOf(1).questions;
+  L1.attempts = [];
+  for (let i = 0; i < 5; i++) {
+    L1.attempts.push({ round: 1, qid: qs[i].id, result: '错', via: '作答', seq: ++s.seq });
+  }
+  for (const q of qs) {
+    L1.attempts.push({ round: 1, qid: q.id, result: '对', via: '作答', seq: ++s.seq });
+  }
+  L1.firstWrong = qs.slice(0, 5).map(q => q.id);
+  L1.pending = [];
+  s.message = '预置：第 1 轮已完成。List 1 首次错 5 题，后来全部答对；List 2、3 全对。现在可以开始第 2 轮。';
+  return s;
+}
+
+function presetAllCorrect() {
+  const s = Logic.freshState();
+  s.queue = [];
+  for (const l of CATALOG) {
+    const L = s.lists[l.id];
+    for (const q of l.questions) {
+      L.attempts.push({ round: 1, qid: q.id, result: '对', via: '作答', seq: ++s.seq });
+    }
+    L.pending = [];
+    L.firstWrong = [];
+    L.unclean = 0;
+  }
+  s.message = '预置：第 1 轮全部答对。所有 List 的首次错题都是 0。';
+  return s;
+}
+
+const SCENARIOS = [
+  {
+    name: '首次进入与内循环',
+    preset: Logic.freshState,
+    desc: '首次进入 List 1 做全部 6 题。故意错 5 题，看内循环的题量如何变成 6 题（5 道错题 + 1 道补足）。',
+    steps: [
+      ['进入 List 1（首次，全部题）', ACTIONS.enter],
+      ['答错第 1 题', ACTIONS.wrong],
+      ['答错第 2 题', ACTIONS.wrong],
+      ['答错第 3 题', ACTIONS.wrong],
+      ['答错第 4 题', ACTIONS.wrong],
+      ['答错第 5 题', ACTIONS.wrong],
+      ['答对第 6 题', ACTIONS.correct],
+      ['继续本 List（内循环）', ACTIONS.enter],
+      ['答完剩余 6 题（快捷）', ACTIONS.rest]
+    ]
+  },
+  {
+    name: '跳出与回插队尾',
+    preset: Logic.freshState,
+    desc: '每个 List 只答错一题就跳出。观察队列如何从 1→2→3 变成 2→3→1，最后回到 List 1。',
+    steps: [
+      ['进入 List 1', ACTIONS.enter],
+      ['答错一题', ACTIONS.wrong],
+      ['跳出 List 1', ACTIONS.jump],
+      ['进入 List 2', ACTIONS.enter],
+      ['答错一题', ACTIONS.wrong],
+      ['跳出 List 2', ACTIONS.jump],
+      ['进入 List 3', ACTIONS.enter],
+      ['答错一题', ACTIONS.wrong],
+      ['跳出 List 3', ACTIONS.jump],
+      ['进入（应回到 List 1）', ACTIONS.enter]
+    ]
+  },
+  {
+    name: '查词与三态',
+    preset: Logic.freshState,
+    desc: '先答对第 1 题（intelligence 记为对），再在第 2 题点查词。第 2 题同时绑定 intelligence 与 intellect，整题判错，intelligence 被最后一次结果覆盖为错。',
+    steps: [
+      ['进入 List 1', ACTIONS.enter],
+      ['答对第 1 题', ACTIONS.correct],
+      ['第 2 题查词后作答', ACTIONS.lookup]
+    ]
+  },
+  {
+    name: '新一轮的错题基准',
+    preset: presetAfterRound1,
+    desc: '第 1 轮里 List 1 首次错 5 题，其中后来全部答对。开始第 2 轮后，这 5 题仍会重考，并补 1 道首轮答对的题，共 6 题。',
+    steps: [
+      ['开始第 2 轮', ACTIONS.newRound],
+      ['进入 List 1', ACTIONS.enter]
+    ]
+  },
+  {
+    name: '零错题直接完成',
+    preset: presetAllCorrect,
+    desc: '第 1 轮全部答对。开始第 2 轮后直接进入，三个 List 都没有待清错题，会被连续跳过。',
+    steps: [
+      ['开始第 2 轮', ACTIONS.newRound],
+      ['进入（应连续跳过三个 List）', ACTIONS.enter]
+    ]
+  }
+];
+
+function renderScenario() {
+  const tabs = $('tabs');
+  tabs.innerHTML = '';
+  SCENARIOS.forEach((sc, i) => {
+    const b = document.createElement('button');
+    b.textContent = sc.name;
+    b.className = 'tab' + (i === scenarioIndex ? ' active' : '');
+    b.onclick = () => {
+      scenarioIndex = i;
+      state = SCENARIOS[i].preset();
+      stepIndex = 0;
+      render();
+    };
+    tabs.appendChild(b);
+  });
+
+  const sc = SCENARIOS[scenarioIndex];
+  $('sc-desc').textContent = sc.desc;
+
+  const steps = $('steps');
+  steps.innerHTML = '';
+  sc.steps.forEach(([label, fn], i) => {
+    const row = document.createElement('div');
+    row.className = 'step ' + (i < stepIndex ? 'done' : i === stepIndex ? 'next' : 'pending');
+    const idx = document.createElement('span');
+    idx.className = 'idx';
+    idx.textContent = i < stepIndex ? '✓' : String(i + 1);
+    const b = document.createElement('button');
+    b.textContent = label;
+    b.disabled = i !== stepIndex;
+    b.onclick = () => {
+      state = fn(state);
+      stepIndex++;
+      render();
+    };
+    row.appendChild(idx);
+    row.appendChild(b);
+    steps.appendChild(row);
+  });
+
+  if (stepIndex >= sc.steps.length) {
+    const done = document.createElement('p');
+    done.className = 'scenario-desc';
+    done.textContent = '场景完成。';
+    steps.appendChild(done);
+  }
+}
+
+$('restart-scenario').onclick = () => {
+  state = SCENARIOS[scenarioIndex].preset();
+  stepIndex = 0;
+  render();
+};
+
+render();
+</script>
+</body>
+</html>

@@ -1,0 +1,4410 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.036,
+            0.037,
+            0.104,
+            0.069
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.12,
+            0.045,
+            0.371,
+            0.062
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.403,
+            0.045,
+            0.507,
+            0.062
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.367,
+            0.093,
+            0.411,
+            0.124
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_3.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.418,
+            0.098,
+            0.623,
+            0.117
+          ],
+          "level": 2,
+          "content": "List 8 科学与娱乐"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.132,
+            0.228,
+            0.152
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.159,
+            0.509,
+            0.176
+          ],
+          "content": "情节发展：危机初现→科学曙光→管理行动→休闲娱乐"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.094,
+            0.224,
+            0.17,
+            0.24
+          ],
+          "level": 2,
+          "content": "危机初现"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.243,
+            0.699,
+            0.299
+          ],
+          "content": "在一个 farm（农场）社区，population（人口）过度增长导致粮食需求增加。但 crop（作物）收成不佳，因为 ground（土壤）贫瘠、air（空气）污染，这是一个严重的 issue（问题）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.716,
+            0.188,
+            0.915,
+            0.332
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a desert city with buildings and a smoke plume (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_9.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.094,
+            0.384,
+            0.17,
+            0.399
+          ],
+          "level": 2,
+          "content": "科学曙光"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.402,
+            0.699,
+            0.438
+          ],
+          "content": "为此，science（科学）及 astronomy（天文学）等领域的专家们来研究最佳 plant（种植）品种和时间，并开发一种高效方式来 cure（解决）土壤问题。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.716,
+            0.338,
+            0.913,
+            0.481
+          ],
+          "sub_type": "natural_image",
+          "content": "Group of scientists in white coats gathered around a table in a desert setting (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_12.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.095,
+            0.492,
+            0.17,
+            0.508
+          ],
+          "level": 2,
+          "content": "管理行动"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.51,
+            0.699,
+            0.566
+          ],
+          "content": "administration（行政）部门处理资金 transaction（交易）方面的问题，制定 agenda（议程）和 schedule（时间表），政府 agent（代理）监督各 project（项目）执行。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.715,
+            0.486,
+            0.913,
+            0.569
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of a businessman standing beside a table with scattered items and shadows (no text or symbols visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_15.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.095,
+            0.579,
+            0.172,
+            0.595
+          ],
+          "level": 2,
+          "content": "休闲娱乐"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.092,
+            0.597,
+            0.698,
+            0.653
+          ],
+          "content": "项目成功后，社区开始发展 entertainment（娱乐）活动，大家可以通过丰富多样的活动来 amuse（取悦）自己，充足的 recreation（休闲）和 rest（休息）使人 relax（放松），社区恢复了活力。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.713,
+            0.573,
+            0.913,
+            0.655
+          ],
+          "sub_type": "natural_image",
+          "content": "Illustration of people enjoying a park game with a lake and boats (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_18.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.699,
+            0.232,
+            0.719
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.747,
+            0.239,
+            0.761
+          ],
+          "content": "science /'saɪəns/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.765,
+            0.208,
+            0.781
+          ],
+          "content": "n. 科学；学科"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.096,
+            0.795,
+            0.232,
+            0.811
+          ],
+          "content": "妙记:“赛先生”。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.183,
+            0.816,
+            0.388,
+            0.896
+          ],
+          "sub_type": "text_image",
+          "content": "Science",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_23.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.534,
+            0.745,
+            0.63,
+            0.765
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.772,
+            0.614,
+            0.787
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.791,
+            0.718,
+            0.807
+          ],
+          "content": "scientific adj. 科学上的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.81,
+            0.683,
+            0.825
+          ],
+          "content": "scientist n. 科学家"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.829,
+            0.918,
+            0.863
+          ],
+          "content": "②该单词表示“科学”时，是不可数名词；它表示“学科”时，是可数名词。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.867,
+            0.688,
+            0.883
+          ],
+          "content": "【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.887,
+            0.903,
+            0.921
+          ],
+          "content": "the importance of the humanities and social sciences\n人文学科和社会学科的重要性"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.055,
+            0.939,
+            0.096,
+            0.954
+          ],
+          "content": "100/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.101,
+            0.937,
+            0.131,
+            0.954
+          ],
+          "content": "#"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.133,
+            0.94,
+            0.184,
+            0.953
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.87,
+            0.023,
+            0.983,
+            0.06
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.081,
+            0.275,
+            0.096
+          ],
+          "content": "astronomy /ə'stra:nəmi/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.099,
+            0.137,
+            0.114
+          ],
+          "content": "n. 天文学"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.121,
+            0.472,
+            0.174
+          ],
+          "content": "妙记:Astro 是阿童本的名字，阿童木飞起来像一颗流星，所以 astro 是跟星星相关的。-nomy 是“××学”的意思。星星学就是天文学。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.185,
+            0.18,
+            0.321,
+            0.247
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_4.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.05,
+            0.261,
+            0.152,
+            0.281
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.049,
+            0.288,
+            0.116,
+            0.303
+          ],
+          "content": "派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.048,
+            0.307,
+            0.24,
+            0.322
+          ],
+          "content": "astronomer n. 天文学家"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.049,
+            0.326,
+            0.204,
+            0.341
+          ],
+          "content": "astronaut n. 宇航员"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.361,
+            0.135,
+            0.376
+          ],
+          "content": "air /er/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.38,
+            0.323,
+            0.396
+          ],
+          "content": "n. 气；空气；空中；气质，神态"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.059,
+            0.403,
+            0.472,
+            0.458
+          ],
+          "content": "妙记：他望着空中（air）飘荡的蒲公英，清新的空气（air）轻抚面庞，那沉醉的神态（air）仿佛与自然融为一体。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.201,
+            0.465,
+            0.325,
+            0.547
+          ],
+          "sub_type": "natural_image",
+          "content": "Side profile of a person standing in front of a textured wall with abstract circular patterns (no text or symbols visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_12.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.053,
+            0.552,
+            0.156,
+            0.573
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.051,
+            0.58,
+            0.137,
+            0.594
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.051,
+            0.599,
+            0.191,
+            0.614
+          ],
+          "content": "airplane n. 飞机"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.051,
+            0.618,
+            0.243,
+            0.633
+          ],
+          "content": "airline n. (飞机) 航线"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.051,
+            0.638,
+            0.18,
+            0.653
+          ],
+          "content": "airport n. 机场"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.051,
+            0.657,
+            0.156,
+            0.672
+          ],
+          "content": "②常见词组："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.051,
+            0.677,
+            0.212,
+            0.691
+          ],
+          "content": "air conditioner 空调"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.051,
+            0.695,
+            0.462,
+            0.73
+          ],
+          "content": "③ air 可以表示“气质、神态”，由“气”引申而来，中文也有类似的说法，叫作“气场”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.05,
+            0.734,
+            0.216,
+            0.75
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.051,
+            0.754,
+            0.477,
+            0.828
+          ],
+          "content": "Even Tommasini calls him“an unpretentious musician with no air of the formidable conductor about him”. 即使是托马西尼，也称他是“一位谦逊的音乐家，身上毫无令人敬畏的指挥家架子”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.849,
+            0.167,
+            0.863
+          ],
+          "content": "cure /kjʊr/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.866,
+            0.32,
+            0.882
+          ],
+          "content": "v./n. 治愈；解决（办法、措施）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.063,
+            0.887,
+            0.476,
+            0.922
+          ],
+          "content": "妙记：没有芭比只有 Q, 证明还没芭比 Q, 是被治愈了。用“治愈” (cure) 的方式“解决” (cure) 内心困扰。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.083,
+            0.631,
+            0.103
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.11,
+            0.79,
+            0.125
+          ],
+          "content": "①最常考：解决办法、解决措施"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.129,
+            0.691,
+            0.144
+          ],
+          "content": "【2019 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.148,
+            0.926,
+            0.164
+          ],
+          "content": "cure for this labor shortage 劳动力短缺的解决办法"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.167,
+            0.903,
+            0.183
+          ],
+          "content": "【2016、2020 年英语（一）、2023 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.187,
+            0.681,
+            0.202
+          ],
+          "content": "cure-all 灵丹妙药"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.206,
+            0.733,
+            0.221
+          ],
+          "content": "②区分:cure & treatment"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.225,
+            0.892,
+            0.24
+          ],
+          "content": "cure 表示疾病治好了或问题成功解决了。如："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.244,
+            0.692,
+            0.26
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.264,
+            0.951,
+            0.299
+          ],
+          "content": "Science and technology would cure all the ills of humanity."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.302,
+            0.819,
+            0.318
+          ],
+          "content": "科学和技术会治愈所有的人类疾病。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.321,
+            0.948,
+            0.357
+          ],
+          "content": "treatment 仅仅表示治疗疾病或处理问题，无论是否治愈或是否成功解决。如："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.361,
+            0.693,
+            0.377
+          ],
+          "content": "【2010 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.38,
+            0.76,
+            0.396
+          ],
+          "content": "medical treatment 医学治疗"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.42,
+            0.665,
+            0.436
+          ],
+          "content": "plant /pla:nt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.439,
+            0.727,
+            0.454
+          ],
+          "content": "n. 植物；工厂 vt. 种植"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.461,
+            0.951,
+            0.497
+          ],
+          "content": "妙记：为了提升绿化率，工厂（plant）里种植（plant）了大量植物（plant）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.639,
+            0.503,
+            0.842,
+            0.579
+          ],
+          "sub_type": "natural_image",
+          "content": "Architectural rendering of a modern building complex with a fountain and surrounding landscape (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_1_image_body_43.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.53,
+            0.585,
+            0.634,
+            0.605
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.612,
+            0.788,
+            0.628
+          ],
+          "content": "① plant 可以作名词，表示工厂。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.631,
+            0.694,
+            0.647
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.651,
+            0.951,
+            0.686
+          ],
+          "content": "The corporation bought Vermont's only nuclear power plant."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.689,
+            0.84,
+            0.705
+          ],
+          "content": "该公司收购了佛蒙特州唯一的核电站。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.708,
+            0.788,
+            0.724
+          ],
+          "content": "② plant 可以作动词，表示种植。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.727,
+            0.694,
+            0.743
+          ],
+          "content": "【2024 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.747,
+            0.953,
+            0.782
+          ],
+          "content": "The UK is facing a future construction crisis because of a failure to plant trees to produce wood."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.526,
+            0.785,
+            0.951,
+            0.82
+          ],
+          "content": "由于在种树以生产木材上的失败，英国正在面临一场未来的建设危机。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.844,
+            0.661,
+            0.858
+          ],
+          "content": "farm /fa:rm/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.862,
+            0.779,
+            0.878
+          ],
+          "content": "n. 农场 vt. 耕种，种植；饲养"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.884,
+            0.951,
+            0.92
+          ],
+          "content": "妙记：农场（farm）里种植（farm）着大量的作物并饲养（farm）了许多牲畜。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.848,
+            0.936,
+            0.935,
+            0.953
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.945,
+            0.937,
+            0.983,
+            0.951
+          ],
+          "content": "101"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.039,
+            0.033,
+            0.108,
+            0.064
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.124,
+            0.042,
+            0.375,
+            0.058
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.407,
+            0.041,
+            0.509,
+            0.057
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.199,
+            0.088,
+            0.373,
+            0.158
+          ],
+          "sub_type": "natural_image",
+          "content": "Golden field with scattered animals and a small house under a blue sky (no text or symbols visible)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_3.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.162,
+            0.187,
+            0.182
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.19,
+            0.169,
+            0.204
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.209,
+            0.226,
+            0.223
+          ],
+          "content": "farmer n. 农场主"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.227,
+            0.48,
+            0.262
+          ],
+          "content": "farmer 不是普通的农民，而是农场主；普通的农民叫作 peasant。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.265,
+            0.242,
+            0.281
+          ],
+          "content": "【2019 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.285,
+            0.482,
+            0.32
+          ],
+          "content": "American farmers have been complaining of labor shortages for several years."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.322,
+            0.465,
+            0.339
+          ],
+          "content": "美国的农场主已经抱怨劳动力短缺问题好几年了。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.342,
+            0.48,
+            0.376
+          ],
+          "content": "② farm 可以作动词，表示耕种、种植或饲养，就是在农场上做的事。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.38,
+            0.242,
+            0.395
+          ],
+          "content": "【2018 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.399,
+            0.482,
+            0.433
+          ],
+          "content": "Some ants farm the bugs called aphids for the honeydew they produce when they feed."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.435,
+            0.48,
+            0.47
+          ],
+          "content": "一些蚂蚁会为了获取蚜虫进食时分泌的蜜露而饲养蚜虫。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.489,
+            0.316,
+            0.524
+          ],
+          "content": "population /ˌpɒpjuˈleɪʃn/\nn. 人口；（某种）人群或群体"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.095,
+            0.53,
+            0.48,
+            0.567
+          ],
+          "content": "妙记：把 people（人）统计在一起，就成了 population（人口）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.576,
+            0.187,
+            0.597
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.604,
+            0.478,
+            0.639
+          ],
+          "content": "①该单词表示“人口”是不可数名词，它作可数名词时表示某种人群或群体。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.643,
+            0.242,
+            0.659
+          ],
+          "content": "【2016 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.663,
+            0.314,
+            0.678
+          ],
+          "content": "the size of population in Britain"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.681,
+            0.214,
+            0.697
+          ],
+          "content": "英国人口的规模"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.7,
+            0.241,
+            0.717
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.72,
+            0.481,
+            0.755
+          ],
+          "content": "Even the most influential members of a population simply don't interact with that many others."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.757,
+            0.481,
+            0.793
+          ],
+          "content": "即便是最具影响力的群体，也不可能与那么多其他人互动。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.796,
+            0.468,
+            0.831
+          ],
+          "content": "②拓展：还有两个单词，也经常用来表示“人群”，都引申自“军队”的含义。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.834,
+            0.249,
+            0.849
+          ],
+          "content": "force n. 军队；人群"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.853,
+            0.249,
+            0.868
+          ],
+          "content": "army n. 军队；人群"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.083,
+            0.87,
+            0.241,
+            0.886
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.89,
+            0.459,
+            0.906
+          ],
+          "content": "24. A. compete with a future army of programmers"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.908,
+            0.3,
+            0.923
+          ],
+          "content": "与未来的一群编程人员竞争"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.088,
+            0.652,
+            0.104
+          ],
+          "content": "crop /kra:p/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.106,
+            0.86,
+            0.122
+          ],
+          "content": "n. 庄稼，农作物；一群人 vt. 收割；收获"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.128,
+            0.923,
+            0.163
+          ],
+          "content": "妙记：谐音“可绕脖” → 大丰收的农作物绕在老牛脖子上。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.626,
+            0.168,
+            0.842,
+            0.253
+          ],
+          "sub_type": "natural_image",
+          "content": "Cartoon illustration of a smiling bull character standing in a golden field with birds flying nearby (no text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_34.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.258,
+            0.633,
+            0.279
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.286,
+            0.728,
+            0.302
+          ],
+          "content": "① crop 可以表示一群人。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.305,
+            0.691,
+            0.322
+          ],
+          "content": "【2022 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.327,
+            0.72,
+            0.342
+          ],
+          "content": "the latest crop of students"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.345,
+            0.661,
+            0.361
+          ],
+          "content": "最新一批的学生"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.365,
+            0.923,
+            0.4
+          ],
+          "content": "② crop 作动词可以表示收获任何东西，而不仅仅是收割庄稼。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.404,
+            0.614,
+            0.42
+          ],
+          "content": "【2006 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.424,
+            0.925,
+            0.46
+          ],
+          "content": "the maximum sustainable yield that can be cropped from a fishery"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.463,
+            0.786,
+            0.48
+          ],
+          "content": "可从渔场获得的最大可持续产量"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.483,
+            0.631,
+            0.499
+          ],
+          "content": "③短语搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.503,
+            0.923,
+            0.539
+          ],
+          "content": "crop up 出现，发生（只考过一次，但它是完形填空的正确选项）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.567,
+            0.686,
+            0.583
+          ],
+          "content": "ground /graund/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.585,
+            0.923,
+            0.621
+          ],
+          "content": "n. 地，地面；场地，场所；(pl.) 理由，根据 vt. 以……为根据（通常用被动）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.627,
+            0.923,
+            0.682
+          ],
+          "content": "妙记：本义表示地面。在 ground（地面）上的立体空间，就是场地、场所；理论和行动所处的“地面”，就是理由、依据。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.692,
+            0.631,
+            0.712
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.72,
+            0.612,
+            0.735
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.739,
+            0.923,
+            0.774
+          ],
+          "content": "playground n. 操场（play 玩、比赛 → 玩要或比赛用的场地）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.778,
+            0.923,
+            0.813
+          ],
+          "content": "underground adj./adv. 地下（的）；秘密（的）(under 在下面)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.817,
+            0.847,
+            0.834
+          ],
+          "content": "groundless adj. 毫无道理的（-less 没有）"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.836,
+            0.715,
+            0.853
+          ],
+          "content": "②【2014 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.857,
+            0.924,
+            0.892
+          ],
+          "content": "But there are few places where clients have more grounds for complaint than America."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.895,
+            0.904,
+            0.912
+          ],
+          "content": "但是，在所有国家中，美国的客户最有理由抱怨。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.053,
+            0.937,
+            0.092,
+            0.952
+          ],
+          "content": "102/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.1,
+            0.936,
+            0.129,
+            0.953
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.132,
+            0.938,
+            0.182,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.87,
+            0.02,
+            0.979,
+            0.057
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.058,
+            0.073,
+            0.162,
+            0.088
+          ],
+          "content": "③短语搭配："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.093,
+            0.471,
+            0.127
+          ],
+          "content": "be grounded in = be based on 以……为根据，基于……\non the ground 当场；落实"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.13,
+            0.221,
+            0.146
+          ],
+          "content": "【2024 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.15,
+            0.479,
+            0.204
+          ],
+          "content": "While the UK government has stated its ambition for more tree planting, there has been little action on the ground."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.206,
+            0.478,
+            0.242
+          ],
+          "content": "虽然英国政府表达了种更多树的雄心壮志，但并没有落实什么行动。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.246,
+            0.278,
+            0.261
+          ],
+          "content": "on the grounds that 理由是"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.265,
+            0.141,
+            0.28
+          ],
+          "content": "【2003 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.285,
+            0.478,
+            0.339
+          ],
+          "content": "Railroads justify rate discrimination against captive shippers on the grounds that in the long run it reduces everyone's cost."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.342,
+            0.478,
+            0.379
+          ],
+          "content": "铁路公司为其对受控制的承运商的费率歧视进行辩护，理由是长期来看，这能降低所有人的成本。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.402,
+            0.345,
+            0.418
+          ],
+          "content": "administration /ədˌmɪnɪˈstreɪʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.421,
+            0.37,
+            0.437
+          ],
+          "content": "n. 管理；执行；行政机关；管理部门"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.065,
+            0.444,
+            0.479,
+            0.499
+          ],
+          "content": "妙记：ad-（强调）+ minister（部长、大臣）→ 强调部长 / 大臣的职责就是管理、执行（administration）这个部门 / 国家。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.137,
+            0.505,
+            0.396,
+            0.603
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior view of a formal meeting room with a man in a suit standing at a table, surrounded by seated attendees (no visible text or signage)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_13.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.058,
+            0.612,
+            0.16,
+            0.633
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.64,
+            0.142,
+            0.656
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.66,
+            0.275,
+            0.675
+          ],
+          "content": "administer vt. 管理；执行"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.679,
+            0.479,
+            0.714
+          ],
+          "content": "② the Administration 特指美国联邦政府，相当于 the White House 或 the federal government"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.718,
+            0.221,
+            0.734
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.738,
+            0.479,
+            0.772
+          ],
+          "content": "40. B. Justices intended to check the power of the Administration."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.776,
+            0.35,
+            0.793
+          ],
+          "content": "大法官们打算核查联邦政府的权力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.067,
+            0.816,
+            0.288,
+            0.833
+          ],
+          "content": "transaction /træn'zækʃn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.068,
+            0.836,
+            0.125,
+            0.851
+          ],
+          "content": "n. 交易"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.066,
+            0.858,
+            0.479,
+            0.914
+          ],
+          "content": "妙记：trans-（从 A 到 B 或从 B 到 A）+action（行为）→所谓交易，就是 A 把钱给 B，B 把货给 A 这样转移的行为。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.076,
+            0.637,
+            0.098
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.104,
+            0.843,
+            0.119
+          ],
+          "content": "online transaction 网络交易，在线交易"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.122,
+            0.695,
+            0.139
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.143,
+            0.947,
+            0.215
+          ],
+          "content": "That ruling produced an explosion in business method patent filings, initially by emerging internet companies trying to stake out exclusive rights to specific types of online transactions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.218,
+            0.946,
+            0.255
+          ],
+          "content": "这一裁决导致商业方法专利申请激增，最初是新兴互联网公司试图获得特定类型在线交易的专有权。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.281,
+            0.708,
+            0.298
+          ],
+          "content": "agenda /əˈdʒendə/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.543,
+            0.3,
+            0.763,
+            0.316
+          ],
+          "content": "n. 议事日程，议程表；议题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.323,
+            0.946,
+            0.359
+          ],
+          "content": "妙记：谐音“呃真的啊”→开会时看着议程表感叹:“呃真的啊，这么多待办事项！”"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.636,
+            0.364,
+            0.843,
+            0.443
+          ],
+          "sub_type": "text_image",
+          "content": "• 品买 300\n您让 400% 看你",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_32.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.453,
+            0.636,
+            0.475
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.481,
+            0.945,
+            0.517
+          ],
+          "content": "该单词可以表示“议题”，即议事日程上列示的东西。\n【2006 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.521,
+            0.947,
+            0.555
+          ],
+          "content": "These messages have an agenda—to lure us to open our wallets."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.559,
+            0.943,
+            0.576
+          ],
+          "content": "这些信息有一个议题——引诱我们打开我们的钱包。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.603,
+            0.724,
+            0.619
+          ],
+          "content": "schedule /'skedʒu:l /"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.622,
+            0.941,
+            0.638
+          ],
+          "content": "n. 时间表 vt. 给……制定时间表，给……安排时间"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.644,
+            0.946,
+            0.681
+          ],
+          "content": "妙记:s+schedule（联想“车堵了”的拼音）→S 形的路容易让车堵了，导致时间表（schedule）有变。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.634,
+            0.686,
+            0.843,
+            0.767
+          ],
+          "sub_type": "natural_image",
+          "content": "Black-and-white photo of a winding road through a mountainous landscape with a person on a bridge (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_3_image_body_40.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.77,
+            0.636,
+            0.793
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.799,
+            0.946,
+            0.834
+          ],
+          "content": "该单词可以作动词，表示“给……制定时间表、给……安排时间”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.837,
+            0.695,
+            0.854
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.858,
+            0.947,
+            0.893
+          ],
+          "content": "Scheduling regular times for reading helps achieve\nimmersive reading."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.531,
+            0.896,
+            0.893,
+            0.913
+          ],
+          "content": "安排固定的阅读时间有助于实现沉浸式阅读。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.845,
+            0.934,
+            0.93,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.933,
+            0.935,
+            0.98,
+            0.951
+          ],
+          "content": "/103"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.031,
+            0.033,
+            0.102,
+            0.066
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.114,
+            0.042,
+            0.371,
+            0.06
+          ],
+          "content": "考研英语考研英语·一词三遍"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.402,
+            0.042,
+            0.507,
+            0.058
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.09,
+            0.195,
+            0.105
+          ],
+          "content": "issue /'ɪʃu:/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.108,
+            0.358,
+            0.124
+          ],
+          "content": "n. 问题，议题 vt. 宣布，公布，发布"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.13,
+            0.479,
+            0.185
+          ],
+          "content": "妙记：在会议上，主持人宣布（issue）将“交通拥堵”这一问题（issue）列为核心议题（issue），并正式发布（issue）了相关的调研方案。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.08,
+            0.195,
+            0.179,
+            0.215
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.223,
+            0.476,
+            0.26
+          ],
+          "content": "①该单词不仅可以表示“议题”，还可以表示“问题”，相当于 problem。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.264,
+            0.235,
+            0.28
+          ],
+          "content": "【2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.286,
+            0.277,
+            0.301
+          ],
+          "content": "a means of resolving issues"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.305,
+            0.242,
+            0.321
+          ],
+          "content": "一个解决问题的方法"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.325,
+            0.476,
+            0.362
+          ],
+          "content": "②该单词作动词，表示“公布、发布、宣布”，通常考查法院发布一项法律、命令或宣布一项判决。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.368,
+            0.235,
+            0.384
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.391,
+            0.397,
+            0.405
+          ],
+          "content": "The Federal Circuit issued an unusual order."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.412,
+            0.41,
+            0.428
+          ],
+          "content": "联邦巡回法庭发布了一项不同寻常的命令。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.434,
+            0.235,
+            0.45
+          ],
+          "content": "【2024 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.457,
+            0.47,
+            0.472
+          ],
+          "content": "The U.S. Supreme Court issued a ruling in an Idaho case."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.478,
+            0.479,
+            0.516
+          ],
+          "content": "美国最高法院针对一个爱达荷州的案件宣布了一项判决。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.543,
+            0.226,
+            0.559
+          ],
+          "content": "agent /'eɪdʒənt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.562,
+            0.343,
+            0.578
+          ],
+          "content": "n. 代理；联邦官员；特工；动因"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.585,
+            0.48,
+            0.641
+          ],
+          "content": "妙记：ag- = act（做）+ -ent（人）→ 替你做事的人 → 替普通人做事，叫作“代理”；替政府做事，叫作“联邦官员、特工”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.648,
+            0.179,
+            0.669
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.676,
+            0.16,
+            0.691
+          ],
+          "content": "①派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.696,
+            0.329,
+            0.712
+          ],
+          "content": "agency. n. 代理机构；政府机构"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.715,
+            0.386,
+            0.731
+          ],
+          "content": "【2013 年英语（二）、2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.736,
+            0.284,
+            0.752
+          ],
+          "content": "literary agent 著作代理人"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.075,
+            0.755,
+            0.386,
+            0.771
+          ],
+          "content": "【2019 年英语（二）、2023 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.776,
+            0.304,
+            0.791
+          ],
+          "content": "real estate agent 不动产中介"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.795,
+            0.478,
+            0.811
+          ],
+          "content": "②该单词可以表示“动因”，来自 ag-=act 表示“活动”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.815,
+            0.16,
+            0.83
+          ],
+          "content": "【2002 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.836,
+            0.48,
+            0.871
+          ],
+          "content": "Since much of the variation is due to genes, one more agent of evolution has gone."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.874,
+            0.479,
+            0.909
+          ],
+          "content": "由于大部分的变异是由基因造成的，所以又有一个进化的动因消失了。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.089,
+            0.866,
+            0.105
+          ],
+          "content": "project /'pra:dʒekt/ (n.) /prə'dʒekt/ (v.)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.108,
+            0.914,
+            0.142
+          ],
+          "content": "n. 工程，项目 vt. 投射；发出；展示，展现；投影，放映"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.148,
+            0.916,
+            0.181
+          ],
+          "content": "妙记：pro-（前）+ ject-（扔）→ 向前扔出 → 投射发出。"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.54,
+            0.185,
+            0.921,
+            0.258
+          ],
+          "sub_type": "text",
+          "content": "1. 把一个事物向前扔出，让大家看到 → 展示、展现;\n2. 把光学影像向前扔到屏幕上 → 投影、放映；\n3. 工程、项目的含义来自“投标、竞标”，即向前扔出自己公司的优势。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.268,
+            0.632,
+            0.289
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.296,
+            0.596,
+            0.311
+          ],
+          "content": "派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.315,
+            0.783,
+            0.331
+          ],
+          "content": "projection n. 投影；展示，展现"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.334,
+            0.689,
+            0.35
+          ],
+          "content": "【2015 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.354,
+            0.865,
+            0.388
+          ],
+          "content": "Colonial America was a projection of Europe.\n殖民时期的美国是欧洲的投影。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.411,
+            0.807,
+            0.426
+          ],
+          "content": "entertainment /ˌentərˈteɪnmənt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.43,
+            0.752,
+            0.445
+          ],
+          "content": "n. 招待，款待；娱乐，取悦"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.452,
+            0.921,
+            0.506
+          ],
+          "content": "妙记：enter（进入）+ tain-（保持、保留）+-ment→将进来的客户留住→款待、招待，引申为娱乐、取悦（entertainment）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.645,
+            0.512,
+            0.822,
+            0.581
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior scene of a restaurant with staff and guests, no visible text or signage",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_47.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.531,
+            0.586,
+            0.632,
+            0.607
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.613,
+            0.596,
+            0.628
+          ],
+          "content": "派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.632,
+            0.843,
+            0.648
+          ],
+          "content": "entertain vt. 款待，招待；取悦，使快乐"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.651,
+            0.814,
+            0.667
+          ],
+          "content": "entertaining adj. 娱乐性的；有趣的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.67,
+            0.689,
+            0.686
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.69,
+            0.876,
+            0.724
+          ],
+          "content": "News about pregnant celebrities is entertaining.\n关于怀孕的名人的新闻很有趣。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.748,
+            0.685,
+            0.763
+          ],
+          "content": "amuse /ə'mju:z/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.766,
+            0.671,
+            0.782
+          ],
+          "content": "vt. 取悦，使快乐"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.789,
+            0.921,
+            0.844
+          ],
+          "content": "妙记：自古希腊神话的 Muse（缪斯）女神，她们是掌管艺术的神，众神在宴会的时候，这些缪斯要出来吹拉弹唱取悦众神，所以有了“娱乐”的含义。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.639,
+            0.85,
+            0.832,
+            0.926
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior view of a museum or exhibition hall with visitors and illuminated display cases (no visible text or signage)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_4_image_body_57.jpg"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.047,
+            0.938,
+            0.087,
+            0.953
+          ],
+          "content": "104/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.094,
+            0.937,
+            0.123,
+            0.954
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.126,
+            0.938,
+            0.177,
+            0.953
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.868,
+            0.038,
+            0.98,
+            0.074
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.053,
+            0.094,
+            0.156,
+            0.114
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.053,
+            0.121,
+            0.117,
+            0.136
+          ],
+          "content": "派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.051,
+            0.14,
+            0.212,
+            0.154
+          ],
+          "content": "amusement n. 娱乐"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.05,
+            0.159,
+            0.455,
+            0.191
+          ],
+          "content": "Her impersonations provided great amusement for us.\n她的模仿表演给我们带来了很多欢乐。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.214,
+            0.263,
+            0.229
+          ],
+          "content": "recreation /ˌrekriˈeɪfn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.233,
+            0.12,
+            0.248
+          ],
+          "content": "n. 娱乐"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.255,
+            0.47,
+            0.289
+          ],
+          "content": "妙记:re-（反复）+ cre-（create 创新）+-ation（名词后缀）→娱乐需要反复创新（recreation）。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.163,
+            0.294,
+            0.359,
+            0.366
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior scene of a tech event with a large screen displaying a video call and audience silhouettes (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_body_8.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.053,
+            0.371,
+            0.156,
+            0.391
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.051,
+            0.398,
+            0.411,
+            0.413
+          ],
+          "content": "派生词:recreate vt. 重现，再现；参加娱乐"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.051,
+            0.416,
+            0.459,
+            0.45
+          ],
+          "content": "recreate 可以表示“重现、再现”，即再次创造出来，并不常考，但翻译题考过，需要注意。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.051,
+            0.454,
+            0.135,
+            0.469
+          ],
+          "content": "【1999 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.051,
+            0.474,
+            0.474,
+            0.527
+          ],
+          "content": "71. Modern practice most closely conforms to one that sees history as the attempt to recreate and explain the significant events of the past."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.051,
+            0.53,
+            0.472,
+            0.565
+          ],
+          "content": "现代实践大多遵循这样一种观点：即历史是试图重现和解释过去那些重大事件的一种努力。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.587,
+            0.156,
+            0.601
+          ],
+          "content": "rest /rest/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.062,
+            0.605,
+            0.363,
+            0.621
+          ],
+          "content": "v./n. 休息 n. 剩余部分 vi. 依赖，依靠"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.06,
+            0.628,
+            0.472,
+            0.663
+          ],
+          "content": "妙记：他决定先休息（rest），再处理剩余部分（rest），毕竟完成任务不能只依靠（rest）着急忙慌。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.625,
+            0.094,
+            0.846,
+            0.175
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior scene of a person relaxing on a sofa, no visible text or symbols",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_5_image_body_18.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.18,
+            0.632,
+            0.2
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.206,
+            0.945,
+            0.24
+          ],
+          "content": "① rest 可以表示剩余部分，常考 the rest of sth., 表示某事物的剩余部分。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.244,
+            0.692,
+            0.259
+          ],
+          "content": "【2016 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.263,
+            0.946,
+            0.295
+          ],
+          "content": "These kids are going to be surrounded by computers for the rest of their lives."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.299,
+            0.855,
+            0.315
+          ],
+          "content": "这些孩子往后余生都会被计算机所围绕。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.319,
+            0.85,
+            0.334
+          ],
+          "content": "② rest on = rely on = count on 依赖，依靠"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.337,
+            0.691,
+            0.352
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.357,
+            0.946,
+            0.39
+          ],
+          "content": "Good governance rests on an understanding of the inherent worth of each individual."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.393,
+            0.929,
+            0.409
+          ],
+          "content": "良好的管理建立在对每个人内在价值的理解之上。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.432,
+            0.668,
+            0.447
+          ],
+          "content": "relax /rɪˈlæks/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.538,
+            0.451,
+            0.643,
+            0.466
+          ],
+          "content": "v.（使）放松"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.473,
+            0.948,
+            0.507
+          ],
+          "content": "妙记:re-（反复）+lax- = leas-（松）→ 反复松 → 松开、使放松。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.528,
+            0.518,
+            0.632,
+            0.538
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.545,
+            0.743,
+            0.56
+          ],
+          "content": "派生词:relaxation n. 放松"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.563,
+            0.691,
+            0.579
+          ],
+          "content": "【2015 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.584,
+            0.948,
+            0.617
+          ],
+          "content": "Most previous surveys found that home offered greater relaxation than the workplace."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.62,
+            0.946,
+            0.655
+          ],
+          "content": "大部分之前的调查表明，相比工作场所，家提供了更大的放松。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.053,
+            0.682,
+            0.206,
+            0.702
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.051,
+            0.717,
+            0.152,
+            0.733
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.053,
+            0.742,
+            0.556,
+            0.759
+          ],
+          "content": "1. The corporation bought Vermont's only nuclear power\\_\\_\\_\\_."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.762,
+            0.152,
+            0.776
+          ],
+          "content": "A. farm"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.324,
+            0.762,
+            0.396,
+            0.776
+          ],
+          "content": "B. plant"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.544,
+            0.762,
+            0.598,
+            0.775
+          ],
+          "content": "C. air"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.798,
+            0.763,
+            0.865,
+            0.775
+          ],
+          "content": "D. cure"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.051,
+            0.786,
+            0.949,
+            0.819
+          ],
+          "content": "2. As much of Mexico City shut down at the height of a panic, cases began to \\_\\_\\_\\_ in New York City, the southwestern United States and around the world."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.824,
+            0.171,
+            0.84
+          ],
+          "content": "A. stay up"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.324,
+            0.824,
+            0.415,
+            0.839
+          ],
+          "content": "B. crop up"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.824,
+            0.623,
+            0.839
+          ],
+          "content": "C. fill up"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.798,
+            0.825,
+            0.898,
+            0.839
+          ],
+          "content": "D. cover up"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.053,
+            0.848,
+            0.928,
+            0.864
+          ],
+          "content": "3. Negative attitudes toward obesity, \\_\\_\\_\\_ in health concerns, have stimulated a number of anti-obesity policies."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.868,
+            0.175,
+            0.882
+          ],
+          "content": "A. amused"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.324,
+            0.868,
+            0.414,
+            0.882
+          ],
+          "content": "B. planted"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.545,
+            0.868,
+            0.623,
+            0.881
+          ],
+          "content": "C. rested"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.798,
+            0.868,
+            0.904,
+            0.881
+          ],
+          "content": "D. grounded"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.053,
+            0.891,
+            0.949,
+            0.907
+          ],
+          "content": "4. That ruling produced an explosion in business-method patent filings, initially by emerging Internet companies"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.845,
+            0.927,
+            0.93,
+            0.943
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.933,
+            0.928,
+            0.981,
+            0.942
+          ],
+          "content": "/105"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.042,
+            0.035,
+            0.108,
+            0.068
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.123,
+            0.045,
+            0.375,
+            0.062
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.409,
+            0.045,
+            0.511,
+            0.061
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.111,
+            0.092,
+            0.603,
+            0.107
+          ],
+          "content": "trying to stake out exclusive rights to specific types of online\\_\\_\\_\\_."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.113,
+            0.111,
+            0.233,
+            0.124
+          ],
+          "content": "A. transactions"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.34,
+            0.112,
+            0.43,
+            0.126
+          ],
+          "content": "B. grounds"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.549,
+            0.111,
+            0.686,
+            0.124
+          ],
+          "content": "C. entertainments"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.79,
+            0.111,
+            0.887,
+            0.124
+          ],
+          "content": "D. schedules"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.135,
+            0.757,
+            0.151
+          ],
+          "content": "5. I stopped weighing myself every day and switched to a bimonthly weighing\\_\\_\\_\\_ instead."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.113,
+            0.155,
+            0.187,
+            0.169
+          ],
+          "content": "A. agent"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.34,
+            0.155,
+            0.408,
+            0.169
+          ],
+          "content": "B. issue"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.549,
+            0.155,
+            0.643,
+            0.168
+          ],
+          "content": "C. schedule"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.79,
+            0.155,
+            0.87,
+            0.169
+          ],
+          "content": "D. project"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.179,
+            0.724,
+            0.195
+          ],
+          "content": "6. Good governance \\_\\_\\_\\_ on an understanding of the inherent worth of each individual."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.113,
+            0.199,
+            0.18,
+            0.212
+          ],
+          "content": "A. rests"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.34,
+            0.199,
+            0.428,
+            0.213
+          ],
+          "content": "B. grounds"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.549,
+            0.199,
+            0.65,
+            0.212
+          ],
+          "content": "C. entertains"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.79,
+            0.199,
+            0.859,
+            0.211
+          ],
+          "content": "D. cures"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.222,
+            0.916,
+            0.256
+          ],
+          "content": "7. After weeks of intense exam preparation, she finally had a chance to \\_\\_\\_\\_ and enjoy a quiet evening with her friends."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.113,
+            0.262,
+            0.185,
+            0.275
+          ],
+          "content": "A. retire"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.339,
+            0.262,
+            0.417,
+            0.275
+          ],
+          "content": "B. recede"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.549,
+            0.262,
+            0.631,
+            0.276
+          ],
+          "content": "C. require"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.79,
+            0.261,
+            0.857,
+            0.274
+          ],
+          "content": "D. relax"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.287,
+            0.18,
+            0.303
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.084,
+            0.312,
+            0.916,
+            0.555
+          ],
+          "sub_type": "text",
+          "content": "1. Social media permits users to re-share news as a \\_\\_\\_\\_ (project) of their values and interests.\n2. American \\_\\_\\_\\_ (farm) have been complaining of labor shortages for several years.\n3. Applications have the potential to add stickiness by \\_\\_\\_\\_(amuse), entertaining and enlightening others.\n4. For example, neighborhoods with a large elderly \\_\\_\\_\\_ (population) or informal dwellings that cope poorly with heat could get special warnings or be bolstered with cooling centers.\n5. Professional\\_\\_\\_\\_(science) are expected to know how to analyse data, but statistical errors are alarmingly common in published research.\n6.【2018 年英语（一）】Court, school, organizations of amateurs, and the traveling actors were all rivals in supplying a widespread desire for dramatic \\_\\_\\_\\_ (entertainment).\n7.【2019 年英语 (二)】State governments are well accustomed to managing forests, but traditionally they've focused on wildlife, watersheds and opportunities for \\_\\_\\_\\_(recreate)."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.084,
+            0.564,
+            0.18,
+            0.58
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.085,
+            0.59,
+            0.74,
+            0.606
+          ],
+          "content": "1. The new ultra-low emission zone (Ulez) is likely to be a big issue in next year's election."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.669,
+            0.704,
+            0.685
+          ],
+          "content": "2. The astronomy community is making compromises to change its use of Mauna Kea."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.747,
+            0.888,
+            0.763
+          ],
+          "content": "3. She walked into the room with an air of confidence, as if she had already known the result of the competition."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.084,
+            0.825,
+            0.916,
+            0.861
+          ],
+          "content": "4. One oft-debated cure for this labor shortage remains as implausible as it's been all along: Native U.S. workers won't be returning to the farm."
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.055,
+            0.939,
+            0.096,
+            0.954
+          ],
+          "content": "106/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.1,
+            0.937,
+            0.182,
+            0.954
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 7,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.864,
+            0.027,
+            0.972,
+            0.064
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.056,
+            0.084,
+            0.936,
+            0.118
+          ],
+          "content": "5. But on the more important matter of the Constitution, the decision was an 8-0 defeat for the Administration's effort to upset the balance of power between the federal government and the states."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.18,
+            0.937,
+            0.214
+          ],
+          "content": "6. First, most people do not realise that there are strong commercial agendas at work to keep them in passive consumption mode."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.278,
+            0.938,
+            0.311
+          ],
+          "content": "7. Many of the aspects of homebuying aren't a consideration for children, said Tracey Hampson, a real estate agent based in Santa Clarita, Calif."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.446,
+            0.423,
+            0.548,
+            0.443
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.053,
+            0.465,
+            0.152,
+            0.482
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.498,
+            0.102,
+            0.51
+          ],
+          "content": "1. B."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.515,
+            0.114,
+            0.53
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.533,
+            0.469,
+            0.549
+          ],
+          "content": "句意：该公司买下了佛蒙特州唯一的一座核电\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.552,
+            0.47,
+            0.586
+          ],
+          "content": "考点：固定搭配。“nuclear power plant”意为“核电站”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.602,
+            0.102,
+            0.615
+          ],
+          "content": "2. B."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.619,
+            0.114,
+            0.635
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.638,
+            0.47,
+            0.692
+          ],
+          "content": "句意：当恐慌达到顶峰、墨西哥城大部分地区停摆之时，病例开始在纽约市、美国西南部乃至世界各地\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.693,
+            0.47,
+            0.765
+          ],
+          "content": "考点：动词短语辨析。空格主语是“cases” (病例), 需要填入一个表示“出现、发生”的不及物动词短语。B. crop up 意为“突然出现，冷不防地发生”, 常用来描述问题、病例等的突然出现，符合语境。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.768,
+            0.47,
+            0.803
+          ],
+          "content": "A. stay up (熬夜)、C. fill up (填满)、D. cover up (掩盖) 均与“病例出现”的语义不符。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.819,
+            0.102,
+            0.832
+          ],
+          "content": "3. D."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.836,
+            0.114,
+            0.852
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.854,
+            0.467,
+            0.889
+          ],
+          "content": "句意：基于对健康的关切而\\_\\_\\_\\_的对肥胖的负面态度，已经催生了许多反肥胖政策。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.055,
+            0.892,
+            0.449,
+            0.908
+          ],
+          "content": "考点：动词短语辨析。空格所在部分“\\_\\_\\_\\_in"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.465,
+            0.938,
+            0.538
+          ],
+          "continues_prev": true,
+          "content": "health concerns”是插入语，修饰“Negative attitudes”，说明这种态度的“依据或来源”。D. grounded 与“in”搭配，意为“以……为基础，基于”，符合“基于健康担忧”的句意。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.554,
+            0.573,
+            0.567
+          ],
+          "content": "4. A."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.571,
+            0.584,
+            0.587
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.589,
+            0.938,
+            0.642
+          ],
+          "content": "句意：那项裁决导致了商业方法专利申请数量的激增，最初是由新兴的互联网公司试图争夺特定类型在线\\_\\_\\_\\_的专有权所驱动的。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.644,
+            0.938,
+            0.771
+          ],
+          "content": "考点：名词辨析与上下文语义。这些新兴的互联网公司想要争夺专有权的，最有可能是在线进行的“交易”或“业务活动”。A. transactions（交易）最符合商业方法专利的语境。B. grounds（场地；理由）、C. entertainments（娱乐）、D. schedules（日程表）均不如“transactions”贴合“在线商业方法”这一核心话题。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.787,
+            0.573,
+            0.8
+          ],
+          "content": "5. C."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.804,
+            0.584,
+            0.82
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.823,
+            0.938,
+            0.857
+          ],
+          "content": "句意：我不再每天称体重，而是改为每两个月称一次的\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.86,
+            0.938,
+            0.912
+          ],
+          "content": "考点：名词辨析。“每两个月称一次体重”，这显然是一种“时间安排”或“计划”。C. schedule（日程表，计划）是唯一正确的选项。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.836,
+            0.934,
+            0.889,
+            0.951
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.892,
+            0.934,
+            0.92,
+            0.951
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.936,
+            0.936,
+            0.971,
+            0.95
+          ],
+          "content": "107"
+        }
+      ]
+    },
+    {
+      "page_idx": 8,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.031,
+            0.032,
+            0.506,
+            0.064
+          ],
+          "content": "高频词表"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.089,
+            0.131,
+            0.102
+          ],
+          "content": "6. A."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.105,
+            0.139,
+            0.121
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.124,
+            0.478,
+            0.231
+          ],
+          "content": "句意：良好的治理 \\_\\_\\_\\_ 对每个人内在价值的理解。考点：固定搭配。空格需要与介词“on”搭配，表示“依赖于，基于”的含义。A. rests on 是固定搭配，意为“依靠，基于”，符合句意。B. grounds 作为动词，与“in”搭配 (be grounded in)。C. entertains (娱乐)、D. cures (治愈) 均无此用法和含义。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.246,
+            0.131,
+            0.26
+          ],
+          "content": "7. D."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.263,
+            0.138,
+            0.279
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.282,
+            0.48,
+            0.316
+          ],
+          "content": "句意：经过数周的紧张备考，她终于有机会\\_\\_\\_\\_一下，和朋友享受一个安静的夜晚。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.319,
+            0.48,
+            0.39
+          ],
+          "content": "考点：动词辨析。根据句意，长时间努力学习后，最需要的是“放松”。D. relax（放松）是正确答案。A. retire（退休）、B. recede（后退）、C. require（要求）均与“享受安静夜晚”的语境不符。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.079,
+            0.4,
+            0.173,
+            0.417
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.432,
+            0.185,
+            0.447
+          ],
+          "content": "1. projection"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.449,
+            0.138,
+            0.464
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.468,
+            0.476,
+            0.503
+          ],
+          "content": "句意：社交媒体允许用户重新分享新闻，以此作为其价值观和兴趣的一种\\_\\_\\_\\_。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.505,
+            0.476,
+            0.558
+          ],
+          "content": "考点：词性转换（动词→名词）。空格前有不定冠词“a”，故需填入名词形式。将动词“project”变为名词“projection”（投射，反映）。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.573,
+            0.168,
+            0.587
+          ],
+          "content": "2. farmers"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.59,
+            0.138,
+            0.606
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.609,
+            0.478,
+            0.699
+          ],
+          "content": "句意：美国的\\_\\_\\_\\_多年来一直在抱怨劳动力短缺。\n考点：词性转换（抽象名词→具体名词）与主谓一致。句子谓语“have been complaining”是复数形式，故主语也需用复数。将“farm”（农场）变为指人的名词“farmer”（农民），并用其复数形式“farmers”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.71,
+            0.173,
+            0.725
+          ],
+          "content": "3. amusing"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.727,
+            0.138,
+            0.743
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.746,
+            0.478,
+            0.779
+          ],
+          "content": "句意：应用程序有潜力通过 \\_\\_\\_\\_、娱乐和启迪\n他人来增加用户黏性。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.783,
+            0.476,
+            0.836
+          ],
+          "content": "考点：平行结构与非谓语动词。介词“by”后接了三个并列的动词 -ing 形式作宾语，表示方式。故需将“amuse”变为“amusing”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.848,
+            0.19,
+            0.862
+          ],
+          "content": "4. population"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.864,
+            0.138,
+            0.88
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.883,
+            0.478,
+            0.917
+          ],
+          "content": "句意：例如，有大量老年 \\_\\_\\_\\_ 或存在难以应对高温的非正规住宅的社区，可能会收到特殊警告，或者"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.087,
+            0.752,
+            0.102
+          ],
+          "continues_prev": true,
+          "content": "通过设立降温中心得到支持。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.105,
+            0.919,
+            0.158
+          ],
+          "content": "考点：名词形式。“population”（人口）本身即为名词，且“elderly population”是常见搭配，意为“老年人口”，直接填入即可。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.17,
+            0.629,
+            0.183
+          ],
+          "content": "5. scientists"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.187,
+            0.59,
+            0.202
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.205,
+            0.918,
+            0.239
+          ],
+          "content": "句意：专业 \\_\\_\\_\\_ 理应懂得如何分析数据，但统计错误在已发表的研究中却惊人地普遍。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.242,
+            0.919,
+            0.313
+          ],
+          "content": "考点：词性转换（抽象名词→具体名词）与主谓一致。句子谓语“are expected”是复数形式，故主语也需用复数。将“science”（科学）变为指人的名词“scientist”（科学家），并用其复数形式“scientists”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.325,
+            0.67,
+            0.338
+          ],
+          "content": "6. entertainment"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.341,
+            0.59,
+            0.357
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.36,
+            0.919,
+            0.394
+          ],
+          "content": "句意：宫廷、学校、业余组织以及巡回演员都是满足人们对戏剧\\_\\_\\_\\_普遍需求的竞争者。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.397,
+            0.918,
+            0.43
+          ],
+          "content": "考点：名词形式。“entertainment”（娱乐）本身即为不可数名词，直接填入即可。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.447,
+            0.639,
+            0.46
+          ],
+          "content": "7. recreation"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.464,
+            0.59,
+            0.479
+          ],
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.482,
+            0.919,
+            0.517
+          ],
+          "content": "句意：州政府非常习惯于管理森林，但传统上，它们关注的是野生动物、流域以及\\_\\_\\_\\_的机会。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.519,
+            0.919,
+            0.572
+          ],
+          "content": "考点：词性转换（动词→名词）。介词“for”后需要接名词作宾语。故将动词“recreate”变为名词“recreation”（娱乐，消遣）。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.583,
+            0.626,
+            0.599
+          ],
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.529,
+            0.601,
+            0.919,
+            0.876
+          ],
+          "sub_type": "text",
+          "content": "1. 新的超低排放区（Ulez）很可能会成为明年选举中的一个重大议题。\n2. 天文学界正在做出妥协，以改变其对莫纳克亚山的使用方式。\n3. 她带着自信的神态走进房间，仿佛早已知晓比赛的结果。\n4. 针对劳动力短缺这一常被讨论的解决方案，依旧像往常一样不切实际：美国本土工人不会重返农场。\n5. 但在更重要的宪法问题上，最高法院以 8 比 0 的投票结果挫败了政府试图打破联邦政府与各州权力平衡的努力。\n6. 首先，大多数人并未意识到，有强大的商业议程在运作，使他们处于被动消费模式。\n7. 加州圣克拉丽塔的房地产经纪人特蕾西·汉普森表示，购房的许多方面并非孩子们会考虑的因素。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.05,
+            0.937,
+            0.087,
+            0.952
+          ],
+          "content": "108/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.095,
+            0.936,
+            0.177,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:13:19",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 9,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 841.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 827.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 840.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 7,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 8,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

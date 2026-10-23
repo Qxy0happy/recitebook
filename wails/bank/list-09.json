@@ -1,0 +1,724 @@
+{
+  "list_no": 9,
+  "title": "给予与释放",
+  "association": {
+    "outline": "情节发展：信任建立→危机四伏→授权行动→总结反思",
+    "scenes": [
+      {
+        "title": "信任建立",
+        "story": "科学家艾琳长期 give（给）位于火山附近的小镇的居民们 provide（提供）环境咨询，居民们十分 trust（信任）她的专业知识。"
+      },
+      {
+        "title": "危机四伏",
+        "story": "最近，她 deliver（递送）了一份初步报告，表达了她对火山爆发的担忧。她表示，一旦火山 erupt（爆发），被损坏的工厂将 emit（排放）有毒气体，release（释放）污染物，这将引发疾病的 outbreak（暴发）。"
+      },
+      {
+        "title": "授权行动",
+        "story": "为了避免火山爆发，政府 mandate（授权）艾琳领导应对。她 confer（授予）团队技术方案，并与当地政府签订 contract（合同）来 extract（提取）地热能源。在她的领导下，危机成功化解。"
+      },
+      {
+        "title": "总结反思",
+        "story": "最后，艾琳 share（分享）了一份 summary（摘要）报告，这是一个 abstract（抽象的）总结，帮助其他邻近火山的小镇从这个事件中学习经验。"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "give",
+      "ipa": "/gɪv/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "给"
+        }
+      ],
+      "mnemonic": "give 谐音“给”。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "注意该单词的过去式和过去分词的写法：过去式为 gave，过去分词为 given。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "该单词常考",
+          "body": "given(that)prep.考虑到，鉴于 【2021 年英语（二）】 Given their combined market value of more than \\$5.5 trillion, rifling through such small deals might seem beside the point. 考虑到它们的总市值超过 5.5 万亿美元，浏览这些小交易可能显得无关紧要。"
+        },
+        {
+          "marker": "③",
+          "kind": "搭配",
+          "label_raw": "短语搭配",
+          "body": "give up 放弃 give out 分发，散发 give away 泄露；赠送 give in 屈服"
+        }
+      ]
+    },
+    {
+      "spelling": "deliver",
+      "ipa": "/dɪˈlɪvər/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "输送；解救；发表（演讲）；接生（孩子）"
+        }
+      ],
+      "mnemonic": "de-（强调）+ liver（肝脏）→肝脏作为人体代谢器官，会“deliver”（输送）合成的物质（如胆汁、蛋白质）至其他器官。 1. 输送俘虏出去 → 解救； 2. 输送言论→发表（演讲）; 3. 输送出 baby → 接生（孩子）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词的翻译非常多，但归根结底就是“释放”,直接翻译成“释放”,都可以看懂。 常考释义：递送 【2018 年英语（一）】 letter delivery“释放”信件 常考释义：传达 【2023 年英语（一）】 delivering the content to the target customers 将内容“释放”给目标客户 常考释义：带来 【2024 年英语（二）】 deliver real financial benefits to rural economies 将真正的财务利益“释放”给乡村经济体 常考释义：输送 【2010 年英语（二）】 The three Ds—death, debt and divorce — still deliver works of art to the market. 三个 D——死亡、债务和离婚——仍然向市场“释放”大量艺术作品。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "delivery n. 递送；演讲方式，演讲风格；分娩"
+        }
+      ]
+    },
+    {
+      "spelling": "confer",
+      "ipa": "/kənˈfɜːr/",
+      "senses": [
+        {
+          "pos": "vi.",
+          "meaning_cn": "商讨，商议"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "授予，赋予"
+        }
+      ],
+      "mnemonic": "con-（一起）+ fer-（拿）→ 把各方意见拿到一起→ 商讨、商议。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "confer 可以表示“授予、赋予”。 【2002 年】 That compulsion has resulted in robotics—the science of conferring various human capabilities on machines. 这种冲动导致了机器人学的产生，机器人学是将各种人类的能力赋予机器的科学。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "",
+          "body": "该词本身考频较低，更多的是考查其派生词：conference n. 会议 【2010 年英语（一）】小作文导语（Directions） You are supposed to write a notice to recruit volunteers for an international conference. 你需要写一份通知，为国际会议招募志愿者。"
+        }
+      ]
+    },
+    {
+      "spelling": "provide",
+      "ipa": "/prəˈvaɪd/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "做好准备；预防；供应，供给"
+        }
+      ],
+      "mnemonic": "pro-（前）+ vid-（看）+e → 往前看，看到前面会发生的事，现在做好准备或提供预防措施，后引申为供应、供给（provide）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "provide sb. with sth. = provide sth. for sb. 将某物提供给某人 【2016 年英语（一）】 provide city dwellers with spaces for leisure 给城市居住者提供更多休闲空间"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "provided (that) = providing (that) conj. 如果 【2016 年英语（二）】 “Carry a book with you at all times” can actually work, too—providing you dip in often enough. “随身携带一本书”实际上也可以奏效——如果你经常沉浸其中。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "provision n. 供应；供应品；【法】法律条款 【2013 年英语（一）】 Three provisions of Arizona's plan were overturned. 亚利桑那州计划的三个条款被推翻了。"
+        }
+      ]
+    },
+    {
+      "spelling": "emit",
+      "ipa": "/iˈmɪt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "排放；放射；发出；发行"
+        }
+      ],
+      "mnemonic": "e-(外)+mit-(扔)→扔出去→排放，放射，发出，发行。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词的翻译较为灵活，但只需记住它表示“扔出去”，都可以理解。 常考释义：排放 【2019 年英语（二）】 Forests emit more carbon than they absorb. 森林“扔出”的碳比它们吸收的碳更多。 常考释义：散发 【2011 年英语（二）】 While producing large quantities of CO2, these computers emit a great deal of heat. 这些计算机在产生大量二氧化碳的同时，还“扔出去”大量的热。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "emission n. 排放；放射；发出；发行 carbon emissions 碳排放 【2025 年英语（一）】 Scientists want to scale back their research in an effort to decrease carbon emissions. 科学家打算缩减其研究规模，以努力减少碳排放。"
+        }
+      ]
+    },
+    {
+      "spelling": "share",
+      "ipa": "/ʃer/",
+      "senses": [
+        {
+          "pos": "v.",
+          "meaning_cn": "分享；分担"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "份额；股份"
+        }
+      ],
+      "mnemonic": "上市公司分享（share）给员工股份（share）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词可以表示“股份”，考研常考。 【2014 年英语（一）】 Non-lawyers may not own any share of a law firm. 非律师人士不得拥有律师事务所的任何股份。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "shared adj. 共享的，共有的，共同的 【2012 年英语（一）】 Credibility process requires shared efforts. 可信性程序需要共同的努力。"
+        }
+      ]
+    },
+    {
+      "spelling": "release",
+      "ipa": "/rɪˈliːs/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "松开；使放松；释放；公布，发布"
+        }
+      ],
+      "mnemonic": "谐音“瑞丽私” $\\rightarrow$ 在瑞丽的私人旅行总是能帮人释放（release）压力。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该词多考查“释放”的含义。 【2020 年英语（二）】 The rats released the social robot because they expected it to do the same. 老鼠释放了社交机器人，因为它们希望它也能做到同样的事。"
+        },
+        {
+          "marker": "②",
+          "kind": "辨析",
+          "label_raw": "近义词",
+          "body": "publish vt. 公布，发布；出版发行（来自 public 公开的） 【2023 年英语（一）】 Each year researchers publish millions of papers in more than 30,000 journals. 每年，研究人员在 30,000 多份期刊上发表数百万篇论文。"
+        }
+      ]
+    },
+    {
+      "spelling": "erupt",
+      "ipa": "/ɪˈrʌpt/",
+      "senses": [
+        {
+          "pos": "vi.",
+          "meaning_cn": "爆发"
+        }
+      ],
+      "mnemonic": "e-（外）+rupt-（断裂）→地壳断裂，灾害向外爆发。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "注意该单词为不及物动词，sth. erupt 【2010 年英语（二）】 As this new science of habit has emerged, controversies have erupted. 随着这种新的习惯科学的出现，争议爆发了。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "eruption n. 爆发 The volcano's eruption was very violent. 火山爆发非常猛烈。"
+        }
+      ]
+    },
+    {
+      "spelling": "outbreak",
+      "ipa": "/ˈaʊtbreɪk/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "爆发；（疾病的）突然发作"
+        }
+      ],
+      "mnemonic": "短语 break out（暴发）。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "在考研英语写作中，当描述一些社会现象、问题或事件时，可用到“outbreak”这个词。例如，在探讨公共卫生问题时，可以写： Measures should be taken to prevent the outbreak of infectious diseases. 应该采取措施预防传染病的暴发。"
+        }
+      ]
+    },
+    {
+      "spelling": "trust",
+      "ipa": "/ˈtrʌst/",
+      "senses": [
+        {
+          "pos": "vt./n.",
+          "meaning_cn": "信任；委托"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "信托（财产、基金、机构）"
+        }
+      ],
+      "mnemonic": "基于信任（trust），他将财产委托（trust）给专业的信托机构（trust）管理。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "辨析",
+          "label_raw": "区分",
+          "body": "trust 和 believe 表示“相信某人”时，含义并不完全相同： I trust you. 我相信你这个人。→ trustworthy adj. 值得信任的（形容人） I believe you. 我相信你说的话、做的事。→ believable adj. 可信的（形容事）"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "trust 作名词，可以表示“信托财产、信托机构、信托基金”, 常考，但通常不会影响做题。 【2018 年英语（一）】 Ms Denham chose to concentrate the blame on the NHS trust. 丹汉姆女士选择将责任归咎于国民医疗服务体系信托机构。"
+        },
+        {
+          "marker": "③",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "entrust vt. 委托 distrust vt./n. 不信任"
+        }
+      ]
+    },
+    {
+      "spelling": "mandate",
+      "ipa": "/ˈmændeɪt/",
+      "senses": [
+        {
+          "pos": "v./n.",
+          "meaning_cn": "强制规定，强制执行"
+        }
+      ],
+      "mnemonic": "mand- 表示“命令”, 命令是必须要遵从的，即强制规定、强制执行 (mandate)。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该词动词词性和名词词性均有所考查 动词:【2023 年英语 (一)】 The bill mandates they carry insurance. 该法案规定他们携带保险。 名词:【2020 年英语（一）】 But are such government mandates even necessary? 但这样的政府强制规定真的有必要吗？"
+        }
+      ]
+    },
+    {
+      "spelling": "contract",
+      "ipa": "/ˈkɑːntrækt/ /kənˈtrækt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "合同"
+        },
+        {
+          "pos": "vi.",
+          "meaning_cn": "订合同"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "使收缩"
+        }
+      ],
+      "mnemonic": "con-（到一起）+ tract-（抽、拉、拽）→拉着双方到一起，签合同。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该词常考查“合同”的意思 【2017 年英语（一）】 Proof must be made of concrete benefits, such as approval of a contract or regulation. 必须拿出证据证明存在具体的好处，比如合同或法规的批准。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "contraction n. 收缩"
+        },
+        {
+          "marker": "③",
+          "kind": "辨析",
+          "label_raw": "近义词",
+          "body": "compact vt. 使紧凑，压缩 adj. 紧凑的 n. 合同 compress v. 压缩，浓缩"
+        },
+        {
+          "marker": "④",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "翻译题考过 social contract，通常翻译成“社会契 约”，而不是“社会合同”。 【1997 年翻译】"
+        }
+      ]
+    },
+    {
+      "spelling": "extract",
+      "ipa": "/ɪkˈstrækt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "提炼；提取；取出，拔出；摘录；索取，设法得到；获得"
+        }
+      ],
+      "mnemonic": "ex-（外）+ tract-（抽、拉、拽）→ 拉出来、 拽出来。",
+      "notes": [
+        {
+          "marker": "•",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "只需要记住 extract 表示“拉出来、拽出来”，就可以理解考研文章。 常考释义：提取 【2022 年英语（一）】 The data points extracted from our studies do not, in any way, discount what is learned in a zoo visit. 从我们的研究中“拽出”的数据点丝毫不会低估我们在动物园参观中所学到的东西的价值。 常考释义：拔（牙） 【2008 年】 So he hired a dentist to transplant nine teeth into his jaw—having extracted them from the mouths of his slaves."
+        }
+      ]
+    },
+    {
+      "spelling": "abstract",
+      "ipa": "/ˈæbstrækt/ /æbˈstrækt/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "抽象的"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "使抽象；提取；抽取"
+        },
+        {
+          "pos": "n.",
+          "meaning_cn": "摘要"
+        }
+      ],
+      "mnemonic": "ab-（离开）+ tract-（抽、拉、拽）→ 抽离。 1. 从现实中抽离 → 抽象; 2. 抽离出来 → 抽取；提取； 3. 将文中重要的点抽离出来，放在论文的开始 → 摘要。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该词常考查“抽象的”含义 【2011 年英语（二）】 They shared some characteristics of abstract art. 他们具有抽象艺术的一些特征。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "abstraction n. 抽象；提取；抽取 abstractly adv. 抽象地"
+        }
+      ]
+    },
+    {
+      "spelling": "summary",
+      "ipa": "/ˈsʌməri/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "总结，概要"
+        }
+      ],
+      "mnemonic": "sum（汇总）+m+-ary（名词后缀）→ 把内容汇总到一起 → 总结、概括。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "派生",
+          "label_raw": "派生词",
+          "body": "summarize vt. 总结，概括"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "",
+          "body": "该单词是阅读主旨题常见题目标志。 【2024 年英语（一）】 Which of the following best summarizes the last two paragraphs? 下列哪项最好地总结了最后两段的内容？"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L9-01",
+      "kind": "single",
+      "stem": "Perhaps most importantly, these images ____ documentary evidence that later made its way to government officials.",
+      "options": [
+        "emitted",
+        "provided",
+        "extracted",
+        "shared"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "provide",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L9-02",
+      "kind": "single",
+      "stem": "The climate change we are hastening could one day leave us with forests that ____ more carbon than they absorb.",
+      "options": [
+        "confer",
+        "deliver",
+        "emit",
+        "transmit"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "emit",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L9-03",
+      "kind": "single",
+      "stem": "When people place their trust in an individual, their brains ____ oxytocin, a hormone.",
+      "options": [
+        "erupt",
+        "abstract",
+        "mandate",
+        "release"
+      ],
+      "answer": 3,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "release",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L9-04",
+      "kind": "single",
+      "stem": "But in addition to those ____ coworkers, you should expand your horizons and find out about all the people around you.",
+      "options": [
+        "trusted",
+        "shared",
+        "contracted",
+        "erupted"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "trust",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L9-05",
+      "kind": "single",
+      "stem": "But under anti-bribery laws, proof must be made of concrete benefits, such as approval of a ____ or regulation.",
+      "options": [
+        "extract",
+        "contract",
+        "abstract",
+        "outbreak"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "contract",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L9-06",
+      "kind": "single",
+      "stem": "After reading the complex research paper, the professor asked the students to provide a concise ____ that highlighted the main arguments and findings.",
+      "options": [
+        "analysis",
+        "criticism",
+        "summary",
+        "opinion"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "summary",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L9-07",
+      "kind": "fill",
+      "stem": "____ (give) the advantages of electronic money, you might think that we would move quickly to the cashless society.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "given"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "give",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L9-08",
+      "kind": "fill",
+      "stem": "Also missing is any discussion of eliminating Saturday letter ____ (deliver).",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "delivery"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "deliver",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L9-09",
+      "kind": "fill",
+      "stem": "You are supposed to write for the Postgraduates Association a notice to recruit volunteers for an international ____ (confer) on globalization.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "conference"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "confer",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L9-10",
+      "kind": "fill",
+      "stem": "Fluid intelligence is the type of intelligence that has to do with short-term memory and the ability to think quickly, logically, and ____ (abstract) in order to solve new problems.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "abstractly"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "abstract",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L9-11",
+      "kind": "fill",
+      "stem": "Though all the subjects were drawn from a population of European ____ (extract), care was taken to all subjects, friends and strangers, were taken from the same population.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "extraction"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "extract",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L9-12",
+      "kind": "translate_sentence",
+      "stem": "They shared some characteristics of abstract art.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "abstract",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L9-13",
+      "kind": "translate_sentence",
+      "stem": "Protests have erupted over construction of the Thirty Meter Telescope (TMT).",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "erupt",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L9-14",
+      "kind": "translate_sentence",
+      "stem": "The outbreak of swine flu that was first detected in Mexico was declared a global epidemic on June 11, 2009.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "outbreak",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L9-15",
+      "kind": "translate_sentence",
+      "stem": "An inflexible policy mandates that with the exception of some advanced courses, homework may no longer count for more than 10% of a student's academic grade.",
+      "options": [],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "mandate",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}

@@ -1,0 +1,2966 @@
+{
+  "pages": [
+    {
+      "page_idx": 0,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.042,
+            0.03,
+            0.11,
+            0.063
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.124,
+            0.039,
+            0.379,
+            0.057
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.409,
+            0.04,
+            0.512,
+            0.056
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.363,
+            0.087,
+            0.408,
+            0.117
+          ],
+          "content": "",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_3.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.414,
+            0.092,
+            0.636,
+            0.111
+          ],
+          "level": 2,
+          "content": "List 27 想象与展望"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.14,
+            0.233,
+            0.16
+          ],
+          "level": 2,
+          "content": "一、类目联想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.166,
+            0.424,
+            0.184
+          ],
+          "content": "情节发展：意外丢失→深入调查→真相大白"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.099,
+            0.224,
+            0.172,
+            0.24
+          ],
+          "level": 2,
+          "content": "意外丢失"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.242,
+            0.703,
+            0.318
+          ],
+          "content": "林悦发现手机不翼而飞，办公桌面有 evident/apparent/visible（明显的）划痕，她的 vision（远见）让她意识到此事必有蹊跷，脑海中 envisage/visualize/envision（想象）出几种可能情况。去查看监控后，偷窃者与上午来过办公室的快递员身形吻合，explicit（明确的）出入登记时间成了关键线索。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.714,
+            0.194,
+            0.916,
+            0.345
+          ],
+          "sub_type": "natural_image",
+          "content": "Person viewing a video call on a TV in a room (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_9.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.099,
+            0.39,
+            0.173,
+            0.406
+          ],
+          "level": 2,
+          "content": "深入调查"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.409,
+            0.701,
+            0.465
+          ],
+          "content": "林悦立即联系物业 investigate（调查）此事，并 inspect（检查）快递员当天的派送记录。在她 foresee/prospect（预期）中，对方不会轻易承认。通过走访并凭借她的 insight（洞察力），在快递员暂存点找到嫌疑手机，同时也找到了快递员。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.714,
+            0.349,
+            0.916,
+            0.503
+          ],
+          "sub_type": "natural_image",
+          "content": "Interior scene of a traditional Chinese courtyard with a woman holding a tablet and a man standing beside him, no visible text or symbols",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_12.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.099,
+            0.555,
+            0.172,
+            0.571
+          ],
+          "level": 2,
+          "content": "真相大白"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.574,
+            0.701,
+            0.61
+          ],
+          "content": "快递员最终承认一时贪念偷走了林悦的手机。retrospect（回顾）这次经历，快递员也后悔不已并且真诚地向林悦道歉。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.714,
+            0.508,
+            0.916,
+            0.658
+          ],
+          "sub_type": "natural_image",
+          "content": "Two business professionals in a minimalist room, one standing and one kneeling, both wearing high heels (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_0_image_body_15.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.087,
+            0.672,
+            0.231,
+            0.693
+          ],
+          "level": 2,
+          "content": "二、词汇学习"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.72,
+            0.215,
+            0.737
+          ],
+          "content": "vision /'vɪʒn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.74,
+            0.361,
+            0.756
+          ],
+          "content": "n. 视力；视野；影像；远见，愿景"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.097,
+            0.762,
+            0.486,
+            0.818
+          ],
+          "content": "妙记:vis-（看）+-ion（名词后缀）。视力表示能看多远，视野则表示能看多宽；影像是实际看到的东西，远见、愿景则是在脑海中看见未来的东西。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.089,
+            0.827,
+            0.187,
+            0.848
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.854,
+            0.278,
+            0.87
+          ],
+          "content": "①常考释义：远见，愿景"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.873,
+            0.243,
+            0.889
+          ],
+          "content": "【2012 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.894,
+            0.485,
+            0.926
+          ],
+          "content": "Entergy seems to have problems with its business vision."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.72,
+            0.874,
+            0.737
+          ],
+          "content": "Entergy 公司似乎在企业愿景方面存在问题。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.739,
+            0.828,
+            0.756
+          ],
+          "content": "②派生词:visual adj. 看到的；视觉的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.779,
+            0.682,
+            0.793
+          ],
+          "content": "visible /'vɪzəbl/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.798,
+            0.789,
+            0.814
+          ],
+          "content": "adj. 可视的，能看见的; 明显的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.546,
+            0.82,
+            0.92,
+            0.856
+          ],
+          "content": "妙记:vis-（看）+ -ble（= able 能、可以）→ 能看见的 → 可视的。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.537,
+            0.866,
+            0.637,
+            0.887
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.893,
+            0.848,
+            0.909
+          ],
+          "content": "①写作常用:visible 可以表示“明显的”"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.535,
+            0.913,
+            0.92,
+            0.929
+          ],
+          "content": "The visible goal of this activity is to promote cultural"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.058,
+            0.939,
+            0.099,
+            0.954
+          ],
+          "content": "270/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.105,
+            0.937,
+            0.133,
+            0.955
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.136,
+            0.94,
+            0.186,
+            0.954
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 1,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.858,
+            0.0,
+            0.965,
+            0.037
+          ],
+          "content": "Chapter 2\n考点词<"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.072,
+            0.057,
+            0.272,
+            0.072
+          ],
+          "content": "exchange between students."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.075,
+            0.42,
+            0.092
+          ],
+          "content": "此活动的明确目标是促进学生间的文化交流。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.095,
+            0.152,
+            0.111
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.114,
+            0.331,
+            0.131
+          ],
+          "content": "invisible adj. 不可视的，看不见的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.155,
+            0.233,
+            0.169
+          ],
+          "content": "evident /'evɪdənt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.174,
+            0.233,
+            0.19
+          ],
+          "content": "adj. 显著的，明显的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.197,
+            0.474,
+            0.233
+          ],
+          "content": "妙记：e- = ex-(out) + vid- = vis-(看) + ent(具有……性质的) → 看得出来的 → 明显的。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.244,
+            0.17,
+            0.266
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.273,
+            0.232,
+            0.289
+          ],
+          "content": "①常考释义：明显的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.293,
+            0.227,
+            0.31
+          ],
+          "content": "【2025 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.315,
+            0.413,
+            0.33
+          ],
+          "content": "The emotional understanding was very evident."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.334,
+            0.223,
+            0.35
+          ],
+          "content": "情感理解非常明显。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.355,
+            0.151,
+            0.371
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.375,
+            0.374,
+            0.392
+          ],
+          "content": "evidence n. 证据 vt. 证明，表明，体现"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.396,
+            0.408,
+            0.413
+          ],
+          "content": "self-evident adj. 显而易见的；不证自明的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.417,
+            0.471,
+            0.453
+          ],
+          "content": "③ evidence 可以作动词表示证明、表明、体现，只考过一次。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.458,
+            0.227,
+            0.474
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.48,
+            0.474,
+            0.516
+          ],
+          "content": "There is no doubt that gardens evidence an irrepressible urge to create, express, fashion, and beautify."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.52,
+            0.473,
+            0.557
+          ],
+          "content": "毫无疑问，花园体现了人类创造、表达、塑造和美化环境的无法抑制的欲望。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.08,
+            0.581,
+            0.259,
+            0.598
+          ],
+          "content": "apparent /əˈpærənt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.081,
+            0.601,
+            0.168,
+            0.617
+          ],
+          "content": "adj. 明显的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.624,
+            0.474,
+            0.682
+          ],
+          "content": "妙记：它是 appear（出现、显现）的形容词衍生形式，显现（appear）出来之后，就会变得明显（apparent）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.072,
+            0.691,
+            0.17,
+            0.712
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.72,
+            0.474,
+            0.755
+          ],
+          "content": "①写作常用句型:It's increasingly apparent that... 越发明显的是……"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.76,
+            0.474,
+            0.816
+          ],
+          "content": "It's increasingly apparent that climate change is linked not only to environmental factors but also to global economic inequality."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.819,
+            0.473,
+            0.856
+          ],
+          "content": "越发明显的是，气候变化不仅与环境因素相关，还与全球经济不平等相关。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.071,
+            0.859,
+            0.151,
+            0.876
+          ],
+          "content": "②近义词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.07,
+            0.88,
+            0.264,
+            0.897
+          ],
+          "content": "conspicuous adj. 明显的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.057,
+            0.609,
+            0.073
+          ],
+          "content": "③派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.077,
+            0.779,
+            0.094
+          ],
+          "content": "apparently adv. 表面上，看起来"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.116,
+            0.696,
+            0.133
+          ],
+          "content": "explicit /ɪkˈsplɪsɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.136,
+            0.763,
+            0.152
+          ],
+          "content": "adj. 直率的；直白的，明确的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.159,
+            0.93,
+            0.195
+          ],
+          "content": "妙记:ex-（外）+ plic-（折叠）+ t → 把想要表达的意思往外折叠，直接说出来 → 直白、直率。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.205,
+            0.629,
+            0.226
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.233,
+            0.674,
+            0.248
+          ],
+          "content": "常考释义：明确的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.253,
+            0.686,
+            0.269
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.273,
+            0.825,
+            0.289
+          ],
+          "content": "Or should they have explicit permission?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.292,
+            0.791,
+            0.308
+          ],
+          "content": "还是说他们应该获得明确的许可？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.337,
+            0.715,
+            0.353
+          ],
+          "content": "visualize /'vɪʒuəlaɪz/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.356,
+            0.787,
+            0.372
+          ],
+          "content": "vt. 可视化，视觉化; 想象，设想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.38,
+            0.932,
+            0.436
+          ],
+          "content": "妙记:visual（视觉的）+ -ize（……化、使……）→视觉化、可视化；使不在眼前的东西被看到，叫作想象。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.447,
+            0.628,
+            0.469
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.476,
+            0.655,
+            0.492
+          ],
+          "content": "常考释义：想象"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.496,
+            0.685,
+            0.513
+          ],
+          "content": "【2024 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.518,
+            0.932,
+            0.554
+          ],
+          "content": "to visualize how the student might come and enrich their campus community"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.558,
+            0.927,
+            0.574
+          ],
+          "content": "想象这个学生会如何来到这里并充实学校的校园生活"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.603,
+            0.706,
+            0.62
+          ],
+          "content": "envisage /ɪnˈvɪzɪdʒ/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.623,
+            0.649,
+            0.638
+          ],
+          "content": "vt. 想象，设想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.536,
+            0.646,
+            0.932,
+            0.683
+          ],
+          "content": "妙记:en-（使）+ vis-（看）+ -age（动词后缀）→使不在眼前的东西被看到，叫作想象。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.527,
+            0.693,
+            0.628,
+            0.714
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.527,
+            0.722,
+            0.735,
+            0.739
+          ],
+          "content": "区分:visualize & envisage"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.741,
+            0.93,
+            0.778
+          ],
+          "content": "visualize 侧重指在脑海中浮现出某一图像，引申出“想象”的意思。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.782,
+            0.877,
+            0.798
+          ],
+          "content": "He described the place and I tried to visualize it."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.801,
+            0.93,
+            0.837
+          ],
+          "content": "他把那个地方描绘了一遍，我尝试在心中想象那幅图景。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.841,
+            0.922,
+            0.858
+          ],
+          "content": "envisage 多用于对未来发生的“想象”或“展望”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.862,
+            0.93,
+            0.896
+          ],
+          "content": "No one can envisage the consequences of a total nuclear war."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.899,
+            0.923,
+            0.916
+          ],
+          "content": "没有人能想象一场全面核战争的后果会是什么样子。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.83,
+            0.936,
+            0.882,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.884,
+            0.936,
+            0.914,
+            0.953
+          ],
+          "content": ""
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.919,
+            0.938,
+            0.96,
+            0.952
+          ],
+          "content": "/271"
+        }
+      ]
+    },
+    {
+      "page_idx": 2,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.048,
+            0.036,
+            0.114,
+            0.069
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.127,
+            0.045,
+            0.379,
+            0.062
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.407,
+            0.045,
+            0.51,
+            0.062
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.103,
+            0.094,
+            0.252,
+            0.109
+          ],
+          "content": "envision /ɪnˈvɪʒn/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.103,
+            0.112,
+            0.262,
+            0.127
+          ],
+          "content": "vt. 想象，设想; 展望"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.102,
+            0.133,
+            0.482,
+            0.188
+          ],
+          "content": "妙记:en-（使）+ vis-（看）+ -ion（名词后缀）→使不在眼前的东西被看到，叫作想象，构词逻辑与 envisage 相似。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.095,
+            0.198,
+            0.191,
+            0.219
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.093,
+            0.225,
+            0.216,
+            0.24
+          ],
+          "content": "常考释义：设想"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.244,
+            0.245,
+            0.26
+          ],
+          "content": "【2013 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.263,
+            0.482,
+            0.299
+          ],
+          "content": "Congress has always envisioned joint federal-state immigration enforcement."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.091,
+            0.301,
+            0.449,
+            0.318
+          ],
+          "content": "国会一直设想联邦与州联合起来执行移民任务。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.101,
+            0.34,
+            0.304,
+            0.357
+          ],
+          "content": "investigate / m'vestigeit/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.102,
+            0.359,
+            0.262,
+            0.375
+          ],
+          "content": "vt. 检查，调查；研究"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.101,
+            0.381,
+            0.482,
+            0.436
+          ],
+          "content": "妙记:in-（里）+ ves- = vis-（看）+ -ate（动词后缀）→ 往里看 → 过安检时，检查行李，需要往行李里面看。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.224,
+            0.442,
+            0.351,
+            0.533
+          ],
+          "sub_type": "text_image",
+          "content": "Street photo showing a person interacting with a touchscreen display at a station, with visible signage and a person in the background.",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_14.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.093,
+            0.536,
+            0.191,
+            0.558
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.09,
+            0.563,
+            0.235,
+            0.579
+          ],
+          "content": "①常考释义：调查"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.582,
+            0.244,
+            0.598
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.601,
+            0.417,
+            0.617
+          ],
+          "content": "They study, investigate and criticize societies."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.619,
+            0.312,
+            0.635
+          ],
+          "content": "他们研究、调查和批评社会。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.089,
+            0.638,
+            0.171,
+            0.653
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.656,
+            0.353,
+            0.672
+          ],
+          "content": "investigation n. 检查，调查; 研究"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.674,
+            0.482,
+            0.709
+          ],
+          "content": "investigation 表示“科学研究”，即用科学的方法进行调查"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.711,
+            0.171,
+            0.727
+          ],
+          "content": "【1993 年】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.73,
+            0.482,
+            0.782
+          ],
+          "content": "The method of scientific investigation is nothing but the expression of the necessary mode of working of the human mind."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.785,
+            0.482,
+            0.82
+          ],
+          "content": "科学研究方法不过是对于人类思维运作的必要模式的表现。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.1,
+            0.842,
+            0.248,
+            0.858
+          ],
+          "content": "inspect /ɪnˈspekt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.1,
+            0.861,
+            0.209,
+            0.876
+          ],
+          "content": "vt. 检查，调查"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.1,
+            0.883,
+            0.469,
+            0.918
+          ],
+          "content": "妙记：in-(里)+ spect-(看) → 往里看 → 过安检时，检查行李，需要往行李里面看。"
+        },
+        {
+          "type": "image",
+          "bbox": [
+            0.662,
+            0.091,
+            0.791,
+            0.182
+          ],
+          "sub_type": "natural_image",
+          "content": "Person in white uniform and black vest examining a rocky cliff face (no visible text or symbols)",
+          "captions": [],
+          "footnotes": [],
+          "image_source": "images/page_2_image_body_29.jpg"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.186,
+            0.629,
+            0.207
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.213,
+            0.674,
+            0.229
+          ],
+          "content": "①常考释义：检查"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.232,
+            0.684,
+            0.248
+          ],
+          "content": "【2021 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.252,
+            0.739,
+            0.268
+          ],
+          "content": "Are they carefully inspected?"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.27,
+            0.682,
+            0.286
+          ],
+          "content": "仔细检查他们了吗？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.29,
+            0.611,
+            0.305
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.309,
+            0.722,
+            0.325
+          ],
+          "content": "inspection n. 检查，调查"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.328,
+            0.815,
+            0.345
+          ],
+          "content": "inspector n. 检查人员；【法】检察官"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.368,
+            0.677,
+            0.384
+          ],
+          "content": "insight / 'ɪnsaɪt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.386,
+            0.796,
+            0.403
+          ],
+          "content": "n. 洞悉，洞察，洞察力; 深刻见解"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.409,
+            0.905,
+            0.445
+          ],
+          "content": "妙记：in-（里）+ sight（看）→ 往里看 → 往里看，\n越看越深入，就是洞察。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.455,
+            0.629,
+            0.477
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.483,
+            0.911,
+            0.499
+          ],
+          "content": "① insight 可以表示“深刻见解”，即往里看，看得很深。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.502,
+            0.682,
+            0.518
+          ],
+          "content": "【2023 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.522,
+            0.906,
+            0.556
+          ],
+          "content": "Crone's study provides a new insight into adolescence. 克罗恩的研究为青春期现象提供了新的深刻见解。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.56,
+            0.61,
+            0.575
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.579,
+            0.751,
+            0.596
+          ],
+          "content": "insightful adj. 富于洞察力的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.618,
+            0.864,
+            0.635
+          ],
+          "content": "prospect /'pra:spekt/ (n.) /prə'spekt/ (vt.)"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.637,
+            0.663,
+            0.653
+          ],
+          "content": "n. 前景 vt. 预期"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.659,
+            0.858,
+            0.676
+          ],
+          "content": "妙记:pro-（前）+ spect-（看）→往前看。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.679,
+            0.836,
+            0.695
+          ],
+          "content": "1. 往前看，看未来会发生什么 → 预期；"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.541,
+            0.698,
+            0.783,
+            0.714
+          ],
+          "content": "2. 往前看，看到的景象 → 前景。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.532,
+            0.723,
+            0.629,
+            0.745
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.751,
+            0.912,
+            0.787
+          ],
+          "content": "① prospect 的翻译非常灵活，但归根结底，都是“往前看”或“往前看看到的东西”。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.79,
+            0.683,
+            0.806
+          ],
+          "content": "【2011 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.53,
+            0.809,
+            0.791,
+            0.825
+          ],
+          "content": "前途：往前看，看人生未来会怎样"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.828,
+            0.914,
+            0.882
+          ],
+          "content": "If circumstances always determined the life and prospects of people, then humanity would never have progressed."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.529,
+            0.885,
+            0.912,
+            0.92
+          ],
+          "content": "如果总是环境决定人们的生活和前途，那人类将永远不会进步。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.06,
+            0.939,
+            0.102,
+            0.954
+          ],
+          "content": "272/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.107,
+            0.938,
+            0.134,
+            0.955
+          ],
+          "content": "#"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.137,
+            0.94,
+            0.186,
+            0.954
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 3,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.848,
+            0.026,
+            0.952,
+            0.063
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.081,
+            0.233,
+            0.098
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.101,
+            0.397,
+            0.117
+          ],
+          "content": "可能（性）:往前看，看未来可能发生什么"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.121,
+            0.474,
+            0.155
+          ],
+          "content": "Is there any chance that Cardus's criticism will enjoy a revival? The prospect seems remote."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.158,
+            0.473,
+            0.192
+          ],
+          "content": "卡杜斯（Cardus）的评论能否重获关注呢？可能性似乎微乎其微。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.196,
+            0.158,
+            0.211
+          ],
+          "content": "②派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.215,
+            0.35,
+            0.232
+          ],
+          "content": "prospective adj. 预期的；有前景的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.086,
+            0.254,
+            0.278,
+            0.269
+          ],
+          "content": "retrospect /'retrəspekt/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.273,
+            0.144,
+            0.288
+          ],
+          "content": "n. 回顾"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.296,
+            0.472,
+            0.312
+          ],
+          "content": "妙记：retro-（回）+ spect-（看）→ 往回看 → 回顾。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.08,
+            0.322,
+            0.175,
+            0.343
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.35,
+            0.308,
+            0.365
+          ],
+          "content": "固定搭配:in retrospect 回顾"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.369,
+            0.231,
+            0.385
+          ],
+          "content": "【2010 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.39,
+            0.426,
+            0.405
+          ],
+          "content": "Raising a child can bring happiness in retrospect."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.079,
+            0.408,
+            0.387,
+            0.424
+          ],
+          "content": "养孩子的过程在回顾的时候会带来快乐。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.087,
+            0.448,
+            0.225,
+            0.462
+          ],
+          "content": "foresee /fɔːrˈsiː/"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.088,
+            0.467,
+            0.197,
+            0.482
+          ],
+          "content": "vt. 预期，预见"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.082,
+            0.918,
+            0.117
+          ],
+          "content": "妙记:fore-（前）+ see（看）→ 往前看 → 预期、预见。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.127,
+            0.624,
+            0.147
+          ],
+          "level": 2,
+          "content": "考点点拨"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.524,
+            0.155,
+            0.588,
+            0.169
+          ],
+          "content": "派生词："
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.174,
+            0.778,
+            0.189
+          ],
+          "content": "foresight n. 深谋远虑，先见之明"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.194,
+            0.726,
+            0.209
+          ],
+          "content": "foreseeable adj. 可预见的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.212,
+            0.679,
+            0.228
+          ],
+          "content": "【2017 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.232,
+            0.92,
+            0.266
+          ],
+          "content": "There are signs that the global predominance of English may fade within the foreseeable future."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.269,
+            0.919,
+            0.305
+          ],
+          "content": "有迹象表明，在可预见的未来，英语在全球范围内的主导地位可能会有所减弱。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.309,
+            0.789,
+            0.324
+          ],
+          "content": "unforeseen adj. 未预见的，意外的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.327,
+            0.68,
+            0.343
+          ],
+          "content": "【2021 年英语（二）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.521,
+            0.348,
+            0.921,
+            0.382
+          ],
+          "content": "Setting targets can and does have unforeseen negative consequences."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.385,
+            0.915,
+            0.402
+          ],
+          "content": "设定目标可能会而且确实会产生意想不到的负面后果。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.405,
+            0.86,
+            0.421
+          ],
+          "content": "foresighted adj. 深谋远虑的，有先见之明的"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.423,
+            0.68,
+            0.44
+          ],
+          "content": "【2016 年英语（一）】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.522,
+            0.444,
+            0.801,
+            0.46
+          ],
+          "content": "The move turned out to be foresighted."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.523,
+            0.463,
+            0.782,
+            0.479
+          ],
+          "content": "这一举措被证明是有先见之明的。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.078,
+            0.503,
+            0.221,
+            0.523
+          ],
+          "level": 2,
+          "content": "三、试题自测"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.078,
+            0.539,
+            0.17,
+            0.555
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.078,
+            0.565,
+            0.922,
+            0.6
+          ],
+          "content": "1. You have the importation of terminology that historically used to be associated with non-profit organizations and religious organizations: terms like \\_\\_\\_\\_, values, passion, and purpose."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.101,
+            0.604,
+            0.189,
+            0.62
+          ],
+          "content": "A. profits"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.332,
+            0.604,
+            0.419,
+            0.617
+          ],
+          "content": "B. visions"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.539,
+            0.604,
+            0.639,
+            0.617
+          ],
+          "content": "C. evidence"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.779,
+            0.604,
+            0.868,
+            0.619
+          ],
+          "content": "D. respect"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.628,
+            0.92,
+            0.663
+          ],
+          "content": "2. It is this implicit or \\_\\_\\_\\_ reference to nature that fully justifies the use of the word garden, though in a “liberated” sense, to describe these synthetic constructions."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.101,
+            0.668,
+            0.195,
+            0.684
+          ],
+          "content": "A. explicit"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.331,
+            0.668,
+            0.449,
+            0.681
+          ],
+          "content": "B. foreseeable"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.668,
+            0.658,
+            0.683
+          ],
+          "content": "C. prospective"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.779,
+            0.668,
+            0.885,
+            0.683
+          ],
+          "content": "D. insightful"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.077,
+            0.693,
+            0.574,
+            0.708
+          ],
+          "content": "3. The researchers \\_\\_\\_\\_ one class session's impact on eating meat."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.101,
+            0.712,
+            0.208,
+            0.728
+          ],
+          "content": "A. inspected"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.331,
+            0.713,
+            0.445,
+            0.727
+          ],
+          "content": "B. prospected"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.713,
+            0.653,
+            0.725
+          ],
+          "content": "C. envisioned"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.779,
+            0.713,
+            0.901,
+            0.727
+          ],
+          "content": "D. investigated"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.737,
+            0.92,
+            0.771
+          ],
+          "content": "4. Either Entergy never really intended to live by those commitments, or it simply didn't\\_\\_\\_\\_what would happen next."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.101,
+            0.776,
+            0.185,
+            0.79
+          ],
+          "content": "A. intend"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.33,
+            0.776,
+            0.432,
+            0.791
+          ],
+          "content": "B. highlight"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.54,
+            0.776,
+            0.627,
+            0.789
+          ],
+          "content": "C. foresee"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.779,
+            0.776,
+            0.87,
+            0.789
+          ],
+          "content": "D. achieve"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.076,
+            0.802,
+            0.169,
+            0.818
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.827,
+            0.92,
+            0.863
+          ],
+          "content": "1. Even though there is plenty of \\_\\_\\_\\_ (evident) that the quality of the teachers is the most important variable, teachers' unions have fought against getting rid of bad ones and promoting good ones."
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.076,
+            0.871,
+            0.828,
+            0.888
+          ],
+          "content": "2. Is there some common factor that underlies these \\_\\_\\_\\_ (apparent) contradictory developments?"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.819,
+            0.935,
+            0.9,
+            0.952
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.91,
+            0.937,
+            0.947,
+            0.951
+          ],
+          "content": "/273"
+        }
+      ]
+    },
+    {
+      "page_idx": 4,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.019,
+            0.03,
+            0.091,
+            0.063
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.106,
+            0.038,
+            0.371,
+            0.056
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.405,
+            0.038,
+            0.513,
+            0.055
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.067,
+            0.086,
+            0.934,
+            0.188
+          ],
+          "sub_type": "text",
+          "content": "3. The framers of the Constitution ever \\_\\_\\_\\_ (envision) law as having authority apart from politics.\n4. Watch people get on and show their tickets.Are they carefully \\_\\_\\_\\_ (inspect)? Never. Do people get on without paying?\n5. It's no surprise that Jennifer Senior's\\_\\_\\_\\_ (insight), provocative magazine cover story, \"I love My Children, I Hate My Life\" is arousing much chatter."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.067,
+            0.199,
+            0.169,
+            0.215
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.07,
+            0.226,
+            0.146,
+            0.242
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.067,
+            0.251,
+            0.934,
+            0.734
+          ],
+          "sub_type": "text",
+          "content": "1. Students need to have that quality that will appeal to admissions officers and allow them to visualize how the student might come and enrich their campus community.\n2. How do archaeologists know where to find what they are looking for when there is nothing visible on the surface of the ground?\n3. As to the prospects for federal legislation, commentators suggest that comprehensive federal privacy legislation seems unlikely in the short term.\n4. Most scientists envisage a future where renewable energy sources will completely replace fossil fuels, but the transition requires global cooperation and technological innovation.\n5. In retrospect, the decisions made during the company's initial stage not only determined its development trajectory but also laid a solid foundation for its current global dominance."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.457,
+            0.791,
+            0.56,
+            0.811
+          ],
+          "level": 2,
+          "content": "参考答案"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.067,
+            0.832,
+            0.166,
+            0.849
+          ],
+          "level": 2,
+          "content": "(1) 单多选"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.863,
+            0.117,
+            0.876
+          ],
+          "content": "1. B."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.067,
+            0.88,
+            0.13,
+            0.896
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.069,
+            0.899,
+            0.479,
+            0.914
+          ],
+          "content": "句意：你引入了一些历史上通常与非营利组织和宗"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.834,
+            0.934,
+            0.867
+          ],
+          "continues_prev": true,
+          "content": "教组织相关的术语，诸如:\\_\\_\\_\\_、价值观、激情和目标等词汇。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.532,
+            0.87,
+            0.934,
+            0.922
+          ],
+          "content": "考点：名词辨析及上下文逻辑。空格处的词与“values”（价值观）、“passion”（激情）、“purpose”（目标）由“and”连接，为并列关系，因此必须属于同"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.036,
+            0.937,
+            0.079,
+            0.952
+          ],
+          "content": "274/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.084,
+            0.935,
+            0.114,
+            0.952
+          ],
+          "content": ""
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.117,
+            0.938,
+            0.168,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    },
+    {
+      "page_idx": 5,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.848,
+            0.029,
+            0.952,
+            0.066
+          ],
+          "content": "Chapter 2\n考点词"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.086,
+            0.474,
+            0.213
+          ],
+          "continues_prev": true,
+          "content": "一语义场，均为描述组织愿景和文化的抽象积极名词。A. profits（利润）是营利组织的核心目标，与非营利组织的特征完全相反。B. visions（愿景，远见）与“价值观、激情、目标”等同属构建组织文化的核心抽象概念，符合语境。C. evidence（证据）和 D. respect（尊重）均无法与并列的词汇形成有效呼应。故选 B.。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.229,
+            0.127,
+            0.242
+          ],
+          "level": 2,
+          "content": "2. A."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.246,
+            0.138,
+            0.262
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.264,
+            0.474,
+            0.316
+          ],
+          "content": "句意：正是这种对自然含蓄或\\_\\_\\_\\_的指涉，使得用“花园”一词——尽管是一种“被解放”的语义——来描述这些人造建筑变得完全合理。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.319,
+            0.475,
+            0.483
+          ],
+          "content": "考点：形容词辨析及上下文逻辑。由连接词“or”可知，空格处的词与“implicit”（含蓄的）形成并列选择关系，词义应与之相近或相反。A. explicit（明确的，直白的）与“implicit”构成一对反义词，表示“无论是含蓄的还是明确的指涉”，覆盖了所有情况，最符合逻辑。B. foreseeable（可预见的）、C. prospective（预期的）和 D. insightful（富有洞察力的）均无法与“implicit”形成有效的并列或对比关系。故选 A.。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.498,
+            0.127,
+            0.512
+          ],
+          "level": 2,
+          "content": "3. D."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.515,
+            0.138,
+            0.531
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.534,
+            0.475,
+            0.716
+          ],
+          "content": "句意：研究人员 \\_\\_\\_\\_ 了单次课程对吃肉行为的影响。考点：动词辨析及动宾搭配。空格后的宾语为“impact”（影响），需要一个与之搭配的动词，表示“研究、调查”这一影响。A. inspected（检查，视察）指仔细查看以发现错误，通常用于具体物品或设施。B. prospected（勘探，勘察）常指矿藏勘探。C. envisioned（想象，展望）指在脑中构想未来。D. investigated（调查，研究）指为了发现事实或真理而进行系统的探究，与“研究……的影响”完美搭配。故选 D.。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.731,
+            0.127,
+            0.745
+          ],
+          "level": 2,
+          "content": "4. C."
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.082,
+            0.748,
+            0.138,
+            0.764
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.767,
+            0.461,
+            0.801
+          ],
+          "content": "句意：要么安特吉公司从未真正打算遵守这些承诺，要么它根本就没有\\_\\_\\_\\_接下来会发生什么。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.082,
+            0.804,
+            0.475,
+            0.911
+          ],
+          "content": "考点：动词辨析及上下文逻辑。后半句“what would happen next”（接下来会发生什么）提示，空格处的动词应表示“预知、预见”。A. intend（打算）与前半句的“intended”重复，且不接“what would happen”作宾语。B. highlight（强调）与句意无关。C. foresee（预见，预知）直接对应“what would"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.087,
+            0.905,
+            0.121
+          ],
+          "continues_prev": true,
+          "content": "happen next”，是唯一正确答案。D. achieve（实现，达到）与宾语搭配不当。故选 C.。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.131,
+            0.619,
+            0.148
+          ],
+          "level": 2,
+          "content": "(2) 填空题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.163,
+            0.619,
+            0.177
+          ],
+          "level": 2,
+          "content": "1. evidence"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.18,
+            0.584,
+            0.196
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.198,
+            0.918,
+            0.25
+          ],
+          "content": "句意：尽管有大量\\_\\_\\_\\_表明教师素质是最重要的变量，但教师工会却一直反对淘汰不良教师和提拔优秀教师的做法。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.253,
+            0.918,
+            0.324
+          ],
+          "content": "考点：词性转换 (形容词→名词)。空格前有“plenty of” (大量的), 其后应接名词。形容词 evident (明显的) 的名词形式为 evidence (证据), 意为“大量的证据”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.34,
+            0.636,
+            0.356
+          ],
+          "level": 2,
+          "content": "2. apparently"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.357,
+            0.584,
+            0.373
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.375,
+            0.918,
+            0.409
+          ],
+          "content": "句意：是否存在某种共同因素，是这些\\_\\_\\_\\_矛盾的发展趋势背后的根本原因？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.412,
+            0.918,
+            0.483
+          ],
+          "content": "考点：词性转换（形容词→副词）。空格处修饰形容词“contradictory”（矛盾的），因此需要将形容词 apparent（明显的）转换为副词形式 apparently（显然地，表面上），意为“这些表面上矛盾的发展趋势”。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.499,
+            0.634,
+            0.513
+          ],
+          "level": 2,
+          "content": "3. envisioned"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.516,
+            0.584,
+            0.532
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.534,
+            0.918,
+            0.568
+          ],
+          "content": "句意：宪法的制定者们曾 \\_\\_\\_\\_ 法律拥有独立于政治之外的权威。"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.571,
+            0.918,
+            0.642
+          ],
+          "content": "考点：动词时态。句子主语“The framers”是过去的人，且句中有“ever”一词，表示“曾经”，故谓语动词需用过去时。因此将动词 envision（设想）变为其过去式 envisioned。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.658,
+            0.624,
+            0.672
+          ],
+          "level": 2,
+          "content": "4. inspected"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.675,
+            0.584,
+            0.691
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.693,
+            0.918,
+            0.727
+          ],
+          "content": "句意：观察人们上车和出示车票。他们被仔细吗？从来没有。有人不付钱就上车吗？"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.73,
+            0.92,
+            0.802
+          ],
+          "content": "考点：被动语态。空格前为“Are they...”，构成一般疑问句的被动语态结构（be + 过去分词），意为“他们被……吗？”。因此需将动词 inspect（检查）变为其过去分词 inspected。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.525,
+            0.816,
+            0.626,
+            0.832
+          ],
+          "level": 2,
+          "content": "5. insightful"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.523,
+            0.834,
+            0.584,
+            0.849
+          ],
+          "level": 2,
+          "content": "【解析】"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.525,
+            0.852,
+            0.918,
+            0.904
+          ],
+          "content": "句意：詹妮弗·希尼尔\\_\\_\\_\\_、煽动性的杂志封面故事《我爱我的孩子，我恨我的生活》引发了众多议论，这并不出人意料。"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.821,
+            0.934,
+            0.9,
+            0.95
+          ],
+          "content": "研过过"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.909,
+            0.934,
+            0.949,
+            0.949
+          ],
+          "content": "/275"
+        }
+      ]
+    },
+    {
+      "page_idx": 6,
+      "blocks": [
+        {
+          "type": "header",
+          "bbox": [
+            0.048,
+            0.032,
+            0.123,
+            0.065
+          ],
+          "content": "ENG"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.138,
+            0.042,
+            0.413,
+            0.058
+          ],
+          "content": "考研英语"
+        },
+        {
+          "type": "header",
+          "bbox": [
+            0.447,
+            0.04,
+            0.56,
+            0.057
+          ],
+          "content": "高频抢分册"
+        },
+        {
+          "type": "text",
+          "bbox": [
+            0.099,
+            0.088,
+            0.53,
+            0.179
+          ],
+          "content": "考点：词性转换（名词→形容词）。空格处与“provocative”（煽动性的）由逗号隔开，共同修饰名词短语“magazine cover story”，因此需要形容词。名词 insight（洞察力）的形容词形式为 insightful（富有洞察力的）。"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.097,
+            0.189,
+            0.202,
+            0.206
+          ],
+          "level": 2,
+          "content": "(3) 翻译题"
+        },
+        {
+          "type": "paragraph_title",
+          "bbox": [
+            0.1,
+            0.209,
+            0.178,
+            0.223
+          ],
+          "level": 2,
+          "content": "全句翻译"
+        },
+        {
+          "type": "list",
+          "bbox": [
+            0.098,
+            0.226,
+            0.53,
+            0.447
+          ],
+          "sub_type": "text",
+          "content": "1. 学生们需要具备那种能够吸引招生官的特质，并让他们能够想象出这个学生会如何来到这里并充实学校的校园生活。\n2. 当地表没有任何可见痕迹时，考古学家如何知道去哪里寻找他们要找的东西？\n3. 关于联邦立法的前景，评论人士指出，全面的联邦隐私立法在短期内似乎不太可能。\n4. 大多数科学家设想未来可再生能源将完全取代化石燃料，但这一过渡需要全球合作与技术创新。\n5. 回顾往事，该公司初创阶段做出的决策不仅决定了其发展轨迹，也为如今的全球主导地位奠定了坚实基础。"
+        },
+        {
+          "type": "page_number",
+          "bbox": [
+            0.064,
+            0.936,
+            0.111,
+            0.95
+          ],
+          "content": "276/"
+        },
+        {
+          "type": "footer",
+          "bbox": [
+            0.115,
+            0.935,
+            0.203,
+            0.952
+          ],
+          "content": "研过过"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "file_suffix": "pdf",
+    "producer": {
+      "name": "mineru",
+      "version": "4.0.2"
+    },
+    "document": {
+      "created_at": "2026-09-19T19:14:52",
+      "creator_application": "Quark",
+      "producer_application": "QuarkPDFCore",
+      "page_count": 7,
+      "page_count_kind": "physical"
+    }
+  },
+  "extensions": {
+    "mineru": {
+      "tier": "advanced",
+      "parse_mode": "ocr"
+    },
+    "docvortex_layout": {
+      "version": 1,
+      "pages": [
+        {
+          "page_idx": 0,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 1,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 2,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 3,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 4,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 5,
+          "width_pt": 595.0,
+          "height_pt": 843.0
+        },
+        {
+          "page_idx": 6,
+          "width_pt": 595.0,
+          "height_pt": 919.0
+        }
+      ]
+    }
+  },
+  "is_full_document": true
+}

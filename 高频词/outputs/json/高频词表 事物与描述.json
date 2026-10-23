@@ -1,0 +1,7072 @@
+{
+ "theme": "事物与描述",
+ "dir_name": "高频词表 事物与描述",
+ "md_path": "pdf/高频词/outputs/高频词表 事物与描述/markdown.md",
+ "lists": [
+  {
+   "list_no": null,
+   "title": null,
+   "words": []
+  },
+  {
+   "list_no": 77,
+   "title": "性格特征与行为倾向",
+   "words": [
+    {
+     "seq": 1,
+     "spelling": "courage",
+     "spelling_raw": "courage",
+     "ipa_raw": "/'kɜːrɪdʒ/",
+     "mnemonic": "c（联想“can”可以）+ our（我们的）+ age（年纪）→勇气就是不管我们在什么年纪，都相信自己可以做到→勇气，胆量。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "勇气，胆量"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作不可数名词，表示“勇气，胆量”。\n【2014 年英语（一）】\nHis compositions demand the performer to show courage, for example in the use of dynamics.\n他的作品要求演奏者展现出勇气，比如在音量运用方面。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "work up the courage 鼓起勇气\nhave the courage to do sth. 有勇气去做某事"
+      },
+      {
+       "marker": "③",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "courage & bravery\n\\- courage:多应用于心理层面，形容面对危险时内心的勇气；\n\\- bravery:侧重行动而非心理过程，主要体现外在表现的英勇行为。"
+      },
+      {
+       "marker": "④",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "courageous adj. 勇敢的\nencourage v. 鼓励\ndiscourage v. 使气馁；阻止"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2014 年英语（一）】",
+       "year": 2014,
+       "exam": "英语一",
+       "part": null,
+       "en": "His compositions demand the performer to show courage, for example in the use of dynamics.",
+       "cn": "他的作品要求演奏者展现出勇气，比如在音量运用方面。"
+      }
+     ],
+     "list_no": 77,
+     "list_title": "性格特征与行为倾向",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 2,
+     "spelling": "dramatic",
+     "spelling_raw": "dramatic",
+     "ipa_raw": "/drəˈmætɪk/",
+     "mnemonic": "drama（音似“抓马”，抓马的戏剧）戏剧 + -tic 形容词后缀→戏剧性的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "突然的，急剧的，巨大的；激动人心的，引人注目的；戏剧性的，戏剧的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“戏剧的，戏剧艺术的”。\ndramatic performance 戏剧表演"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“突然的，巨大的”，强调变化或效果惊人。\n【2017 年英语（一）】\na dramatic reduction of its scale 规模的大幅缩减\ndramatic landscape 壮观的景色"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“夸张的，激动人心的”，形容行为或情绪。\nShe made a dramatic announcement.\n她发表了一个激动人心的声明。"
+      },
+      {
+       "marker": "④",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "dramatist n. 剧作家\ndramatize v. 戏剧化；夸大"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2017 年英语（一）】",
+       "year": 2017,
+       "exam": "英语一",
+       "part": null,
+       "en": null,
+       "cn": "a dramatic reduction of its scale 规模的大幅缩减 dramatic landscape 壮观的景色"
+      }
+     ],
+     "list_no": 77,
+     "list_title": "性格特征与行为倾向",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 3,
+     "spelling": "fake",
+     "spelling_raw": "fake",
+     "ipa_raw": "/feɪk/",
+     "mnemonic": "音似“复刻”→复刻的东西是假的→假货，赝品。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "伪造的；虚假的，做作的；不真实的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "假货，赝品；骗子，冒充者；假动作"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "伪造；假装，佯装"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "作形容词，表示“虚假的”，强调非真实性。\nfake fur 人造毛皮\n【2023 年英语（二）】\nIn response to another petition last year about banning fake lawns, the government responded that it has“no plans to ban the use of artificial grass”.\n针对去年另一份关于禁止使用假草坪的请愿书，政府回应称“我们目前没有禁止使用人造草坪的计划”。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作名词，表示“假货；骗子；假动作”。\nhead fake 假动作"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作动词，表示“伪造；假装”。\nFake it until you make it.\n先假装能做到，直到真的做到。"
+      },
+      {
+       "marker": "④",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "faker n.伪造者；骗子\nfakery n.伪造行为 (不可数);伪造物，假货 (可数)\nfaked adj. 伪造的"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语（二）】",
+       "year": 2023,
+       "exam": "英语二",
+       "part": null,
+       "en": "In response to another petition last year about banning fake lawns, the government responded that it has “no plans to ban the use of artificial grass”.",
+       "cn": "针对去年另一份关于禁止使用假草坪的请愿书，政府回应称“我们目前没有禁止使用人造草坪的计划”。"
+      }
+     ],
+     "list_no": 77,
+     "list_title": "性格特征与行为倾向",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 4,
+     "spelling": "friendly",
+     "spelling_raw": "friendly",
+     "ipa_raw": "/'frendli/",
+     "mnemonic": "friend（朋友）+ -ly（形容词后缀，如……的）→如朋友一样的人→友好的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "友好的；便利的，易于使用的；无害的；友军的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "修饰人时，表示“友好的，友善的”；修饰物时，表示“便利的；易于使用的”。\ndisabled-friendly 便利残疾人的\n【2020 年英语（一）】\nIn a social situation, eye contact with another person can show that you are paying attention in a friendly way.\n在社交场合中，与他人进行眼神交流能够以一种友好的方式表明你正在全神贯注地倾听。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "在环保话题中，表示“无害的；有利的”。\nenvironmentally friendly 环保的"
+      },
+      {
+       "marker": "③",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "在军事背景中，表示“友军的”。\nfriendly fire 友军误伤"
+      },
+      {
+       "marker": "④",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "friendliness n. 友好，亲切"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语（一）】",
+       "year": 2020,
+       "exam": "英语一",
+       "part": null,
+       "en": "In a social situation, eye contact with another person can show that you are paying attention in a friendly way.",
+       "cn": "在社交场合中，与他人进行眼神交流能够以一种友好的方式表明你正在全神贯注地倾听。"
+      }
+     ],
+     "list_no": 77,
+     "list_title": "性格特征与行为倾向",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 5,
+     "spelling": "genuine",
+     "spelling_raw": "genuine",
+     "ipa_raw": "/'dʒenjum/",
+     "mnemonic": "genu（联想“gene”基因）+in（里面）+e→只有刻在基因里面的东西才是真的，无法伪造的→真正的，非伪造的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "真正的，非伪造的; 真诚的，可信赖的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“真正的，非伪造的”，与 fake 相对。\ngenuine article 真品，正品\n【2022 年英语（一）】\nBut a genuine partnership must be a two-way street.\n但真正的伙伴关系必须是双向的。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "形容情感时，表示“真诚的，诚恳的”。\ngenuine concern 真诚的关心"
+      },
+      {
+       "marker": "③",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "genuine & authentic\n\\- genuine: 强调内在真实性，指本质真实;\n\\- authentic:侧重来源可靠，强调权威认证的真实。"
+      },
+      {
+       "marker": "④",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "genuineness n. 真诚；真实性\ningenuous adj. 天真坦率的"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语（一）】",
+       "year": 2022,
+       "exam": "英语一",
+       "part": null,
+       "en": "But a genuine partnership must be a two-way street.",
+       "cn": "但真正的伙伴关系必须是双向的。"
+      }
+     ],
+     "list_no": 77,
+     "list_title": "性格特征与行为倾向",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 6,
+     "spelling": "honest",
+     "spelling_raw": "honest",
+     "ipa_raw": "/'a:nɪst/",
+     "mnemonic": "拆分 ho(ne)st, 变成 host（主人）+ ne（呢）→ 主人问你“为什么呢”的时候，请务必给出诚实的回答→诚实的，正直的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "诚实的，正直的；坦诚的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“诚实的，正直的”。\n【2017 年英语（二）】\nto be honest  说实话"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "（经济术语）足值的\nhonest money 足值货币"
+      },
+      {
+       "marker": "③",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "make an honest mistake 无心之失\nearn an honest living 正经营生"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2017 年英语（二）】",
+       "year": 2017,
+       "exam": "英语二",
+       "part": null,
+       "en": null,
+       "cn": "to be honest  说实话"
+      }
+     ],
+     "list_no": 77,
+     "list_title": "性格特征与行为倾向",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 7,
+     "spelling": "intimate",
+     "spelling_raw": "intimate",
+     "ipa_raw": "/'ɪntɪmət/",
+     "mnemonic": "inti（音似“婴啼”）+ mate（伙伴；同伴）→一起有婴儿的伙伴，关系是亲密的→亲密的；紧密的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "亲密的；紧密的；有性关系的；隐私的；温馨的；精通的"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "提示；暗示"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "密友"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "作形容词，表示“亲密的”，引申出名词“密友”。on intimate terms with sb. 与某人关系亲密\nOnly his intimates knew the truth.\n只有他的密友知道真相。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“深入的，精通的”。\nintimate knowledge of 对……的精通"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“私人的，个人的”。\n【2006 年】\nInstead of intimate shops catering to a knowledgeable elite these were stores“anyone could enter”, regardless of class or background.\n这些商店不再是为了迎合那些知识渊博的精英阶层而设立的，而是面向所有人的，任何人都可以进入，不论其社会阶层或背景如何。"
+      },
+      {
+       "marker": "④",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作动词，表示“暗示，示意”或“通知，宣布”。The committee intimated its decision to the public.委员会向公众通报了其决定。"
+      },
+      {
+       "marker": "⑤",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "形近词辨析\n- imitate v. 模仿;\n- intimidate v. 恐吓。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2006 年】",
+       "year": 2006,
+       "exam": null,
+       "part": null,
+       "en": "Instead of intimate shops catering to a knowledgeable elite these were stores “ anyone could enter ”, regardless of class or background.",
+       "cn": "这些商店不再是为了迎合那些知识渊博的精英阶层而设立的，而是面向所有人的，任何人都可以进入，不论其社会阶层或背景如何。"
+      }
+     ],
+     "list_no": 77,
+     "list_title": "性格特征与行为倾向",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 8,
+     "spelling": "loyal",
+     "spelling_raw": "loyal",
+     "ipa_raw": "/'lɔrəl/",
+     "mnemonic": "对待 royal（王室成员）要 loyal（忠诚的）。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "忠诚的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "作形容词，表示“忠实的，忠诚的”。\nremain/stay loyal to 对……保持忠诚\n【2022 年英语（一）】\nEmployers have long seen the advantages of hiring school leavers who often prove themselves to be more committed and loyal employees than graduates.\n雇主们早就看到了雇佣辍学学生的好处，他们往往能证明自己是比毕业生更坚定和忠诚的员工。"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "loyal & faithful & allegiant\n- loyal: 指制度性忠诚，强调对组织、政党的长期忠诚;\n- faithful: 指情感性忠诚，侧重人际关系中的专一;\n- allegiant: 指法律层面的效忠的，多形容公民义务。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "loyalty n. 忠诚\nloyalist n. 忠臣，效忠者"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语（一）】",
+       "year": 2022,
+       "exam": "英语一",
+       "part": null,
+       "en": "Employers have long seen the advantages of hiring school leavers who often prove themselves to be more committed and loyal employees than graduates.",
+       "cn": "雇主们早就看到了雇佣辍学学生的好处，他们往往能证明自己是比毕业生更坚定和忠诚的员工。"
+      }
+     ],
+     "list_no": 77,
+     "list_title": "性格特征与行为倾向",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 9,
+     "spelling": "mature",
+     "spelling_raw": "mature",
+     "ipa_raw": "/mə'tʃʊr/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "成熟的；慎重的；获得回报的；味道醇厚的"
+      }
+     ],
+     "notes": [],
+     "examples": [],
+     "list_no": 77,
+     "list_title": "性格特征与行为倾向",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 10,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "形似（nature 自然）→ nature（自然界）中",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "变成熟；完善；酿成；期满"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "作形容词，表示“成熟的”；作动词，表示“发育成熟”。\nmature into 发展成……\n【2015 年英语（二）】\nBut it takes collective scrutiny and acceptance to transform a discovery claim into a mature discovery.\n但要将一个发现主张转变为成熟的发现，需要集体的审查和认可。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "形容想法时表示“深思熟虑的”，形容食物时表示“发酵成熟的”。\non mature reflection 经过深思熟虑\nwell-matured cheese 熟成奶酪"
+      },
+      {
+       "marker": "③",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "作动词，表示“（金融）到期”。\nThe bond matures in 2025.\n债券 2025 年到期。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2015 年英语（二）】",
+       "year": 2015,
+       "exam": "英语二",
+       "part": null,
+       "en": "But it takes collective scrutiny and acceptance to transform a discovery claim into a mature discovery.",
+       "cn": "但要将一个发现主张转变为成熟的发现，需要集体的审查和认可。"
+      }
+     ],
+     "list_no": 77,
+     "list_title": "性格特征与行为倾向",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 11,
+     "spelling": "passive",
+     "spelling_raw": "passive",
+     "ipa_raw": "/'pæsɪv/",
+     "mnemonic": "pass (通过) + i (音似“一”) + ve (音似“无”) → 一次都没有通过考试 → 消极的，被动的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "消极的，被动的; 被动语态的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "被动语态形式; 被动语态"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "作形容词，表示“被动的，消极的”。\n【2015 年英语（一）】\nBut they show comprehension to consist not just of passive assimilation but of active engagement in inference and problem-solving.\n但它们表明理解不仅包括被动同化，还包括积极参与推理和解决问题。"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "作形容词，表示“被动语态的”；作名词，表示“被动语态”。\npassive voice 被动语态\nThis sentence is in the passive.\n此句为被动语态。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "passivity n. 被动性（不可数）\npassively adv. 被动地"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2015 年英语（一）】",
+       "year": 2015,
+       "exam": "英语一",
+       "part": null,
+       "en": "But they show comprehension to consist not just of passive assimilation but of active engagement in inference and problem-solving.",
+       "cn": "但它们表明理解不仅包括被动同化，还包括积极参与推理和解决问题。"
+      }
+     ],
+     "list_no": 77,
+     "list_title": "性格特征与行为倾向",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 12,
+     "spelling": "patience",
+     "spelling_raw": "patience",
+     "ipa_raw": "/'peɪʃ(ə)ns/",
+     "mnemonic": "对待 patient（患者）要有 patience（耐心）。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "耐心；毅力；容忍"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作名词，表示“耐心；毅力”。\nlose/run out of patience 失去耐心\n【2016 年英语（一）】\nIt gives us patience for ourselves and toward others.\n它使我们对自己和对他人有耐心。"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "表示“容忍”。\nbeyond patience 忍无可忍"
+      },
+      {
+       "marker": "③",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "patience & perseverance\n\\- patience:指面对困难时的忍耐力，强调长时间冷静等待；\n\\- perseverance:指为达到目标的毅力，侧重持续努力。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2016 年英语（一）】",
+       "year": 2016,
+       "exam": "英语一",
+       "part": null,
+       "en": "It gives us patience for ourselves and toward others.",
+       "cn": "它使我们对自己和对他人有耐心。"
+      }
+     ],
+     "list_no": 77,
+     "list_title": "性格特征与行为倾向",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 13,
+     "spelling": "peculiar",
+     "spelling_raw": "peculiar",
+     "ipa_raw": "/pɪˈkjuːliər/",
+     "mnemonic": "音似“皮球脸”→皮球脸很少见→奇怪的；不寻常的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "奇怪的，不寻常的；特有的；特别的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“奇怪的，不寻常的”，强调与众不同。\npeculiar behavior 怪异行为"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“特有的”，强调属于特定对象。\nbe peculiar to 为……所特有\n【2021 年英语（一）】\nEach of these manifestations of growth carried its own peculiar problems in its wake.\n这些成长的表现形式各自都伴随着其特有的问题。"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“特殊的，特别的”。\na matter of peculiar importance 一件特别重要的事务"
+      },
+      {
+       "marker": "④",
+       "kind": "辨析",
+       "label_raw": "形近词辨析",
+       "body": "\\- particular adj. 特定的"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2021 年英语（一）】",
+       "year": 2021,
+       "exam": "英语一",
+       "part": null,
+       "en": "Each of these manifestations of growth carried its own peculiar problems in its wake.",
+       "cn": "这些成长的表现形式各自都伴随着其特有的问题。"
+      }
+     ],
+     "list_no": 77,
+     "list_title": "性格特征与行为倾向",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 14,
+     "spelling": "smart",
+     "spelling_raw": "smart",
+     "ipa_raw": "/sma:rt/",
+     "mnemonic": "一位 smart(聪明的) 男人穿着 smart(时髦的) 衬衫，迈着 smart(迅速的) 步伐向前走，但因为使用 smart（智能的）手机没有看路，他摔倒了，膝盖的伤口让他感到 smart（剧痛）。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "聪明的；智能的；漂亮的，光鲜的；时髦的；迅速有力的；高档的"
+      },
+      {
+       "pos": "v./n.",
+       "meaning_cn": "剧痛"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“聪明的，机智的”，在科技背景中表示“智能的”。\nsmart phone 智能手机\nstreet-smart 精于世故的"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "形容外形时，表示“光鲜的，漂亮的；时髦的”。\nThe design makes the room look smart.\n这种设计让房间看起来很时尚。"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“迅速有力的”。\nHe was struck with a smart crack on the head.\n他头上突然被猛击了一下。"
+      },
+      {
+       "marker": "④",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "作动词，表示“剧痛，疼痛”。\nHe smarted from the criticism.\n批评让他难受。"
+      }
+     ],
+     "examples": [],
+     "list_no": 77,
+     "list_title": "性格特征与行为倾向",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 15,
+     "spelling": "sociable",
+     "spelling_raw": "sociable",
+     "ipa_raw": "/'souʃəb(ə)l/",
+     "mnemonic": "soci-（联合）+ -able（形容词后缀，能……的）→能把大家联合起来聚在一起的人是友善的且喜欢交际的→友善的；喜欢交际的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "喜欢交际的；友善的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“爱交际的，友善的”。\nbe sociable with 对……友善\n【2013 年英语（二）】\nTo accurately tell whether someone is sociable, studies show, we need at least a minute, preferably five.\n研究表明，要准确判断一个人是否善于社交，我们至少需要一分钟，五分钟更好。"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": "形近词辨析",
+       "body": "sociable & social & societal\n\\- sociable:指“善于交际的”，侧重描述的是个人性格或行为方式；\n\\- social:指“社交的；群居的”，涵盖与人际互动、群体生活相关的一切；\n\\- societal:指“社会的”，涉及社会结构、组织或价值观等整个社会的宏观层面，是最宏观、最正式的。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2013 年英语（二）】",
+       "year": 2013,
+       "exam": "英语二",
+       "part": null,
+       "en": "To accurately tell whether someone is sociable, studies show, we need at least a minute, preferably five.",
+       "cn": "研究表明，要准确判断一个人是否善于社交，我们至少需要一分钟，五分钟更好。"
+      }
+     ],
+     "list_no": 77,
+     "list_title": "性格特征与行为倾向",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 16,
+     "spelling": "tolerance",
+     "spelling_raw": "tolerance",
+     "ipa_raw": "/'ta:lərəns/",
+     "mnemonic": "toler（音似“taller”更高的）+ -ance（名词后缀）→站得越高（越有能力）的人越宽容→宽容，容忍。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "宽容，容忍；忍耐力；公差，容限"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常见释义",
+       "body": "宽容，容忍\n【2020 年英语（二）】\nWe are all becoming increasingly aware of the importance of modeling tolerance and patience for the younger generation.\n我们都越来越意识到为年青一代树立宽容和耐心的榜样的重要性。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“忍耐力，承受力”。\ndrug tolerance 耐药性"
+      },
+      {
+       "marker": "③",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "表示“（工程）公差”。\na machining tolerance of 0.01mm 0.01 毫米加工公差"
+      },
+      {
+       "marker": "④",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "tolerance & endurance\n\\- tolerance:指主动包容或被动承受，通常指社会包容、生理耐受等；\n\\- endurance: 指忍耐痛苦的能力，强调持久承受。\n修饰社会现象时选择 tolerance, 修饰生理极限时选择 endurance。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语（二）】",
+       "year": 2020,
+       "exam": "英语二",
+       "part": null,
+       "en": "We are all becoming increasingly aware of the importance of modeling tolerance and patience for the younger generation.",
+       "cn": "我们都越来越意识到为年青一代树立宽容和耐心的榜样的重要性。"
+      }
+     ],
+     "list_no": 77,
+     "list_title": "性格特征与行为倾向",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 17,
+     "spelling": "tolerant",
+     "spelling_raw": "tolerant",
+     "ipa_raw": "/'ta:lərənt/",
+     "mnemonic": "tolerance（宽容）→其形容词形式为 tolerant 宽容的，容忍的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "宽容的，容忍的；能耐……的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“宽容的，容忍的”，在工程学中引申为“容许偏差的”。\nbe tolerant of 对……宽容\ntolerant error 容许偏差\n【2020 年英语（二）】\nSometimes parents get exhausted and frustrated and are unable to maintain a tolerant and composed style with their kids.\n有时父母会感到疲惫和沮丧，无法在孩子面前保持宽容和镇定的风格。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "涉及生物或医学背景，指“耐受力强的；耐药性的”。\nheat/cold tolerant 耐热 / 寒的\nantibiotic-tolerant bacteria 耐受抗生素的细菌"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语（二）】",
+       "year": 2020,
+       "exam": "英语二",
+       "part": null,
+       "en": "Sometimes parents get exhausted and frustrated and are unable to maintain a tolerant and composed style with their kids.",
+       "cn": "有时父母会感到疲惫和沮丧，无法在孩子面前保持宽容和镇定的风格。"
+      }
+     ],
+     "list_no": 77,
+     "list_title": "性格特征与行为倾向",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 18,
+     "spelling": "voluntary",
+     "spelling_raw": "voluntary",
+     "ipa_raw": "/'va:lənteri/",
+     "mnemonic": "音似“无论他利”→与他的利益无关→无偿的；自愿的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "自愿的，志愿的；义务性的，无偿的；(法律) 故意的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“志愿的，自愿的”。\n【2015 年英语（二）】\nWe know the difference between voluntary and involuntary part-time employment because people tell us. 我们了解自愿兼职和非自愿兼职的区别，因为人们会告诉我们。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“无偿的，义务性的”。\nthe voluntary sector 非营利部门"
+      },
+      {
+       "marker": "③",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "表示“（法律）故意的”。\nvoluntary manslaughter 故意杀人"
+      },
+      {
+       "marker": "④",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "volunteer n. 志愿者；v. 自愿做\ninvoluntary adj. 无意识的\nvoluntarily adv. 自愿地"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2015 年英语（二）】",
+       "year": 2015,
+       "exam": "英语二",
+       "part": null,
+       "en": null,
+       "cn": "We know the difference between voluntary and involuntary part-time employment because people tell us. 我们了解自愿兼职和非自愿兼职的区别，因为人们会告诉我们。"
+      }
+     ],
+     "list_no": 77,
+     "list_title": "性格特征与行为倾向",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 19,
+     "spelling": "subtle",
+     "spelling_raw": "subtle",
+     "ipa_raw": "/'sʌt(ə)l/",
+     "mnemonic": "sub-（在……之下）+ -tle（形容词后缀）→",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "不易察觉的，微妙的；机智的；巧妙的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“微妙的，难以察觉的”，在文学背景中译为“隐晦的”，在医学背景中译为“不明显的（症状）”。subtle symptoms 隐匿症状\n【2019 年英语（二）】\nThankfully, there is a way out of this trap—but it involves striking a subtle balance.\n幸运的是，有办法摆脱这个困境——但这需要找到一个微妙的平衡。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "描述设计、方案等，表示“精巧的，巧妙的”。\nHe tried a more subtle approach.\n他尝试了一种更巧妙的方法。"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "描述思维、头脑时，表示“敏锐的，精明的”。\nsubtle mind 敏锐的头脑"
+      },
+      {
+       "marker": "④",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "subtle & delicate & slight\n\\- subtle:形容需敏锐感知的微妙，强调不易察觉但重要；\n\\- delicate: 表示精致易损的，侧重脆弱性;\n\\- slight: 指微小的，仅指程度轻。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2019 年英语（二）】",
+       "year": 2019,
+       "exam": "英语二",
+       "part": null,
+       "en": "Thankfully, there is a way out of this trap—but it involves striking a subtle balance.",
+       "cn": "幸运的是，有办法摆脱这个困境——但这需要找到一个微妙的平衡。"
+      }
+     ],
+     "list_no": 77,
+     "list_title": "性格特征与行为倾向",
+     "theme": "事物与描述"
+    }
+   ],
+   "narrative": {
+    "plot": "性格缺陷→支教启示→化解矛盾→内心蜕变",
+    "sections": [
+     {
+      "title": "性格缺陷",
+      "text": [
+       "李华虽然是 smart（聪明的）且 sociable（善于交际的），却有一些 peculiar（奇怪的）习惯。他常常因缺乏 patience（耐心），在某些事情上显得 passive（被动的）。与人交往时，他总是戴着一副 fake（虚假的）面具。"
+      ]
+     },
+     {
+      "title": "支教启示",
+      "text": [
+       "在一次 voluntary（志愿的）支教活动中，genuine（真诚的）山村孩子让他领略到了 honest（诚实）的力量。同时，孩子们的 courage（勇气）也让他刮目相看，他们敢于面对困难，敢于表达自己的想法。"
+      ]
+     },
+     {
+      "title": "化解矛盾",
+      "text": [
+       "当李华与他人产生 dramatic（戏剧性的）争执时，一位 friendly（友好的）队友用 mature（成熟的）方式化解矛盾，引导大家用 tolerant（宽容的）心对待彼此。从那以后，队友们建立了更加 intimate（亲密的）信任。"
+      ]
+     },
+     {
+      "title": "内心蜕变",
+      "text": [
+       "李华的内心产生了 subtle（微妙的）变化，他懂得了 tolerance（宽容）的力量，学会了用真诚去对待每一个人。他意识到，真正的友谊是建立在真诚、宽容和 loyal（忠诚）之上的。"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "list_no": 78,
+   "title": "表示大小、数量、程度、速度、性质的形容词",
+   "words": [
+    {
+     "seq": 1,
+     "spelling": "giant",
+     "spelling_raw": "giant",
+     "ipa_raw": "/'dʒaɪənt/",
+     "mnemonic": "音似“站特”→站起来特别高大→巨人。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "巨人；大公司，巨头；伟人；巨星"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "巨大的；伟大的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "作形容词表示“巨大的，庞大的”。\ngiant panda 大熊猫\ngiant-sized 特大号的"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作名词，表示“巨人；巨物；大公司”，引申为“伟\n人，天才”。\n【2018 年英语（一）】\n44 percent of Facebook users rarely or never trust news from the media giant.\n44% 的脸书用户很少或根本不相信媒体巨头报道的新闻。"
+      },
+      {
+       "marker": "③",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "在天文学中，表示“巨星”。\nred giant 红巨星"
+      },
+      {
+       "marker": "④",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "gigantic adj. 巨大的"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2018 年英语（一）】",
+       "year": 2018,
+       "exam": "英语一",
+       "part": null,
+       "en": "44 percent of Facebook users rarely or never trust news from the media giant.",
+       "cn": "44% 的脸书用户很少或根本不相信媒体巨头报道的新闻。"
+      }
+     ],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 2,
+     "spelling": "multiple",
+     "spelling_raw": "multiple",
+     "ipa_raw": "/'mʌltɪp(ə)l/",
+     "mnemonic": "mul 音似“more”（更多的）+ tiple 形似“type”→ more type 更多的种类→多个的，多种的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "多个的，多种的；涉及多方的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "倍数；连锁商店"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "作形容词，表示“多个的；涉及多方的”。\nmultiple choices 多项选择\n【2021 年英语（二）】\nMost jobs are multidimensional, with multiple criteria.\n大多数工作都是多方面的，涉及多个考量因素。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作名词，表示“倍数”。\nlowest common multiple 最小公倍数"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作名词，表示“连锁店”。\nretail multiples 零售连锁店"
+      },
+      {
+       "marker": "④",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "multiply v. 乘；增殖\nmultiplicity n. 多样性\nmultitude n. 大量"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2021 年英语（二）】",
+       "year": 2021,
+       "exam": "英语二",
+       "part": null,
+       "en": "Most jobs are multidimensional, with multiple criteria.",
+       "cn": "大多数工作都是多方面的，涉及多个考量因素。"
+      }
+     ],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 3,
+     "spelling": "vast",
+     "spelling_raw": "vast",
+     "ipa_raw": "/væst/",
+     "mnemonic": "音似“瓦斯特”→瓦斯爆炸特别巨大→辽阔的，巨大的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "辽阔的；巨大的，庞大的；大量的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "作形容词，表示“巨大的，辽阔的”，强调空间、规模大。\nvast knowledge 知识渊博"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "作形容词，表示“大量的，巨额的”，强调数量多。\n【2010 年英语（一）】\nYet only one of his books is now in print, and his vast body of writings on music is unknown save to specialists. 然而，他的作品中仅有一本现在仍在出版，而他关于音乐的大量著作除了专业人员外鲜为人知。"
+      },
+      {
+       "marker": "③",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "vast majority 绝大多数\nvast expanse of 辽阔的\nvast amounts of 大量的"
+      },
+      {
+       "marker": "④",
+       "kind": "辨析",
+       "label_raw": "形近词辨析",
+       "body": "\\- vest n. 背心"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2010 年英语（一）】",
+       "year": 2010,
+       "exam": "英语一",
+       "part": null,
+       "en": null,
+       "cn": "Yet only one of his books is now in print, and his vast body of writings on music is unknown save to specialists. 然而，他的作品中仅有一本现在仍在出版，而他关于音乐的大量著作除了专业人员外鲜为人知。"
+      }
+     ],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 4,
+     "spelling": "rapid",
+     "spelling_raw": "rapid",
+     "ipa_raw": "/'ræpɪd/",
+     "mnemonic": "rap 说唱的 id(ea) 方法就是快速的→迅速的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "迅速的；快速的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常见释义",
+       "body": "迅速的，快速的；陡峭的，急转的\nrapid eye movement sleep 快速眼动睡眠周期\n【2012 年英语（一）】\na very rapid expansion of the systems of higher education 高等教育体系的迅速扩张"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "作名词，表示“急流，险滩”。\nnavigate the rapids 在急流中航行"
+      },
+      {
+       "marker": "③",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "fast & quick & rapid\n\\- fast:常用来描述持续的高速或物理速度，适用于修饰机械或自然运动；\n\\- quick:侧重于反应的迅速和耗时的短暂，更多用于描述人或思维的敏捷；\n\\- rapid:强调的是过程的快速推进，通常用来强调进展的速率。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2012 年英语（一）】",
+       "year": 2012,
+       "exam": "英语一",
+       "part": null,
+       "en": null,
+       "cn": "a very rapid expansion of the systems of higher education 高等教育体系的迅速扩张"
+      }
+     ],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 5,
+     "spelling": "quick",
+     "spelling_raw": "quick",
+     "ipa_raw": "/kwɪk/",
+     "mnemonic": "剪指甲太 quick（迅速的），以至于剪到了 quick（指甲下的肉）。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "迅速的，快的; 敏捷的; 立竿见影的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "指甲下的肉"
+      },
+      {
+       "pos": "int.",
+       "meaning_cn": "快，快点"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "作形容词，表示“迅速的，敏捷的”。\nquick profit-seeking 急功近利\n【2023 年英语（一）】\nIn quick succession, the Senate and House passed legislation protecting Yellowstone in early 1872.\n在 1872 年初，参议院和众议院迅速通过了保护黄石公园的立法。"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "作形容词，表示“短暂的，短时间的”。\nquick fix 权宜之计（含贬义）"
+      },
+      {
+       "marker": "③",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "指敏感部位，尤指指甲下嫩肉。\ncut to the quick 戳到痛处"
+      },
+      {
+       "marker": "④",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "the quick 表示“活着的人们”。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语（一）】",
+       "year": 2023,
+       "exam": "英语一",
+       "part": null,
+       "en": "In quick succession, the Senate and House passed legislation protecting Yellowstone in early 1872.",
+       "cn": "在 1872 年初，参议院和众议院迅速通过了保护黄石公园的立法。"
+      }
+     ],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 6,
+     "spelling": "fast",
+     "spelling_raw": "fast",
+     "ipa_raw": "/fæst/",
+     "mnemonic": "fa 音似“发” +st（申通）比较快→快的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "快的；不褪色的；放荡的；稳固的"
+      },
+      {
+       "pos": "adv.",
+       "meaning_cn": "快地；立刻；牢固地"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "禁食期"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "禁食"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "作形容词，表示“快速的”；作副词，表示“快速地”。\nplay fast and loose 玩弄，反复无常"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "作形容词，表示“牢固的，稳固的”；作副词，表示“牢固地”。\nhard and fast evidence 确凿证据\nas fast as a rock 坚如磐石"
+      },
+      {
+       "marker": "③",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "作形容词，表示“不褪色的”。\nfast color 不褪色染料"
+      },
+      {
+       "marker": "④",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "作动词和名词，表示“禁食”。\nfast for 12 hours before blood test\n验血前禁食 12 小时"
+      },
+      {
+       "marker": "⑤",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "fasten v. 系紧\nfastness n. 牢固；要塞"
+      }
+     ],
+     "examples": [],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 7,
+     "spelling": "long",
+     "spelling_raw": "long",
+     "ipa_raw": "/lɔːŋ/",
+     "mnemonic": "音似“廊”→廊都是很长的→长的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "长的；长时间的，(记忆力) 强的"
+      },
+      {
+       "pos": "adv.",
+       "meaning_cn": "长久地"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作副词，表示“长期地，长久地”。\nstay long 久留"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作动词，表示“渴望”，常与 for 搭配。\nlong for freedom 渴望自由"
+      },
+      {
+       "marker": "③",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "as/so long as 只要\n【2023 年英语（二）】\nAny plans submitted before that date are considered to be under the previous rules, and can go ahead as long as work starts before 15 June next year.\n在该日期之前提交的任何计划都将按照之前的规则执行，只要在明年 6 月 15 日之前开始施工即可继续进行。"
+      },
+      {
+       "marker": "④",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "no longer 不再\nHe no longer lives here.\n他不再在这里生活。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语（二）】",
+       "year": 2023,
+       "exam": "英语二",
+       "part": null,
+       "en": "Any plans submitted before that date are considered to be under the previous rules, and can go ahead as long as work starts before 15 June next year.",
+       "cn": "在该日期之前提交的任何计划都将按照之前的规则执行，只要在明年 6 月 15 日之前开始施工即可继续进行。"
+      }
+     ],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 8,
+     "spelling": "empty",
+     "spelling_raw": "empty",
+     "ipa_raw": "/'empti/",
+     "mnemonic": "empty（谐音“MT”拼音首字母）→“马桶”→马桶抽空后是“空的”。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "空的；空洞的，无意义的；空虚的"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "倒空；变空；流入；涌进"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "空瓶"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "作形容词，表示“空的；空洞的；空虚的”。\non an empty stomach 空腹服用\nempty promises 空头承诺"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作动词，表示“清空”。\nPolice emptied the building.\n警方疏散楼内人群。"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作名词，表示“空的容器”，复数为 empties。"
+      },
+      {
+       "marker": "④",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "empty of 缺乏……\nempty-handed 一无所获"
+      },
+      {
+       "marker": "⑤",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "empty & vacant & blank\n\\- empty: 指完全无内容物，强调绝对空无;\n\\- vacant:指未被占用，指临时性空缺，例如座位或职位；\n\\- blank:指表面无标记，用于修饰未填写的物品，如试卷或表格。"
+      }
+     ],
+     "examples": [],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 9,
+     "spelling": "broad",
+     "spelling_raw": "broad",
+     "ipa_raw": "/broːd/",
+     "mnemonic": "b 音似（博）+ road 路→博大的路→宽阔的，广阔的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "宽阔的；广阔的；广泛的；概括的；口音重的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "女人"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“宽阔的”，强调横向宽度，引申为抽象的“广泛的”。\nbroad shoulders 宽肩\n【2020 年英语（一）】\nUnless a broad consensus can be reached on reforming the international tax system, other nations are likely to follow suit.\n除非能在改革国际税收体系上达成广泛共识，否则\n其他国家可能会效仿。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“概括的，不细致的”。\nbroad outline 粗略提纲"
+      },
+      {
+       "marker": "③",
+       "kind": "释义",
+       "label_raw": null,
+       "body": "熟词僻义，表示“口音重的”。\nbroad accent 浓重口音"
+      },
+      {
+       "marker": "④",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "broaden v. 拓宽\nbreadth n. 宽度；广度\nabroad adv. 在国外"
+      },
+      {
+       "marker": "⑤",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "形近词:\nboard n. 木板"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语（一）】",
+       "year": 2020,
+       "exam": "英语一",
+       "part": null,
+       "en": "Unless a broad consensus can be reached on reforming the international tax system, other nations are likely to follow suit.",
+       "cn": "除非能在改革国际税收体系上达成广泛共识，否则其他国家可能会效仿。"
+      }
+     ],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 10,
+     "spelling": "sharp",
+     "spelling_raw": "sharp",
+     "ipa_raw": "/ʃɑːrp/",
+     "mnemonic": "sharp（锋利的）刀划出了 sharp（响亮的）声音。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "锋利的，尖利的；急剧的；明显的；清晰的；尖刻的；急转的；敏锐的；声音响亮的"
+      },
+      {
+       "pos": "adv.",
+       "meaning_cn": "偏高音地；……点整；突然地"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "升半音；锐利的东西"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“锋利的，尖利的”。\n【2014 年英语（一）】\nNon-professionals' sharp criticism.\n非专业人士的尖锐批评。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示感官、思维等“敏锐的，精明的”。\nsharp-witted 机智的"
+      },
+      {
+       "marker": "③",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "作形容词，表示“急剧的，剧烈的”；作副词，表示“突然地”。\n【2010 年英语（二）】\na sharp rise 急剧上升"
+      },
+      {
+       "marker": "④",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“清晰的，鲜明的”。\nsharp contrast 鲜明对比"
+      },
+      {
+       "marker": "⑤",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "作副词，表示“……点整”。\n7 o'clock sharp 七点整"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2014 年英语（一）】",
+       "year": 2014,
+       "exam": "英语一",
+       "part": null,
+       "en": "Non-professionals' sharp criticism.",
+       "cn": "非专业人士的尖锐批评。"
+      },
+      {
+       "source_raw": "【2010 年英语（二）】",
+       "year": 2010,
+       "exam": "英语二",
+       "part": null,
+       "en": null,
+       "cn": "a sharp rise 急剧上升"
+      }
+     ],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 11,
+     "spelling": "neat",
+     "spelling_raw": "neat",
+     "ipa_raw": "/niːt/",
+     "mnemonic": "n 联想“你” + eat 吃→你吃饭的时候要保",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "整齐的；整洁的；纯的；极好的；爱整洁的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“整洁的，井井有条的”。\nneat handwriting 工整字迹"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "形容方法或表达“简洁巧妙的”。\nThe neat algorithm outperformed complex models, while orderly data arrangement ensured efficiency.\n这种简洁的算法表现优于复杂的模型，而有序的数据排列则确保了效率。"
+      },
+      {
+       "marker": "③",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "表示“纯的，未稀释的（饮品）”。\nwhisky neat 纯威士忌"
+      }
+     ],
+     "examples": [],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 12,
+     "spelling": "heavy",
+     "spelling_raw": "heavy",
+     "ipa_raw": "/'hevi/",
+     "mnemonic": "音似“海胃”→胃口很大，吃了很多东西，所以很重→重的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "重的；严重的；重型的，结实的；大量的；繁忙的；阴沉的；猛烈的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "保镖，打手；烈性啤酒"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "核心含义是“重的”，可以形容物体重量，可以表示数量及程度。\nheavy traffic 拥堵的交通\n【2023 年英语（一）】\nThe crude technique required educated guesses on exposure times, and involved heavy, awkward equipment.\n这种粗糙的技术需要对曝光时间进行有根据的猜测，并且需要使用笨重、不便的设备。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“严重的，剧烈的”。\nheavy pollution 重度污染"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "heavily adv. 沉重地；大量地\nheaviness n. 沉重；沉闷\nheave v. 举起；喘息"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语（一）】",
+       "year": 2023,
+       "exam": "英语一",
+       "part": null,
+       "en": "The crude technique required educated guesses on exposure times, and involved heavy, awkward equipment.",
+       "cn": "这种粗糙的技术需要对曝光时间进行有根据的猜测，并且需要使用笨重、不便的设备。"
+      }
+     ],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 13,
+     "spelling": "tiny",
+     "spelling_raw": "tiny",
+     "ipa_raw": "/'taɪni/",
+     "mnemonic": "音似“胎内”→还在胎里，自然是极小的→极小的，微小的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "极小的，微小的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“极小的，微小的”，用以形容尺寸极小、数\n量极少或程度极轻。\ntiny minority 极少数群体\na tiny bit 略微\n【2023 年英语（二）】\nCampgrounds are a tiny portion of the overall infrastructure backlog.\n露营地只是整体基础设施建设积压项目中的一小部分。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "tininess n. 微小（不可数）"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语（二）】",
+       "year": 2023,
+       "exam": "英语二",
+       "part": null,
+       "en": "Campgrounds are a tiny portion of the overall infrastructure backlog.",
+       "cn": "露营地只是整体基础设施建设积压项目中的一小部分。"
+      }
+     ],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 14,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "音似“可+right 正确的”→修改之后可以是正确的→改成，纠正；正确的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "正确的；恰当的；得体的"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "改正，纠正；批改；医疗矫正"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "作形容词，表示“正确的，无误的”，作动词表示“纠正”。\ncorrect answer 正确答案\n【2019 年英语（二）】\nmay help correct emotional deficiencies\n可能有助于纠正情感缺陷"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "引申为“得体的，合乎礼仪的”。\nSuch casual dress would not be correct for a formal occasion.\n便装不宜在正式场合穿。"
+      },
+      {
+       "marker": "③",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "correct & accurate & proper\n- correct: 指按规则或标准无错误;\n- accurate: 强调细节精准无误差;\n- proper: 指在社会规范上恰当。"
+      },
+      {
+       "marker": "④",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "correction n. 改正\ncorrective adj. 矫正的；n. 修正\nincorrect adj. 错误的"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2019 年英语（二）】",
+       "year": 2019,
+       "exam": "英语二",
+       "part": null,
+       "en": "may help correct emotional deficiencies",
+       "cn": "可能有助于纠正情感缺陷"
+      }
+     ],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 15,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "被处以 fine（罚金）不是 fine（好的）事。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "（身体）很好的；好的；美好的；精致的；晴朗的；纤细的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "罚金，罚款"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "对……处以罚款；提纯"
+      },
+      {
+       "pos": "adv.",
+       "meaning_cn": "令人满意地"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“优质的；精美的；晴朗的”。\nfine craftsmanship 精湛工艺\na fine day 晴朗的一天"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“细小的，细微的；纤细的”。\na brush with a fine tip 一支笔头纤细的画笔\nMicroscopes reveal fine structures of cells.\n显微镜揭示细胞细微结构。"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作名词，表示“罚款”；作动词，表示“对……处以罚款”。\n【2020 年英语（二）】\nA judge has now overruled the city's decision to stop levying fines, ordering them reinstated.\n一名法官现已推翻了该市停止征收罚款的决定，下令恢复罚款。"
+      },
+      {
+       "marker": "④",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作动词，表示“精炼；提纯”。\nfine gold to a higher purity level\n将黄金提纯到更高的纯度水平"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语（二）】",
+       "year": 2020,
+       "exam": "英语二",
+       "part": null,
+       "en": "A judge has now overruled the city's decision to stop levying fines, ordering them reinstated.",
+       "cn": "一名法官现已推翻了该市停止征收罚款的决定，下令恢复罚款。"
+      }
+     ],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 16,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "音似“佛门” →佛门是正式的场合 →正式的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "正式的，正规的；布置井然的；形式上的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“正式的；合乎礼仪的”，与“随意”相对。\nformal dress 正装\n【2016 年英语（一）】\nNo matter how formal or informal the work environment, the way you present yourself has an impact.\n无论工作环境是多么正式或随意，你自身的表现方式都会产生影响。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“形式上的；表面的”，与“实质上”相对。\na formal apology 正式的道歉"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“规范的；官方的”。\nformal education 正规教育"
+      },
+      {
+       "marker": "④",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "formalize v. 使正式化\ninformal adj. 非正式的"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2016 年英语（一）】",
+       "year": 2016,
+       "exam": "英语一",
+       "part": null,
+       "en": "No matter how formal or informal the work environment, the way you present yourself has an impact.",
+       "cn": "无论工作环境是多么正式或随意，你自身的表现方式都会产生影响。"
+      }
+     ],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 17,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "音似“日结的”→每日都要总结今天发生",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "（规则）死板的，严格的；（人）刻板的，固执，坚硬的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "形容规则时，表示“严格的；死板的”；形容人时，表示“刻板的，固执的”。\nrigid mindset 僵化思维\n[2014 年英语（一）]\nthe rigid bodies governing the profession\n该行业所遵循的规范准则"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“坚硬的；不可弯曲的”，用来形容物体坚硬不易变形。\nrigid structure 刚性结构"
+      },
+      {
+       "marker": "③",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "在科学语境中，表“精确的；严密的”。\nThe experiment followed rigid scientific procedures.\n实验遵循严密的科学流程。"
+      }
+     ],
+     "examples": [],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 18,
+     "spelling": "original",
+     "spelling_raw": "original",
+     "ipa_raw": "/əˈrɪdʒən(ə)l/",
+     "mnemonic": "音似“orange no” → 橘子不是原先的那个了 → 原先的，起初的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "起初的，原先的；独创的；原作的；原件的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "原物，原件，原作，不同寻常的人"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "核心含义是“原始的；最初的”。\noriginal inhabitants 原住民\n【2022 年英语（一）】\nWhat was more, many original French dispatches had been preserved in this collection.\n更重要的是，许多原始的法国电报被保存在这个收藏中。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "引申为“独创的；新颖的”，在艺术语境中可译为“原作的；真迹的”，在法律背景中可译为“正版的；非仿冒的”。\noriginal viewpoint 独到见解\noriginal manuscript 手稿原件"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作名词，表示“原作、原物”或“不同寻常的人”。\nThis painting is an original.\n这幅画是原创作品。"
+      },
+      {
+       "marker": "④",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "origin n. 起源\noriginate v. 起源于"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语（一）】",
+       "year": 2022,
+       "exam": "英语一",
+       "part": null,
+       "en": "What was more, many original French dispatches had been preserved in this collection.",
+       "cn": "更重要的是，许多原始的法国电报被保存在这个收藏中。"
+      }
+     ],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 19,
+     "spelling": "concrete",
+     "spelling_raw": "concrete",
+     "ipa_raw": "/'ka:nkri:t/",
+     "mnemonic": "音似“看可 read”→能够被看到，读到的→确实的，具体的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "确实的，具体的；混凝土制的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "混凝土"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "用混凝土浇筑"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“具体的；确实的”，强调非理论、可操作。\nconcrete benefit 实实在在的好处\n【2017 年英语（一）】\nBut under anti-bribery laws, proof must be made of concrete benefits, such as approval of a contract or regulation.\n但根据反贿赂法，必须证明具体的利益，例如合同或法规的批准。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作名词为“混凝土”，作形容词为“混凝土制的”，作动词为“浇筑混凝土”。\nconcrete structure 混凝土结构\nThe workers concreted the pathway yesterday.\n工人昨日浇筑了小路混凝土。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2017 年英语（一）】",
+       "year": 2017,
+       "exam": "英语一",
+       "part": null,
+       "en": "But under anti-bribery laws, proof must be made of concrete benefits, such as approval of a contract or regulation.",
+       "cn": "但根据反贿赂法，必须证明具体的利益，例如合同或法规的批准。"
+      }
+     ],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 20,
+     "spelling": "straight",
+     "spelling_raw": "straight",
+     "ipa_raw": "/streɪt/",
+     "mnemonic": "音似“street”街道→沿着街道笔直走→笔直地。",
+     "senses": [
+      {
+       "pos": "adv.",
+       "meaning_cn": "笔直地，径直地；清楚地；坦率地"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "直的；纯的；连续的；不间断的；坦诚的；异性恋的；整洁的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "异性恋者；直线跑道"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "作形容词，表示“笔直的”；作副词，表示“笔直地”；作名词，表示“直线段”。\ncut along the straight 沿直线裁剪\nstand straight 站直"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "作形容词，表示“直接的；坦率的”；作副词，表\n示“直接”。\nstraight answer 直率的回答\n【2022 年英语（二）翻译】\nwalk straight into the woods 径直走进树林里"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "与时间相关时，表示“连续的；不间断的”。\n【2018 年英语（一）】\nIt reported a net loss of \\$5.6 billion for fiscal 2016, the 10th straight year its expenses have exceeded revenue.\n该公司报告称，2016 财年净亏损达 56 亿美元，这是其连续第 10 年支出超过收入的情况。"
+      },
+      {
+       "marker": "④",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "straighten v. 弄直；整理\nstraightforward adj. 简单的；坦率的"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语（二）翻译】",
+       "year": 2022,
+       "exam": "英语二",
+       "part": "翻译",
+       "en": null,
+       "cn": "walk straight into the woods 径直走进树林里"
+      },
+      {
+       "source_raw": "【2018 年英语（一）】",
+       "year": 2018,
+       "exam": "英语一",
+       "part": null,
+       "en": "It reported a net loss of \\$5.6 billion for fiscal 2016, the 10th straight year its expenses have exceeded revenue.",
+       "cn": "该公司报告称，2016 财年净亏损达 56 亿美元，这是其连续第 10 年支出超过收入的情况。"
+      }
+     ],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 21,
+     "spelling": "ordinary",
+     "spelling_raw": "ordinary",
+     "ipa_raw": "/'ɔ:rd(ə)neri/",
+     "mnemonic": "音似“我的奶日”→我奶奶的日常→普通的，平凡的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "普通的，平常的; 平淡无奇的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "核心含义是“普通的；平常的”。\nout of the ordinary 不寻常的\n【2022 年英语（一）阅读】\nBetween preserving the jobs of ordinary workers or losing them.\n是选择保住普通工人的工作，还是让他们失业。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "引申为“平庸的；乏味的”，含贬义意味。\nan ordinary performance 一场平庸的表演\nrather ordinary 相当一般"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "extraordinary adj 非凡的；特别的\nordinarily adv. 通常地"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语（一）阅读】",
+       "year": 2022,
+       "exam": "英语一",
+       "part": null,
+       "en": "Between preserving the jobs of ordinary workers or losing them.",
+       "cn": "是选择保住普通工人的工作，还是让他们失业。"
+      }
+     ],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 22,
+     "spelling": "rare",
+     "spelling_raw": "rare",
+     "ipa_raw": "/rer/",
+     "mnemonic": "r（人）+ are（是）→ 人是→稀少的人才是珍贵的→稀有的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "罕见的，稀有的；珍贵的；（肉类）半熟的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“稀有的；罕见的；珍贵的”\nrare species 濒危物种\n【2021 年英语（一）】\nThey are rare among photographs of that age.\n在那个年代的摄影作品中，它们实属罕见。"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "与食品相关时，表示“（肉类）半熟的”。\nrare steak 三分熟牛排"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "从“稀有的”含义引申出“(气体) 稀薄的”。\nrare atmosphere 稀薄大气"
+      },
+      {
+       "marker": "④",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "rarely adv. 很少；难得地\nrarity n. 稀有物"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2021 年英语（一）】",
+       "year": 2021,
+       "exam": "英语一",
+       "part": null,
+       "en": "They are rare among photographs of that age.",
+       "cn": "在那个年代的摄影作品中，它们实属罕见。"
+      }
+     ],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 23,
+     "spelling": "clear",
+     "spelling_raw": "clear",
+     "ipa_raw": "/klɪr/",
+     "mnemonic": "议会 clear(批准) 新法案，要求人们 clear(清理) 小溪内的垃圾，使小溪保持 clear(清澈的)。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "清晰的；明显的，明确的；（头脑）清楚的；清澈的；干净的；无云（或雾）的；晴朗的；不接触的；远离的"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "清除，清理；变晴朗；批准；变清楚"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常见释义",
+       "body": "清晰的，清楚的，明白的\n【2023 年英语（二）】\nHow much overall prices will increase as a result of the rule changes is not clear.\n由于规则变化，整体价格将上涨多少尚不清楚。"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "作形容词，表示“清澈的；晴朗的”；作动词，表示“变晴朗”。\na stream of clear water 一条清澈的小溪\nclear up（天气）放晴"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作动词，表示“清理”。\nclear away the rubbish 清理垃圾\nclear the air 消除误会"
+      },
+      {
+       "marker": "④",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "表示“批准”。\nThe proposal was finally cleared by the ethics committee.\n该提案最终获得了伦理委员会的批准。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语（二）】",
+       "year": 2023,
+       "exam": "英语二",
+       "part": null,
+       "en": "How much overall prices will increase as a result of the rule changes is not clear.",
+       "cn": "由于规则变化，整体价格将上涨多少尚不清楚。"
+      }
+     ],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 24,
+     "spelling": "dim",
+     "spelling_raw": "dim",
+     "ipa_raw": "/dim/",
+     "mnemonic": "di（低）+m（迷）→低迷常常伴随昏暗的氛",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "昏暗的；隐约的；渺茫的；不乐观的；愚笨的"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "变昏暗；变渺茫"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "核心含义是“昏暗的，暗淡的”，引申为“（希望、前景等）不清晰的、不明朗的”。a dim light 昏暗的灯光。\n【2012 年英语（二）】\nsee their life chances as dimmed as the others' 认为他们的人生前景与其他人一样黯淡"
+      },
+      {
+       "marker": "②",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "作动词，表示“使变暗；使模糊”。\ndim one's enthusiasm 使热情减退"
+      },
+      {
+       "marker": "③",
+       "kind": "释义",
+       "label_raw": "熟词僻义",
+       "body": "作形容词，表示“迟钝的，愚笨的”。\ndim-witted adj. 愚笨的"
+      },
+      {
+       "marker": "④",
+       "kind": "辨析",
+       "label_raw": "近义词辨析",
+       "body": "dim & dark & faint\n- dim:强调光线不足，物体勉强可见但细节不清，常带有“微弱”“模糊”感；\n- dark:强调缺乏光线，物体难以或无法看见，程度比 dim 深，更侧重物理状态的“黑暗”；\n- faint:指非常微弱，几乎难以察觉或感知，强调程度极低、即将消失。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2012 年英语（二）】",
+       "year": 2012,
+       "exam": "英语二",
+       "part": null,
+       "en": null,
+       "cn": "see their life chances as dimmed as the others' 认为他们的人生前景与其他人一样黯淡"
+      }
+     ],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 25,
+     "spelling": "new",
+     "spelling_raw": "new",
+     "ipa_raw": "/nu:/",
+     "mnemonic": "人们对 new（新的）事物是 new（不熟悉的）。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "新的，新颖的；新发现的；不熟悉的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "表示“不熟悉的”。\nnew to sb./sth. 对某事物 / 某人不熟悉"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "brand new 崭新的，全新的\nturn over a new leaf 改过自新"
+      },
+      {
+       "marker": "③",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "用于动词前，表示“再次、重新做某事”。\nnew-start 重新开始\nnew-build 重建"
+      },
+      {
+       "marker": "④",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "anew adv. 重新，再\nrenew v. 重新开始\nrenewable adj. 可续期的；可再生的"
+      }
+     ],
+     "examples": [],
+     "list_no": 78,
+     "list_title": "表示大小、数量、程度、速度、性质的形容词",
+     "theme": "事物与描述"
+    }
+   ],
+   "narrative": {
+    "plot": "发现岛屿→深入险境→远古石碑→生命萌芽",
+    "sections": [
+     {
+      "title": "发现岛屿",
+      "text": [
+       "探险队穿过一片 vast（广阔的）海域，发现一座 giant（巨大的）岛屿。这座岛屿的海岸线十分 long（长的），岛中非常 empty（空旷），唯有 sharp（陡峭的）悬崖上布满不太 neat（整齐的）刻痕，暗示着这里可能曾存在过并不 ordinary（普通的）文明。"
+      ]
+     },
+     {
+      "title": "深入险境",
+      "text": [
+       "在 broad（宽阔的）山谷内，植物的生长十分 rapid（迅速的），tiny（微小的）昆虫在 dim（昏暗的）树林中飞舞，蓝色果实散发着 heavy（浓重的）甜香。队长向队员们发出指令:“Quick（快），勘探一下这里是否存在异常！”"
+      ]
+     },
+     {
+      "title": "远古石碑",
+      "text": [
+       "队员们在岩洞中发现 multiple(多个)fine(精美的) 石碑，石碑上用 fast(不褪色的) 颜料刻着 formal（官方的）却略显 rigid（死板的）文字。一位学者发掘到文字所表达的 correct（正确的）含义：火山即将爆发！且一系列 clear（清晰的）证据指向一个 concrete（具体的）坐标——队员们需 straight（径直）赶往高地避难。"
+      ]
+     },
+     {
+      "title": "生命萌芽",
+      "text": [
+       "火山爆发后，new（崭新的）生态系统在此重生。rare（稀有的）生命在灰烬中萌芽，印证了最 original（原始的）自然法则。"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "list_no": 79,
+   "title": "表示性质、状态、特征的形容词",
+   "words": [
+    {
+     "seq": 1,
+     "spelling": "solid",
+     "spelling_raw": "solid",
+     "ipa_raw": "/'sa:lid/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "固体的，实心的; 结实的，稳固的，可靠的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "固体妙记:soil（土壤）li（里）d（的）结构是 solid（结实的）。"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "固体的\n【2019 年英语（二）】\nCarbon is locked away in the form of solid lumber.\n碳以固体木材的形式被封存起来。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "solid evidence 可靠的证据\nlay a solid foundation 打下坚实的基础"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2019 年英语（二）】",
+       "year": 2019,
+       "exam": "英语二",
+       "part": null,
+       "en": "Carbon is locked away in the form of solid lumber.",
+       "cn": "碳以固体木材的形式被封存起来。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 2,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "pure（谐音“瓢儿”）→舀瓢纯净的水。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "纯的；纯净的；纯粹的；完全的，十足的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "纯粹的\n【2016 年英语（一）】\nThe idea is pure lobby talk.\n这种观点纯粹是游说之词。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "pure and simple 纯然，十足"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "purity n. 纯净，纯洁"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2016 年英语（一）】",
+       "year": 2016,
+       "exam": "英语一",
+       "part": null,
+       "en": "The idea is pure lobby talk.",
+       "cn": "这种观点纯粹是游说之词。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 3,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "real（真的，现实的）+ -istic（形容词后缀）→ 现实的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "现实的，实际的; 能实现的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "现实的\n【2022 年英语（一）】\nEmployers are taking a realistic attitude to degrees.\n雇主们对学位持现实的态度。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "be realistic about 实际地对待……"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语（一）】",
+       "year": 2022,
+       "exam": "英语一",
+       "part": null,
+       "en": "Employers are taking a realistic attitude to degrees.",
+       "cn": "雇主们对学位持现实的态度。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 4,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "vague（谐音“微光”）→微微发光，看不清→模糊的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "模糊的，含糊的，不明确的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "模糊的\n【2019 年英语（一）】\nWhile the statement is vague, it represents one starting point.\n尽管这一说法含混不清，但它代表了一个起点。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "vagueness n. 含混，模糊"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2019 年英语（一）】",
+       "year": 2019,
+       "exam": "英语一",
+       "part": null,
+       "en": "While the statement is vague, it represents one starting point.",
+       "cn": "尽管这一说法含混不清，但它代表了一个起点。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 5,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "am(谐音“安”) + bi-(数量，二) + gu- (=go, 走) + -ous (形容词后缀) → 双兔傍地走，安能辨我是雄雌 → 含混不清的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "含混不清的，模棱两可的，不明确的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "该词常作为阅读理解态度题中的选项出现，但是该词一般不会作为正确答案。由于作者在论述一件事情时，态度是明确的，不会含混不清。\n【2019 年英语（二）】\nThe author's attitude to California's plan can best be described as...\n作者对于加利福尼亚州计划的态度是……\n[A] ambiguous 含混不清的 [B] tolerant 容忍的 [C] supportive 支持的 [D] cautious 小心的"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2019 年英语（二）】",
+       "year": 2019,
+       "exam": "英语二",
+       "part": null,
+       "en": "The author's attitude to California's plan can best be described as...",
+       "cn": "作者对于加利福尼亚州计划的态度是……[A] ambiguous 含混不清的 [B] tolerant 容忍的 [C] supportive 支持的 [D] cautious 小心的"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 6,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "rele（拼音“热了”）+ vant（音似“went”，去）→天气一热，就去和避暑相关的地方→有关的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "有关的；有意义的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "有关的\n【2021 年英语（一）】\nYou can have AI go out and look for relevant resources.\n你可以让人工智能去寻找相关资源。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "be relevant to 与……有关"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2021 年英语（一）】",
+       "year": 2021,
+       "exam": "英语一",
+       "part": null,
+       "en": "You can have AI go out and look for relevant resources.",
+       "cn": "你可以让人工智能去寻找相关资源。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 7,
+     "spelling": "random",
+     "spelling_raw": "random",
+     "ipa_raw": "/'rændəm/",
+     "mnemonic": "ran（音似“人”）+do（做）+m（音似“梦”）→人们做梦都是随机的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "随机的，随意的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "任意，随意"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "随机的\n【2022 年英语（二）】\nThis all seems random, but it's by design, part of what the \\$6.\n这一切看似随机，但实则是刻意设计的，是这 6 美元。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "at random 随机地，任意地"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语（二）】",
+       "year": 2022,
+       "exam": "英语二",
+       "part": null,
+       "en": "This all seems random, but it's by design, part of what the \\$6.",
+       "cn": "这一切看似随机，但实则是刻意设计的，是这 6 美元。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 8,
+     "spelling": "reasonable",
+     "spelling_raw": "reasonable",
+     "ipa_raw": "/'ri:z(ə)nəb(ə)l/",
+     "mnemonic": "reason（理由）+-able（形容词后缀）→可以有理由支撑的→合理的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "合理的，有道理的，通情达理的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "合理的\n【2019 年英语（一）】\nThis would be reasonable if it were not for the fact.\n要不是因为这一事实，这本来是合情合理的。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "reasonably adv. 合理地"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2019 年英语（一）】",
+       "year": 2019,
+       "exam": "英语一",
+       "part": null,
+       "en": "This would be reasonable if it were not for the fact.",
+       "cn": "要不是因为这一事实，这本来是合情合理的。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 9,
+     "spelling": "implicit",
+     "spelling_raw": "implicit",
+     "ipa_raw": "/ɪmˈplɪsɪt/",
+     "mnemonic": "im-（里）+ plic-（折叠）+ -it（=ite，形容词后缀）→折叠在心里的想法→含蓄的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "含蓄的，内含的；无疑问的，绝对的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "含蓄的\n【2013 年英语（一）】\nIt is this implicit or explicit reference to nature that fully justifies the use of the word garden.\n正是这种对自然或明或暗的提及，才充分证明了“花园”一词使用的合理性。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "implicitly adv. 绝对地"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2013 年英语（一）】",
+       "year": 2013,
+       "exam": "英语一",
+       "part": null,
+       "en": "It is this implicit or explicit reference to nature that fully justifies the use of the word garden.",
+       "cn": "正是这种对自然或明或暗的提及，才充分证明了“花园”一词使用的合理性。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 10,
+     "spelling": "verbal",
+     "spelling_raw": "verbal",
+     "ipa_raw": "/'vɜːrb(ə)l/",
+     "mnemonic": "verbal（谐音“我保”）→我口头保证一定上岸→口头的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "口头的；文字的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "口头的\n【2019 年英语（一）】\nLike physical fights, verbal fights can leave both sides bloodied.\n就像肢体冲突一样，口头争执也会让双方两败俱伤。"
+      },
+      {
+       "marker": "②",
+       "kind": "反义词",
+       "label_raw": "反义词",
+       "body": "non-verbal adj. 非口头的"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2019 年英语（一）】",
+       "year": 2019,
+       "exam": "英语一",
+       "part": null,
+       "en": "Like physical fights, verbal fights can leave both sides bloodied.",
+       "cn": "就像肢体冲突一样，口头争执也会让双方两败俱伤。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 11,
+     "spelling": "silent",
+     "spelling_raw": "silent",
+     "ipa_raw": "/'saɪlənt/",
+     "mnemonic": "si（音似“思”）+ lent（借）→一寻思借钱的事，他就是沉默的状态→沉默的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "沉默的；寂静的，无声的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "沉默的\n【2016 年英语（一）】\nThe Liberal Democrats are silent.\n自由民主党保持沉默。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "silence n. 沉默，寂静\nsilently adv. 沉默地；寂静地"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2016 年英语（一）】",
+       "year": 2016,
+       "exam": "英语一",
+       "part": null,
+       "en": "The Liberal Democrats are silent.",
+       "cn": "自由民主党保持沉默。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 12,
+     "spelling": "calm",
+     "spelling_raw": "calm",
+     "ipa_raw": "/ka:m/",
+     "mnemonic": "cal（联想 call，打电话）+ m（联想妈妈）→给妈妈打完电话后心情变得冷静→冷静的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "冷静的，沉着的; 平静的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "平静，风平浪静"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "使平静，使镇静"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "冷静的\n【2020 年英语（二）】\nA calm, rule-following child might respond better to a different sort of parenting。\n一个冷静且循规蹈矩的孩子，可能更适合另一种育儿方式。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "calm down 冷静下来"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语（二）】",
+       "year": 2020,
+       "exam": "英语二",
+       "part": null,
+       "en": "A calm, rule-following child might respond better to a different sort of parenting.",
+       "cn": "一个冷静且循规蹈矩的孩子，可能更适合另一种育儿方式。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 13,
+     "spelling": "steady",
+     "spelling_raw": "steady",
+     "ipa_raw": "/'stedɪ/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "稳定的；坚定的；可靠的"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "使稳固，使稳定妙记：她的 study（学习）成绩很 steady（稳定的）。"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "稳定的\n【2022 年英语（二）】\nThis effect held steady for the study's duration of several weeks.\n这种效应在研究持续的几周时间里保持稳定。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "steadily adv. 平稳地，不变地，持续地"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语（二）】",
+       "year": 2022,
+       "exam": "英语二",
+       "part": null,
+       "en": "This effect held steady for the study's duration of several weeks.",
+       "cn": "这种效应在研究持续的几周时间里保持稳定。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 14,
+     "spelling": "tough",
+     "spelling_raw": "tough",
+     "ipa_raw": "/tʌf/",
+     "mnemonic": "他不但是 tough（顽固的），而且是 rough（粗野的）。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "困难的；坚韧的；强硬的，顽固的；艰苦的，棘手的；粗暴的，粗鲁的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "困难的\n【2022 年英语（二）】\nIt's a tough learning curve and it won't always make\nyou popular.\n这是一个艰难的学习过程，而且这并不总能让你受欢迎。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "tough decision 艰难的决定\na tough job 一项棘手的工作"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语（二）】",
+       "year": 2022,
+       "exam": "英语二",
+       "part": null,
+       "en": "It's a tough learning curve and it won't always make you popular.",
+       "cn": "这是一个艰难的学习过程，而且这并不总能让你受欢迎。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 15,
+     "spelling": "special",
+     "spelling_raw": "special",
+     "ipa_raw": "/'speʃl/",
+     "mnemonic": "spec-（看）+ -ial（形容词后缀）→一眼就能看到的→特殊的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "特殊的，特别的; 专门的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "特殊的\n【2021 年英语（二）】\nIntuition's special powers are unleashed only in certain circumstances.\n直觉的特殊力量只有在特定情况下才能得以释放。"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "special & especial & specific\n\\- special 意为“特殊的、特别的、专门的”，指不同于一般的；\n\\- especial 意为“特别的、尤其的”，指重要的、突出的；\n\\- specific 意为“具体的、特殊的、特别的”，指有代表性的。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "specialist n. 专家\nspecialty n. 专长；特产，特色菜"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2021 年英语（二）】",
+       "year": 2021,
+       "exam": "英语二",
+       "part": null,
+       "en": "Intuition's special powers are unleashed only in certain circumstances.",
+       "cn": "直觉的特殊力量只有在特定情况下才能得以释放。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 16,
+     "spelling": "particular",
+     "spelling_raw": "particular",
+     "ipa_raw": "/pərˈtɪkjələr/",
+     "mnemonic": "part（部分）+ -ic（形容词后缀）+ -ular（形容词或名词后缀）→只是针对于部分的→特定的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "特定的；格外的；挑剔的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "细节，详情"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "特定的\n【2022 年英语（二）】\nThey chose this particular behavior for three reasons.\n他们选择这种特定行为有三个原因。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "in particular 尤其，特别"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "particularly adv. 特别，尤其"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语（二）】",
+       "year": 2022,
+       "exam": "英语二",
+       "part": null,
+       "en": "They chose this particular behavior for three reasons.",
+       "cn": "他们选择这种特定行为有三个原因。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 17,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "common（谐音“抠门”）→抠门的人还是很常见的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "常见的，普通的; 共同的，公共的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "公共用地"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "常见的\n【2023 年英语（二）】\nIs there some common factor that underlies these apparently contradictory developments?\n这些看似相互矛盾的发展背后，是否存在某种共同的因素呢？"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "in common 共有的，共同的\ncommon sense 常识"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语（二）】",
+       "year": 2023,
+       "exam": "英语二",
+       "part": null,
+       "en": "Is there some common factor that underlies these apparently contradictory developments?",
+       "cn": "这些看似相互矛盾的发展背后，是否存在某种共同的因素呢？"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 18,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "紧的，紧身的; 严厉的，严密的; 绷紧的"
+      },
+      {
+       "pos": "adv.",
+       "meaning_cn": "紧紧地"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "紧的\n【2010 年英语（一）】\nThey tend to keep a tighter hold on their purse and consider eating at home a realistic alternative.\n他们往往更精打细算地管好自己的钱包，并且认为在家吃饭是一个切实可行的替代方案。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "on a tight budget 预算紧张"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "tighten v. 弄紧"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2010 年英语（一）】",
+       "year": 2010,
+       "exam": "英语一",
+       "part": null,
+       "en": "They tend to keep a tighter hold on their purse and consider eating at home a realistic alternative.",
+       "cn": "他们往往更精打细算地管好自己的钱包，并且认为在家吃饭是一个切实可行的替代方案。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 19,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "漂亮的（pretty）事物往往相当（pretty）吸引人。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "漂亮的，美观的"
+      },
+      {
+       "pos": "adv.",
+       "meaning_cn": "相当地"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "相当地\n【2023 年英语（二）】\nIt seems pretty clear that memory is changing.\n记忆正在发生变化，这一点似乎相当明显。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "pretty much 几乎，差不多"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语（二）】",
+       "year": 2023,
+       "exam": "英语二",
+       "part": null,
+       "en": "It seems pretty clear that memory is changing.",
+       "cn": "记忆正在发生变化，这一点似乎相当明显。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 20,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "round（围绕）主题 found（创办）活动。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "圆的，球形的"
+      },
+      {
+       "pos": "prep.",
+       "meaning_cn": "围绕"
+      },
+      {
+       "pos": "adv.",
+       "meaning_cn": "在周围"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "绕行；使成圆形"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "（一）轮，（一）场"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "（一）轮\n【2015 年英语（一）】\nThe journal Science is adding an extra round of statistical checks.\n《科学》杂志正在增加一轮额外的统计检查。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "all round 周围，处处\ndo the rounds 巡视，巡查\nround out 使完整，使圆满"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2015 年英语（一）】",
+       "year": 2015,
+       "exam": "英语一",
+       "part": null,
+       "en": "The journal Science is adding an extra round of statistical checks.",
+       "cn": "《科学》杂志正在增加一轮额外的统计检查。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 21,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "那（n）支 arrow（箭）穿过 narrow（狭窄的）地方。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "狭窄的，狭的; 狭隘的"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "缩小"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "缩小\n【2015 年英语（二）】\nThis the gap that must be narrowed to close the\nachievement gap.\n这正是为了缩小成绩差距而必须弥合的鸿沟。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "narrow the gap 缩小差距\nnarrow victory 险胜"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2015 年英语（二）】",
+       "year": 2015,
+       "exam": "英语二",
+       "part": null,
+       "en": "This the gap that must be narrowed to close the achievement gap.",
+       "cn": "这正是为了缩小成绩差距而必须弥合的鸿沟。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 22,
+     "spelling": "parallel",
+     "spelling_raw": "parallel",
+     "ipa_raw": "/'pærəlel/",
+     "mnemonic": "parallel(谐音“派人来哦”)→国庆阅兵时，国家所派军人走地方阵，像平行线一样整齐。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "平行的，相似的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "平行线；相似物，相似处"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "与……相似"
+      },
+      {
+       "pos": "adv.",
+       "meaning_cn": "平行地"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "相似的\n【2010 年英语（一）】\nA parallel situation exists in respect of predatory mammals.\n在食肉哺乳动物方面，存在一种类似的情况。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "be parallel with/to 与……平行"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2010 年英语（一）】",
+       "year": 2010,
+       "exam": "英语一",
+       "part": null,
+       "en": "A parallel situation exists in respect of predatory mammals.",
+       "cn": "在食肉哺乳动物方面，存在一种类似的情况。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 23,
+     "spelling": "substantial",
+     "spelling_raw": "substantial",
+     "ipa_raw": "/səbˈstænʃ(ə)l/",
+     "mnemonic": "sub-（在……之下）+stant-（站立）+-ial（形容词后缀）→站在表面之下的→实质的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "大量的；实质的；重大的；基本上的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "大量的\n【2021 年英语（一）】\nPassengers should be able to expect a basic level of service for the substantial sums they are paying to travel.\n乘客们支付了大笔旅费，理应能享受到基本水平的服务。"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "近义词:\nconsiderable adj. 大量的"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2021 年英语（一）】",
+       "year": 2021,
+       "exam": "英语一",
+       "part": null,
+       "en": "Passengers should be able to expect a basic level of service for the substantial sums they are paying to travel.",
+       "cn": "乘客们支付了大笔旅费，理应能享受到基本水平的服务。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 24,
+     "spelling": "blank",
+     "spelling_raw": "blank",
+     "ipa_raw": "/blæŋk/",
+     "mnemonic": "blank（谐音“不揽客”）→出租车不揽客，车是空着的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "空白的，空着的; 失色的，无表情的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "空白，表格"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "无表情的\n【2017 年英语（二）】\nThose faces are blank and unresponsive.\n那些面孔毫无表情，也没有任何反应。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "blank check (cheque) 空白支票"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2017 年英语（二）】",
+       "year": 2017,
+       "exam": "英语二",
+       "part": null,
+       "en": "Those faces are blank and unresponsive.",
+       "cn": "那些面孔毫无表情，也没有任何反应。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 25,
+     "spelling": "bright",
+     "spelling_raw": "bright",
+     "ipa_raw": "/braɪt/",
+     "mnemonic": "基本释义：明亮的",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "明亮的；鲜明的，晴朗的；愉快的，高兴的，美好的"
+      },
+      {
+       "pos": "adv.",
+       "meaning_cn": "光明地，明亮地"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "明亮的\n【2022 年英语（一）】\nPicro Gilardi began to create hundreds of bright,\ncolorful foam pieces.\n皮克罗·吉拉尔迪开始创作数百件色彩明亮、绚丽多彩的泡沫作品。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语（一）】",
+       "year": 2022,
+       "exam": "英语一",
+       "part": null,
+       "en": "Picro Gilardi began to create hundreds of bright, colorful foam pieces.",
+       "cn": "皮克罗·吉拉尔迪开始创作数百件色彩明亮、绚丽多彩的泡沫作品。"
+      }
+     ],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 26,
+     "spelling": "fluent",
+     "spelling_raw": "fluent",
+     "ipa_raw": "/'flu:ənt/",
+     "mnemonic": "flu-（流）+ -ent(形容词后缀)→流利的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "流利的，流畅的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "流利的\nThese poems were verbally inventive and fluent.\n这些诗歌在语言表达上富有创意且流畅自然。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "短语搭配",
+       "body": "be fluent in 流利掌握"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "fluently adv. 流利地，流畅地\nfluency n. 流利，流畅"
+      }
+     ],
+     "examples": [],
+     "list_no": 79,
+     "list_title": "表示性质、状态、特征的形容词",
+     "theme": "事物与描述"
+    }
+   ],
+   "narrative": {
+    "plot": "旧物市集→午后风波→意外之喜→黄昏约定",
+    "sections": [
+     {
+      "title": "旧物市集",
+      "text": [
+       "周末的旧物市集藏着不少惊喜。角落里的木柜是格外 solid（坚固的），柜面刻着细密花纹。摊主说这是民国时期的物件，抽屉里还留着 pure（纯净的）檀香。旁边摊位的油画很 realistic（现实主义的），画中 vague（模糊的）远山像被晨雾笼罩。一位老者指着画框上 ambiguous（模棱两可的）签名，和摊主讨论起作者身份，言语间尽是 relevant（相关的）艺术见解。突然一阵风掀翻了 random（随机的）摆放的明信片，大家手忙脚乱地收拾起来。"
+      ]
+     },
+     {
+      "title": "午后风波",
+      "text": [
+       "市集中央的舞台上，主持人正用 reasonable（合理的）语调介绍手工艺品。台下突然传来 implicit（含蓄的）争执——红裙女士的语调轻柔，措辞却暗藏锋芒，她认为摊主的 verbal（口头的）承诺没兑现。穿蓝衫的先生保持 silent（沉默的），直到女士情绪平复才调解。他的声音是很 calm（平静的），条理清晰地分析着情况。旁边的编织艺人停下 steady（稳健的）动作，说自己能证明摊主的说法。这场小风波很快平息，仿佛刚才的 tough（艰难的）对峙从未发生。"
+      ]
+     },
+     {
+      "title": "意外之喜",
+      "text": [
+       "转场时，莉莉发现了 special（特别的）玻璃摆件，它有着 particular（特定的）星形纹路，不像 common（普通的）工艺品那样粗糙。摊主用 tight（紧绷的）细绳将摆件包好，说这是女儿的作品。莉莉付了钱，觉得今天的展品比预想的 pretty（漂亮得）多。她捧着摆件走过 round（圆形的）喷泉，沿着 narrow（狭窄的）石板路往回走。路边的 parallel（平行的）木椅上，两位老人正分享 substantial（充实的）午餐，饭盒里的饭菜香气诱人。"
+      ]
+     },
+     {
+      "title": "黄昏约定",
+      "text": [
+       "夕阳西下，莉莉在 blank（空白的）明信片上写下今天的见闻。她笔下的字始终保持着 bright（明亮的）字迹，搭配上 fluent（流畅的）笔画，显得格外精神，把市集的热闹与温暖都记录下来。收摊时，摊主们约定下周再聚，说要带更多有趣的物件。莉莉看着渐暗的天色，觉得这场偶然的市集之行，在心里种下了对生活的热爱。"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "list_no": 80,
+   "title": "客观描述",
+   "words": [
+    {
+     "seq": 1,
+     "spelling": "general",
+     "spelling_raw": "general",
+     "ipa_raw": "/'dʒenrəl/",
+     "mnemonic": "谐音“真的弱”→General（将军）说:“这战略部署真的弱！要全面（general）改进。”",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "一般的；普遍的；总的；大体的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "将军（缩写 Gen）"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "general 普遍的、大体的\nin general 通常，大体上 general knowledge 常识，人所共知的事\ngeneral 总的\ndirector general 董事长，总裁"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "将军\nHe was promoted to the rank of general.\n他被晋升为将军。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "generalize v. 归纳；概括；推广；普及；使普通化\ngenerally adv. 一般地；通常；大体上；总体上；\n普遍地\ngeneralist n. 通才"
+      }
+     ],
+     "examples": [],
+     "list_no": 80,
+     "list_title": "客观描述",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 2,
+     "spelling": "basic",
+     "spelling_raw": "basic",
+     "ipa_raw": "/'beisik/",
+     "mnemonic": "bas-（base:底部、基础）+ -ic（与……有关的）→词汇的学习是学好外语的基础。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "基本的；基础的；根本的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "basically adv. 基本上；根本上"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "基本的\n【2018 年英语（二）】\nThe drive to discover is deeply rooted in humans, much the same as the basic drives for food or shelter.\n探索的动力深深植根于人类，就像寻找食物或住所的基本动力一样。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2018 年英语（二）】",
+       "year": 2018,
+       "exam": "英语二",
+       "part": null,
+       "en": "The drive to discover is deeply rooted in humans, much the same as the basic drives for food or shelter.",
+       "cn": "探索的动力深深植根于人类，就像寻找食物或住所的基本动力一样。"
+      }
+     ],
+     "list_no": 80,
+     "list_title": "客观描述",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 3,
+     "spelling": "specific",
+     "spelling_raw": "specific",
+     "ipa_raw": "/spɔˈsɪfɪk/",
+     "mnemonic": "speci(es) 种类 + -fic 使具有某种性质的 → 按照某一特定种类来分类 → specifc 特定的，特有的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "明确的；具体的；特定的；特有的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "特定的\n【2022 年英语（一）】\nIn this age of generalists, it pays to have specific knowledge or skills.\n在这个通才辈出的时代，拥有特定的知识或技能是有益的。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "specifically adv. 专门地；明确地；确切地\nspecificity n. 明确性"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语（一）】",
+       "year": 2022,
+       "exam": "英语一",
+       "part": null,
+       "en": "In this age of generalists, it pays to have specific knowledge or skills.",
+       "cn": "在这个通才辈出的时代，拥有特定的知识或技能是有益的。"
+      }
+     ],
+     "list_no": 80,
+     "list_title": "客观描述",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 4,
+     "spelling": "extreme",
+     "spelling_raw": "extreme",
+     "ipa_raw": "/ɪkˈstriːm/",
+     "mnemonic": "ex-（谐音“X”）+ tre（谐音“追”）+ -me（我）→ X 战队一直在追我，这个梦太 extreme（极端）了。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "极度的；极端的；末端的；偏激的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "极端；最大程度；极度（状态）"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "极端\n【2012 年英语（一）】\nIn physics, one approach takes this impulse for unification to its extreme, and seeks a theory of everything — a single generative equation for all we see.\n在物理学上，有一种方法将这种追求统一性的冲动发挥到极致，并试图找到一个万能的理论，也就是一个能解释我们所见的一切的通用公式。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "go to extreme 走极端\nin the extreme 极其\nextreme weather conditions 极端天气状况"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "extremely adv. 非常；极其"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2012 年英语（一）】",
+       "year": 2012,
+       "exam": "英语一",
+       "part": null,
+       "en": "In physics, one approach takes this impulse for unification to its extreme, and seeks a theory of everything — a single generative equation for all we see.",
+       "cn": "在物理学上，有一种方法将这种追求统一性的冲动发挥到极致，并试图找到一个万能的理论，也就是一个能解释我们所见的一切的通用公式。"
+      }
+     ],
+     "list_no": 80,
+     "list_title": "客观描述",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 5,
+     "spelling": "main",
+     "spelling_raw": "main",
+     "ipa_raw": "/mem/",
+     "mnemonic": "谐音“命”→命是最重要的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "主要的；最重要的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "（自来水、煤气等的）"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "管道\nThe water main broke and flooded the street.\n自来水主管道坏了，街道都被水淹了。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "in the mai 基本上\nmain course 主菜"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "mainly adv. 主要地，大部分\nmainline n. 主线；adj. 主流的\nmainstream n. 主流；adj. 主流的"
+      }
+     ],
+     "examples": [],
+     "list_no": 80,
+     "list_title": "客观描述",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 6,
+     "spelling": "normal",
+     "spelling_raw": "normal",
+     "ipa_raw": "/'nɔːrml/",
+     "mnemonic": null,
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "正规的；标准的；正常的；普通的；典型的"
+      }
+     ],
+     "notes": [],
+     "examples": [],
+     "list_no": 80,
+     "list_title": "客观描述",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 7,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "norm（正常、规范）+-al（……的）→按流",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "常态；通常标准"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "normal students 师范生\nstandard normal distribution 标准正态分布"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "典型的\nThis is the process whereby helpers provide reassurance to clients that what they are experiencing is not abnormal or atypical, but is a normal reaction shared by others when facing such circumstances.\n这是帮助者向客户保证他们所经历的不是异常或非典型的过程，但这是其他人在面对这种情况时的典型反应。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "normalization n. 正常化；标准化"
+      }
+     ],
+     "examples": [],
+     "list_no": 80,
+     "list_title": "客观描述",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 8,
+     "spelling": "sole",
+     "spelling_raw": "sole",
+     "ipa_raw": "/soul/",
+     "mnemonic": "谐音“馊了” → sole(唯一的) 一块饼都馊了。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "单独的；唯一的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "脚底；鞋底"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "给鞋换新底"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "sole proprietor 独资企业主；独资经营者\nsole trader 个体户"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "脚掌，脚底\nThe hot sand burned the soles of their feet.\n灼热的沙地使他们的脚掌感到火辣辣的。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "solely adv. 独自地；仅仅；完全"
+      }
+     ],
+     "examples": [],
+     "list_no": 80,
+     "list_title": "客观描述",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 9,
+     "spelling": "exact",
+     "spelling_raw": "exact",
+     "ipa_raw": "/ɪɡˈzækt/",
+     "mnemonic": "ex-（完全的，彻底的）+ -act（行动 / 操作）→ 需要完全执行每一个操作，才能得到 exact(精确的) 数据。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "确切的；正确的；精确的"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "要求；强求；迫使"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "要求，迫使\nThe blackmailers exacted a total of 100,000 from their victims.\n敲诈者从几名受害人那里总共勒索钱款 10 万美元。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "exactly adv. 准确地；究竟；到底\ninexact adj. 不精准的；不准确的"
+      }
+     ],
+     "examples": [],
+     "list_no": 80,
+     "list_title": "客观描述",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 10,
+     "spelling": "core",
+     "spelling_raw": "core",
+     "ipa_raw": "/kɔːr/",
+     "mnemonic": "团队的核心（core）成员认为，机器最重要的（core）性能，恰好体现了设计的独特。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "果核；中心；核心"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "给……去核"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "最重要的；核心的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "核心\n【2022 年英语（一）】\nEducation, and not just knowledge gained on campus, will be a core part of Generation Z's career trajectory. 教育，而不仅仅是在校园里获得的知识，将成为 Z 世代职业轨迹的核心部分。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语（一）】",
+       "year": 2022,
+       "exam": "英语一",
+       "part": null,
+       "en": null,
+       "cn": "Education, and not just knowledge gained on campus, will be a core part of Generation Z's career trajectory. 教育，而不仅仅是在校园里获得的知识，将成为 Z 世代职业轨迹的核心部分。"
+      }
+     ],
+     "list_no": 80,
+     "list_title": "客观描述",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 11,
+     "spelling": "so-called",
+     "spelling_raw": "so-called",
+     "ipa_raw": "/,sou 'kɔ:ld/",
+     "mnemonic": "so（如此、所谓的）+called（被称为……的）→他们名义上被称为 so-called（所谓的）“专家”，但未必名副其实。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "所谓的；号称的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "所谓的\n【2023 年英语（一）】\nRecently, another expression of this predatory behavior: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles.\n最近，这种掠夺性行为又有了新的表现形式：一些所谓的支持服务咨询公司为个人作者和期刊提供语言及其他编辑支持服务，有时会建议投稿人在其文章中额外添加大量引用文献。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语（一）】",
+       "year": 2023,
+       "exam": "英语一",
+       "part": null,
+       "en": "Recently, another expression of this predatory behavior: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles.",
+       "cn": "最近，这种掠夺性行为又有了新的表现形式：一些所谓的支持服务咨询公司为个人作者和期刊提供语言及其他编辑支持服务，有时会建议投稿人在其文章中额外添加大量引用文献。"
+      }
+     ],
+     "list_no": 80,
+     "list_title": "客观描述",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 12,
+     "spelling": "peak",
+     "spelling_raw": "peak",
+     "ipa_raw": "/pi:k/",
+     "mnemonic": "登上山的最高点（peak），此时山间的云雾浓度达到了峰值（peak）。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "最高点；顶峰；山顶"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "巅峰的；高峰期的"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "达到峰值"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "巅峰的、高峰期的\n【2014 年英语（一）】\nAt its peak around AD 600, this city was one of the largest human settlements in the world.\n该城的鼎盛时期大约在公元 600 年，是当时世界上最大的人类聚居区之一。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2014 年英语（一）】",
+       "year": 2014,
+       "exam": "英语一",
+       "part": null,
+       "en": "At its peak around AD 600, this city was one of the largest human settlements in the world.",
+       "cn": "该城的鼎盛时期大约在公元 600 年，是当时世界上最大的人类聚居区之一。"
+      }
+     ],
+     "list_no": 80,
+     "list_title": "客观描述",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 13,
+     "spelling": "global",
+     "spelling_raw": "global",
+     "ipa_raw": "/'gloʊbl/",
+     "mnemonic": "谐音“哥捞宝” → 哥捞到了全球的稀有宝物。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "全球的；整体的；总括的；全面的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "global warming 全球变暖"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "全面的\nHe has a global vision of contemporary societies.\n他对当代社会有着全面的认识。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "globalise/-ize v. 使全球化\nglobalization n. 全球化"
+      }
+     ],
+     "examples": [],
+     "list_no": 80,
+     "list_title": "客观描述",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 14,
+     "spelling": "actual",
+     "spelling_raw": "actual",
+     "ipa_raw": "/'æktʃuəl/",
+     "mnemonic": "act-（行动）+ -ual（有……性质的）→实验唯有不断经过实际行动验证，才能得到 actual（真正的）结果。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "实在的；实际的；真正的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "真正的\n【2018 年英语（一）】\nIn most of the homeless gardens of New York City the actual cultivation of plants is unfeasible.\n在纽约的大部分无家可归者的花园中，真正栽培植物是不可行的。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "actually adv. 实际上；说实在地"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2018 年英语（一）】",
+       "year": 2018,
+       "exam": "英语一",
+       "part": null,
+       "en": "In most of the homeless gardens of New York City the actual cultivation of plants is unfeasible.",
+       "cn": "在纽约的大部分无家可归者的花园中，真正栽培植物是不可行的。"
+      }
+     ],
+     "list_no": 80,
+     "list_title": "客观描述",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 15,
+     "spelling": "mutual",
+     "spelling_raw": "mutual",
+     "ipa_raw": "/'mju:tʃuəl/",
+     "mnemonic": "mut-（交换）+ -ual（形容词后缀）→交换是 mutual（相互的），双方互换。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "相互的；彼此的；共同的；共有的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "mutual benefit 互利\nmutual respect for each other 相互尊敬"
+      },
+      {
+       "marker": "②",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "mutual & common\n\\- mutual:强调两者之间“共同的”；\n\\- common: 强调两者及两者以上“共同的”。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "mutually adv. 相互地"
+      }
+     ],
+     "examples": [],
+     "list_no": 80,
+     "list_title": "客观描述",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 16,
+     "spelling": "standard",
+     "spelling_raw": "standard",
+     "ipa_raw": "/'stændərd/",
+     "mnemonic": "stand-（站立）+ -ard（人或做某事的人）→军人的站姿都是有标准的，这是军队的基本规范（standard）。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "（品质的）标准；水平；规格；规范；道德水准"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "普通的；正常的；标准的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "a standard of living 生活水平"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "权威的\nI need a standard reference work.\n我需要一部权威的参考书。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "standardize v. 使标准化\nstandardised/-ized adj. 标准化的"
+      },
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "standardized tests 标准化测试"
+      }
+     ],
+     "examples": [],
+     "list_no": 80,
+     "list_title": "客观描述",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 17,
+     "spelling": "typical",
+     "spelling_raw": "typical",
+     "ipa_raw": "/'tipikl/",
+     "mnemonic": "type（类型、种类）+ -ical（……的）→具有某类事物特征的→典型的、有代表性的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "典型的；有代表性的；特有的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "be typical of 是……的特点；典型的"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "特有的\nHe spoke with typical enthusiasm.\n他以其特有的热情讲话。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "typically adv. 典型地"
+      }
+     ],
+     "examples": [],
+     "list_no": 80,
+     "list_title": "客观描述",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 18,
+     "spelling": "contrary",
+     "spelling_raw": "contrary",
+     "ipa_raw": "/'ka:ntreri/",
+     "mnemonic": "contra-（反对，相反）+ -ary（……的人 / 物）→",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "相反的；对抗的；好与人作对的；对方的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "相反事物；反对；对立面"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "by contraries 与预期的相反\non the contrary 正相反\nquite the contrary 恰恰相反\nto the contrary（意思）相反的（地）"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "相反\nJames Herriot, contrary to popular opinion, did not find it easy in his early days of, as he put it, “having a go at the writing game”.\n跟大众的观点相反，正如吉米·哈利所言，自己早期在“写作游戏中的尝试”并不怎么顺利。"
+      }
+     ],
+     "examples": [],
+     "list_no": 80,
+     "list_title": "客观描述",
+     "theme": "事物与描述"
+    }
+   ],
+   "narrative": {
+    "plot": "出发准备→登山挑战→探险感悟",
+    "sections": [
+     {
+      "title": "出发准备",
+      "text": [
+       "教练首先讲解了 general（通用的）登山准则，强调 basic（基础的）装备检查是安全的前提，又针对 specific（具体的）路段指出可能遭遇 extreme（极端的）情况。队长补充道，本次行动的 main（主要的）任务是勘测地形，所有人需保持 normal（正常的）体能分配节奏，而 sole（唯一的）导航设备必须提前调试到 exact（精确的）模式。"
+      ]
+     },
+     {
+      "title": "登山挑战",
+      "text": [
+       "队伍进入山脉 core(核心) 区域后，so-called(所谓的)“平缓路段”突然出现陡坡。队员们相互扶持，终于在日落前抵达 peak(顶峰)。此时，global(全球的) 卫星信号恰好覆盖，actual(实际的) 海拔数据与预估的 standard(标准) 完全吻合，mutual(相互的) 信任是突破困境的关键。"
+      ]
+     },
+     {
+      "title": "探险感悟",
+      "text": [
+       "有人说这是一次 typical（典型的）探险经历，验证了预设的路线可行性；也有人持 contrary（相反的）看法——正是那些突发状况，让这次经历比任何计划都更有意义。"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "list_no": 81,
+   "title": "主观评价",
+   "words": [
+    {
+     "seq": 1,
+     "spelling": "obvious",
+     "spelling_raw": "obvious",
+     "ipa_raw": "/'ɑ:bviəs/",
+     "mnemonic": "这个设计的问题是非常明显的（obvious），衣服上的装饰都是不必要的（obvious）。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "明显的；显而易见的；平淡无奇的；不必要的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "obvious & evident & apparent & clear\n- obvious:语气较强，指极为明显，有目共睹，无须说明和论证；\n- evident: 用于描述显然的事实;\n- apparent: 强调显而易见或一想便知;\n- clear: 普通用词，侧重指清楚的、明显的。"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "平淡无奇的\nThe ending was pretty obvious.\n结尾十分平淡。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "obviously adv. 明显地；显然"
+      }
+     ],
+     "examples": [],
+     "list_no": 81,
+     "list_title": "主观评价",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 2,
+     "spelling": "true",
+     "spelling_raw": "true",
+     "ipa_raw": "/tru:/",
+     "mnemonic": "这条忠诚的（true）小狗沿着笔直的（true）",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "真实的；真正的；忠实的；忠诚的；正确的"
+      },
+      {
+       "pos": "adv.",
+       "meaning_cn": "笔直地"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "真实；准确"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "be true to sth. 忠于；信守；坚持\ncome true 实现，成为现实\nbe true of 符合于，对……适用\nbe true to 符合……，对……适用\nA written story should be true to what was really told from mouth to mouth.\n写下来的故事应该是口耳相传的真实故事。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "truly adv. 真诚地，诚恳地"
+      }
+     ],
+     "examples": [],
+     "list_no": 81,
+     "list_title": "主观评价",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 3,
+     "spelling": "important",
+     "spelling_raw": "important",
+     "ipa_raw": "/ɪmˈpɔːrtnt/",
+     "mnemonic": "im-（加强语气）+ port-（拿、带）+ -ant（具有……性质的）→值得被郑重地拿出来的礼物，一定是很重要的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "重要的；重大的；有权利的；有声望的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "be extremely important to 对……极其重要"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "有声望的\nHe was the most important person on the island.\n他是岛上最有声望的人。"
+      }
+     ],
+     "examples": [],
+     "list_no": 81,
+     "list_title": "主观评价",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 4,
+     "spelling": "hard",
+     "spelling_raw": "hard",
+     "ipa_raw": "/ha:rd/",
+     "mnemonic": "要凿开这块坚固的（hard）石头是一件很困难的（hard）事情，不管多么努力（hard）都不行。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "硬的；坚固的；努力的；艰苦的；冷酷无情的；猛烈的"
+      },
+      {
+       "pos": "adv.",
+       "meaning_cn": "困难地"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "be hard on sb. 对某人严厉\ntake a hard line 不妥协\nbe hard up for sth. 缺少；不知所措"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "harden v. 使变硬；使变得冷酷无情\nhardly adv. 简直不；苛刻地"
+      }
+     ],
+     "examples": [],
+     "list_no": 81,
+     "list_title": "主观评价",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 5,
+     "spelling": "nonsense",
+     "spelling_raw": "nonsense",
+     "ipa_raw": "/'na:nsens/",
+     "mnemonic": "non-（无、不）+ sense（意义）→没有意义的事 / 话→废话。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "胡说；废话；荒谬的想法；愚蠢的举动"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "speak nonsense 胡言乱语"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "胡说、无稽之谈\n【2019 年英语（一）】\nThere is a great deal of this kind of nonsense in the medical journals which, when taken up by broadcasters and the lay press, generates both health scares and short-lived dietary enthusiasms.\n医学期刊中充斥着这类无稽之谈，这些东西一旦经过广播和非专业报刊的传播，就会引起健康方面的恐慌和对某些饮食的短暂追捧。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2019 年英语（一）】",
+       "year": 2019,
+       "exam": "英语一",
+       "part": null,
+       "en": "There is a great deal of this kind of nonsense in the medical journals which, when taken up by broadcasters and the lay press, generates both health scares and short-lived dietary enthusiasms.",
+       "cn": "医学期刊中充斥着这类无稽之谈，这些东西一旦经过广播和非专业报刊的传播，就会引起健康方面的恐慌和对某些饮食的短暂追捧。"
+      }
+     ],
+     "list_no": 81,
+     "list_title": "主观评价",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 6,
+     "spelling": "straightforward",
+     "spelling_raw": "straightforward",
+     "ipa_raw": "/ˌstreɪtˈfɔːrwərd/",
+     "mnemonic": "straight（直的）+ forward（向前的）→一直向前的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "正直的；坦率的；简单的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "in a straightforward sense 简单来讲"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "简单的\nFortunately, taking steps to recover from disasters and minimize their effects is quite straightforward.\n幸运的是，采取措施从灾难中恢复并将其影响降至最低是相当简单的。"
+      }
+     ],
+     "examples": [],
+     "list_no": 81,
+     "list_title": "主观评价",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 7,
+     "spelling": "possible",
+     "spelling_raw": "possible",
+     "ipa_raw": "/'pa:səbl/",
+     "mnemonic": "poss-（拥有、掌握）+ -ible（可……的）→能够拥有的、有能力实现的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "可能的；做得到的；潜在的；可以接受的；合适的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "合适的人 / 物"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "as soon as possible 尽快"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "合适的人\nOut of all the people interviewed, there are only five possibles.\n在所有面试过的人中，只有 5 个人可能胜任。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "possibly adv. 也许；或者"
+      }
+     ],
+     "examples": [],
+     "list_no": 81,
+     "list_title": "主观评价",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 8,
+     "spelling": "significant",
+     "spelling_raw": "significant",
+     "ipa_raw": "/sɪɡˈnɪfɪkənt/",
+     "mnemonic": "sign(标志)+i+fic-(做)+-ant，做出标志性的事对奥特曼很 significant（重要）。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "有意义的；重要的；重大的；显著的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "重要的\n【2018 年英语（一）】\nThe building has housed some of the nation's most significant diplomats and politicians and has been the scene of many historic events.\n一些美国最重要的外交官和政治家曾在这座大楼里工作，它也曾是许多历史事件发生的地点。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "insignificant adj. 微不足道的；无足轻重的"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2018 年英语（一）】",
+       "year": 2018,
+       "exam": "英语一",
+       "part": null,
+       "en": "The building has housed some of the nation's most significant diplomats and politicians and has been the scene of many historic events.",
+       "cn": "一些美国最重要的外交官和政治家曾在这座大楼里工作，它也曾是许多历史事件发生的地点。"
+      }
+     ],
+     "list_no": 81,
+     "list_title": "主观评价",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 9,
+     "spelling": "appropriate",
+     "spelling_raw": "appropriate",
+     "ipa_raw": "/əˈproʊpriət/",
+     "mnemonic": "ap-(加强→理解为强行)+propri-(自己的，",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "合适的"
+      },
+      {
+       "pos": "vt.",
+       "meaning_cn": "挪用；侵吞；拨款"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "fit & appropriate & suitable & apt & proper\n\\- fit: 指对某一意图、场合或使用是合适的，含有被动意味，可用作定语和表语;\n\\- appropriate: 指适合于某个地位、身份、场合;\nSports clothes are not appropriate for a formal wedding.\n运动服不适合正式婚礼。\n\\- suitable: 暗含符合某要求、完成某需要或实现某意图的能力，强调没有不协调之处，有时可与 fit 换用，可用作定语和表语;\na film not suitable for children\n不适合孩子们看的电影\n\\- apt: 指某事物自然、合适、恰当，含有主动意味，可用作定语和表语;\n\\- proper: 含有生来就具备适宜性质的含义。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "appropriate for/to 对……适合的"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "inappropriate adj. 不适当的；不合适的"
+      }
+     ],
+     "examples": [],
+     "list_no": 81,
+     "list_title": "主观评价",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 10,
+     "spelling": "prime",
+     "spelling_raw": "prime",
+     "ipa_raw": "/praɪm/",
+     "mnemonic": "prim-（首要的）+ -e（谐音“一”）→排在首位的就是第一，也是最重要的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "最初的；第一的；原始的；首要的；基本的；最好的；典型的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "初期；青春；壮年"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "把……准备好"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "鼎盛时期\n【2012 年英语（一）】\nWhen Hoffa's Teamsters were in their prime in 1960, only one in ten American government workers belonged to a union.\n20 世纪 60 年代，霍法领导下的卡车司机联盟正处于全盛时期，美国政府员工仅有十分之一是工会成员。"
+      },
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "使（某人）做好准备\n【2013 年英语（二）】\nPsychologists at the University of Toronto found that viewing a fast-food logo for just a few milliseconds primes us to read 20 percent faster, even though reading has little to do with eating.\n多伦多大学的心理学家们发现，仅用几毫秒看一个快餐标识，就能让我们的阅读速度提高 20%, 尽管阅读和进餐联系甚微。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "a prime concern 头等大事"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "primer n. 引物；底漆；入门书；初级读物"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2012 年英语（一）】",
+       "year": 2012,
+       "exam": "英语一",
+       "part": null,
+       "en": "When Hoffa's Teamsters were in their prime in 1960, only one in ten American government workers belonged to a union.",
+       "cn": "20 世纪 60 年代，霍法领导下的卡车司机联盟正处于全盛时期，美国政府员工仅有十分之一是工会成员。"
+      },
+      {
+       "source_raw": "【2013 年英语（二）】",
+       "year": 2013,
+       "exam": "英语二",
+       "part": null,
+       "en": "Psychologists at the University of Toronto found that viewing a fast-food logo for just a few milliseconds primes us to read 20 percent faster, even though reading has little to do with eating.",
+       "cn": "多伦多大学的心理学家们发现，仅用几毫秒看一个快餐标识，就能让我们的阅读速度提高 20%, 尽管阅读和进餐联系甚微。"
+      }
+     ],
+     "list_no": 81,
+     "list_title": "主观评价",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 11,
+     "spelling": "absolute",
+     "spelling_raw": "absolute",
+     "ipa_raw": "/'æbsəlu:t/",
+     "mnemonic": "ab-（“彻底”）+ solute（溶质）→当溶质完全、彻底溶解在溶液中，就是完全溶解的状态→完全的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "纯粹的；完全的；绝对的；不受任何限制的；无疑的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "绝对真理"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "absolute & perfect & complete & thorough\n- absolute:指事物完全不掺杂别的成分，只作定语，从语意来说，不可以用比较级，也不可用表示强调程度的 very 等副词修饰，但可用 nearly 修饰；\n- perfect:指人或事物完美无缺，作贬义时，指事物完全不好；\na perfect fool 一个十足的傻子\ncomplete: 着重强调事物各部分齐备不缺;\n- thorough: 指尽善尽美。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "absolutely adv. 完全地；绝对地"
+      }
+     ],
+     "examples": [],
+     "list_no": 81,
+     "list_title": "主观评价",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 12,
+     "spelling": "worth",
+     "spelling_raw": "worth",
+     "ipa_raw": "/wɜːrθ/",
+     "mnemonic": "只要某事 worth(值得) 去做，它就 worthy(配得上) 你花费的时间，所以它的存在是 worthwhile(有价值的)。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "值……钱；值得……；拥有……财产"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "价值；作用"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "worth & worthy & worthwhile & worth (one's) while\n- worth:用作形容词，意为“值……的、值得的、有……价值的”，后接 v+ing；用作名词，意为“价值 (value)”;\n- worthy:意为“值得的、有价值的、可尊敬的”，后接不定式或介词“of”；\n- worthwhile: 意为“值得做的、值得花时间（精力）的”;\n- worth (one's) while: 意为“值得某人费事或操劳的”。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "be worth doing sth. 值得做某事"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "worthless adj. 无价值的；没用处的\nworthwhile adj. 值得（做）的\nworthy adj. 值得……的；配得上……的；可尊敬的；\n有价值的；大有作为的"
+      },
+      {
+       "marker": "",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "be worthy of/to do 值得（做）……\nbe worthy to be done 值得被做"
+      }
+     ],
+     "examples": [],
+     "list_no": 81,
+     "list_title": "主观评价",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 13,
+     "spelling": "mysterious",
+     "spelling_raw": "mysterious",
+     "ipa_raw": "/mɪˈstɪriəs/",
+     "mnemonic": "myster-（mystery:神秘事物、谜团）+ -ious（充满……的）→像谜团一样难以理解→难以理解的，神秘的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "神秘的；难以理解的；可疑的；不可思议的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "难以理解的\nThe note left on the desk was written in a mysterious code, and no one in the team could figure out its meaning after hours of effort.\n桌上留下的便条是用一种难以理解的密码写的，团队里的人花了几个小时都没能弄明白它的意思。"
+      }
+     ],
+     "examples": [],
+     "list_no": 81,
+     "list_title": "主观评价",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 14,
+     "spelling": "certain",
+     "spelling_raw": "certain",
+     "ipa_raw": "/'s3:rtn/",
+     "mnemonic": "谐音“舌疼”→咬到舌头肯定会疼，这是 certain（肯定的）。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "确定的；肯定的；某些；轻微的；一点；某人"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "for certain 确定地\nmake certain (that) 弄清楚"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "某人\nYou owe a certain person a sum of money.\n你欠着某人一笔钱。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "certainty n. 确定的事情；必然的事情；确定；有把握\ncertainly adv. 无疑；肯定；当然"
+      }
+     ],
+     "examples": [],
+     "list_no": 81,
+     "list_title": "主观评价",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 15,
+     "spelling": "potential",
+     "spelling_raw": "potential",
+     "ipa_raw": "/pəˈtenʃl/",
+     "mnemonic": "他很有潜力（potential），将来可能是强有力的（potent）竞争对手。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "潜在性；可能性；潜力；潜能"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "潜在的；可能的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "potential & implicit & latent\n\\- potential:强调事物转变为积极的因素，能明显发\n现，一般用于褒义；\npotential markets 潜在市场\n\\- implicit: 指未用语言或行动表达，但可以通过某种迹象推断出来的事物;\nimplicit criticism 含蓄的批评\n\\- latent:表示以前是明显的，现在由于意外或思想活动而隐藏，含有存在量不活跃或不明显的意思。\nlatent energy 潜在的能量"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "the potential to do sth. 做某事的潜力\nbring one's potential into full play 充分发挥某人的潜力"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "potentially adv. 潜在地"
+      }
+     ],
+     "examples": [],
+     "list_no": 81,
+     "list_title": "主观评价",
+     "theme": "事物与描述"
+    }
+   ],
+   "narrative": {
+    "plot": "发现遗迹→展开勘探→挖掘收获",
+    "sections": [
+     {
+      "title": "发现遗迹",
+      "text": [
+       "考古队踏入山谷时，obvious（明显的）痕迹显示这里有古文明遗存。队长说，找到 true（真实的）遗址是最 important（重要的）任务，尽管前路是 hard（艰难的），但放弃更是 nonsense（无意义的）。"
+      ]
+     },
+     {
+      "title": "展开勘探",
+      "text": [
+       "队员们性格是 straightforward（正直坦率的），讨论时从不含糊其词。他们沿着岩层走向勘探——这种一目了然的路线，反而少了绕路的麻烦。专家指出，这条路上发现文物是 possible（可能的），但是任何碎片都有 significant（有意义的）研究价值。大家很快选定 appropriate（合适的）工具，准备在 prime（最佳的）位置开挖。"
+      ]
+     },
+     {
+      "title": "挖掘收获",
+      "text": [
+       "随着挖掘深入，队员们察觉到土层下出现 absolute（完全的）人工打磨的痕迹。仔细清理后，露出的器物 worth（值得）投入研究：上面刻着 mysterious（神秘的）纹路，既不像已知的任何符号，又隐约有规律可循。考古队 certain（确信的）态度表明，这些发现不仅能填补历史空白，更藏着古文明未被发掘的 potential（潜力）。"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "list_no": 82,
+   "title": "抽象概念与存在",
+   "words": [
+    {
+     "seq": 1,
+     "spelling": "existence",
+     "spelling_raw": "existence",
+     "ipa_raw": "/ɪɡˈzɪstəns/",
+     "mnemonic": "exist（存在）+ -ence（状态、行为）→考古中发现的遗迹，证明了古文明的存在。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "存在；生存"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "daily existence 日常生活"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "生存\n【2013 年英语（一）】\nBut we are now knowledgeable enough to reduce many of the risks that threatened the existence of earlier humans, and to improve the lot of those to come.\n但现在，我们有足够的知识来降低许多威胁早期人类生存的风险，并改善未来人类的命运。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2013 年英语（一）】",
+       "year": 2013,
+       "exam": "英语一",
+       "part": null,
+       "en": "But we are now knowledgeable enough to reduce many of the risks that threatened the existence of earlier humans, and to improve the lot of those to come.",
+       "cn": "但现在，我们有足够的知识来降低许多威胁早期人类生存的风险，并改善未来人类的命运。"
+      }
+     ],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 2,
+     "spelling": "exist",
+     "spelling_raw": "exist",
+     "ipa_raw": "/ɪɡˈzɪst/",
+     "mnemonic": "ex-（出）+ -ist（……的人）→这个人是故意站出来刷存在感的。",
+     "senses": [
+      {
+       "pos": "vi.",
+       "meaning_cn": "存在；实际上有（不用于进行时）；（尤指在困境或贫困中）生活；生存"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "存在\n【2015 年英语（一）】\nWhy this similarity exists in smell genes is difficult to explain, for now.\n目前还很难解释为什么在嗅觉基因方面存在相似性。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "existing adj. 现存的；现行的\nexistential adj. 关于人类存在的\nexistence n. 存在；生存；（尤指艰难或无聊的）生活（方式）"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2015 年英语（一）】",
+       "year": 2015,
+       "exam": "英语一",
+       "part": null,
+       "en": "Why this similarity exists in smell genes is difficult to explain, for now.",
+       "cn": "目前还很难解释为什么在嗅觉基因方面存在相似性。"
+      }
+     ],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 3,
+     "spelling": "presence",
+     "spelling_raw": "presence",
+     "ipa_raw": "/'prezns/",
+     "mnemonic": "出席（presence）重要场合需要带礼物（present）。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "出席；到场；存在；出现"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "make one's presence felt 使别人感觉自己重要\nin the presence of someone 在某人面前"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "存在，出现\n【2019 年英语（一）】\nThe ruling is a victory for big chains with a presence in many states, since they usually collect sales tax on online purchases already.\n这项裁决对于在多个州有实体店的大型连锁企业来说是一次胜利，因为这些连锁企业通常已经在对网上购物代收销售税。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "present n. 礼物；目前"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2019 年英语（一）】",
+       "year": 2019,
+       "exam": "英语一",
+       "part": null,
+       "en": "The ruling is a victory for big chains with a presence in many states, since they usually collect sales tax on online purchases already.",
+       "cn": "这项裁决对于在多个州有实体店的大型连锁企业来说是一次胜利，因为这些连锁企业通常已经在对网上购物代收销售税。"
+      }
+     ],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 4,
+     "spelling": "purpose",
+     "spelling_raw": "purpose",
+     "ipa_raw": "/'pɜːrpəs/",
+     "mnemonic": "pur-（拼音“仆人”）+ pose（姿势）→仆人摆好姿势，是为了在大门口迎接客人→目的，意图。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "目的；意图；用途；效果；决心"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "aim & purpose & objective & goal\n- aim: 侧重于具体、可量化的目标，更贴近于短期、阶段性的目标;\n- purpose:侧重于抽象、根本的意图或功能，更贴近于长期和本质性的目标；\n- objective: 表示具体、直接或很快可以达到的“目的”“目标”，也可用于军事用语，表示“攻击目标”；\n- goal:指通过考虑和选择的“目标”“目的”，必须经过坚持不懈的努力和艰苦的奋斗才能达到或完成。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "for (the) purpose of 为了……\non purpose 故意"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "purposeless adj. 无目的的；无意义的；无用的"
+      }
+     ],
+     "examples": [],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 5,
+     "spelling": "role",
+     "spelling_raw": "role",
+     "ipa_raw": "/roʊl/",
+     "mnemonic": "在志愿者任务（role）中，他主动承担起组织者的角色（role）。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "角色；作用；任务"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "作用\n【2022 年英语（二）】\nAny or all these teams can play a role in creating or avoiding“digital deception”.\n任何或所有这些团队都可以在创造或避免“数字欺骗”方面发挥作用。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语（二）】",
+       "year": 2022,
+       "exam": "英语二",
+       "part": null,
+       "en": "Any or all these teams can play a role in creating or avoiding “digital deception”.",
+       "cn": "任何或所有这些团队都可以在创造或避免“数字欺骗”方面发挥作用。"
+      }
+     ],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 6,
+     "spelling": "goal",
+     "spelling_raw": "goal",
+     "ipa_raw": "/gool/",
+     "mnemonic": "对方守门员（goal）奋力扑救，却没能挡住他射向球门（goal）的球，这让我方距离获胜的目",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "目的；目标；守门员；球门；进球"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "目标\n【2020 年英语（二）】\nAs a result of working toward this goal. you and your children will benefit and emerge from stressful moments feeling better physically and emotionally.\n向着这个目标努力后，你和你的孩子将从中受益，摆脱充满压力的时刻，从而拥有更好的身心状态。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语（二）】",
+       "year": 2020,
+       "exam": "英语二",
+       "part": null,
+       "en": "As a result of working toward this goal. you and your children will benefit and emerge from stressful moments feeling better physically and emotionally.",
+       "cn": "向着这个目标努力后，你和你的孩子将从中受益，摆脱充满压力的时刻，从而拥有更好的身心状态。"
+      }
+     ],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 7,
+     "spelling": "thought",
+     "spelling_raw": "thought",
+     "ipa_raw": "/θɔːt/",
+     "mnemonic": "思考（think）后，有了很多新的想法（thought）。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "思想；思维；思考；想法；观念"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "想（过去式）"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "at first thought 乍一想\nat the thought of 一想起……就\non second thoughts 经重新考虑"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "thoughtless adj. 粗心大意的；欠考虑的；轻率的\nthoughtful adj. 周到的；思考的；深思熟虑的；沉思的；体贴的"
+      }
+     ],
+     "examples": [],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 8,
+     "spelling": "soul",
+     "spelling_raw": "soul",
+     "ipa_raw": "/soul/",
+     "mnemonic": "她的歌声里既有对故乡的深情（soul），又饱含着生动的灵魂（soul），连乐器都有着独特的灵气（soul）。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "精神；精力；灵魂；心灵；心"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "heart and soul 全心全意地\nlost soul 孤苦的人"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "心、心灵\nThere was a feeling of restlessness deep in her soul!\n她内心深处感到焦躁不安！"
+      }
+     ],
+     "examples": [],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 9,
+     "spelling": "spirit",
+     "spelling_raw": "spirit",
+     "ipa_raw": "/'spirit/",
+     "mnemonic": "面对强敌，他眼中燃烧着不屈的 spirit（精神），赛场上展现出无畏的 spirit（勇气），那份不服输的 spirit（斗志）感染了全场。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "精神；勇气；意志；灵魂；态度；斗志"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "偷偷带走"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "in high spirits 神采飞扬"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "意志\nThey took away his freedom and broke his spirit.\n他们夺走了他的自由，摧毁了他的意志。"
+      }
+     ],
+     "examples": [],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 10,
+     "spelling": "expectation",
+     "spelling_raw": "expectation",
+     "ipa_raw": "/ˌekspekˈteɪʃn/",
+     "mnemonic": "ex-（向外）+ spect-（看）+ -ation（行为 / 状态）→向外看、盼着某事发生→期待。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "预期；期望；指望"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "expectation & anticipation & hope & outlook & prospect\n\\- expectation: 指盼望某事发生或认为某事会发生;\n\\- anticipation:指基于先见、预知的期待或希望，在一般情况下多指好的事情；\n\\- hope:指主观认为某事会发生或出现，但缺少根据或把握；\n\\- outlook:指根据眼前的征兆和分析预感某事可能会发生；\n\\- prospect: 指有可能实现的愿望或预料中的事情。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "beyond expectation 出乎意料的\ncontrary to expectation(s) 与期望相反"
+      }
+     ],
+     "examples": [],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 11,
+     "spelling": "experience",
+     "spelling_raw": "experience",
+     "ipa_raw": "/ɪkˈspɪriəns/",
+     "mnemonic": "ex-（向外）+peri-（尝试）+ -ence（行为）→主动去尝试新鲜事物，会有新的体验。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "经验；经历"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "体验；经历"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "经验\n【2022 年英语（二）】\nChanges in the light, the limitations of your painting materials and the lack of experience and technique mean that what you start out trying to achieve may not come to life the way that you expected.\n光线的变化，绘画材料的限制，以及经验和技术的缺乏，意味着你一开始试图实现的东西可能不会以你预期的方式实现。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2022 年英语（二）】",
+       "year": 2022,
+       "exam": "英语二",
+       "part": null,
+       "en": "Changes in the light, the limitations of your painting materials and the lack of experience and technique mean that what you start out trying to achieve may not come to life the way that you expected.",
+       "cn": "光线的变化，绘画材料的限制，以及经验和技术的缺乏，意味着你一开始试图实现的东西可能不会以你预期的方式实现。"
+      }
+     ],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 12,
+     "spelling": "concept",
+     "spelling_raw": "concept",
+     "ipa_raw": "/'ka:nsept/",
+     "mnemonic": "con-（共同）+ cept-（掌握）→大家共同掌握的东西，也就是人们对事物的认知，概念，观念。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "概念；观念"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": null,
+       "body": "易混词辨析:concept & conception\n\\- concept: 侧重抽象、普遍的概念或理论;\n\\- conception: 侧重具体理解、构想或观念 (含主观性)。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "conceptual adj. 概念上的；观念上的\nconception n. 概念；怀孕\nOnly 18 days after conception, the eyes and heart develop.\n怀孕 18 天后，胎儿的眼睛和心脏就开始发育。"
+      }
+     ],
+     "examples": [],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 13,
+     "spelling": "imagination",
+     "spelling_raw": "imagination",
+     "ipa_raw": "/ɪˌmædʒɪˈneɪʃn/",
+     "mnemonic": "imagin-（imagine:想象）+ -ation（行为 / 状态）→丰富的想象能力。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "想象；空想；想象力"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "想象力\n【2015 年英语（二）】\nI do completely agree that fears are just the product of our luxuriant imagination.\n我完全同意恐惧仅仅是我们丰富想象力的产品而已。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2015 年英语（二）】",
+       "year": 2015,
+       "exam": "英语二",
+       "part": null,
+       "en": "I do completely agree that fears are just the product of our luxuriant imagination.",
+       "cn": "我完全同意恐惧仅仅是我们丰富想象力的产品而已。"
+      }
+     ],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 14,
+     "spelling": "conscience",
+     "spelling_raw": "conscience",
+     "ipa_raw": "/'ka:nʃəns/",
+     "mnemonic": "con-（共同）+ sci-（知道 / 理解）+ -ence（状态）→大家共同理解下的（道德）认知，就是良知。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "良知；良心；内疚"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "内疚\nI had a guilty conscience about not telling her the truth.\n我因为没有告诉她事实真相而感到内疚。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "against conscience 违背良心\nin all conscience 凭良心；公道地\nto have a good conscience 问心无愧\nto have a guilty conscience 问心有愧；感到内疚"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "conscientious adj. 认真的；勤勤恳恳的"
+      }
+     ],
+     "examples": [],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 15,
+     "spelling": "attention",
+     "spelling_raw": "attention",
+     "ipa_raw": "/ə'tenʃn/",
+     "mnemonic": "at-（朝向）+ tend-（延伸，伸展）+ -ion（动作/状态）→将注意力朝某个方向延伸集中。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "注意（力）；留心；立正；照顾；殷勤"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "殷勤\nHis attentions seemed out of place.\n他的殷勤似乎已经不合时宜。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "attract one's attention 吸引注意力\ncome to attention 立正\npay attention to 注意\npublic attention 公众关注"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "attentive adj. 注意的；体贴的"
+      }
+     ],
+     "examples": [],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 16,
+     "spelling": "effort",
+     "spelling_raw": "effort",
+     "ipa_raw": "/'efərt/",
+     "mnemonic": "志愿者的努力（effort）让这次的环保活动（effort）取得了显著的成果（effort）。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "努力；有组织的活动；努力的结果"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "有组织的活动\n【2021 年英语（一）】\nThe study based on an area in Mexico is cited to show that antipoverty efforts require the participation of local farmers.\n文中引用这基于墨西哥某地区的研究是为了表明，扶贫工作需要当地农民的参与。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "make an effort/efforts to do sth. 努力做某事\ntake efforts 付出努力\nspare no effort 不遗余力；尽力\nin a joint (common) effort 共同努力"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2021 年英语（一）】",
+       "year": 2021,
+       "exam": "英语一",
+       "part": null,
+       "en": "The study based on an area in Mexico is cited to show that antipoverty efforts require the participation of local farmers.",
+       "cn": "文中引用这基于墨西哥某地区的研究是为了表明，扶贫工作需要当地农民的参与。"
+      }
+     ],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 17,
+     "spelling": "opinion",
+     "spelling_raw": "opinion",
+     "ipa_raw": "/əˈpɪmjən/",
+     "mnemonic": "会议上，他始终坚持自己的主张 (opinion), 先是给出了方案的修改意见 (opinion), 随后阐述了对市场趋势的看法 (opinion)。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "看法；意见；主张；信仰"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "ask the opinion of sb. 征询某人意见\nbe of the opinion that 认为……\na matter of opinion 看法不同的问题\nin one's opinion 依某人看\nopinion poll 民意调查"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "信仰\nThough his belief in environmental protection started as a casual view, over time it grew into a firm opinion that guides every choice he makes.\n他对环境保护的信念起初只是一种随意的看法，久而久之却变成了一种坚定的信仰，指引着他做出每一个选择。"
+      }
+     ],
+     "examples": [],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 18,
+     "spelling": "basis",
+     "spelling_raw": "basis",
+     "ipa_raw": "/'beɪsɪs/",
+     "mnemonic": "联想“base（基础）+is（存在）”→房屋的存在是需要有基础支撑的。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "基础；根据；缘由；基准；要素；方式"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "basis & ground(s) & base & foundation\n\\- basis, ground(s), foundation: 都可以指抽象的、无形的基础 (间或也用 base), foundation 的语气较强，含有坚实的基础的意义; ground(s) 尤指作为某种决定、辩论或关系的基础，这种意义中常用作复数形式，但表示单数概念，谓语动词用单数，主要暗示经过证实的理由等;\n\\- base 和 foundation: 都可以指具体的有形的基础，但 base 应用的范围广，可指任何物体的底部、基部，foundation 仅指建筑物深埋于地下的地基; 因而，没有地下基础而建筑在 ground 上的房子只有 base, 有地下基础的房子才有 foundation。"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "基准\n【2023 年英语（二）】\nMost respondents in the survey would go to the national parks on a regular basis.\n参与调查的大多数受访者都会定期去国家公园。"
+      },
+      {
+       "marker": "③",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "on a basis of 以……为基础\nestablish/lay the basis of/for... 建立……的基础\non a daily basis 每天（指一起共事）\nhave no basis 没有依据"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2023 年英语（二）】",
+       "year": 2023,
+       "exam": "英语二",
+       "part": null,
+       "en": "Most respondents in the survey would go to the national parks on a regular basis.",
+       "cn": "参与调查的大多数受访者都会定期去国家公园。"
+      }
+     ],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 19,
+     "spelling": "scrutiny",
+     "spelling_raw": "scrutiny",
+     "ipa_raw": "/'skru:təni/",
+     "mnemonic": "scrut-（搜索）+ -iny（动作 / 状态）→细致检查、周密审查。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "详细检查；细看；审查"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "审查\nVaux says that Science’s idea to pass some papers to statisticians“has some merit, but a weakness is that it relies on the board of reviewing editors to identify’the papers that need scrutiny’in the first place”.\n沃克斯说，《科学》杂志把论文交由统计学家审校的想法“存在一些优点，但是有一点不足，即这个想法依赖审稿委员会首先鉴定出需要接受审查的论文”。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "come under scrutiny 受到审查"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "scrutinize v. 仔细 / 彻底检查"
+      }
+     ],
+     "examples": [],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 20,
+     "spelling": "character",
+     "spelling_raw": "character",
+     "ipa_raw": "/'kærəktər/",
+     "mnemonic": "不同的人物（character）有不同的性格（character）。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "（事物的）性质；特性；（人的）品质；性格；人物；角色；符号；（汉）字"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "性质，特性\nThe density tolerance is a synthetic character.\n耐密性是一个综合性状。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "in character 与自身特性相符，如所预料\nout of character 与自身特性不相符"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "characterize/characterise vt. 表示……的特性；描\n述……特性\ncharacteristic n. 特征；特性；adj. 特有的；独特的\ncharacterization n. 描述；描绘；塑造"
+      }
+     ],
+     "examples": [],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 21,
+     "spelling": "characteristic",
+     "spelling_raw": "characteristic",
+     "ipa_raw": "/ˌkærəktəˈrɪstɪk/",
+     "mnemonic": "一个人的性格（character）体现在他特有的（characteristic）行为中。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "特征"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "特有的；典型的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "特征\n【2019 年英语（二）】\nAs fewer such workers enter the country, the characteristics of the agricultural workforce are changing.\n因为进入美国的这类工人越来越少，美国农业劳动力的特征正在发生变化。"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "特有的\nDifferent cultures are more prone to contract certain illness because of the food that is characteristic in these cultures.\n不同的文化更容易感染特定疾病，因为这些文化中的人食用特有的食物。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2019 年英语（二）】",
+       "year": 2019,
+       "exam": "英语二",
+       "part": null,
+       "en": "As fewer such workers enter the country, the characteristics of the agricultural workforce are changing.",
+       "cn": "因为进入美国的这类工人越来越少，美国农业劳动力的特征正在发生变化。"
+      }
+     ],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 22,
+     "spelling": "quality",
+     "spelling_raw": "quality",
+     "ipa_raw": "/'kwa:ləti/",
+     "mnemonic": "qual-(性质)+-ity(状态)→事物的性质状态，不仅指物品质量，也指人的品质。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "质量；性质；特性；品德；优质；上乘"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "品德\nSometimes you wonder where your kids get their good qualities.\n有时你会想，孩子们身上的优良品德是从何而来。"
+      }
+     ],
+     "examples": [],
+     "list_no": 82,
+     "list_title": "抽象概念与存在",
+     "theme": "事物与描述"
+    }
+   ],
+   "narrative": {
+    "plot": "迷茫觉醒→探索深耕→得到认可",
+    "sections": [
+     {
+      "title": "迷茫觉醒",
+      "text": [
+       "少年初入剧团时，演着小角色，总怀疑自身 existence（存在）的意义，直到前辈拍着他的肩说:“别小看任何角色，哪怕是配角也有 exist（存在）的价值。”这句话成了他重新审视自己的 basis（基础），也让他第一次认真思考表演的 purpose（目的）。"
+      ]
+     },
+     {
+      "title": "探索深耕",
+      "text": [
+       "他开始专注于角色每一次的 presence(出场) 到离场，琢磨每个动作背后的逻辑，明确自己在剧中的 role (角色) 定位 —— 他的 goal (目标) 是让观众记住角色本身。排演时，他反复揣摩剧本的 thought (思想), 试图贴近角色的 soul (灵魂), 用执着的 spirit (精神) 对抗“你不适合演戏”的 opinion (看法)。导演的 expectation (期望) 如灯塔，过往的舞台 experience (经验) 是阶梯，他渐渐形成对“表演”的独特 concept(理念): 用丰富的 imagination(想象力) 填补角色空白，凭 conscience (良知) 诠释善恶，让观众的 attention (注意力) 聚焦于角色身上。"
+      ]
+     },
+     {
+      "title": "得到认可",
+      "text": [
+       "不懈的 effort（努力）终迎来检验，剧评人带着严苛的 scrutiny（审视）观演，在评语中写道:“他塑造的 character(角色) 鲜活，而细腻共情正是他的 characteristic(特质)。”这份专业 quality（品质）让他在舞台上真正扎下了根。"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "list_no": 83,
+   "title": "属性与特征",
+   "words": [
+    {
+     "seq": 1,
+     "spelling": "trait",
+     "spelling_raw": "trait",
+     "ipa_raw": "/treɪt/",
+     "mnemonic": "谐音 try it, 亲身试一下这个就能明白它的特点。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "特征；特点；特性"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "feature & characteristic & trait\n\\- feature:表示“特色”“特征”，主要指一个事物因为细节、形状或重要性等而引人注目，因而成为该事物的特征；\n\\- characteristic:表示“特征”“特性”，指非常突出而且稳定持久，并能把某人或某物跟其他人和物区分开来；\n\\- trait:表示“品质”“特性”“性格”，专指（许多）人或某个民族的性格、思想方面区别于他人或其他民族的显著特色。"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "特性\n【2020 年英语（二）】\nIn a 2019 survey of University of Georgia students, meanwhile, the career office found the most desirable trait in a future employer was the ability to offer secure employment.\n与此同时，在 2019 年对佐治亚大学学生进行的一项调查中，职业办公室发现，未来雇主最理想的特性是能够提供稳定的工作。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2020 年英语（二）】",
+       "year": 2020,
+       "exam": "英语二",
+       "part": null,
+       "en": "In a 2019 survey of University of Georgia students, meanwhile, the career office found the most desirable trait in a future employer was the ability to offer secure employment.",
+       "cn": "与此同时，在 2019 年对佐治亚大学学生进行的一项调查中，职业办公室发现，未来雇主最理想的特性是能够提供稳定的工作。"
+      }
+     ],
+     "list_no": 83,
+     "list_title": "属性与特征",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 2,
+     "spelling": "theme",
+     "spelling_raw": "theme",
+     "ipa_raw": "/θi:m/",
+     "mnemonic": "the (这、那) + me (我) → 这首主题曲是我唱的。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "主题；题目；中心思想；主题曲"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "有特定主题的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "主题曲\nA slow theme introduces the first movement!\n缓慢的主旋律引出了第一乐章！"
+      }
+     ],
+     "examples": [],
+     "list_no": 83,
+     "list_title": "属性与特征",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 3,
+     "spelling": "illusion",
+     "spelling_raw": "illusion",
+     "ipa_raw": "/ɪˈluːʒn/",
+     "mnemonic": "il-（进入）+ lus-（光）+ -ion（行为、状态）→魔术师总是利用灯光制造假象（illusion），让观众以为出现了错觉（illusion）。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "幻觉；错觉；幻想中的事物；假象"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "错觉\n【2011 年英语（一）】\nWe may be able to sustain the illusion of control through the conscious mind alone.\n我们仅通过显意识就可以维持这种控制的错觉。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "give sb the illusion 使某人产生幻想\nromantic illusion 不切实际的幻想"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2011 年英语（一）】",
+       "year": 2011,
+       "exam": "英语一",
+       "part": null,
+       "en": "We may be able to sustain the illusion of control through the conscious mind alone.",
+       "cn": "我们仅通过显意识就可以维持这种控制的错觉。"
+      }
+     ],
+     "list_no": 83,
+     "list_title": "属性与特征",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 4,
+     "spelling": "instinct",
+     "spelling_raw": "instinct",
+     "ipa_raw": "/'instɪŋkt/",
+     "mnemonic": "in-（内）+ stinct-（刺激）→身体内的本能刺激反应是与生俱来的。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "本能；直觉；天性"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "本能\n【2018 年英语（一）】\nWhen people place their trust in an individual or an institution, their brains release oxytocin, a hormone that produces pleasurable feelings and triggers the herding instinct that prompts humans to connect with one another.\n当人们信任一个人或者一个机构时，他们的大脑会释放出催产素，这是一种使人产生愉悦感的荷尔蒙，还会激发人类的群居本能，促使人们互相联系。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "instinctive adj. 天生的"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2018 年英语（一）】",
+       "year": 2018,
+       "exam": "英语一",
+       "part": null,
+       "en": "When people place their trust in an individual or an institution, their brains release oxytocin, a hormone that produces pleasurable feelings and triggers the herding instinct that prompts humans to connect with one another.",
+       "cn": "当人们信任一个人或者一个机构时，他们的大脑会释放出催产素，这是一种使人产生愉悦感的荷尔蒙，还会激发人类的群居本能，促使人们互相联系。"
+      }
+     ],
+     "list_no": 83,
+     "list_title": "属性与特征",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 5,
+     "spelling": "detail",
+     "spelling_raw": "detail",
+     "ipa_raw": "/'di:teɪl/",
+     "mnemonic": "de-(向下、完全)+ tail(表示又细又长的东西，早期曾被用来指代树枝)→深入到细枝末节。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "细节；详情"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "详述；派遣"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "in detail 详细地"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": null,
+       "body": "释义：派遣\nFour soldiers were detailed to check the road for troops!\n派出了 4 名士兵为部队检查道路情况！"
+      }
+     ],
+     "examples": [],
+     "list_no": 83,
+     "list_title": "属性与特征",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 6,
+     "spelling": "advance",
+     "spelling_raw": "advance",
+     "ipa_raw": "/əd'væns/",
+     "mnemonic": "ad-（加强）+ vanc-（前进）+e → 向前走，向前进。",
+     "senses": [
+      {
+       "pos": "v.",
+       "meaning_cn": "使向前移动；促进；提出；提高；使……提前发生；预先发放"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "前进；预付"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "in advance 预先；事先；提前\nin advance of 在……的前面"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "促进\n【2021 年英语（二）】\nState it overtly, contextualizing your statements so that you're seen not as a disagreeable subordinate but as a colleague who's trying to advance a common objective. 将你的观点融入到相关背景中公开陈述，这样你就不会被看成一个令人讨厌的下属，而是一个推进共同目标的同事。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "advancement n. 前进；提升"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2021 年英语（二）】",
+       "year": 2021,
+       "exam": "英语二",
+       "part": null,
+       "en": null,
+       "cn": "State it overtly, contextualizing your statements so that you're seen not as a disagreeable subordinate but as a colleague who's trying to advance a common objective. 将你的观点融入到相关背景中公开陈述，这样你就不会被看成一个令人讨厌的下属，而是一个推进共同目标的同事。"
+      }
+     ],
+     "list_no": 83,
+     "list_title": "属性与特征",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 7,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "这种类型（type）的诗歌有其独特的风格（type），需要用特定的字体（type）来呈现。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "类型；风格；种类；字体；字型"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "分型；定型；打字"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "a type of 一种类型的"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "种类\nStrangely, some people find that they can smell one type of flower but not another, whereas others are sensitive to the smells of both flowers.\n奇怪的是，有些人发现他们能闻到一种花的气味，但不能闻到另一种，而另一些人对两种花的气味都很敏感。"
+      }
+     ],
+     "examples": [],
+     "list_no": 83,
+     "list_title": "属性与特征",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 8,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "cat（猫）+ egory（谐音“一个类”）→狮子和家猫同属于一个生物学类别——猫科。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "类别；种类；类目"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "sort & type & classification & category & species\n- sort: 普通用词，指对人或事物进行的大概分类;\n- type: 常指大致相似的同类事物;\n- classification:指根据已经确定的类型对某一实物作鉴别和归类；\ncategory: 书面用词，特指有确切定义的群体;\n- species: 书面用词，一般指生物分类上的物种。"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "类别\n【2013 年英语（一）】\nThe European Union Framework funding programs have long had a category specifically targeted at social scientists.\n长时间以来，欧盟框架资助项目一直有一个只针对社会科学家的专属项目。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "categorical adj. 明确的；绝对的；坚定的\nThe judgement was harsh and categorical.\n这一判决是严厉且坚定的。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2013 年英语（一）】",
+       "year": 2013,
+       "exam": "英语一",
+       "part": null,
+       "en": "The European Union Framework funding programs have long had a category specifically targeted at social scientists.",
+       "cn": "长时间以来，欧盟框架资助项目一直有一个只针对社会科学家的专属项目。"
+      }
+     ],
+     "list_no": 83,
+     "list_title": "属性与特征",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 9,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "vari-（变化）+ -ety（= -ity 表示状态或性质）→ 很多变化，多种多样。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "种种；多种多样；种类；品种"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "a variety of 各种各样的"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "多种多样\nTo find their sites, archaeologists today rely heavily on systematic survey methods and a variety of high-technology tools and techniques..\n为了找到考古遗址，现今的考古学家主要依靠系统的调查方法和各种高科技工具和技术。"
+      }
+     ],
+     "examples": [],
+     "list_no": 83,
+     "list_title": "属性与特征",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 10,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "ele-（electric 的缩写:“电”）+ -ment（名词后缀）→电是电路运行的基础。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "空白的；空着的；失色的；无表情的"
+      },
+      {
+       "pos": "n.",
+       "meaning_cn": "空白；表格"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "vacant & blank & empty & hollow\n\\- vacant: 意为“空缺的、空的、未被占用的”; At present, our company has no vacant position. 我们公司目前没有空缺职位。\n\\- blank: 意为“空白的、空着的”;\nHe tore a blank page from the notebook.\n他从笔记本上撕了一页空白纸。\n\\- empty: 意为“空洞的、空的、空虚的”;\nThe house is empty and no one is living there.\n这间房空空的，没人住。\n\\- hollow: 意为“中空的、空虚的”。\na hollow wall 中空的墙"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "blank check(cheque) 空白支票\nblank out 不再去想；刻意忘却\nfill in the blanks 填空\nn. 钥匙；答案；曲调；关键；琴键；adj. 主要的；\n关键的；v. 使和谐；使适应\n妙记：这把钥匙（key）是打开盒子的关键（key），谜题的答案（key）就在盒子里。\n## 考点点拨"
+      },
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "hot key 快捷键"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "曲调\nThe song changes key halfway through.\n歌曲在中间部分调子变了。\nn. 元素；要素；组成部分；有点；少量；基本原理；\n基础；自然环境；元件\n妙记:ele-（electric 的缩写:“电”）+ -ment（名词后缀）→电是电路运行的基础。\n## 考点点拨"
+      },
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "元件\nThe kettle needs a new element.\n电水壶该换新的电热丝元件了。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "in your element 得心应手，如鱼得水\nradioactive element 放射性元素"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "elementary adj. 初等的；基本的；简单的；容易的"
+      }
+     ],
+     "examples": [],
+     "list_no": 83,
+     "list_title": "属性与特征",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 11,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "st-（站）+ -age（名词后缀）→能站着表演的地方→舞台。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "舞台；阶段；时期；步骤"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "上演；举办；组织"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "(go) on the stage 当演员；登台演出\nadvanced stage 晚期"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "上演\nThe local theatre group is staging a production of Hamlet.\n当地剧团在上演《哈姆雷特》。"
+      }
+     ],
+     "examples": [],
+     "list_no": 83,
+     "list_title": "属性与特征",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 12,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "她坚持运动来塑造（shape）自己的体形（shape）。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "形状；外形；体形；身段；状况"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "使成形；塑造；形成；决定"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "out of shape 处于不良的状况\nin shape 处于良好状况\ntake shape（开始）成形，形成"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "塑造\nOur families shape our lives and make us what we are.\n我们的家庭塑造我们的生活并铸就我们的个性。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "shapeless adj. 不成形的；无定型的；条理不清的"
+      }
+     ],
+     "examples": [],
+     "list_no": 83,
+     "list_title": "属性与特征",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 13,
+     "spelling": null,
+     "spelling_raw": null,
+     "ipa_raw": null,
+     "mnemonic": "no（没有，不）+ rm（拼音“人们”）→人们的行为不能没有规范。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "标准；定量；定额；规范；行为标准"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "固定词组:\ncultural norm 文化行为准则\nsocial norms 社会规范\nconform to norms 遵守行为标准"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "定额\nThe factory sets a daily production norm of 500 units to meet demand.\n工厂设定每日 500 件的生产定额以满足需求。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "normal adj. 正常的；n. 常态；通常标准；一般水平\nnormally adv. 通常"
+      }
+     ],
+     "examples": [],
+     "list_no": 83,
+     "list_title": "属性与特征",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 14,
+     "spelling": "surface",
+     "spelling_raw": "surface",
+     "ipa_raw": "/'s3:rfis/",
+     "mnemonic": "sur-（在……上面）+face-（脸）→她的脸上贴着面膜。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "表面；外表；台面"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "显露；显现；浮出水面"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "on the surface 表面上，外表上\nscratch the surface (of) 对待或处理问题不深入彻底\nsurface infrastructure 地面基础设施"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "浮出水面\nThe submarine surfaced after spending a week underwater.\n潜艇在水下停留一周后浮出水面。"
+      }
+     ],
+     "examples": [],
+     "list_no": 83,
+     "list_title": "属性与特征",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 15,
+     "spelling": "margin",
+     "spelling_raw": "margin",
+     "ipa_raw": "/'ma:rd3m/",
+     "mnemonic": "谐音“马近”→骑马接近悬崖边缘的时候一定要停下来。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "页边空白；边缘；余地；差额；利润率"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "the margin of the page 页边空白处\nhigh margin goods 高利润产品"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "边缘\n【2015 年英语（一）】\nWords degraded to the margin have been justice, fairness, tolerance, proportionality and accountability. 被贬低到边缘的词语是正义、公平、容忍、相称性和问责制。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "marginal adj. 边缘的；记在页边的；不重要的"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2015 年英语（一）】",
+       "year": 2015,
+       "exam": "英语一",
+       "part": null,
+       "en": null,
+       "cn": "Words degraded to the margin have been justice, fairness, tolerance, proportionality and accountability. 被贬低到边缘的词语是正义、公平、容忍、相称性和问责制。"
+      }
+     ],
+     "list_no": 83,
+     "list_title": "属性与特征",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 16,
+     "spelling": "circle",
+     "spelling_raw": "circle",
+     "ipa_raw": "/'sɜːrkl/",
+     "mnemonic": "老鹰总是绕着圆形（circle）的湖盘旋（circle）着。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "圆；圆周；圈子；界；周期；循环"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "环行；盘旋"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "Arctic Circle 北极圈\nbearing circle 方向盘"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "盘旋\nBut when it's too dark to see these, the doves circle helplessly, unable to find their way.\n但当天太黑看不见这些时，鸽子无助地盘旋着，找不到路。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "circular n. 传单；通告；adj. 环形的；圆形的"
+      },
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "传单\nGo to the truck and get the stockpile of circulars.\n去车上把那摞传单拿来。"
+      }
+     ],
+     "examples": [],
+     "list_no": 83,
+     "list_title": "属性与特征",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 17,
+     "spelling": "foundation",
+     "spelling_raw": "foundation",
+     "ipa_raw": "/faʊnˈdeɪʃn/",
+     "mnemonic": "建房需要先建立（found）一个地基（foundation）。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "基础；根本；地基；基金；基金会"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "the Nobel Foundation 诺贝尔基金会"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "基金会\nThe Bill & Melinda Gates Foundation donated \\$100 million to fight malaria.\n比尔及梅琳达·盖茨基金会捐赠 1 亿美元用于抗击疟疾。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "foundational adj. 基础的；基本的"
+      }
+     ],
+     "examples": [],
+     "list_no": 83,
+     "list_title": "属性与特征",
+     "theme": "事物与描述"
+    }
+   ],
+   "narrative": {
+    "plot": "发现线索→深入探究→揭开谜底",
+    "sections": [
+     {
+      "title": "发现线索",
+      "text": [
+       "探险家 Lily 有着独特的 trait（特质），那就是对符号的敏感。她在古籍中看到一则传说，其 theme（主题）指向“藏在自然中的密码”。根据记载，破解密码的 key（关键）藏在山谷的石碑里。找到石碑时，她先注意到其奇特的 shape（形状）——上圆下方，像模仿天地的 element（元素）。石碑表面有块 blank（空白）区域，周围刻着不同 category（种类）的符号，这让她确信这里藏着重要信息。"
+      ]
+     },
+     {
+      "title": "深人探究",
+      "text": [
+       "按石碑边缘的提示，解读需遵循古老 norm（规范）:观察 detail（细节）。Lily 发现符号分属两种 types（类型），一种刻在 surface（表面），另一种藏在 margin（边缘）。她的 instinct（直觉）告诉她，这些符号与星辰有关。果然，通过比对星图，她发现符号对应着 variety（各种）星座。当她把星座位置标注在空白处时，研究有了 advance（进展）——空白处的轮廓逐渐形成一个 circle（圆圈），与古籍中的图案完全吻合。"
+      ]
+     },
+     {
+      "title": "揭开谜底",
+      "text": [
+       "最初，Lily 以为是 illusion（错觉），以为这只是普通的天文记录。但随着最后一个符号被破译，她意识到石碑是古代历法的 foundation（基础）:圆圈代表季节循环，符号则标注了农耕的关键 stage（阶段）。这正是传说中“自然的密码”——古人用智慧将生存法则刻进了石头里。"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "list_no": 84,
+   "title": "事物与事件",
+   "words": [
+    {
+     "seq": 1,
+     "spelling": "event",
+     "spelling_raw": "event",
+     "ipa_raw": "/ɪ'vent/",
+     "mnemonic": "e-（向外）+ vent-（走/来）→新闻是报道值得走进公众视野的事件。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "事件；事情；公开活动；体育项目"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "in any event 无论如何\nin the event of 如何发生\nevent of the year 年度赛事"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "eventual adj. 最终的\neventful adj. 经历丰富的；多事的"
+      }
+     ],
+     "examples": [],
+     "list_no": 84,
+     "list_title": "事物与事件",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 2,
+     "spelling": "phenomenon",
+     "spelling_raw": "phenomenon",
+     "ipa_raw": "/fəˈnɑːmmən/",
+     "mnemonic": "phen-（出现，显示）+ -menon（结果，产物）→彩虹是阳光穿透雨滴显现的光学产物。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "（自然的、社会的、历史的）现象；非凡的人、物或事；奇迹；奇才"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "奇迹（现象性事件）\nHer new book is a publishing phenomenon.\n她的新书是出版业的一个奇迹。"
+      },
+      {
+       "marker": "②",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "phenomenology n. 现象学\nphenomenal adj. 非凡的；了不起的\nIn the 1980s and 1990s, the southeast Asian countries saw phenomenal economic growth.\n在 20 世纪 80 年代和 90 年代，东南亚国家经历了惊人的经济增长。"
+      }
+     ],
+     "examples": [],
+     "list_no": 84,
+     "list_title": "事物与事件",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 3,
+     "spelling": "series",
+     "spelling_raw": "series",
+     "ipa_raw": "/'sɪriːz/",
+     "mnemonic": "这部侦探连续剧（series）讲述了一系列（series）的离奇案件，让观众欲罢不能。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "连续；一系列；系列节目"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "a series of 一系列，一连串\nin series 连续地\nTV series 电视连续剧"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "系列作品\n【2019 年英语（一）】\nYet humans remain fascinated by the idea of robots that would look, move, and respond like humans, similar to those recently depicted on popular sci-fi TV series such as“Westworld”and“Humans”.\n然而，人类仍然对机器人的想法着迷，机器人的外观、移动和响应都像人类，就像最近在流行的科幻电视连续剧《西部世界》和《人类》中描述的那样。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2019 年英语（一）】",
+       "year": 2019,
+       "exam": "英语一",
+       "part": null,
+       "en": "Yet humans remain fascinated by the idea of robots that would look, move, and respond like humans, similar to those recently depicted on popular sci-fi TV series such as “Westworld” and “Humans”.",
+       "cn": "然而，人类仍然对机器人的想法着迷，机器人的外观、移动和响应都像人类，就像最近在流行的科幻电视连续剧《西部世界》和《人类》中描述的那样。"
+      }
+     ],
+     "list_no": 84,
+     "list_title": "事物与事件",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 4,
+     "spelling": "item",
+     "spelling_raw": "item",
+     "ipa_raw": "/'aɪtəm/",
+     "mnemonic": "这份项目（item）合同中的附加条款（item）明确列出了需要采购的清单（item）。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "一条；条款；项目；清单"
+      },
+      {
+       "pos": "adv.",
+       "meaning_cn": "同样地；又"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "item by item 逐条"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "一条（新闻）\nYou can expect important news items to be on the front page.\n重要的新闻会出现在头版。"
+      }
+     ],
+     "examples": [],
+     "list_no": 84,
+     "list_title": "事物与事件",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 5,
+     "spelling": "stuff",
+     "spelling_raw": "stuff",
+     "ipa_raw": "/stʌf/",
+     "mnemonic": "用这些填充材料（stuff）把箱子塞满（stuff），不要留空隙。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "原料；材料；物品；东西"
+      },
+      {
+       "pos": "vt.",
+       "meaning_cn": "填满；塞满；(使) 吃撑"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "stuff into 塞进\nknow one's stuff 精通自己的业务\nreal stuff 真材实料"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "塞满\nShe stuffed the dirty clothes into the washing machine.\n她把脏衣服塞进洗衣机。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "stuffer n. 填充器；填充物；集运人；填充片段\nstuffing n. 填料；填充物"
+      }
+     ],
+     "examples": [],
+     "list_no": 84,
+     "list_title": "事物与事件",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 6,
+     "spelling": "sign",
+     "spelling_raw": "sign",
+     "ipa_raw": "/sam/",
+     "mnemonic": "古代石碑上的星象符号（sign）有了风化的迹象（sign），曾被视作灾祸的征兆（sign）。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "标记；符号；招牌；征兆；迹象"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "签名（于）"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "animal sign 属相\nequal sign 等号"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "迹象\nThis is a sign of the continued allure of creating scientific coalitions across borders.\n这是建立跨国界科学联盟的持续吸引力的一个迹象。"
+      }
+     ],
+     "examples": [],
+     "list_no": 84,
+     "list_title": "事物与事件",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 7,
+     "spelling": "signal",
+     "spelling_raw": "signal",
+     "ipa_raw": "/'sɪgnəl/",
+     "mnemonic": "sign（标记、符号）+ -al（物）→符号是用于传递信息的。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "信号；暗号；标志"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "发信号；用信号通知"
+      },
+      {
+       "pos": "adj.",
+       "meaning_cn": "显著的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "sign & signal & symbol\n- sign: “信号、记号、征兆”, 指无意的或有意的，自然的或人工的;\n- signal:“信号”，指有意地、预定地发出的信号，引人注意；\n- symbol:“符号、记号、代号、象征”，指用文字符号指代某事。"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "显著的\nThis is a signal achievement in the history of our nation.\n这是我国历史上的一项显著的成就。"
+      }
+     ],
+     "examples": [],
+     "list_no": 84,
+     "list_title": "事物与事件",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 8,
+     "spelling": "momentum",
+     "spelling_raw": "momentum",
+     "ipa_raw": "/mou'mentəm/",
+     "mnemonic": "mo(v)-（源自 movere:移动、推动）+ -ment（动作、结果）+ -um→火箭发射时，燃料的推动力（momentum）转化为了巨大的冲力（momentum）。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "推动力；冲力；动量；冲量；势头"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "gain momentum 势头增长\nlaw of conservation of momentum 动量守恒定律"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "动量\nIn a closed system, the total momentum before a collision equals the total momentum after.\n在封闭系统中，碰撞前的总动量等于碰撞后的总动量。"
+      }
+     ],
+     "examples": [],
+     "list_no": 84,
+     "list_title": "事物与事件",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 9,
+     "spelling": "objection",
+     "spelling_raw": "objection",
+     "ipa_raw": "/əb'dʒekʃn/",
+     "mnemonic": "你可以对这项方案提出反对（objection），但是你说的话令人讨厌（objectionable）。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "反对；异议"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "raise objections 提出异议\nraise objections against... 对……提出异议\nobjection to 反对"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "反对\n【2013 年英语（一）】\nThe 8-0 objection to President Obama turns on what Justice Samuel Alito describes in his objection as“a shocking assertion of federal executive power”.\n以 8 比 0 的票数反对奥巴马总统，这与塞缪尔·阿利托法官在他的反对意见中所描述的“令人震惊的联邦行政权力主张”有关。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "objectionable adj. 引起反对的；讨厌的"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2013 年英语（一）】",
+       "year": 2013,
+       "exam": "英语一",
+       "part": null,
+       "en": "The 8-0 objection to President Obama turns on what Justice Samuel Alito describes in his objection as “a shocking assertion of federal executive power”.",
+       "cn": "以 8 比 0 的票数反对奥巴马总统，这与塞缪尔·阿利托法官在他的反对意见中所描述的“令人震惊的联邦行政权力主张”有关。"
+      }
+     ],
+     "list_no": 84,
+     "list_title": "事物与事件",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 10,
+     "spelling": "superiority",
+     "spelling_raw": "superiority",
+     "ipa_raw": "/su:ˌpɪriˈɔːrəti/",
+     "mnemonic": "superior（优越的）+-ity（状态）→在比赛中，他的优势是超出常人的敏捷。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "优越；优势；优越感"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "优越感\n【2014 年英语（二）】\nSocial psychologists have amassed oceans of research into what they call the“above average effect”, or“illusory superiority”.\n社会心理学家对他们所谓的“平均以上效应”或“虚幻的优越感”进行了大量的研究。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2014 年英语（二）】",
+       "year": 2014,
+       "exam": "英语二",
+       "part": null,
+       "en": "Social psychologists have amassed oceans of research into what they call the “above average effect”, or “illusory superiority”.",
+       "cn": "社会心理学家对他们所谓的“平均以上效应”或“虚幻的优越感”进行了大量的研究。"
+      }
+     ],
+     "list_no": 84,
+     "list_title": "事物与事件",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 11,
+     "spelling": "admission",
+     "spelling_raw": "admission",
+     "ipa_raw": "/ədˈmɪʃn/",
+     "mnemonic": "ad-（朝向）+miss-（投，送）+ -ion（表行为）→音乐节凭入场券入场。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "允许进入；接纳；承认；入场券；入场费"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "辨析",
+       "label_raw": "辨析",
+       "body": "admission & admittance\n\\- admission:意为“允许进入或加入、入场费、门票、会费（接介词 to）”；\nAdmission to the exhibition will be invitation only.\n这次展览会的门票只有请柬。\n\\- admittance: 意为“许可进入、入场权”。\nHe gained admittance into college.\n他获得了进大学的通行证。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "apply for admission to a school 申请入学\ngain/obtain admission 获准入场（入学）"
+      }
+     ],
+     "examples": [],
+     "list_no": 84,
+     "list_title": "事物与事件",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 12,
+     "spelling": "appointment",
+     "spelling_raw": "appointment",
+     "ipa_raw": "/əˈpɔɪntmənt/",
+     "mnemonic": "ap-（朝向）+ point-（点、时刻）+ -ment（表动作或结果）→他需要在预约的时间点去医院拿报告。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "约会；预约；约定；任命；委托；职务；职位"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "letter of appointment 委任状\nappointment with sb. 和某人的预约"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "预约\n【2018 年英语（二）】\nOnce on the calendar, I protect this time like I would a doctor's appointment or important meeting.\n一旦计划录入日程系统，我会像恪守医疗预约或重要会议那样，确保该时段不被任何事务占用。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2018 年英语（二）】",
+       "year": 2018,
+       "exam": "英语二",
+       "part": null,
+       "en": "Once on the calendar, I protect this time like I would a doctor's appointment or important meeting.",
+       "cn": "一旦计划录入日程系统，我会像恪守医疗预约或重要会议那样，确保该时段不被任何事务占用。"
+      }
+     ],
+     "list_no": 84,
+     "list_title": "事物与事件",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 13,
+     "spelling": "caution",
+     "spelling_raw": "caution",
+     "ipa_raw": "/'kɔːʃn/",
+     "mnemonic": "caut-（小心、警惕）+ -ion（行为、状态）→他看到沿途的警示（caution）牌后，谨慎（caution）地绕过了危险路段。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "谨慎；慎重；警告"
+      },
+      {
+       "pos": "vt.",
+       "meaning_cn": "警告；提醒"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "caution sb. about sth. 警告某人某事\ncaution sb. against doing/not to do 警告某人不要做"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "谨慎\n【2012 年英语（二）】\nBut for all the reasons there are to celebrate the computer, we must also act with caution.\n然而，即使我们有无数理由可以颂扬电脑，我们也要小心谨慎。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "cautionary adj. 警戒的；给予警告的\nprecaution n. 预防；警惕；预防措施\ntake precautions against 采取预防措施\nas a precaution 作为预防，以防万一"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2012 年英语（二）】",
+       "year": 2012,
+       "exam": "英语二",
+       "part": null,
+       "en": "But for all the reasons there are to celebrate the computer, we must also act with caution.",
+       "cn": "然而，即使我们有无数理由可以颂扬电脑，我们也要小心谨慎。"
+      }
+     ],
+     "list_no": 84,
+     "list_title": "事物与事件",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 14,
+     "spelling": "trace",
+     "spelling_raw": "trace",
+     "ipa_raw": "/treɪs/",
+     "mnemonic": "侦探追踪（trace）了留下的踪迹（trace），最终勾画（trace）出了凶手的模样。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "痕迹；踪迹；微量；少许"
+      },
+      {
+       "pos": "v.",
+       "meaning_cn": "追踪；跟踪；查出；找到；描绘；勾画"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "trace the origin of... 追溯……的起源\na trace of 一丝\ntrace back 追溯，探索"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "描绘\nLater, portable camera obscuras were developed, with interior mirrors and drawing tablets on which the artist could trace the image.\n后来，人们发明了带有内视镜和画板的便携式相机遮光罩，艺术家可以在上面描绘出图像。"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "traceable adj. 可追踪的；可追溯本源的"
+      }
+     ],
+     "examples": [],
+     "list_no": 84,
+     "list_title": "事物与事件",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 15,
+     "spelling": "procedure",
+     "spelling_raw": "procedure",
+     "ipa_raw": "/prə'si:dʒər/",
+     "mnemonic": "pro-（向前）+ced-（走，移动）+ -ure（表示动作、过程或结果）→按照程序 / 流程来走。",
+     "senses": [
+      {
+       "pos": "n.",
+       "meaning_cn": "程序；步骤；手续"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "（商业、法律或政治上的）程序\n【2010 年英语（二）】\nThe Taylor decision also declared sex discrimination in jury selection to be unconstitutional and ordered states to use the same procedures for selecting male and female jurors.\n泰勒案的决议还声明陪审团选任过程中的性别歧视是违反宪法的，并要求各州依据同样的程序来选取男女陪审员。"
+      },
+      {
+       "marker": "②",
+       "kind": "释义",
+       "label_raw": "常用释义",
+       "body": "步骤\nA biopsy is usually a minor surgical procedure.\n活组织检查通常是较小的外科手术步骤。"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2010 年英语（二）】",
+       "year": 2010,
+       "exam": "英语二",
+       "part": null,
+       "en": "The Taylor decision also declared sex discrimination in jury selection to be unconstitutional and ordered states to use the same procedures for selecting male and female jurors.",
+       "cn": "泰勒案的决议还声明陪审团选任过程中的性别歧视是违反宪法的，并要求各州依据同样的程序来选取男女陪审员。"
+      }
+     ],
+     "list_no": 84,
+     "list_title": "事物与事件",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 16,
+     "spelling": "electric",
+     "spelling_raw": "electric",
+     "ipa_raw": "/ɪˈlektrɪk/",
+     "mnemonic": "电动（electric）汽车是靠电能（electricity）来运行的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "电的；导电的；电动的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "其他",
+       "label_raw": null,
+       "body": "牌析:electronic & electric & electrical\n- electronic: 指电子的;\n- electric: 通常指使用或产生电力的;\n- electrical: 多指本身不产生电，但是与电有关的。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "an electric shock 触电；电击\nelectric vehicles 电动车辆\nelectric blue 钢青色"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "electricity n. 电；电能\nelectrical adj. 电的；用电的"
+      }
+     ],
+     "examples": [],
+     "list_no": 84,
+     "list_title": "事物与事件",
+     "theme": "事物与描述"
+    },
+    {
+     "seq": 17,
+     "spelling": "substantial",
+     "spelling_raw": "substantial",
+     "ipa_raw": "/səbˈstænʃl/",
+     "mnemonic": "sub-下，stant- = stand 站，-ial 形容词后缀，想象下面的东西站得很稳，说明它是实质的、大量的。",
+     "senses": [
+      {
+       "pos": "adj.",
+       "meaning_cn": "实质的；真实的；坚固的；结实的；大量的；富裕的；重要的"
+      }
+     ],
+     "notes": [
+      {
+       "marker": "①",
+       "kind": "释义",
+       "label_raw": "常考释义",
+       "body": "大量的\n【2021 年英语（一）】\nIt is all very well train operators trumpeting the improvements they are making to the network, but passengers should be able to expect a basic level of service for the substantial sums they are now paying to travel.\n火车运营商大肆宣扬他们对铁路系统做出的改进无可非议，但考虑到如今乘客为出行支付的大笔费用，他们理应可以期待享受基本水准的铁路服务。"
+      },
+      {
+       "marker": "②",
+       "kind": "搭配",
+       "label_raw": "固定搭配",
+       "body": "substantial difference 实质性差异"
+      },
+      {
+       "marker": "③",
+       "kind": "派生词",
+       "label_raw": "派生词",
+       "body": "substantially adv. 非常地；巨大地；基本地；大体上；很大程度上"
+      }
+     ],
+     "examples": [
+      {
+       "source_raw": "【2021 年英语（一）】",
+       "year": 2021,
+       "exam": "英语一",
+       "part": null,
+       "en": "It is all very well train operators trumpeting the improvements they are making to the network, but passengers should be able to expect a basic level of service for the substantial sums they are now paying to travel.",
+       "cn": "火车运营商大肆宣扬他们对铁路系统做出的改进无可非议，但考虑到如今乘客为出行支付的大笔费用，他们理应可以期待享受基本水准的铁路服务。"
+      }
+     ],
+     "list_no": 84,
+     "list_title": "事物与事件",
+     "theme": "事物与描述"
+    }
+   ],
+   "narrative": {
+    "plot": "展会开场→突发情况→幸运获奖",
+    "sections": [
+     {
+      "title": "展会开场",
+      "text": [
+       "科技展是年度重磅 event（活动），激光穿透烟雾的 phenomenon（现象）引发现场惊叹。主办方推出 series（系列）互动项目，每个 item（展品）旁都贴着“轻放 stuff（物品）”的 sign（标识），电子屏则不断闪烁引导参观的 signal（信号）。"
+      ]
+     },
+     {
+      "title": "突发情况",
+      "text": [
+       "警报骤然划破展厅，人群拥向出口的 momentum（势头）瞬间凝聚。前排有人高声提出 objection（反对）:“只是误报！别打乱参观秩序！”应急方案的 superiority（优势）在这时体现出来——屏幕同步播放安全通道图，广播清晰指引路线，迅速稳住了躁动。个别观众挤在原地起哄，却因无法出示 admission（入场）手环被保安礼貌带离。"
+      ]
+     },
+     {
+      "title": "幸运获奖",
+      "text": [
+       "我的 appointment（预约）快到了，内心充满 caution（谨慎），发现角落有芯片 trace（痕迹）。按 procedure（流程）上报后，electric（电子）系统显示我得到了一份 substantial（丰厚）奖励。"
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

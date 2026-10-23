@@ -1,0 +1,619 @@
+{
+  "list_no": 27,
+  "title": "想象与展望",
+  "association": {
+    "outline": "情节发展：意外丢失→深入调查→真相大白",
+    "scenes": [
+      {
+        "title": "意外丢失",
+        "story": "林悦发现手机不翼而飞，办公桌面有 evident/apparent/visible（明显的）划痕，她的 vision（远见）让她意识到此事必有蹊跷，脑海中 envisage/visualize/envision（想象）出几种可能情况。去查看监控后，偷窃者与上午来过办公室的快递员身形吻合，explicit（明确的）出入登记时间成了关键线索。"
+      },
+      {
+        "title": "深入调查",
+        "story": "林悦立即联系物业 investigate（调查）此事，并 inspect（检查）快递员当天的派送记录。在她 foresee/prospect（预期）中，对方不会轻易承认。通过走访并凭借她的 insight（洞察力），在快递员暂存点找到嫌疑手机，同时也找到了快递员。"
+      },
+      {
+        "title": "真相大白",
+        "story": "快递员最终承认一时贪念偷走了林悦的手机。retrospect（回顾）这次经历，快递员也后悔不已并且真诚地向林悦道歉。"
+      }
+    ]
+  },
+  "words": [
+    {
+      "spelling": "vision",
+      "ipa": "/'vɪʒn/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "视力；视野；影像；远见，愿景"
+        }
+      ],
+      "mnemonic": "vis-（看）+-ion（名词后缀）。视力表示能看多远，视野则表示能看多宽；影像是实际看到的东西，远见、愿景则是在脑海中看见未来的东西。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义：远见，愿景",
+          "body": "【2012 年英语（一）】\nEntergy seems to have problems with its business vision.\nEntergy 公司似乎在企业愿景方面存在问题。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词:visual adj. 看到的；视觉的",
+          "body": ""
+        }
+      ]
+    },
+    {
+      "spelling": "visible",
+      "ipa": "/'vɪzəbl/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "可视的，能看见的; 明显的"
+        }
+      ],
+      "mnemonic": "vis-（看）+ -ble（= able 能、可以）→ 能看见的 → 可视的。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "写作常用:visible 可以表示“明显的”",
+          "body": "The visible goal of this activity is to promote cultural\nexchange between students.\n此活动的明确目标是促进学生间的文化交流。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "invisible adj. 不可视的，看不见的"
+        }
+      ]
+    },
+    {
+      "spelling": "evident",
+      "ipa": "/'evɪdənt/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "显著的，明显的"
+        }
+      ],
+      "mnemonic": "e- = ex-(out) + vid- = vis-(看) + ent(具有……性质的) → 看得出来的 → 明显的。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义：明显的",
+          "body": "【2025 年英语（一）】\nThe emotional understanding was very evident.\n情感理解非常明显。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "evidence n. 证据 vt. 证明，表明，体现\nself-evident adj. 显而易见的；不证自明的"
+        },
+        {
+          "marker": "③",
+          "kind": "其他",
+          "label_raw": "evidence 可以作动词表示证明、表明、体现，只考过一次。",
+          "body": "【2013 年英语（一）】\nThere is no doubt that gardens evidence an irrepressible urge to create, express, fashion, and beautify.\n毫无疑问，花园体现了人类创造、表达、塑造和美化环境的无法抑制的欲望。"
+        }
+      ]
+    },
+    {
+      "spelling": "apparent",
+      "ipa": "/əˈpærənt/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "明显的"
+        }
+      ],
+      "mnemonic": "它是 appear（出现、显现）的形容词衍生形式，显现（appear）出来之后，就会变得明显（apparent）。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "写作常用句型:It's increasingly apparent that... 越发明显的是……",
+          "body": "It's increasingly apparent that climate change is linked not only to environmental factors but also to global economic inequality.\n越发明显的是，气候变化不仅与环境因素相关，还与全球经济不平等相关。"
+        },
+        {
+          "marker": "②",
+          "kind": "其他",
+          "label_raw": "近义词：",
+          "body": "conspicuous adj. 明显的"
+        },
+        {
+          "marker": "③",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "apparently adv. 表面上，看起来"
+        }
+      ]
+    },
+    {
+      "spelling": "explicit",
+      "ipa": "/ɪkˈsplɪsɪt/",
+      "senses": [
+        {
+          "pos": "adj.",
+          "meaning_cn": "直率的；直白的，明确的"
+        }
+      ],
+      "mnemonic": "ex-（外）+ plic-（折叠）+ t → 把想要表达的意思往外折叠，直接说出来 → 直白、直率。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "常考释义",
+          "label_raw": "常考释义：明确的",
+          "body": "【2013 年英语（一）】\nOr should they have explicit permission?\n还是说他们应该获得明确的许可？"
+        }
+      ]
+    },
+    {
+      "spelling": "visualize",
+      "ipa": "/'vɪʒuəlaɪz/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "可视化，视觉化; 想象，设想"
+        }
+      ],
+      "mnemonic": "visual（视觉的）+ -ize（……化、使……）→视觉化、可视化；使不在眼前的东西被看到，叫作想象。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "常考释义",
+          "label_raw": "常考释义：想象",
+          "body": "【2024 年英语（二）】\nto visualize how the student might come and enrich their campus community\n想象这个学生会如何来到这里并充实学校的校园生活"
+        }
+      ]
+    },
+    {
+      "spelling": "envisage",
+      "ipa": "/ɪnˈvɪzɪdʒ/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "想象，设想"
+        }
+      ],
+      "mnemonic": "en-（使）+ vis-（看）+ -age（动词后缀）→使不在眼前的东西被看到，叫作想象。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "其他",
+          "label_raw": "区分:visualize & envisage",
+          "body": "visualize 侧重指在脑海中浮现出某一图像，引申出“想象”的意思。\nHe described the place and I tried to visualize it.\n他把那个地方描绘了一遍，我尝试在心中想象那幅图景。\nenvisage 多用于对未来发生的“想象”或“展望”。\nNo one can envisage the consequences of a total nuclear war.\n没有人能想象一场全面核战争的后果会是什么样子。"
+        }
+      ]
+    },
+    {
+      "spelling": "envision",
+      "ipa": "/ɪnˈvɪʒn/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "想象，设想; 展望"
+        }
+      ],
+      "mnemonic": "en-（使）+ vis-（看）+ -ion（名词后缀）→使不在眼前的东西被看到，叫作想象，构词逻辑与 envisage 相似。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "常考释义",
+          "label_raw": "常考释义：设想",
+          "body": "【2013 年英语（一）】\nCongress has always envisioned joint federal-state immigration enforcement.\n国会一直设想联邦与州联合起来执行移民任务。"
+        }
+      ]
+    },
+    {
+      "spelling": "investigate",
+      "ipa": "/ɪnˈvestɪɡeɪt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "检查，调查；研究"
+        }
+      ],
+      "mnemonic": "in-（里）+ ves- = vis-（看）+ -ate（动词后缀）→ 往里看 → 过安检时，检查行李，需要往行李里面看。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义：调查",
+          "body": "【2011 年英语（一）】\nThey study, investigate and criticize societies.\n他们研究、调查和批评社会。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "investigation n. 检查，调查; 研究\ninvestigation 表示“科学研究”，即用科学的方法进行调查\n【1993 年】\nThe method of scientific investigation is nothing but the expression of the necessary mode of working of the human mind.\n科学研究方法不过是对于人类思维运作的必要模式的表现。"
+        }
+      ]
+    },
+    {
+      "spelling": "inspect",
+      "ipa": "/ɪnˈspekt/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "检查，调查"
+        }
+      ],
+      "mnemonic": "in-(里)+ spect-(看) → 往里看 → 过安检时，检查行李，需要往行李里面看。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "常考释义",
+          "label_raw": "常考释义：检查",
+          "body": "【2021 年英语（二）】\nAre they carefully inspected?\n仔细检查他们了吗？"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "inspection n. 检查，调查\ninspector n. 检查人员；【法】检察官"
+        }
+      ]
+    },
+    {
+      "spelling": "insight",
+      "ipa": "/'ɪnsaɪt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "洞悉，洞察，洞察力; 深刻见解"
+        }
+      ],
+      "mnemonic": "in-（里）+ sight（看）→ 往里看 → 往里看，越看越深入，就是洞察。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "insight 可以表示“深刻见解”，即往里看，看得很深。",
+          "body": "【2023 年英语（二）】\nCrone's study provides a new insight into adolescence. 克罗恩的研究为青春期现象提供了新的深刻见解。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "insightful adj. 富于洞察力的"
+        }
+      ]
+    },
+    {
+      "spelling": "prospect",
+      "ipa": "/'pra:spekt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "前景"
+        },
+        {
+          "pos": "vt.",
+          "meaning_cn": "预期"
+        }
+      ],
+      "mnemonic": "pro-（前）+ spect-（看）→往前看。",
+      "notes": [
+        {
+          "marker": "①",
+          "kind": "其他",
+          "label_raw": "prospect 的翻译非常灵活，但归根结底，都是“往前看”或“往前看看到的东西”。",
+          "body": "【2011 年英语（一）】\n前途：往前看，看人生未来会怎样\nIf circumstances always determined the life and prospects of people, then humanity would never have progressed.\n如果总是环境决定人们的生活和前途，那人类将永远不会进步。\n【2010 年英语（一）】\n可能（性）:往前看，看未来可能发生什么\nIs there any chance that Cardus's criticism will enjoy a revival? The prospect seems remote.\n卡杜斯（Cardus）的评论能否重获关注呢？可能性似乎微乎其微。"
+        },
+        {
+          "marker": "②",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "prospective adj. 预期的；有前景的"
+        }
+      ]
+    },
+    {
+      "spelling": "retrospect",
+      "ipa": "/'retrəspekt/",
+      "senses": [
+        {
+          "pos": "n.",
+          "meaning_cn": "回顾"
+        }
+      ],
+      "mnemonic": "retro-（回）+ spect-（看）→ 往回看 → 回顾。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "固定搭配",
+          "label_raw": "固定搭配:in retrospect 回顾",
+          "body": "【2010 年英语（一）】\nRaising a child can bring happiness in retrospect.\n养孩子的过程在回顾的时候会带来快乐。"
+        }
+      ]
+    },
+    {
+      "spelling": "foresee",
+      "ipa": "/fɔːrˈsiː/",
+      "senses": [
+        {
+          "pos": "vt.",
+          "meaning_cn": "预期，预见"
+        }
+      ],
+      "mnemonic": "fore-（前）+ see（看）→ 往前看 → 预期、预见。",
+      "notes": [
+        {
+          "marker": "",
+          "kind": "派生词",
+          "label_raw": "派生词：",
+          "body": "foresight n. 深谋远虑，先见之明\nforeseeable adj. 可预见的\n【2017 年英语（一）】\nThere are signs that the global predominance of English may fade within the foreseeable future.\n有迹象表明，在可预见的未来，英语在全球范围内的主导地位可能会有所减弱。\nunforeseen adj. 未预见的，意外的\n【2021 年英语（二）】\nSetting targets can and does have unforeseen negative consequences.\n设定目标可能会而且确实会产生意想不到的负面后果。\nforesighted adj. 深谋远虑的，有先见之明的\n【2016 年英语（一）】\nThe move turned out to be foresighted.\n这一举措被证明是有先见之明的。"
+        }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "L27-01",
+      "kind": "single",
+      "stem": "You have the importation of terminology that historically used to be associated with non-profit organizations and religious organizations: terms like ____, values, passion, and purpose.",
+      "options": [
+        "profits",
+        "visions",
+        "evidence",
+        "respect"
+      ],
+      "answer": 1,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "vision",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L27-02",
+      "kind": "single",
+      "stem": "It is this implicit or ____ reference to nature that fully justifies the use of the word garden, though in a “liberated” sense, to describe these synthetic constructions.",
+      "options": [
+        "explicit",
+        "foreseeable",
+        "prospective",
+        "insightful"
+      ],
+      "answer": 0,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "explicit",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L27-03",
+      "kind": "single",
+      "stem": "The researchers ____ one class session's impact on eating meat.",
+      "options": [
+        "inspected",
+        "prospected",
+        "envisioned",
+        "investigated"
+      ],
+      "answer": 3,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "investigate",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L27-04",
+      "kind": "single",
+      "stem": "Either Entergy never really intended to live by those commitments, or it simply didn't____what would happen next.",
+      "options": [
+        "intend",
+        "highlight",
+        "foresee",
+        "achieve"
+      ],
+      "answer": 2,
+      "answers": [],
+      "slots": [
+        {
+          "n": 1,
+          "word": "foresee",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L27-05",
+      "kind": "fill",
+      "stem": "Even though there is plenty of ____ (evident) that the quality of the teachers is the most important variable, teachers' unions have fought against getting rid of bad ones and promoting good ones.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "evidence"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "evident",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L27-06",
+      "kind": "fill",
+      "stem": "Is there some common factor that underlies these ____ (apparent) contradictory developments?",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "apparently"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "apparent",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L27-07",
+      "kind": "fill",
+      "stem": "The framers of the Constitution ever ____ (envision) law as having authority apart from politics.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "envisioned"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "envision",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L27-08",
+      "kind": "fill",
+      "stem": "Watch people get on and show their tickets.Are they carefully ____ (inspect)? Never. Do people get on without paying?",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "inspected"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "inspect",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L27-09",
+      "kind": "fill",
+      "stem": "It's no surprise that Jennifer Senior's____ (insight), provocative magazine cover story, \"I love My Children, I Hate My Life\" is arousing much chatter.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "insightful"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "insight",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L27-10",
+      "kind": "translate_sentence",
+      "stem": "Students need to have that quality that will appeal to admissions officers and allow them to visualize how the student might come and enrich their campus community.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "学生们需要具备那种能够吸引招生官的特质，并让他们能够想象出这个学生会如何来到这里并充实学校的校园生活。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "visualize",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L27-11",
+      "kind": "translate_sentence",
+      "stem": "How do archaeologists know where to find what they are looking for when there is nothing visible on the surface of the ground?",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "当地表没有任何可见痕迹时，考古学家如何知道去哪里寻找他们要找的东西？"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "visible",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L27-12",
+      "kind": "translate_sentence",
+      "stem": "As to the prospects for federal legislation, commentators suggest that comprehensive federal privacy legislation seems unlikely in the short term.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "关于联邦立法的前景，评论人士指出，全面的联邦隐私立法在短期内似乎不太可能。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "prospect",
+          "bind": "词形"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L27-13",
+      "kind": "translate_sentence",
+      "stem": "Most scientists envisage a future where renewable energy sources will completely replace fossil fuels, but the transition requires global cooperation and technological innovation.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "大多数科学家设想未来可再生能源将完全取代化石燃料，但这一过渡需要全球合作与技术创新。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "envisage",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    },
+    {
+      "id": "L27-14",
+      "kind": "translate_sentence",
+      "stem": "In retrospect, the decisions made during the company's initial stage not only determined its development trajectory but also laid a solid foundation for its current global dominance.",
+      "options": [],
+      "answer": 0,
+      "answers": [
+        "回顾过去，公司初创阶段所做的决策不仅决定了其发展轨迹，也为它如今在全球的主导地位奠定了坚实基础。"
+      ],
+      "slots": [
+        {
+          "n": 1,
+          "word": "retrospect",
+          "bind": "词义"
+        }
+      ],
+      "reading": false
+    }
+  ]
+}
