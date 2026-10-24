@@ -119,8 +119,6 @@ jobs:
     name: Android (debug APK, release APK on tag)
     runs-on: windows-latest
     timeout-minutes: 40
-    permissions:
-      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-go@v5
@@ -179,11 +177,63 @@ jobs:
           name: android-apk
           path: wails/bin/recitebook.apk
           if-no-files-found: error
-      - name: Publish GitHub Release
-        if: startsWith(github.ref, 'refs/tags/')
-        shell: pwsh
+
+  desktop:
+    name: Windows desktop (exe)
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-go@v5
+        with:
+          go-version-file: wails/go.mod
+          cache-dependency-path: wails/go.sum
+      - uses: pnpm/action-setup@v4
+        with:
+          version: ${{ env.PNPM_VERSION }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: pnpm
+          cache-dependency-path: wails/frontend/pnpm-lock.yaml
+      - name: Install Go tooling
+        run: |
+          go install github.com/go-task/task/v3/cmd/task@${{ env.GO_TASK_VERSION }}
+          go install github.com/wailsapp/wails/v3/cmd/wails3@${{ env.WAILS_VERSION }}
+          Add-Content -Path $env:GITHUB_PATH -Value "$(go env GOPATH)\bin"
+      - name: Install vite-plus
+        run: npm install --global vite-plus@${{ env.VITE_PLUS_VERSION }}
+      - name: Expose sh.exe
+        run: Add-Content -Path $env:GITHUB_PATH -Value "C:\Program Files\Git\usr\bin"
+      - name: Build exe
+        working-directory: wails
+        run: task windows:build
+      - uses: actions/upload-artifact@v4
+        with:
+          name: windows-exe
+          path: wails/bin/recitebook.exe
+          if-no-files-found: error
+
+  release:
+    name: Release (tag)
+    if: startsWith(github.ref, 'refs/tags/')
+    needs: [android, desktop]
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: android-apk
+          path: dist
+      - uses: actions/download-artifact@v4
+        with:
+          name: windows-exe
+          path: dist
+      - name: Publish release
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          Copy-Item wails/bin/recitebook.apk "wails/bin/recitebook-$env:GITHUB_REF_NAME.apk"
-          gh release create $env:GITHUB_REF_NAME "wails/bin/recitebook-$env:GITHUB_REF_NAME.apk" --title "循环背诵 $env:GITHUB_REF_NAME" --generate-notes
+          mv dist/recitebook.apk "dist/recitebook-${GITHUB_REF_NAME}.apk"
+          mv dist/recitebook.exe "dist/recitebook-${GITHUB_REF_NAME}.exe"
+          gh release create "$GITHUB_REF_NAME" dist/recitebook-"${GITHUB_REF_NAME}".{apk,exe} \
+            --title "循环背诵 $GITHUB_REF_NAME" --generate-notes
