@@ -119,6 +119,8 @@ jobs:
     name: Android (debug APK, release APK on tag)
     runs-on: windows-latest
     timeout-minutes: 40
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-go@v5
@@ -177,3 +179,11 @@ jobs:
           name: android-apk
           path: wails/bin/recitebook.apk
           if-no-files-found: error
+      - name: Publish GitHub Release
+        if: startsWith(github.ref, 'refs/tags/')
+        shell: pwsh
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          Copy-Item wails/bin/recitebook.apk "wails/bin/recitebook-$env:GITHUB_REF_NAME.apk"
+          gh release create $env:GITHUB_REF_NAME "wails/bin/recitebook-$env:GITHUB_REF_NAME.apk" --title "循环背诵 $env:GITHUB_REF_NAME" --generate-notes
