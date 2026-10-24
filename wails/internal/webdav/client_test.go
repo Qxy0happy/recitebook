@@ -128,7 +128,7 @@ func TestGetNotFound(t *testing.T) {
 
 func TestGetAuthErrorHidesPassword(t *testing.T) {
 	for _, status := range []int{http.StatusUnauthorized, http.StatusForbidden} {
-		srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, _ *http.Request) {
 			w.WriteHeader(status)
 		}))
 		c := New(Config{URL: srv.URL + testPath, Username: testUser, Password: testPass})
@@ -147,7 +147,7 @@ func TestGetAuthErrorHidesPassword(t *testing.T) {
 }
 
 func TestGetStatusError(t *testing.T) {
-	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, _ *http.Request) {
 		w.WriteHeader(http.StatusInternalServerError)
 	}))
 	defer srv.Close()
@@ -164,7 +164,7 @@ func TestGetStatusError(t *testing.T) {
 func TestGetSizeLimit(t *testing.T) {
 	t.Run("exactly 8 MiB succeeds", func(t *testing.T) {
 		payload := bytes.Repeat([]byte("a"), maxResponseBytes)
-		srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, _ *http.Request) {
 			_, _ = w.Write(payload)
 		}))
 		defer srv.Close()
@@ -180,7 +180,7 @@ func TestGetSizeLimit(t *testing.T) {
 
 	t.Run("over 8 MiB fails", func(t *testing.T) {
 		payload := bytes.Repeat([]byte("a"), maxResponseBytes+1)
-		srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, _ *http.Request) {
 			_, _ = w.Write(payload)
 		}))
 		defer srv.Close()
@@ -234,7 +234,7 @@ func TestPutSuccess(t *testing.T) {
 
 func TestPutFolderMissing(t *testing.T) {
 	for _, status := range []int{http.StatusNotFound, http.StatusConflict} {
-		srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, _ *http.Request) {
 			w.WriteHeader(status)
 		}))
 		err := New(Config{URL: srv.URL + testPath}).Put(context.Background(), []byte("x"))
@@ -250,7 +250,7 @@ func TestPutFolderMissing(t *testing.T) {
 
 func TestPutAuthError(t *testing.T) {
 	for _, status := range []int{http.StatusUnauthorized, http.StatusForbidden} {
-		srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, _ *http.Request) {
 			w.WriteHeader(status)
 		}))
 		err := New(Config{URL: srv.URL + testPath, Username: testUser, Password: testPass}).Put(context.Background(), []byte("x"))
@@ -265,7 +265,7 @@ func TestPutAuthError(t *testing.T) {
 }
 
 func TestPutStatusError(t *testing.T) {
-	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, _ *http.Request) {
 		w.WriteHeader(http.StatusInternalServerError)
 	}))
 	defer srv.Close()
@@ -312,7 +312,7 @@ func TestEnsureFolder(t *testing.T) {
 }
 
 func TestEnsureFolderConflict(t *testing.T) {
-	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, _ *http.Request) {
 		w.WriteHeader(http.StatusConflict)
 	}))
 	defer srv.Close()
@@ -327,7 +327,7 @@ func TestEnsureFolderConflict(t *testing.T) {
 }
 
 func TestEnsureFolderAuthError(t *testing.T) {
-	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, _ *http.Request) {
 		w.WriteHeader(http.StatusUnauthorized)
 	}))
 	defer srv.Close()
@@ -346,7 +346,7 @@ func TestEnsureFolderAuthError(t *testing.T) {
 
 func TestEnsureFolderRejectsUnexpectedStatus(t *testing.T) {
 	for _, status := range []int{http.StatusOK, http.StatusNoContent} {
-		srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, _ *http.Request) {
 			w.WriteHeader(status)
 		}))
 		err := New(Config{URL: srv.URL + testPath}).EnsureFolder(context.Background())
@@ -361,7 +361,7 @@ func TestEnsureFolderRejectsUnexpectedStatus(t *testing.T) {
 }
 
 func TestEnsureFolderStatusError(t *testing.T) {
-	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, _ *http.Request) {
 		w.WriteHeader(http.StatusInternalServerError)
 	}))
 	defer srv.Close()
