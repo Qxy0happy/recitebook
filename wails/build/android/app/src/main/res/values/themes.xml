@@ -10,5 +10,11 @@
         <item name="android:navigationBarColor">@color/wails_background</item>
         <!-- Window background -->
         <item name="android:windowBackground">@color/wails_background</item>
+        <!-- Light bars: the page is light, so status bar icons and the gesture
+             pill must be dark instead of white. -->
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:enforceStatusBarContrast">false</item>
+        <item name="android:enforceNavigationBarContrast">false</item>
     </style>
 </resources>

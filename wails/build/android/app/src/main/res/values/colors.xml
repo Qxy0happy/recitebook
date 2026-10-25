@@ -2,7 +2,9 @@
 <resources>
     <color name="wails_blue">#3574D4</color>
     <color name="wails_blue_dark">#2C5FB8</color>
-    <color name="wails_background">#1B2636</color>
+    <!-- Window background. Matches the ground color token in frontend/src/styles.css,
+         so the system bar areas and overscroll show the same paper as the page. -->
+    <color name="wails_background">#F2F3F5</color>
     <color name="white">#FFFFFFFF</color>
     <color name="black">#FF000000</color>
 </resources>
