@@ -3,7 +3,10 @@ plugins {
 }
 
 android {
-    namespace 'com.riyu.recitebook'
+    // The Java sources must stay in com.wails.app: wails v3 hardcodes the JNI
+    // export names (Java_com_wails_app_WailsBridge_*) in its Go library, so a
+    // different package makes nativeInit fail with UnsatisfiedLinkError.
+    namespace 'com.wails.app'
     compileSdk 35
 
     buildFeatures {
@@ -14,8 +17,8 @@ android {
         applicationId "com.riyu.recitebook"
         minSdk 21
         targetSdk 35
-        versionCode 1
-        versionName "0.1.0"
+        versionCode 2
+        versionName "0.1.1"
 
         // Configure supported ABIs
         ndk {

@@ -1,4 +1,4 @@
-package com.riyu.recitebook;
+package com.wails.app;
 
 import android.annotation.SuppressLint;
 import android.content.BroadcastReceiver;
@@ -22,6 +22,7 @@ import android.provider.MediaStore;
 import android.provider.OpenableColumns;
 import android.util.Base64;
 import android.util.Log;
+import android.view.View;
 import android.webkit.ConsoleMessage;
 import android.webkit.ValueCallback;
 import android.webkit.WebChromeClient;
@@ -35,6 +36,9 @@ import android.webkit.WebViewClient;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.FileProvider;
+import androidx.core.graphics.Insets;
+import androidx.core.view.ViewCompat;
+import androidx.core.view.WindowInsetsCompat;
 import androidx.webkit.WebViewAssetLoader;
 
 import org.json.JSONObject;
@@ -93,6 +97,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        applySystemBarInsets();
 
         // Initialize the native Go library
         bridge = new WailsBridge(this);
@@ -103,6 +108,23 @@ public class MainActivity extends AppCompatActivity {
 
         // Load the application
         loadApplication();
+    }
+
+    /**
+     * targetSdk 35 makes the window edge-to-edge on Android 15+, so the WebView
+     * would draw under the status and navigation bars. Pad the root container by
+     * the system bar and display cutout insets. The keyboard listener lives on
+     * the decor view, so it is unaffected by this listener.
+     */
+    private void applySystemBarInsets() {
+        final View root = findViewById(R.id.main_container);
+        ViewCompat.setOnApplyWindowInsetsListener(root, (v, windowInsets) -> {
+            Insets bars = windowInsets.getInsets(WindowInsetsCompat.Type.systemBars()
+                    | WindowInsetsCompat.Type.displayCutout());
+            v.setPadding(bars.left, bars.top, bars.right, bars.bottom);
+            return windowInsets;
+        });
+        ViewCompat.requestApplyInsets(root);
     }
 
     @SuppressLint("SetJavaScriptEnabled")

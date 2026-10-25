@@ -124,6 +124,17 @@ machine and are git-ignored.
 lint aborts on JBR's four-part version string (`25.0.4.1`). Remove that block
 when the Gradle JVM reports a three-part version or AGP is upgraded.
 
+The Java sources live in `com.wails.app` and must stay there: wails v3 hardcodes
+the JNI entry points as `Java_com_wails_app_WailsBridge_*`, so another package
+makes `nativeInit` fail with `UnsatisfiedLinkError` and the app exits right after
+the launcher animation. The Gradle `namespace` follows the Java package;
+`applicationId` stays `com.riyu.recitebook`, so the installed identity is
+unchanged.
+
+Gradle needs a JDK that can build the `android-35` system image; GraalVM 25.1.3
+fails the `JdkImageTransform` `jlink` step. Build with JBR 25.0.4.1
+(`JAVA_HOME=D:/scoop/apps/intellij-jbr25-sdk-jcef/25.0.4.1-b635.78`).
+
 ## Data location
 
 - Windows: `data/recitebook.db` beside the executable.
