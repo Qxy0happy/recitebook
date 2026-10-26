@@ -51,11 +51,11 @@ func chatContext(detail ListDetail, question Question, userAnswer, outcome strin
 	return strings.Join(lines, "\n")
 }
 
-// chatKindLabel maps the bank kind to the label shown to the model, keeping
-// unknown kinds untouched.
+// chatKindLabel renders the bank kind with its Chinese label, keeping unknown
+// kinds untouched.
 func chatKindLabel(kind string) string {
 	if label, ok := chatKindLabels[kind]; ok {
-		return label
+		return kind + "（" + label + "）"
 	}
 	return kind
 }
@@ -148,8 +148,8 @@ func chatWordCard(words []Word, headword string) string {
 		}
 
 		lines := []string{"- " + word.Spelling}
-		if ipa := strings.TrimSpace(word.IPA); ipa != "" {
-			lines[0] += " /" + ipa + "/"
+		if ipa := chatIPA(word.IPA); ipa != "" {
+			lines[0] += " " + ipa
 		}
 		if senses := chatSenses(word.Senses); senses != "" {
 			lines = append(lines, "  释义："+senses)
@@ -163,6 +163,20 @@ func chatWordCard(words []Word, headword string) string {
 		return strings.Join(lines, "\n")
 	}
 	return "- " + headword
+}
+
+// chatIPA trims the bank IPA and wraps it in slashes only when the stored
+// value does not already carry its own /…/ or […] delimiters.
+func chatIPA(ipa string) string {
+	ipa = strings.TrimSpace(ipa)
+	if ipa == "" {
+		return ""
+	}
+	if (strings.HasPrefix(ipa, "/") || strings.HasPrefix(ipa, "[")) &&
+		(strings.HasSuffix(ipa, "/") || strings.HasSuffix(ipa, "]")) {
+		return ipa
+	}
+	return "/" + ipa + "/"
 }
 
 // chatSenses joins every sense as "pos meaning_cn".

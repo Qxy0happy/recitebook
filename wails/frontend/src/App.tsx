@@ -475,6 +475,9 @@ export default function App() {
   const openChat = () => {
     if (chatOpen) {
       setChatOpen(false);
+      // Closing before the saved conversation lands must cancel the deferred
+      // first question instead of spending tokens into a hidden panel.
+      chatAutoAsk.current = null;
       return;
     }
     setChatOpen(true);
