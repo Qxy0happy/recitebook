@@ -187,13 +187,22 @@ func TestE2EJumpOutReinsertion(t *testing.T) {
 	if got := e2eList(t, svc, 1); len(got.Pending) != 1 || got.Completed {
 		t.Fatalf("list 1 after jump out = %+v, want one pending, not completed", got)
 	}
+	if got := e2eList(t, svc, 1); !slices.Equal(got.Group, ids[:1]) || got.GroupAt != 0 {
+		t.Fatalf("suspended group = %v/%d, want %v at 0", got.Group, got.GroupAt, ids[:1])
+	}
 
 	again, err := svc.Enter(1)
 	if err != nil {
 		t.Fatalf("Enter(1) after jump out: %v", err)
 	}
-	if again.Quiz == nil || !slices.Equal(again.Quiz.QuestionIDs, ids[:1]) {
-		t.Fatalf("re-entry quiz = %+v, want only the pending question", again.Quiz)
+	if again.Quiz == nil || !slices.Equal(again.Quiz.QuestionIDs, ids[:1]) || again.Quiz.Index != 0 {
+		t.Fatalf("re-entry quiz = %+v, want the pending question at index 0", again.Quiz)
+	}
+	if _, err := svc.Answer(true); err != nil {
+		t.Fatalf("Answer after resume: %v", err)
+	}
+	if got := e2eList(t, svc, 1); !got.Completed || len(got.Pending) != 0 {
+		t.Fatalf("list 1 after clearing the suspended group = %+v, want completed", got)
 	}
 }
 

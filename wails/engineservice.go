@@ -186,8 +186,8 @@ func (s *EngineService) record(next engine.State, listNo int) (engine.State, err
 	return s.state, nil
 }
 
-// JumpOut abandons the current quiz. The list moves to the queue tail while it
-// still has pending questions, and completes when none remain.
+// JumpOut suspends the current quiz. The list keeps its group and question
+// index, moves to the queue tail, and never completes here.
 func (s *EngineService) JumpOut() (engine.State, error) {
 	s.mu.Lock()
 	defer s.mu.Unlock()

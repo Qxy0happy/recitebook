@@ -81,7 +81,7 @@ const SELF_LEVELS: { label: string; correct: boolean; score: number }[] = [
   { label: "准确通顺", correct: true, score: 100 },
 ];
 
-function PreviewCardView({ card }: { card: PreviewCard }) {
+function PreviewCardView({ card, reviewing = false }: { card: PreviewCard; reviewing?: boolean }) {
   if (card.kind === "outline") {
     return (
       <>
@@ -126,10 +126,18 @@ function PreviewCardView({ card }: { card: PreviewCard }) {
   }
   return (
     <>
-      <p className="preview-kind">准备开始</p>
+      <p className="preview-kind">{reviewing ? "本轮已清" : "准备开始"}</p>
       <p className="preview-body">
-        共 <span className="num">{card.words}</span> 个词，
-        <span className="num">{card.questions}</span> 道题。答完一题立刻看到对错与解析。
+        {reviewing ? (
+          <>
+            共 <span className="num">{card.words}</span> 个词。只读复习，不再出题。
+          </>
+        ) : (
+          <>
+            共 <span className="num">{card.words}</span> 个词，
+            <span className="num">{card.questions}</span> 道题。答完一题立刻看到对错与解析。
+          </>
+        )}
       </p>
     </>
   );
@@ -158,6 +166,7 @@ export default function App() {
   const [beforeSettings, setBeforeSettings] = useState<Phase>("queue");
   const [cardsOpen, setCardsOpen] = useState(false);
   const [previewIndex, setPreviewIndex] = useState(0);
+  const [reviewing, setReviewing] = useState(false);
   const [openWord, setOpenWord] = useState<string | null>(null);
   const [backupOpen, setBackupOpen] = useState(false);
   const [backupBusy, setBackupBusy] = useState(false);
@@ -277,13 +286,14 @@ export default function App() {
         setQuizTotal(0);
         setFeedback(null);
         setPhase("queue");
-        setFlash(`List ${listNo} 没有待清错题，已直接完成。`);
+        setFlash(`List ${listNo} 本轮没有更多题目。`);
         return;
       }
       const loaded = await BankService.Detail(listNo);
       setDetail(loaded);
-      setActiveId(next.quiz.question_ids?.[0] ?? null);
-      setStep(0);
+      const index = next.quiz.index ?? 0;
+      setActiveId(next.quiz.question_ids?.[index] ?? null);
+      setStep(index);
       setQuizTotal(next.quiz.question_ids?.length ?? 0);
       setPicked(null);
       setText("");
@@ -292,18 +302,27 @@ export default function App() {
       setSelfAssess(false);
       setCardsOpen(false);
       setOpenWord(null);
+      setReviewing(false);
       setPhase("question");
     } catch {
       setError("这个 List 的题目还没有导入。");
     }
   };
 
-  // The first entry of a list in a round opens its word cards instead of the
-  // first question. The mark is written before the cards render, so skipping
-  // or leaving early still counts as previewed for this round.
+  // A cleared list opens read-only cards and a summary. A suspended group
+  // resumes directly. Only a list that has never been previewed this round
+  // shows the word cards before its first question.
   const enter = async (listNo: number) => {
     const row = state?.lists?.find((item) => item.list_no === listNo);
-    if (row && !row.previewed && !row.completed) {
+    if (row?.completed) {
+      await review(listNo);
+      return;
+    }
+    if (row && (row.group?.length ?? 0) > 0) {
+      await startQuiz(listNo);
+      return;
+    }
+    if (row && !row.previewed) {
       try {
         const loaded = await BankService.Detail(listNo);
         if ((loaded.questions?.length ?? 0) > 0) {
@@ -321,6 +340,7 @@ export default function App() {
           setPreviewIndex(0);
           setCardsOpen(false);
           setOpenWord(null);
+          setReviewing(false);
           setPhase("preview");
           return;
         }
@@ -331,20 +351,48 @@ export default function App() {
     await startQuiz(listNo);
   };
 
+  const review = async (listNo: number) => {
+    try {
+      setError(null);
+      setFlash(null);
+      const loaded = await BankService.Detail(listNo);
+      const result = await EngineService.WordStates(listNo);
+      setDetail(loaded);
+      setWords(result ?? []);
+      setActiveId(null);
+      setStep(0);
+      setQuizTotal(0);
+      setPicked(null);
+      setText("");
+      setBlanks([]);
+      setFeedback(null);
+      setSelfAssess(false);
+      setPreviewIndex(0);
+      setCardsOpen(false);
+      setOpenWord(null);
+      setReviewing(true);
+      setPhase("preview");
+    } catch {
+      setError("这个 List 的词卡读取失败。");
+    }
+  };
+
   const leavePreview = () => {
     setDetail(null);
     setActiveId(null);
     setPreviewIndex(0);
     setFeedback(null);
+    setReviewing(false);
     setPhase("queue");
   };
 
   const jumpOut = async () => {
     if (!state?.quiz) return;
     const listNo = state.quiz.list_no;
+    const remaining =
+      (state.quiz.question_ids?.length ?? 0) - (state.quiz.index ?? 0);
     try {
       const next = await EngineService.JumpOut();
-      const pending = next.lists?.find((item) => item.list_no === listNo)?.pending?.length ?? 0;
       setState(next);
       setDetail(null);
       setActiveId(null);
@@ -355,11 +403,12 @@ export default function App() {
       setQuizTotal(0);
       setCardsOpen(false);
       setOpenWord(null);
+      setReviewing(false);
       setPhase("queue");
       setFlash(
-        pending > 0
-          ? `已跳出，还有 ${pending} 道待清，已放回队尾。`
-          : "跳出时错题已清空，本 List 完成。",
+        remaining > 0
+          ? `已暂停 List ${listNo}，本组还剩 ${remaining} 题未作答，已放回队尾。`
+          : `已暂停 List ${listNo}，已放回队尾。`,
       );
     } catch {
       setError("跳出失败，请重试。");
@@ -380,6 +429,7 @@ export default function App() {
       setQuizTotal(0);
       setCardsOpen(false);
       setOpenWord(null);
+      setReviewing(false);
       setPhase("queue");
       setFlash(`已进入第 ${next.round} 轮，只重考上一轮的错题。`);
     } catch {
@@ -533,6 +583,7 @@ export default function App() {
   // text when the restored list cannot be loaded.
   const applyRestoredProgress = async (next: State) => {
     setState(next);
+    setReviewing(false);
     setWords([]);
     setFeedback(null);
     setPicked(null);
@@ -660,20 +711,38 @@ export default function App() {
     if (state?.quiz?.list_no === listNo) return "进行中";
     const row = state?.lists?.find((item) => item.list_no === listNo);
     if (row?.completed) return "已清";
+    if ((row?.group?.length ?? 0) > 0) return "进行中";
     const pending = row?.pending?.length ?? 0;
     return pending > 0 ? "待清" : "未开始";
   };
 
   const round = state?.round ?? 1;
   const listStates = state?.lists ?? [];
+  const activeQuizList = state?.quiz?.list_no ?? 0;
   const cleared = listStates.filter((item) => item.completed).length;
   const pendingTotal = listStates.reduce((sum, item) => sum + (item.pending?.length ?? 0), 0);
   const firstWrongTotal = listStates.reduce(
     (sum, item) => sum + (item.first_wrong?.length ?? 0),
     0,
   );
-  const pendingLists = listStates.filter((item) => (item.pending?.length ?? 0) > 0).length;
-  const idleLists = Math.max(0, lists.length - cleared - pendingLists);
+  const activeLists = listStates.filter(
+    (item) =>
+      !item.completed && (item.list_no === activeQuizList || (item.group?.length ?? 0) > 0),
+  ).length;
+  const pendingLists = listStates.filter(
+    (item) =>
+      !item.completed &&
+      item.list_no !== activeQuizList &&
+      (item.group?.length ?? 0) === 0 &&
+      (item.pending?.length ?? 0) > 0,
+  ).length;
+  const idleLists = Math.max(0, lists.length - cleared - activeLists - pendingLists);
+  const toneOf: Record<string, "done" | "active" | "pending" | "idle"> = {
+    已清: "done",
+    进行中: "active",
+    待清: "pending",
+    未开始: "idle",
+  };
 
   const nextNo = state?.current
     ? state.current
@@ -698,12 +767,13 @@ export default function App() {
   const wordUntested = words.length - wordCorrect - wordWrong;
 
   // A cleared list with questions still queued moves on by itself. Going back
-  // to the queue (or any other phase change) cancels the pending step.
+  // to the queue (or any other phase change) cancels the pending step. Review
+  // is read-only, so it never advances on its own.
   useEffect(() => {
-    if (phase !== "summary" || summaryPending > 0 || nextListNo === 0) return;
+    if (reviewing || phase !== "summary" || summaryPending > 0 || nextListNo === 0) return;
     const timer = setTimeout(() => void enter(nextListNo), 1600);
     return () => clearTimeout(timer);
-  }, [phase, summaryPending, nextListNo]);
+  }, [phase, summaryPending, nextListNo, reviewing]);
 
   return (
     <div className={phase === "question" || phase === "feedback" ? "app app-narrow" : "app"}>
@@ -784,7 +854,7 @@ export default function App() {
           <>
             <h1>{detail?.title ?? "准备中"}</h1>
             <p className="screen-finding">
-              List {detail?.list_no ?? "—"} · 第 {round} 轮 · 略览 第{" "}
+              List {detail?.list_no ?? "—"} · 第 {round} 轮 · {reviewing ? "复习" : "略览"} 第{" "}
               <span className="num">{previewIndex + 1}</span> /{" "}
               <span className="num">{previewCards.length}</span> 张
             </p>
@@ -828,21 +898,25 @@ export default function App() {
       )}
 
       {phase === "preview" && detail && previewCards[previewIndex] && (
-        <section className="preview" aria-label="本 List 词卡略览">
+        <section className="preview" aria-label={reviewing ? "本 List 词卡复习" : "本 List 词卡略览"}>
           <div className="preview-bar">
-            <p className="preview-eyebrow">略览 · 先读一遍，再开始做题</p>
+            <p className="preview-eyebrow">
+              {reviewing ? "复习 · 只读，不产生新作答" : "略览 · 先读一遍，再开始做题"}
+            </p>
             <div className="preview-bar-actions">
               <button className="text-action" onClick={leavePreview}>
                 返回队列
               </button>
-              <button className="text-action" onClick={() => void startQuiz(detail.list_no)}>
-                跳过略览
-              </button>
+              {!reviewing && (
+                <button className="text-action" onClick={() => void startQuiz(detail.list_no)}>
+                  跳过略览
+                </button>
+              )}
             </div>
           </div>
 
           <div className="preview-card">
-            <PreviewCardView card={previewCards[previewIndex]} />
+            <PreviewCardView card={previewCards[previewIndex]} reviewing={reviewing} />
           </div>
 
           <div className="preview-nav">
@@ -859,6 +933,18 @@ export default function App() {
                 onClick={() => setPreviewIndex((value) => value + 1)}
               >
                 下一张
+              </button>
+            ) : reviewing ? (
+              <button
+                className="btn btn-primary"
+                onClick={() => {
+                  setCardsOpen(false);
+                  setOpenWord(null);
+                  setPreviewIndex(0);
+                  setPhase("summary");
+                }}
+              >
+                查看总结
               </button>
             ) : (
               <button className="btn btn-primary" onClick={() => void startQuiz(detail.list_no)}>
@@ -1139,6 +1225,10 @@ export default function App() {
                   已清 <span className="num">{cleared}</span>
                 </li>
                 <li>
+                  <span className="mark mark-active" aria-hidden="true" />
+                  进行中 <span className="num">{activeLists}</span>
+                </li>
+                <li>
                   <span className="mark mark-pending" aria-hidden="true" />
                   待清 <span className="num">{pendingLists}</span>
                 </li>
@@ -1151,11 +1241,7 @@ export default function App() {
             <div className="loop-grid">
               {lists.map((row) => {
                 const rowState = state?.lists?.find((item) => item.list_no === row.list_no);
-                const tone = rowState?.completed
-                  ? "done"
-                  : (rowState?.pending?.length ?? 0) > 0
-                    ? "pending"
-                    : "idle";
+                const tone = toneOf[statusOf(row.list_no)] ?? "idle";
                 const pending = rowState?.pending?.length ?? 0;
                 const firstWrong = rowState?.first_wrong?.length ?? 0;
                 const isNext = row.list_no === nextNo;
@@ -1178,7 +1264,7 @@ export default function App() {
             <div className="section-head">
               <h2 id="queue-title">List 索引</h2>
               <p className="section-meta num">
-                {lists.length} 个 · 已清 {cleared} · 未清 {pendingLists}
+                {lists.length} 个 · 已清 {cleared} · 进行中 {activeLists} · 未清 {pendingLists}
               </p>
             </div>
 
@@ -1196,14 +1282,7 @@ export default function App() {
                 const firstWrong =
                   state?.lists?.find((item) => item.list_no === row.list_no)?.first_wrong?.length ??
                   0;
-                const tone =
-                  status === "已清"
-                    ? "done"
-                    : status === "进行中"
-                      ? "active"
-                      : status === "待清"
-                        ? "pending"
-                        : "idle";
+                const tone = toneOf[status] ?? "idle";
                 return (
                   <li key={row.list_no}>
                     <button
@@ -1244,7 +1323,7 @@ export default function App() {
 
             <div className="ledger-foot">
               <p>
-                错题未清时留在本 List，清完再进下一个。每个 List 本轮至少作答一次后可开启新一轮；新一轮重考本轮首错。
+                跳出会暂停当前组，本轮结束前可继续。每个 List 本轮至少作答一次后可开启新一轮；新一轮重考本轮首错。
               </p>
               {nextList && (
                 <button className="btn btn-quiet" disabled={!canStartRound} onClick={startRound}>
@@ -1505,15 +1584,19 @@ export default function App() {
       {phase === "summary" && detail && (
         <section className="summary" aria-live="polite">
           <div className="section-head">
-            <h2>{summaryPending > 0 ? "本组完成" : "本 List 完成"}</h2>
+            <h2>
+              {reviewing ? "本轮结果" : summaryPending > 0 ? "本组完成" : "本 List 完成"}
+            </h2>
           </div>
 
           <p className="summary-line">
-            {summaryPending > 0
-              ? `还剩 ${summaryPending} 道待清，默认继续本 List。`
-              : nextListNo > 0
-                ? `错题已清空，已从队列移除。即将自动进入 List ${nextListNo}，返回队列可取消。`
-                : "错题已清空，本 List 已完成。"}
+            {reviewing
+              ? "本轮已清。复习只读，不产生新作答。"
+              : summaryPending > 0
+                ? `还剩 ${summaryPending} 道待清，默认继续本 List。`
+                : nextListNo > 0
+                  ? `错题已清空，已从队列移除。即将自动进入 List ${nextListNo}，返回队列可取消。`
+                  : "错题已清空，本 List 已完成。"}
           </p>
 
           <dl className="summary-facts">
@@ -1564,6 +1647,8 @@ export default function App() {
                 setDetail(null);
                 setActiveId(null);
                 setFeedback(null);
+                setPreviewIndex(0);
+                setReviewing(false);
               }}
             >
               返回队列

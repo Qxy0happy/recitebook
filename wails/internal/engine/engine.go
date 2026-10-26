@@ -50,8 +50,8 @@ type Answer struct {
 	Score   int
 }
 
-// JumpOut abandons the active quiz. The list moves to the queue tail while it
-// still has pending questions, and completes when none remain.
+// JumpOut suspends the active quiz. The list keeps its current group and
+// question index, moves to the queue tail, and never completes here.
 type JumpOut struct{}
 
 // StartRound begins the next round. It is only allowed once every list has
@@ -82,6 +82,10 @@ type ListState struct {
 	FirstWrong []string  `json:"first_wrong"`
 	Completed  bool      `json:"completed"`
 	Previewed  bool      `json:"previewed"`
+	// Group and GroupAt hold a suspended question set and the index of its
+	// next unanswered question. Group is empty unless the learner jumped out.
+	Group   []string `json:"group"`
+	GroupAt int      `json:"group_at"`
 }
 
 // Quiz is the active question set.
@@ -126,14 +130,36 @@ func Apply(st State, bank Bank, action Action) (State, error) {
 				return st, fmt.Errorf("queue is empty")
 			}
 		}
+		idx := listIndex(&st, listNo)
+		ls := &st.Lists[idx]
+		if len(ls.Group) > 0 {
+			quiz := &Quiz{
+				ListNo:      listNo,
+				QuestionIDs: append([]string(nil), ls.Group...),
+				Index:       ls.GroupAt,
+			}
+			ls.Group = nil
+			ls.GroupAt = 0
+			ls.Completed = false
+			st.Current = listNo
+			st.Quiz = quiz
+			return st, nil
+		}
 		ids := buildQuiz(&st, bank, listNo)
 		if len(ids) == 0 {
-			idx := listIndex(&st, listNo)
-			st.Lists[idx].Completed = true
+			// Nothing is answerable: the list has no questions, already finished,
+			// or only holds pending IDs the current bank no longer has. Completing
+			// is the only exit, otherwise the queue head can never advance.
+			ls.Completed = true
+			ls.Pending = nil
 			st.Queue = remove(st.Queue, listNo)
 			st.Current = 0
 			st.Quiz = nil
 			return st, nil
+		}
+		ls.Completed = false
+		if !queueContains(st.Queue, listNo) {
+			st.Queue = append(st.Queue, listNo)
 		}
 		st.Current = listNo
 		st.Quiz = &Quiz{ListNo: listNo, QuestionIDs: ids}
@@ -190,6 +216,8 @@ func Apply(st State, bank Bank, action Action) (State, error) {
 		quiz.Index++
 		if quiz.Index >= len(quiz.QuestionIDs) {
 			st.Quiz = nil
+			ls.Group = nil
+			ls.GroupAt = 0
 			if len(ls.Pending) == 0 {
 				ls.Completed = true
 				st.Queue = remove(st.Queue, quiz.ListNo)
@@ -206,12 +234,22 @@ func Apply(st State, bank Bank, action Action) (State, error) {
 		if st.Quiz == nil {
 			return st, fmt.Errorf("no quiz in progress")
 		}
-		listNo := st.Quiz.ListNo
+		quiz := *st.Quiz
+		listNo := quiz.ListNo
 		idx := listIndex(&st, listNo)
+		ls := &st.Lists[idx]
 		st.Quiz = nil
 		st.Current = 0
-		if len(st.Lists[idx].Pending) == 0 {
-			st.Lists[idx].Completed = true
+		if quiz.Index < len(quiz.QuestionIDs) {
+			ls.Group = append([]string(nil), quiz.QuestionIDs...)
+			ls.GroupAt = quiz.Index
+			ls.Completed = false
+			st.Queue = append(remove(st.Queue, listNo), listNo)
+			return st, nil
+		}
+		// Defensive: a finished group should already have been closed by Answer.
+		if len(ls.Pending) == 0 {
+			ls.Completed = true
 			st.Queue = remove(st.Queue, listNo)
 		} else {
 			st.Queue = append(remove(st.Queue, listNo), listNo)
@@ -231,6 +269,8 @@ func Apply(st State, bank Bank, action Action) (State, error) {
 			ls.Pending = append([]string(nil), ls.FirstWrong...)
 			ls.FirstWrong = nil
 			ls.Previewed = false
+			ls.Group = nil
+			ls.GroupAt = 0
 			ls.Completed = len(ls.Pending) == 0
 			if !ls.Completed {
 				queue = append(queue, ls.ListNo)
@@ -424,6 +464,15 @@ func remove(xs []int, x int) []int {
 	return out
 }
 
+func queueContains(xs []int, x int) bool {
+	for _, v := range xs {
+		if v == x {
+			return true
+		}
+	}
+	return false
+}
+
 func containsString(xs []string, x string) bool {
 	for _, v := range xs {
 		if v == x {
@@ -452,6 +501,7 @@ func clone(st State) State {
 		c.Lists[i].Attempts = append([]Attempt(nil), ls.Attempts...)
 		c.Lists[i].Pending = append([]string(nil), ls.Pending...)
 		c.Lists[i].FirstWrong = append([]string(nil), ls.FirstWrong...)
+		c.Lists[i].Group = append([]string(nil), ls.Group...)
 	}
 	if st.Quiz != nil {
 		q := *st.Quiz

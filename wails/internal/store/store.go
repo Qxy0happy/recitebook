@@ -66,6 +66,8 @@ var schema = []string{
 		first_wrong TEXT NOT NULL DEFAULT '[]',
 		completed INTEGER NOT NULL DEFAULT 0,
 		previewed INTEGER NOT NULL DEFAULT 0,
+		"group" TEXT NOT NULL DEFAULT '[]',
+		group_at INTEGER NOT NULL DEFAULT 0,
 		PRIMARY KEY (round, list_no)
 	)`,
 	`CREATE TABLE IF NOT EXISTS settings (
@@ -101,7 +103,13 @@ func (s *SQLite) migrate() error {
 	if err := s.ensureAttemptScore(); err != nil {
 		return err
 	}
-	return s.ensureListPreviewed()
+	if err := s.ensureListPreviewed(); err != nil {
+		return err
+	}
+	if err := s.ensureListGroup(); err != nil {
+		return err
+	}
+	return s.healZeroAttemptCompleted()
 }
 
 // ensureAttemptScore adds the score column to databases created before grades
@@ -131,6 +139,122 @@ func (s *SQLite) ensureListPreviewed() error {
 	}
 	_, err = s.db.Exec(`ALTER TABLE list_states ADD COLUMN previewed INTEGER NOT NULL DEFAULT 1`)
 	return err
+}
+
+// ensureListGroup adds the suspended-group columns to databases created
+// before a group could be paused.
+func (s *SQLite) ensureListGroup() error {
+	columns := []struct {
+		name string
+		sql  string
+	}{
+		{"group", `ALTER TABLE list_states ADD COLUMN "group" TEXT NOT NULL DEFAULT '[]'`},
+		{"group_at", `ALTER TABLE list_states ADD COLUMN group_at INTEGER NOT NULL DEFAULT 0`},
+	}
+	for _, column := range columns {
+		found, err := s.columnExists("list_states", column.name)
+		if err != nil {
+			return err
+		}
+		if found {
+			continue
+		}
+		if _, err := s.db.Exec(column.sql); err != nil {
+			return err
+		}
+	}
+	return nil
+}
+
+// healZeroAttemptCompleted repairs lists that an older build marked complete
+// when the learner jumped out before answering. The defect left such a list
+// with no attempt in any round, so it has no question to answer and cannot
+// satisfy the round gate; it returns to the queue.
+func (s *SQLite) healZeroAttemptCompleted() error {
+	tx, err := s.db.Begin()
+	if err != nil {
+		return classify(err)
+	}
+	defer tx.Rollback()
+
+	var round int
+	err = tx.QueryRow(`SELECT round FROM rounds ORDER BY round DESC LIMIT 1`).Scan(&round)
+	if errors.Is(err, sql.ErrNoRows) {
+		return tx.Commit()
+	}
+	if err != nil {
+		return classify(err)
+	}
+
+	rows, err := tx.Query(
+		`SELECT list_no FROM list_states
+		 WHERE round = ? AND completed = 1 AND NOT EXISTS (
+			SELECT 1 FROM attempts
+			WHERE attempts.list_no = list_states.list_no
+		 )
+		 ORDER BY list_no`,
+		round,
+	)
+	if err != nil {
+		return classify(err)
+	}
+	var healed []int
+	for rows.Next() {
+		var listNo int
+		if err := rows.Scan(&listNo); err != nil {
+			rows.Close()
+			return classify(err)
+		}
+		healed = append(healed, listNo)
+	}
+	if err := rows.Err(); err != nil {
+		rows.Close()
+		return classify(err)
+	}
+	rows.Close()
+	if len(healed) == 0 {
+		return tx.Commit()
+	}
+
+	for _, listNo := range healed {
+		if _, err := tx.Exec(
+			`UPDATE list_states SET completed = 0 WHERE round = ? AND list_no = ?`,
+			round, listNo,
+		); err != nil {
+			return classify(err)
+		}
+	}
+
+	var queueJSON string
+	if err := tx.QueryRow(`SELECT queue FROM rounds WHERE round = ?`, round).Scan(&queueJSON); err != nil {
+		return classify(err)
+	}
+	var queue []int
+	if err := decode(queueJSON, &queue); err != nil {
+		return corrupt(err)
+	}
+	for _, listNo := range healed {
+		if !containsList(queue, listNo) {
+			queue = append(queue, listNo)
+		}
+	}
+	data, err := encode(queue)
+	if err != nil {
+		return err
+	}
+	if _, err := tx.Exec(`UPDATE rounds SET queue = ? WHERE round = ?`, string(data), round); err != nil {
+		return classify(err)
+	}
+	return classify(tx.Commit())
+}
+
+func containsList(xs []int, x int) bool {
+	for _, v := range xs {
+		if v == x {
+			return true
+		}
+	}
+	return false
 }
 
 // columnExists reports whether table already has the named column.
@@ -196,7 +320,7 @@ func (s *SQLite) Load() (engine.State, error) {
 	}
 
 	rows, err := s.db.Query(
-		`SELECT list_no, pending, first_wrong, completed, previewed FROM list_states WHERE round = ? ORDER BY list_no`,
+		`SELECT list_no, pending, first_wrong, completed, previewed, "group", group_at FROM list_states WHERE round = ? ORDER BY list_no`,
 		st.Round,
 	)
 	if err != nil {
@@ -208,14 +332,18 @@ func (s *SQLite) Load() (engine.State, error) {
 			ls         engine.ListState
 			pending    string
 			firstWrong string
+			group      string
 		)
-		if err := rows.Scan(&ls.ListNo, &pending, &firstWrong, &ls.Completed, &ls.Previewed); err != nil {
+		if err := rows.Scan(&ls.ListNo, &pending, &firstWrong, &ls.Completed, &ls.Previewed, &group, &ls.GroupAt); err != nil {
 			return engine.State{}, classify(err)
 		}
 		if err := decode(pending, &ls.Pending); err != nil {
 			return engine.State{}, corrupt(err)
 		}
 		if err := decode(firstWrong, &ls.FirstWrong); err != nil {
+			return engine.State{}, corrupt(err)
+		}
+		if err := decode(group, &ls.Group); err != nil {
 			return engine.State{}, corrupt(err)
 		}
 		st.Lists = append(st.Lists, ls)
@@ -292,13 +420,19 @@ func (s *SQLite) Save(st engine.State) error {
 		if err != nil {
 			return err
 		}
+		group, err := encode(ls.Group)
+		if err != nil {
+			return err
+		}
 		if _, err := tx.Exec(
-			`INSERT INTO list_states (round, list_no, pending, first_wrong, completed, previewed)
-			 VALUES (?, ?, ?, ?, ?, ?)
+			`INSERT INTO list_states (round, list_no, pending, first_wrong, completed, previewed, "group", group_at)
+			 VALUES (?, ?, ?, ?, ?, ?, ?, ?)
 			 ON CONFLICT(round, list_no) DO UPDATE SET
 				pending = excluded.pending, first_wrong = excluded.first_wrong,
-				completed = excluded.completed, previewed = excluded.previewed`,
+				completed = excluded.completed, previewed = excluded.previewed,
+				"group" = excluded."group", group_at = excluded.group_at`,
 			st.Round, ls.ListNo, string(pending), string(firstWrong), ls.Completed, ls.Previewed,
+			string(group), ls.GroupAt,
 		); err != nil {
 			return classify(err)
 		}
@@ -406,10 +540,15 @@ func (s *SQLite) Import(r io.Reader) error {
 		if err != nil {
 			return err
 		}
+		group, err := encode(ls.Group)
+		if err != nil {
+			return err
+		}
 		if _, err := tx.Exec(
-			`INSERT INTO list_states (round, list_no, pending, first_wrong, completed, previewed)
-			 VALUES (?, ?, ?, ?, ?, ?)`,
+			`INSERT INTO list_states (round, list_no, pending, first_wrong, completed, previewed, "group", group_at)
+			 VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
 			st.Round, ls.ListNo, string(pending), string(firstWrong), ls.Completed, ls.Previewed,
+			string(group), ls.GroupAt,
 		); err != nil {
 			return classify(err)
 		}
@@ -436,7 +575,12 @@ func (s *SQLite) Import(r io.Reader) error {
 			return classify(err)
 		}
 	}
-	return classify(tx.Commit())
+	if err := tx.Commit(); err != nil {
+		return classify(err)
+	}
+	// An old backup can carry the same zero-answer completed rows that Open
+	// repairs; fix them before the restored state reaches the UI.
+	return s.healZeroAttemptCompleted()
 }
 
 func (s *SQLite) settings() (map[string]string, error) {
@@ -477,6 +621,21 @@ func validate(st engine.State) error {
 	for _, ls := range st.Lists {
 		if ls.ListNo < 1 {
 			return errors.New("invalid backup: malformed list")
+		}
+		if ls.Completed && len(ls.Group) > 0 {
+			return errors.New("invalid backup: completed list has a suspended group")
+		}
+		if len(ls.Group) == 0 {
+			if ls.GroupAt != 0 {
+				return errors.New("invalid backup: suspended index without a group")
+			}
+		} else if ls.GroupAt < 0 || ls.GroupAt >= len(ls.Group) {
+			return errors.New("invalid backup: suspended group index out of range")
+		}
+		for _, id := range ls.Group {
+			if id == "" {
+				return errors.New("invalid backup: malformed suspended group")
+			}
 		}
 		for _, a := range ls.Attempts {
 			if a.Round < 1 || a.Round > st.Round || a.Seq < 1 || a.QuestionID == "" {

@@ -57,8 +57,8 @@ export function Enter(listNo: number): $CancellablePromise<engine$0.State> {
 }
 
 /**
- * JumpOut abandons the current quiz. The list moves to the queue tail while it
- * still has pending questions, and completes when none remain.
+ * JumpOut suspends the current quiz. The list keeps its group and question
+ * index, moves to the queue tail, and never completes here.
  */
 export function JumpOut(): $CancellablePromise<engine$0.State> {
     return $Call.ByID(4275176045);

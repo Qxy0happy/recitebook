@@ -374,6 +374,11 @@
   background: var(--surface);
 }
 
+.mark-active {
+  border: 2px solid var(--accent);
+  background: var(--surface);
+}
+
 .mark-bad {
   background: var(--negative);
 }
@@ -411,6 +416,12 @@
   color: #ffffff;
 }
 
+.loop-active {
+  border-color: var(--accent);
+  background: var(--surface);
+  color: var(--accent);
+}
+
 .loop-idle {
   border-color: var(--border);
   background: var(--surface);
@@ -418,7 +429,8 @@
 }
 
 .loop-done:hover,
-.loop-pending:hover {
+.loop-pending:hover,
+.loop-active:hover {
   opacity: 0.82;
 }
 

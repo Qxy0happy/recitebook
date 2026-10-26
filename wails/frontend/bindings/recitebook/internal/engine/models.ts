@@ -23,6 +23,13 @@ export interface ListState {
     "first_wrong": string[] | null;
     "completed": boolean;
     "previewed": boolean;
+
+    /**
+     * Group and GroupAt hold a suspended question set and the index of its
+     * next unanswered question. Group is empty unless the learner jumped out.
+     */
+    "group": string[] | null;
+    "group_at": number;
 }
 
 /**

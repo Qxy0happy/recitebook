@@ -43,6 +43,8 @@ func sampleState() engine.State {
 				FirstWrong: []string{"q2"},
 				Completed:  false,
 				Previewed:  true,
+				Group:      []string{"q2", "q3"},
+				GroupAt:    1,
 				Attempts: []engine.Attempt{
 					{Round: 1, QuestionID: "q1", Result: engine.Correct, Via: engine.ViaAnswer, Score: 100, Seq: 1},
 					{Round: 2, QuestionID: "q1", Result: engine.Wrong, Via: engine.ViaLookup, Score: 0, Seq: 5},
@@ -184,6 +186,12 @@ func TestImportRejectsBadFilesWithoutChangingData(t *testing.T) {
 			`{"list_no":1,"attempts":[{"round":1,"question_id":"q","result":"wrong","via":"answer","score":101,"seq":1}]}]}}`,
 		"bad source": `{"version":1,"state":{"round":1,"queue":[],"lists":[` +
 			`{"list_no":1,"attempts":[{"round":1,"question_id":"q","result":"wrong","via":"guess","score":0,"seq":1}]}]}}`,
+		"completed with group": `{"version":1,"state":{"round":1,"queue":[],"lists":[` +
+			`{"list_no":1,"completed":true,"group":["q1"],"group_at":0}]}}`,
+		"group index out of range": `{"version":1,"state":{"round":1,"queue":[],"lists":[` +
+			`{"list_no":1,"completed":false,"group":["q1"],"group_at":1}]}}`,
+		"group index without group": `{"version":1,"state":{"round":1,"queue":[],"lists":[` +
+			`{"list_no":1,"completed":false,"group":[],"group_at":1}]}}`,
 	}
 	for name, payload := range bad {
 		if err := s.Import(strings.NewReader(payload)); err == nil {
@@ -236,7 +244,7 @@ func TestExportUsesSnakeCaseKeys(t *testing.T) {
 		t.Fatalf("Export: %v", err)
 	}
 	text := backup.String()
-	for _, key := range []string{`"list_no"`, `"question_id"`, `"question_ids"`, `"first_wrong"`, `"score"`} {
+	for _, key := range []string{`"list_no"`, `"question_id"`, `"question_ids"`, `"first_wrong"`, `"score"`, `"group"`, `"group_at"`} {
 		if !strings.Contains(text, key) {
 			t.Fatalf("export is missing %s: %s", key, text)
 		}
@@ -385,5 +393,178 @@ func TestImportWithoutPreviewedLeavesListsUnpreviewed(t *testing.T) {
 	}
 	if len(got.Lists) != 1 || got.Lists[0].Previewed {
 		t.Fatalf("imported list = %+v, want unpreviewed", got.Lists)
+	}
+}
+
+func TestMigrateAddsGroupColumns(t *testing.T) {
+	path := filepath.Join(t.TempDir(), "old.db")
+	raw, err := sql.Open("sqlite", path)
+	if err != nil {
+		t.Fatalf("open legacy database: %v", err)
+	}
+	for _, statement := range []string{
+		`CREATE TABLE rounds (round INTEGER PRIMARY KEY, seq INTEGER NOT NULL,
+			queue TEXT NOT NULL, current INTEGER NOT NULL, quiz TEXT)`,
+		`INSERT INTO rounds (round, seq, queue, current, quiz) VALUES (1, 1, '[1]', 0, NULL)`,
+		`CREATE TABLE list_states (round INTEGER NOT NULL, list_no INTEGER NOT NULL,
+			pending TEXT NOT NULL DEFAULT '[]', first_wrong TEXT NOT NULL DEFAULT '[]',
+			completed INTEGER NOT NULL DEFAULT 0, PRIMARY KEY (round, list_no))`,
+		`INSERT INTO list_states (round, list_no, pending, first_wrong, completed)
+		 VALUES (1, 1, '[]', '[]', 0)`,
+	} {
+		if _, err := raw.Exec(statement); err != nil {
+			t.Fatalf("seed legacy database: %v", err)
+		}
+	}
+	if err := raw.Close(); err != nil {
+		t.Fatalf("close legacy database: %v", err)
+	}
+
+	s, err := Open(path)
+	if err != nil {
+		t.Fatalf("Open legacy database: %v", err)
+	}
+	defer s.Close()
+	got, err := s.Load()
+	if err != nil {
+		t.Fatalf("Load legacy database: %v", err)
+	}
+	if ls := got.Lists[0]; len(ls.Group) != 0 || ls.GroupAt != 0 {
+		t.Fatalf("legacy group = %v/%d, want empty", ls.Group, ls.GroupAt)
+	}
+
+	got.Lists[0].Group = []string{"q1", "q2"}
+	got.Lists[0].GroupAt = 1
+	if err := s.Save(got); err != nil {
+		t.Fatalf("Save after migration: %v", err)
+	}
+	loaded, err := s.Load()
+	if err != nil {
+		t.Fatalf("Load after save: %v", err)
+	}
+	ls := loaded.Lists[0]
+	if !reflect.DeepEqual(ls.Group, []string{"q1", "q2"}) || ls.GroupAt != 1 {
+		t.Fatalf("group round trip = %v/%d", ls.Group, ls.GroupAt)
+	}
+}
+
+func TestImportWithoutGroupFieldsLeavesNoSuspendedGroup(t *testing.T) {
+	s, _ := openTemp(t)
+	backup := `{
+		"version": 1,
+		"state": {
+			"round": 1,
+			"queue": [1],
+			"current": 0,
+			"lists": [{"list_no": 1, "attempts": [], "pending": [], "first_wrong": [], "completed": false}]
+		},
+		"settings": {}
+	}`
+	if err := s.Import(strings.NewReader(backup)); err != nil {
+		t.Fatalf("Import: %v", err)
+	}
+	got, err := s.Load()
+	if err != nil {
+		t.Fatalf("Load: %v", err)
+	}
+	if ls := got.Lists[0]; len(ls.Group) != 0 || ls.GroupAt != 0 {
+		t.Fatalf("imported group = %v/%d, want empty", ls.Group, ls.GroupAt)
+	}
+}
+
+func TestOpenHealsCompletedListWithoutAttempts(t *testing.T) {
+	path := filepath.Join(t.TempDir(), "old.db")
+	raw, err := sql.Open("sqlite", path)
+	if err != nil {
+		t.Fatalf("open legacy database: %v", err)
+	}
+	for _, statement := range []string{
+		`CREATE TABLE rounds (round INTEGER PRIMARY KEY, seq INTEGER NOT NULL,
+			queue TEXT NOT NULL, current INTEGER NOT NULL, quiz TEXT)`,
+		`INSERT INTO rounds (round, seq, queue, current, quiz) VALUES (1, 1, '[2]', 0, NULL)`,
+		`CREATE TABLE list_states (round INTEGER NOT NULL, list_no INTEGER NOT NULL,
+			pending TEXT NOT NULL DEFAULT '[]', first_wrong TEXT NOT NULL DEFAULT '[]',
+			completed INTEGER NOT NULL DEFAULT 0, PRIMARY KEY (round, list_no))`,
+		`INSERT INTO list_states (round, list_no, pending, first_wrong, completed)
+		 VALUES (1, 1, '[]', '[]', 1), (1, 2, '[]', '[]', 1)`,
+		`CREATE TABLE attempts (
+			round INTEGER NOT NULL,
+			seq INTEGER NOT NULL,
+			list_no INTEGER NOT NULL,
+			question_id TEXT NOT NULL,
+			result TEXT NOT NULL,
+			via TEXT NOT NULL,
+			PRIMARY KEY (round, seq)
+		)`,
+		`INSERT INTO attempts (round, seq, list_no, question_id, result, via)
+		 VALUES (1, 1, 2, 'q1', 'correct', 'answer')`,
+	} {
+		if _, err := raw.Exec(statement); err != nil {
+			t.Fatalf("seed legacy database: %v", err)
+		}
+	}
+	if err := raw.Close(); err != nil {
+		t.Fatalf("close legacy database: %v", err)
+	}
+
+	s, err := Open(path)
+	if err != nil {
+		t.Fatalf("Open legacy database: %v", err)
+	}
+	got, err := s.Load()
+	if err != nil {
+		t.Fatalf("Load: %v", err)
+	}
+	if !reflect.DeepEqual(got.Queue, []int{2, 1}) {
+		t.Fatalf("queue = %v, want [2 1]", got.Queue)
+	}
+	for _, ls := range got.Lists {
+		want := ls.ListNo == 2
+		if ls.Completed != want {
+			t.Fatalf("list %d completed = %v, want %v", ls.ListNo, ls.Completed, want)
+		}
+	}
+
+	if err := s.Close(); err != nil {
+		t.Fatalf("Close: %v", err)
+	}
+	reopened, err := Open(path)
+	if err != nil {
+		t.Fatalf("reopen: %v", err)
+	}
+	defer reopened.Close()
+	got, err = reopened.Load()
+	if err != nil {
+		t.Fatalf("Load after reopen: %v", err)
+	}
+	if !reflect.DeepEqual(got.Queue, []int{2, 1}) {
+		t.Fatalf("heal repeated a list: queue = %v", got.Queue)
+	}
+}
+
+func TestImportHealsCompletedListWithoutAttempts(t *testing.T) {
+	s, _ := openTemp(t)
+	backup := `{
+		"version": 1,
+		"state": {
+			"round": 1,
+			"queue": [],
+			"current": 0,
+			"lists": [{"list_no": 1, "attempts": [], "pending": [], "first_wrong": [], "completed": true}]
+		},
+		"settings": {}
+	}`
+	if err := s.Import(strings.NewReader(backup)); err != nil {
+		t.Fatalf("Import: %v", err)
+	}
+	got, err := s.Load()
+	if err != nil {
+		t.Fatalf("Load: %v", err)
+	}
+	if got.Lists[0].Completed {
+		t.Fatal("imported zero-answer completed list was not healed")
+	}
+	if !reflect.DeepEqual(got.Queue, []int{1}) {
+		t.Fatalf("queue = %v, want [1]", got.Queue)
 	}
 }

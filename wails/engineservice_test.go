@@ -602,3 +602,75 @@ func TestPreviewMarksListAcrossRestartWithoutStartingQuiz(t *testing.T) {
 		t.Fatalf("quiz after preview = %+v", entered.Quiz)
 	}
 }
+
+func TestSuspendedGroupResumesAfterRestart(t *testing.T) {
+	bank, err := NewBankService()
+	if err != nil {
+		t.Fatal(err)
+	}
+	path := filepath.Join(t.TempDir(), "state.db")
+
+	svc, _, _, err := openEngine(bank, path)
+	if err != nil {
+		t.Fatalf("openEngine: %v", err)
+	}
+	entered, err := svc.Enter(1)
+	if err != nil {
+		t.Fatalf("Enter: %v", err)
+	}
+	if entered.Quiz == nil || len(entered.Quiz.QuestionIDs) < 2 {
+		t.Fatalf("list 1 quiz = %+v, need at least 2 questions", entered.Quiz)
+	}
+	ids := append([]string(nil), entered.Quiz.QuestionIDs...)
+	if _, err := svc.Answer(true); err != nil {
+		t.Fatalf("Answer: %v", err)
+	}
+	jumped, err := svc.JumpOut()
+	if err != nil {
+		t.Fatalf("JumpOut: %v", err)
+	}
+	ls := jumped.Lists[0]
+	if ls.Completed || !reflect.DeepEqual(ls.Group, ids) || ls.GroupAt != 1 {
+		t.Fatalf("jump out state = completed:%v group:%v at:%d", ls.Completed, ls.Group, ls.GroupAt)
+	}
+	closeEngine(t, svc)
+
+	reopened, _, warning, err := openEngine(bank, path)
+	if err != nil {
+		t.Fatalf("reopen: %v", err)
+	}
+	defer closeEngine(t, reopened)
+	if warning != "" {
+		t.Fatalf("unexpected warning: %s", warning)
+	}
+	if got := reopened.State(); !reflect.DeepEqual(got, jumped) {
+		t.Fatalf("state after restart:\ngot  %+v\nwant %+v", got, jumped)
+	}
+
+	resumed, err := reopened.Enter(1)
+	if err != nil {
+		t.Fatalf("resume Enter: %v", err)
+	}
+	if resumed.Quiz == nil || resumed.Quiz.Index != 1 || !reflect.DeepEqual(resumed.Quiz.QuestionIDs, ids) {
+		t.Fatalf("resumed quiz = %+v, want the same group at index 1", resumed.Quiz)
+	}
+
+	cur := resumed
+	for cur.Quiz != nil {
+		cur, err = reopened.Answer(true)
+		if err != nil {
+			t.Fatalf("Answer after resume: %v", err)
+		}
+	}
+	if !cur.Lists[0].Completed {
+		t.Fatal("finishing the resumed group with no pending must complete the list")
+	}
+	for _, listNo := range cur.Queue {
+		if listNo == 1 {
+			t.Fatalf("queue = %v, completed list 1 must not be queued", cur.Queue)
+		}
+	}
+	if len(cur.Queue) != 28 {
+		t.Fatalf("queue = %v, want the other 28 lists", cur.Queue)
+	}
+}

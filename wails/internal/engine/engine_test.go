@@ -357,6 +357,10 @@ func TestJumpOutMovesListToQueueTail(t *testing.T) {
 	if st.Lists[0].Completed {
 		t.Fatal("list with pending questions must not complete")
 	}
+	ls := listOf(t, st, 1)
+	if ls.GroupAt != 1 || len(ls.Group) != 3 {
+		t.Fatalf("suspended group = %v/%d, want 3 questions at index 1", ls.Group, ls.GroupAt)
+	}
 
 	st, _ = Apply(st, bank, Enter{})
 	if st.Current != 2 {
@@ -364,10 +368,11 @@ func TestJumpOutMovesListToQueueTail(t *testing.T) {
 	}
 }
 
-func TestJumpOutWithNoPendingCompletes(t *testing.T) {
-	bank := bankWith(map[int]int{1: 2, 2: 1})
+func TestJumpOutWithNoPendingSuspendsGroup(t *testing.T) {
+	bank := bankWith(map[int]int{1: 3, 2: 1})
 	st := New([]int{1, 2})
 	st, _ = Apply(st, bank, Enter{})
+	st, _ = Apply(st, bank, Answer{Correct: true})
 	st, err := Apply(st, bank, JumpOut{})
 	if err != nil {
 		t.Fatal(err)
@@ -375,14 +380,150 @@ func TestJumpOutWithNoPendingCompletes(t *testing.T) {
 	if st.Quiz != nil {
 		t.Fatal("jump out must end the quiz")
 	}
-	if !st.Lists[0].Completed {
-		t.Fatal("list with no pending questions should complete")
+	ls := listOf(t, st, 1)
+	if ls.Completed {
+		t.Fatal("a list with an unfinished group must not complete")
 	}
-	if len(st.Queue) != 1 || st.Queue[0] != 2 {
-		t.Fatalf("queue = %v, want [2]", st.Queue)
+	if !reflect.DeepEqual(ls.Group, []string{"L1-Q01", "L1-Q02", "L1-Q03"}) {
+		t.Fatalf("group = %v", ls.Group)
+	}
+	if ls.GroupAt != 1 {
+		t.Fatalf("group index = %d, want 1", ls.GroupAt)
+	}
+	if !reflect.DeepEqual(st.Queue, []int{2, 1}) {
+		t.Fatalf("queue = %v, want [2 1]", st.Queue)
 	}
 	if st.Current != 0 {
 		t.Fatalf("current = %d, want 0", st.Current)
+	}
+}
+
+func TestEnterResumesSuspendedGroup(t *testing.T) {
+	bank := bankWith(map[int]int{1: 3, 2: 1})
+	st := New([]int{1, 2})
+	st, _ = Apply(st, bank, Enter{})
+	st, _ = Apply(st, bank, Answer{Correct: false})
+	st, _ = Apply(st, bank, JumpOut{})
+
+	st, err := Apply(st, bank, Enter{ListNo: 1})
+	if err != nil {
+		t.Fatal(err)
+	}
+	if st.Quiz == nil || st.Quiz.ListNo != 1 || st.Quiz.Index != 1 {
+		t.Fatalf("resumed quiz = %+v, want list 1 at index 1", st.Quiz)
+	}
+	if !reflect.DeepEqual(st.Quiz.QuestionIDs, []string{"L1-Q01", "L1-Q02", "L1-Q03"}) {
+		t.Fatalf("resumed questions = %v", st.Quiz.QuestionIDs)
+	}
+	if ls := listOf(t, st, 1); len(ls.Group) != 0 || ls.GroupAt != 0 {
+		t.Fatalf("resume must clear the suspended group: %v/%d", ls.Group, ls.GroupAt)
+	}
+
+	st, _ = Apply(st, bank, Answer{Correct: true})
+	st, _ = Apply(st, bank, Answer{Correct: true})
+	if st.Quiz != nil {
+		t.Fatal("group should be finished")
+	}
+	ls := listOf(t, st, 1)
+	if ls.Completed {
+		t.Fatal("wrong question from the suspended group keeps the list open")
+	}
+	if !reflect.DeepEqual(ls.Pending, []string{"L1-Q01"}) {
+		t.Fatalf("pending = %v", ls.Pending)
+	}
+	if st.Current != 1 {
+		t.Fatalf("current = %d, want 1", st.Current)
+	}
+
+	st, _ = Apply(st, bank, Enter{})
+	if st.Quiz == nil || !reflect.DeepEqual(st.Quiz.QuestionIDs, []string{"L1-Q01"}) {
+		t.Fatalf("next group = %+v, want the pending question", st.Quiz)
+	}
+}
+
+func TestResumedGroupCompletesList(t *testing.T) {
+	bank := bankWith(map[int]int{1: 3, 2: 1})
+	st := New([]int{1, 2})
+	st, _ = Apply(st, bank, Enter{})
+	st, _ = Apply(st, bank, Answer{Correct: true})
+	st, _ = Apply(st, bank, JumpOut{})
+	st, _ = Apply(st, bank, Enter{ListNo: 1})
+	st, _ = Apply(st, bank, Answer{Correct: true})
+	st, _ = Apply(st, bank, Answer{Correct: true})
+
+	if !listOf(t, st, 1).Completed {
+		t.Fatal("finishing the resumed group with no pending must complete")
+	}
+	if !reflect.DeepEqual(st.Queue, []int{2}) {
+		t.Fatalf("queue = %v, want [2]", st.Queue)
+	}
+}
+
+func TestSuspendedGroupsAreKeptPerList(t *testing.T) {
+	bank := bankWith(map[int]int{1: 3, 2: 2})
+	st := New([]int{1, 2})
+	st, _ = Apply(st, bank, Enter{})
+	st, _ = Apply(st, bank, Answer{Correct: true})
+	st, _ = Apply(st, bank, JumpOut{})
+	st, _ = Apply(st, bank, Enter{ListNo: 2})
+	st, _ = Apply(st, bank, Answer{Correct: true})
+	st, _ = Apply(st, bank, JumpOut{})
+
+	if ls := listOf(t, st, 1); ls.GroupAt != 1 || len(ls.Group) != 3 {
+		t.Fatalf("list 1 group = %v/%d", ls.Group, ls.GroupAt)
+	}
+	if ls := listOf(t, st, 2); ls.GroupAt != 1 || len(ls.Group) != 2 {
+		t.Fatalf("list 2 group = %v/%d", ls.Group, ls.GroupAt)
+	}
+
+	st, _ = Apply(st, bank, Enter{ListNo: 1})
+	if st.Quiz.ListNo != 1 || st.Quiz.Index != 1 || st.Quiz.QuestionIDs[0] != "L1-Q01" {
+		t.Fatalf("resumed list 1 quiz = %+v", st.Quiz)
+	}
+	st, _ = Apply(st, bank, JumpOut{})
+	st, _ = Apply(st, bank, Enter{ListNo: 2})
+	if st.Quiz.ListNo != 2 || st.Quiz.Index != 1 || st.Quiz.QuestionIDs[0] != "L2-Q01" {
+		t.Fatalf("resumed list 2 quiz = %+v", st.Quiz)
+	}
+}
+
+func TestEnterWithoutAnswerDoesNotCountForRound(t *testing.T) {
+	bank := bankWith(map[int]int{1: 2, 2: 1})
+	allCorrect := func(string) bool { return true }
+	st := New([]int{1, 2})
+	st, _ = Apply(st, bank, Enter{})
+	st, _ = Apply(st, bank, JumpOut{})
+	st = pass(t, st, bank, 2, allCorrect)
+	if CanStartRound(st, bank) {
+		t.Fatal("entering and leaving without an answer must not finish the list")
+	}
+
+	st, _ = Apply(st, bank, Enter{ListNo: 1})
+	st, _ = Apply(st, bank, Answer{Correct: true})
+	if !CanStartRound(st, bank) {
+		t.Fatal("one answer should satisfy the round gate")
+	}
+}
+
+func TestStartRoundClearsSuspendedGroups(t *testing.T) {
+	bank := bankWith(map[int]int{1: 2, 2: 1})
+	allCorrect := func(string) bool { return true }
+	st := New([]int{1, 2})
+	st, _ = Apply(st, bank, Enter{})
+	st, _ = Apply(st, bank, Answer{Correct: false})
+	st, _ = Apply(st, bank, JumpOut{})
+	st = pass(t, st, bank, 2, allCorrect)
+
+	st, err := Apply(st, bank, StartRound{})
+	if err != nil {
+		t.Fatal(err)
+	}
+	ls := listOf(t, st, 1)
+	if len(ls.Group) != 0 || ls.GroupAt != 0 {
+		t.Fatalf("group survived the new round: %v/%d", ls.Group, ls.GroupAt)
+	}
+	if !reflect.DeepEqual(ls.Pending, []string{"L1-Q01"}) {
+		t.Fatalf("pending = %v, want the first wrong", ls.Pending)
 	}
 }
 
@@ -1026,5 +1167,30 @@ func TestStartRoundClearsPreviewed(t *testing.T) {
 		if ls.Previewed {
 			t.Fatalf("list %d still previewed after a new round", ls.ListNo)
 		}
+	}
+}
+
+func TestEnterWithStalePendingCompletesList(t *testing.T) {
+	bank := bankWith(map[int]int{1: 3, 2: 1})
+	st := New([]int{1, 2})
+	st.Lists[0].Previewed = true
+	st.Lists[0].Pending = []string{"gone"}
+	st.Lists[0].Attempts = []Attempt{
+		{Round: 1, QuestionID: "gone", Result: Wrong, Via: ViaAnswer, Score: 0, Seq: 1},
+	}
+
+	got, err := Apply(st, bank, Enter{ListNo: 1})
+	if err != nil {
+		t.Fatalf("Enter: %v", err)
+	}
+	ls := listOf(t, got, 1)
+	if got.Quiz != nil {
+		t.Fatalf("quiz = %+v, want none", got.Quiz)
+	}
+	if !ls.Completed || len(ls.Pending) != 0 {
+		t.Fatalf("list = completed:%v pending:%v, want completed with no pending", ls.Completed, ls.Pending)
+	}
+	if !reflect.DeepEqual(got.Queue, []int{2}) {
+		t.Fatalf("queue = %v, want [2]", got.Queue)
 	}
 }
