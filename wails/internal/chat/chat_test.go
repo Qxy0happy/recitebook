@@ -115,7 +115,7 @@ func TestStreamSuccess(t *testing.T) {
 
 func TestStreamStatusError(t *testing.T) {
 	var requests int32
-	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, _ *http.Request) {
 		atomic.AddInt32(&requests, 1)
 		http.Error(w, strings.Repeat("upstream exploded; ", 4000), http.StatusInternalServerError)
 	}))
@@ -131,7 +131,7 @@ func TestStreamStatusError(t *testing.T) {
 }
 
 func TestStreamInvalidJSON(t *testing.T) {
-	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, _ *http.Request) {
 		w.Header().Set("Content-Type", "text/event-stream")
 		fmt.Fprint(w, "data: not-json\n\n")
 	}))
@@ -144,7 +144,7 @@ func TestStreamInvalidJSON(t *testing.T) {
 }
 
 func TestStreamEmptyReply(t *testing.T) {
-	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, _ *http.Request) {
 		w.Header().Set("Content-Type", "text/event-stream")
 		fmt.Fprint(w, "data: [DONE]\n\n")
 	}))
@@ -165,7 +165,7 @@ func TestStreamEmptyReply(t *testing.T) {
 
 func TestStreamNotConfigured(t *testing.T) {
 	var requests int32
-	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+	srv := httptest.NewServer(http.HandlerFunc(func(_ http.ResponseWriter, _ *http.Request) {
 		atomic.AddInt32(&requests, 1)
 	}))
 	defer srv.Close()
@@ -188,7 +188,7 @@ func TestStreamNotConfigured(t *testing.T) {
 }
 
 func TestStreamTimeout(t *testing.T) {
-	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+	srv := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, _ *http.Request) {
 		time.Sleep(200 * time.Millisecond)
 		sseChunk(w, "迟到的内容")
 	}))
