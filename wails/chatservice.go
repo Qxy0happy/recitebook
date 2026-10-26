@@ -33,6 +33,13 @@ var (
 	errChatSaveFailed      = errors.New("回复已显示，但未能保存本地记录")
 )
 
+// chatSystemPrompt is the fixed tutor instruction that precedes the rebuilt
+// question context in every system message.
+const chatSystemPrompt = `你是考研英语词汇辅导老师。只讲本题与所给词卡能支持的内容；
+需要补充课外知识时先说明。先用一句话点明考点，再解释正确答案的理由，
+最后指出学生答案的问题和改法。不要编造书中未出现的释义、搭配或真题。
+回答用中文，术语保留英文原文。`
+
 // ChatMessageView is one stored turn handed to the conversation panel.
 type ChatMessageView struct {
 	Role    string `json:"role"`
@@ -160,7 +167,7 @@ func (s *ChatService) Ask(req AskRequest) (string, error) {
 	messages := make([]chat.Message, 0, chatHistoryWindow+2)
 	messages = append(messages, chat.Message{
 		Role:    "system",
-		Content: chatContext(detail, question, req.UserAnswer, req.Outcome),
+		Content: chatSystemPrompt + "\n\n" + chatContext(detail, question, req.UserAnswer, req.Outcome),
 	})
 	recent := history
 	if len(recent) > chatHistoryWindow {

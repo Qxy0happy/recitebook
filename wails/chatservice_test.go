@@ -252,9 +252,7 @@ func TestChatEventsCarryIDs(t *testing.T) {
 	if call.Messages[0].Role != "system" {
 		t.Fatalf("messages[0].role = %q", call.Messages[0].Role)
 	}
-	if want := chatContext(detail, question, "intellect", "答错"); call.Messages[0].Content != want {
-		t.Fatalf("system message = %q, want %q", call.Messages[0].Content, want)
-	}
+	assertChatSystemMessage(t, call.Messages[0].Content, chatContext(detail, question, "intellect", "答错"))
 	if call.Messages[1].Role != "user" || call.Messages[1].Content != "这道题考什么？" {
 		t.Fatalf("last message = %+v", call.Messages[1])
 	}
@@ -324,9 +322,7 @@ func TestChatAskKeepsHistory(t *testing.T) {
 	if len(call.Messages) != 4 {
 		t.Fatalf("second request messages = %d, want 4", len(call.Messages))
 	}
-	if want := chatContext(detail, question, "intellect", "答错"); call.Messages[0].Content != want {
-		t.Fatalf("system message = %q, want %q", call.Messages[0].Content, want)
-	}
+	assertChatSystemMessage(t, call.Messages[0].Content, chatContext(detail, question, "intellect", "答错"))
 	wantTurns := []chat.Message{
 		{Role: "user", Content: "第一问"},
 		{Role: "assistant", Content: "先看词义。"},
@@ -642,6 +638,22 @@ func TestChatSaveFailureStillReturnsReply(t *testing.T) {
 	}
 	if len(saved) != 0 {
 		t.Fatalf("chats = %+v, want empty", saved)
+	}
+}
+
+// assertChatSystemMessage checks the fixed tutor prompt leads the system
+// message, the rebuilt question context follows it, and the anti-fabrication
+// rule survives.
+func assertChatSystemMessage(t *testing.T, content, wantContext string) {
+	t.Helper()
+	if !strings.HasPrefix(content, chatSystemPrompt) {
+		t.Fatalf("system message = %q, want prefix %q", content, chatSystemPrompt)
+	}
+	if !strings.Contains(content, wantContext) {
+		t.Fatalf("system message = %q, want context %q", content, wantContext)
+	}
+	if !strings.Contains(content, "不要编造书中未出现的释义、搭配或真题。") {
+		t.Fatalf("system message lost the anti-fabrication rule: %q", content)
 	}
 }
 

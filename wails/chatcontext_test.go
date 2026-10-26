@@ -45,7 +45,7 @@ func TestChatContextSingleWithWordCard(t *testing.T) {
 	got := chatContext(chatTestDetail(), question, "intellect", "答错")
 
 	want := `List 3 · 变化状态与态度评价
-题型：单选
+题型：single（单选）
 题干：Companies increasingly rely on artificial ____ to optimize supply chain management.
 选项：A. intelligence / B. intellect / C. intuition / D. gene
 正确答案：intelligence
@@ -89,7 +89,7 @@ func TestChatContextFillJoinsAnswers(t *testing.T) {
 	got := chatContext(chatTestDetail(), question, " carry out ", "答对")
 
 	for _, want := range []string{
-		"题型：填空",
+		"题型：fill（填空）",
 		"正确答案：carry out / implement",
 		"我的作答：carry out",
 		"- intellect /ˈɪntəlekt/\n  释义：n. 智力",
@@ -110,7 +110,7 @@ func TestChatContextTranslateWord(t *testing.T) {
 	got := chatContext(chatTestDetail(), question, "", "")
 
 	for _, want := range []string{
-		"题型：单词翻译",
+		"题型：translate_word（单词翻译）",
 		"正确答案：见词卡释义",
 		"我的作答：未作答",
 		"判定：未记录",
@@ -132,7 +132,7 @@ func TestChatContextTranslateSentence(t *testing.T) {
 	got := chatContext(chatTestDetail(), question, "公司依靠智能。", "80 分；扣分点：rely on 译错")
 
 	for _, want := range []string{
-		"题型：整句翻译",
+		"题型：translate_sentence（整句翻译）",
 		"正确答案：公司依赖智能。",
 		"判定：80 分；扣分点：rely on 译错",
 	} {
@@ -228,6 +228,38 @@ func TestChatContextMissingBankData(t *testing.T) {
 				t.Fatalf("blank answer/outcome should fall back to 未作答/未记录:\n%s", got)
 			}
 		})
+	}
+}
+
+func TestChatIPAWrapsOnce(t *testing.T) {
+	cases := []struct {
+		name string
+		ipa  string
+		want string
+	}{
+		{"bare", "ɪnˈtelɪdʒəns", "/ɪnˈtelɪdʒəns/"},
+		{"stored slashes", "/ɪnˈtelɪdʒəns/", "/ɪnˈtelɪdʒəns/"},
+		{"stored brackets", "[ɪnˈtelɪdʒəns]", "[ɪnˈtelɪdʒəns]"},
+		{"trimmed", "  /ˈɪntəlekt/ ", "/ˈɪntəlekt/"},
+		{"empty", "  ", ""},
+	}
+
+	for _, tc := range cases {
+		t.Run(tc.name, func(t *testing.T) {
+			if got := chatIPA(tc.ipa); got != tc.want {
+				t.Fatalf("chatIPA(%q) = %q, want %q", tc.ipa, got, tc.want)
+			}
+		})
+	}
+}
+
+func TestChatWordCardKeepsStoredSlashes(t *testing.T) {
+	words := []Word{{Spelling: "intelligence", IPA: "/ɪnˈtelɪdʒəns/"}}
+
+	got := chatWordCard(words, "Intelligence")
+
+	if want := "- intelligence /ɪnˈtelɪdʒəns/"; got != want {
+		t.Fatalf("chatWordCard = %q, want %q", got, want)
 	}
 }
 
