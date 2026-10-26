@@ -16,6 +16,32 @@ full and never count as a lookup: 查词 is only the in-quiz word toggle, which
 marks the current question wrong. The engine method behind it is
 `EngineService.Preview`, which starts no quiz.
 
+## 题目询问
+
+The feedback panel after a question carries a 询问 button, shown only once the
+question is in `phase === "feedback"` — asking mid-question would leak the
+answer. The button expands a conversation panel inside the feedback block rather
+than opening a new screen, and the panel starts collapsed.
+
+The first click on a question with no saved turns sends a fixed opening prompt
+(`请讲解这道题的考点，并指出我回答里的问题。`) by itself; with saved history the
+click only expands the panel. The reply streams into the panel as it arrives.
+Every request rebuilds its context from the bank — list, question kind, prompt,
+options, correct answer, your answer, the outcome and the bound word cards — so
+bank edits apply immediately and no question text is stored.
+
+The chat reuses the settings screen's Base URL, 模型名 and API 密钥, the same
+OpenAI-compatible endpoint used for translation grading; there is no separate
+chat setting. A question accepts further follow-up turns in the same panel, and
+each finished exchange is saved to the local SQLite `chats` table keyed by
+question id, so reopening the app and returning to that question's feedback
+restores the conversation.
+
+A failed request writes nothing to the database and leaves the typed text in the
+composer for a retry. With no configured key, no network or a timeout, the panel
+shows the readable error (未配置时为 `chat: 未配置可用的模型与密钥`) and the rest
+of the quiz keeps working; no local answer is substituted.
+
 ## Prerequisites
 
 - Go 1.26+
@@ -175,8 +201,10 @@ conflict detection:
 Both ask for confirmation first. The remote file is the same v1 JSON backup
 that 导出备份 writes, so it can also be restored with 导入备份. The SQLite
 database never leaves the device, and the backup excludes both the LLM API key
-and the WebDAV credentials. Sync runs only when a button is pressed; there is no
-background, startup or shutdown sync.
+and the WebDAV credentials. 题目询问 conversations stay in the local SQLite
+`chats` table: neither the JSON backup nor the WebDAV sync file contains chat
+history, and importing a backup leaves it in place. Sync runs only when a button
+is pressed; there is no background, startup or shutdown sync.
 
 Plain `http://` addresses are accepted, but the settings screen warns that the
 Basic-auth credentials then travel unencrypted.
