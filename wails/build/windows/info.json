@@ -1,15 +1,15 @@
 {
 	"fixed": {
-		"file_version": "0.1.0"
+		"file_version": "0.2.0"
 	},
 	"info": {
 		"0409": {
-			"ProductVersion": "0.1.0",
+			"ProductVersion": "0.2.0",
 			"CompanyName": "riyu",
 			"FileDescription": "考研英语循环背诵",
-			"LegalCopyright": "© 2026, My Company",
+			"LegalCopyright": "(c) 2026, riyu",
 			"ProductName": "循环背诵",
-			"Comments": "This is a comment"
+			"Comments": "循环背诵 29 个 List"
 		}
 	}
 }
