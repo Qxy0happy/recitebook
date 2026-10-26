@@ -202,15 +202,25 @@ jobs:
           Add-Content -Path $env:GITHUB_PATH -Value "$(go env GOPATH)\bin"
       - name: Install vite-plus
         run: npm install --global vite-plus@${{ env.VITE_PLUS_VERSION }}
+      - name: Install NSIS
+        run: choco install nsis -y --no-progress
       - name: Expose sh.exe
         run: Add-Content -Path $env:GITHUB_PATH -Value "C:\Program Files\Git\usr\bin"
       - name: Build exe
         working-directory: wails
         run: task windows:build
+      - name: Build NSIS installer
+        working-directory: wails
+        run: task windows:create:nsis:installer
       - uses: actions/upload-artifact@v4
         with:
           name: windows-exe
           path: wails/bin/recitebook.exe
+          if-no-files-found: error
+      - uses: actions/upload-artifact@v4
+        with:
+          name: windows-installer
+          path: wails/bin/recitebook-amd64-installer.exe
           if-no-files-found: error
 
   release:
@@ -230,11 +240,19 @@ jobs:
         with:
           name: windows-exe
           path: dist
+      - uses: actions/download-artifact@v4
+        with:
+          name: windows-installer
+          path: dist
       - name: Publish release
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           mv dist/recitebook.apk "dist/recitebook-${GITHUB_REF_NAME}.apk"
           mv dist/recitebook.exe "dist/recitebook-${GITHUB_REF_NAME}.exe"
-          gh release create "$GITHUB_REF_NAME" dist/recitebook-"${GITHUB_REF_NAME}".{apk,exe} \
+          mv dist/recitebook-amd64-installer.exe "dist/recitebook-${GITHUB_REF_NAME}-setup.exe"
+          gh release create "$GITHUB_REF_NAME" \
+            "dist/recitebook-${GITHUB_REF_NAME}.apk" \
+            "dist/recitebook-${GITHUB_REF_NAME}.exe" \
+            "dist/recitebook-${GITHUB_REF_NAME}-setup.exe" \
             --title "循环背诵 $GITHUB_REF_NAME" --generate-notes

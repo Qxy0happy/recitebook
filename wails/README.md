@@ -51,6 +51,8 @@ of the quiz keeps working; no local answer is substituted.
   Tailwind and sets the theme tokens
 - Wails v3 CLI: `go install github.com/wailsapp/wails/v3/cmd/wails3@v3.0.0-beta.34`
 - go-task (`task`)
+- NSIS (`makensis`) for the Windows installer: `choco install nsis` or
+  `scoop install nsis`
 
 Android builds additionally need:
 
@@ -70,6 +72,21 @@ wrapper is invoked through `gradlew.bat`.
 task build        # production build
 task run          # build and run
 ```
+
+## Windows installer
+
+```sh
+task package                     # NSIS installer -> bin/recitebook-amd64-installer.exe
+task package INSTALL_SCOPE=user  # per-user install, no UAC prompt
+```
+
+`task package` defaults to NSIS on Windows. The first run downloads the WebView2
+bootstrapper into `build/windows/nsis/`, so the installer also works on machines
+without the runtime. The installer is unsigned: Windows SmartScreen warns until
+a code-signing certificate is configured with `wails3 setup signing`.
+
+CI builds the portable exe and the installer on every run; tag releases also
+upload `recitebook-<tag>-setup.exe`.
 
 ## Formatting and linting
 
