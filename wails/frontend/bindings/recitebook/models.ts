@@ -6,6 +6,19 @@
 import * as engine$0 from "./internal/engine/models.js";
 
 /**
+ * AskRequest is one question asked about a single bank item. The backend owns
+ * the configuration, context, single-flight and persistence.
+ */
+export interface AskRequest {
+    "list_no": number;
+    "question_id": string;
+    "user_answer": string;
+    "outcome": string;
+    "prompt": string;
+    "request_id": string;
+}
+
+/**
  * Association is the 类目联想 opening of a list: the plot outline and the scene
  * stories that carry the group's vocabulary.
  */
@@ -21,6 +34,14 @@ export interface BackupEvent {
     "path": string;
     "state"?: engine$0.State | null;
     "canceled": boolean;
+}
+
+/**
+ * ChatMessageView is one stored turn handed to the conversation panel.
+ */
+export interface ChatMessageView {
+    "role": string;
+    "content": string;
 }
 
 /**
