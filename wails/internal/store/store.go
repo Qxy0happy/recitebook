@@ -65,6 +65,7 @@ var schema = []string{
 		pending TEXT NOT NULL DEFAULT '[]',
 		first_wrong TEXT NOT NULL DEFAULT '[]',
 		completed INTEGER NOT NULL DEFAULT 0,
+		previewed INTEGER NOT NULL DEFAULT 0,
 		PRIMARY KEY (round, list_no)
 	)`,
 	`CREATE TABLE IF NOT EXISTS settings (
@@ -97,16 +98,48 @@ func (s *SQLite) migrate() error {
 			return err
 		}
 	}
-	return s.ensureAttemptScore()
+	if err := s.ensureAttemptScore(); err != nil {
+		return err
+	}
+	return s.ensureListPreviewed()
 }
 
 // ensureAttemptScore adds the score column to databases created before grades
 // were stored. Old attempts keep the 0 default.
 func (s *SQLite) ensureAttemptScore() error {
-	rows, err := s.db.Query(`PRAGMA table_info(attempts)`)
+	found, err := s.columnExists("attempts", "score")
 	if err != nil {
 		return err
 	}
+	if found {
+		return nil
+	}
+	_, err = s.db.Exec(`ALTER TABLE attempts ADD COLUMN score INTEGER NOT NULL DEFAULT 0`)
+	return err
+}
+
+// ensureListPreviewed adds the previewed column to databases created before
+// the card preview existed. Lists that already existed count as previewed, so
+// upgrading never forces a retroactive preview.
+func (s *SQLite) ensureListPreviewed() error {
+	found, err := s.columnExists("list_states", "previewed")
+	if err != nil {
+		return err
+	}
+	if found {
+		return nil
+	}
+	_, err = s.db.Exec(`ALTER TABLE list_states ADD COLUMN previewed INTEGER NOT NULL DEFAULT 1`)
+	return err
+}
+
+// columnExists reports whether table already has the named column.
+func (s *SQLite) columnExists(table, column string) (bool, error) {
+	rows, err := s.db.Query(`PRAGMA table_info(` + table + `)`)
+	if err != nil {
+		return false, err
+	}
+	defer rows.Close()
 	found := false
 	for rows.Next() {
 		var (
@@ -118,23 +151,16 @@ func (s *SQLite) ensureAttemptScore() error {
 			pk         int
 		)
 		if err := rows.Scan(&cid, &name, &columnType, &notNull, &fallback, &pk); err != nil {
-			rows.Close()
-			return err
+			return false, err
 		}
-		if name == "score" {
+		if name == column {
 			found = true
 		}
 	}
 	if err := rows.Err(); err != nil {
-		rows.Close()
-		return err
+		return false, err
 	}
-	rows.Close()
-	if found {
-		return nil
-	}
-	_, err = s.db.Exec(`ALTER TABLE attempts ADD COLUMN score INTEGER NOT NULL DEFAULT 0`)
-	return err
+	return found, nil
 }
 
 // Close releases the database handle.
@@ -170,7 +196,7 @@ func (s *SQLite) Load() (engine.State, error) {
 	}
 
 	rows, err := s.db.Query(
-		`SELECT list_no, pending, first_wrong, completed FROM list_states WHERE round = ? ORDER BY list_no`,
+		`SELECT list_no, pending, first_wrong, completed, previewed FROM list_states WHERE round = ? ORDER BY list_no`,
 		st.Round,
 	)
 	if err != nil {
@@ -183,7 +209,7 @@ func (s *SQLite) Load() (engine.State, error) {
 			pending    string
 			firstWrong string
 		)
-		if err := rows.Scan(&ls.ListNo, &pending, &firstWrong, &ls.Completed); err != nil {
+		if err := rows.Scan(&ls.ListNo, &pending, &firstWrong, &ls.Completed, &ls.Previewed); err != nil {
 			return engine.State{}, classify(err)
 		}
 		if err := decode(pending, &ls.Pending); err != nil {
@@ -267,12 +293,12 @@ func (s *SQLite) Save(st engine.State) error {
 			return err
 		}
 		if _, err := tx.Exec(
-			`INSERT INTO list_states (round, list_no, pending, first_wrong, completed)
-			 VALUES (?, ?, ?, ?, ?)
+			`INSERT INTO list_states (round, list_no, pending, first_wrong, completed, previewed)
+			 VALUES (?, ?, ?, ?, ?, ?)
 			 ON CONFLICT(round, list_no) DO UPDATE SET
 				pending = excluded.pending, first_wrong = excluded.first_wrong,
-				completed = excluded.completed`,
-			st.Round, ls.ListNo, string(pending), string(firstWrong), ls.Completed,
+				completed = excluded.completed, previewed = excluded.previewed`,
+			st.Round, ls.ListNo, string(pending), string(firstWrong), ls.Completed, ls.Previewed,
 		); err != nil {
 			return classify(err)
 		}
@@ -381,9 +407,9 @@ func (s *SQLite) Import(r io.Reader) error {
 			return err
 		}
 		if _, err := tx.Exec(
-			`INSERT INTO list_states (round, list_no, pending, first_wrong, completed)
-			 VALUES (?, ?, ?, ?, ?)`,
-			st.Round, ls.ListNo, string(pending), string(firstWrong), ls.Completed,
+			`INSERT INTO list_states (round, list_no, pending, first_wrong, completed, previewed)
+			 VALUES (?, ?, ?, ?, ?, ?)`,
+			st.Round, ls.ListNo, string(pending), string(firstWrong), ls.Completed, ls.Previewed,
 		); err != nil {
 			return classify(err)
 		}

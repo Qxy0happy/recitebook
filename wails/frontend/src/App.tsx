@@ -12,12 +12,19 @@ import type {
   ListDetail,
   ListSummary,
   WebDAVSettingsView,
+  Word,
   WordState,
 } from "../bindings/recitebook";
 import { Result } from "../bindings/recitebook/internal/engine/models";
 import type { State } from "../bindings/recitebook/internal/engine/models";
 
-type Phase = "queue" | "question" | "feedback" | "summary" | "settings";
+type Phase = "queue" | "preview" | "question" | "feedback" | "summary" | "settings";
+
+type PreviewCard =
+  | { kind: "outline"; text: string }
+  | { kind: "scene"; title: string; story: string }
+  | { kind: "word"; word: Word }
+  | { kind: "start"; words: number; questions: number };
 
 type Feedback = {
   correct: boolean;
@@ -74,6 +81,60 @@ const SELF_LEVELS: { label: string; correct: boolean; score: number }[] = [
   { label: "准确通顺", correct: true, score: 100 },
 ];
 
+function PreviewCardView({ card }: { card: PreviewCard }) {
+  if (card.kind === "outline") {
+    return (
+      <>
+        <p className="preview-kind">类目联想</p>
+        <p className="preview-body preview-outline">{card.text}</p>
+      </>
+    );
+  }
+  if (card.kind === "scene") {
+    return (
+      <>
+        <p className="preview-kind">场景</p>
+        <h2 className="preview-title">{card.title}</h2>
+        <p className="preview-body">{card.story}</p>
+      </>
+    );
+  }
+  if (card.kind === "word") {
+    const word = card.word;
+    return (
+      <>
+        <p className="preview-kind">单词</p>
+        <h2 className="preview-title">
+          <span className="word-spelling">{word.spelling}</span>
+          {word.ipa && <span className="word-ipa">{word.ipa}</span>}
+        </h2>
+        <div className="preview-body">
+          {(word.senses ?? []).map((sense) => (
+            <p key={`${sense.pos}-${sense.meaning_cn}`}>
+              <span className="word-pos">{sense.pos}</span> {sense.meaning_cn}
+            </p>
+          ))}
+          {word.mnemonic && <p className="word-mnemonic">妙记：{word.mnemonic}</p>}
+          {(word.notes ?? []).map((note) => (
+            <p key={`${note.marker}-${note.label_raw}`} className="word-note">
+              {note.marker} {note.label_raw}：{note.body}
+            </p>
+          ))}
+        </div>
+      </>
+    );
+  }
+  return (
+    <>
+      <p className="preview-kind">准备开始</p>
+      <p className="preview-body">
+        共 <span className="num">{card.words}</span> 个词，
+        <span className="num">{card.questions}</span> 道题。答完一题立刻看到对错与解析。
+      </p>
+    </>
+  );
+}
+
 export default function App() {
   const [lists, setLists] = useState<ListSummary[]>([]);
   const [state, setState] = useState<State | null>(null);
@@ -96,6 +157,7 @@ export default function App() {
   const [selfAssess, setSelfAssess] = useState(false);
   const [beforeSettings, setBeforeSettings] = useState<Phase>("queue");
   const [cardsOpen, setCardsOpen] = useState(false);
+  const [previewIndex, setPreviewIndex] = useState(0);
   const [openWord, setOpenWord] = useState<string | null>(null);
   const [backupOpen, setBackupOpen] = useState(false);
   const [backupBusy, setBackupBusy] = useState(false);
@@ -166,6 +228,23 @@ export default function App() {
     return detail.questions.find((item) => item.id === activeId) ?? null;
   }, [detail, activeId]);
 
+  const previewCards = useMemo<PreviewCard[]>(() => {
+    if (!detail) return [];
+    const cards: PreviewCard[] = [];
+    const outline = detail.association?.outline?.trim();
+    if (outline) cards.push({ kind: "outline", text: outline });
+    for (const scene of detail.association?.scenes ?? []) {
+      cards.push({ kind: "scene", title: scene.title, story: scene.story });
+    }
+    for (const word of detail.words ?? []) cards.push({ kind: "word", word });
+    cards.push({
+      kind: "start",
+      words: detail.words?.length ?? 0,
+      questions: detail.questions?.length ?? 0,
+    });
+    return cards;
+  }, [detail]);
+
   const isFill = question?.kind === "fill";
   const fillAnswers = question?.answers ?? [];
   const isMultiFill =
@@ -186,7 +265,7 @@ export default function App() {
   const pendingOf = (listNo: number) =>
     state?.lists?.find((item) => item.list_no === listNo)?.pending?.length ?? 0;
 
-  const enter = async (listNo: number) => {
+  const startQuiz = async (listNo: number) => {
     try {
       setError(null);
       setFlash(null);
@@ -217,6 +296,47 @@ export default function App() {
     } catch {
       setError("这个 List 的题目还没有导入。");
     }
+  };
+
+  // The first entry of a list in a round opens its word cards instead of the
+  // first question. The mark is written before the cards render, so skipping
+  // or leaving early still counts as previewed for this round.
+  const enter = async (listNo: number) => {
+    const row = state?.lists?.find((item) => item.list_no === listNo);
+    if (row && !row.previewed && !row.completed) {
+      try {
+        const loaded = await BankService.Detail(listNo);
+        if ((loaded.questions?.length ?? 0) > 0) {
+          setError(null);
+          setFlash(null);
+          const next = await EngineService.Preview(listNo);
+          setState(next);
+          setDetail(loaded);
+          setActiveId(null);
+          setQuizTotal(0);
+          setPicked(null);
+          setText("");
+          setBlanks([]);
+          setFeedback(null);
+          setPreviewIndex(0);
+          setCardsOpen(false);
+          setOpenWord(null);
+          setPhase("preview");
+          return;
+        }
+      } catch {
+        // Fall through so the quiz path reports the missing bank data.
+      }
+    }
+    await startQuiz(listNo);
+  };
+
+  const leavePreview = () => {
+    setDetail(null);
+    setActiveId(null);
+    setPreviewIndex(0);
+    setFeedback(null);
+    setPhase("queue");
   };
 
   const jumpOut = async () => {
@@ -660,6 +780,15 @@ export default function App() {
               <span className="num">{firstWrongTotal}</span> 题
             </p>
           </>
+        ) : phase === "preview" ? (
+          <>
+            <h1>{detail?.title ?? "准备中"}</h1>
+            <p className="screen-finding">
+              List {detail?.list_no ?? "—"} · 第 {round} 轮 · 略览 第{" "}
+              <span className="num">{previewIndex + 1}</span> /{" "}
+              <span className="num">{previewCards.length}</span> 张
+            </p>
+          </>
         ) : phase === "settings" ? (
           <>
             <h1>设置</h1>
@@ -698,6 +827,48 @@ export default function App() {
         </p>
       )}
 
+      {phase === "preview" && detail && previewCards[previewIndex] && (
+        <section className="preview" aria-label="本 List 词卡略览">
+          <div className="preview-bar">
+            <p className="preview-eyebrow">略览 · 先读一遍，再开始做题</p>
+            <div className="preview-bar-actions">
+              <button className="text-action" onClick={leavePreview}>
+                返回队列
+              </button>
+              <button className="text-action" onClick={() => void startQuiz(detail.list_no)}>
+                跳过略览
+              </button>
+            </div>
+          </div>
+
+          <div className="preview-card">
+            <PreviewCardView card={previewCards[previewIndex]} />
+          </div>
+
+          <div className="preview-nav">
+            <button
+              className="btn btn-quiet"
+              onClick={() => setPreviewIndex((value) => Math.max(0, value - 1))}
+              disabled={previewIndex === 0}
+            >
+              上一张
+            </button>
+            {previewIndex < previewCards.length - 1 ? (
+              <button
+                className="btn btn-primary"
+                onClick={() => setPreviewIndex((value) => value + 1)}
+              >
+                下一张
+              </button>
+            ) : (
+              <button className="btn btn-primary" onClick={() => void startQuiz(detail.list_no)}>
+                开始做题
+              </button>
+            )}
+          </div>
+        </section>
+      )}
+
       {phase === "settings" && (
         <div className="settings" aria-live="polite">
           <section className="settings-row" aria-labelledby="settings-grading">
@@ -733,7 +904,6 @@ export default function App() {
               <label className="field">
                 <span>API 密钥</span>
                 <input
-                  type="password"
                   value={draft.apiKey}
                   onChange={(event) => setDraft({ ...draft, apiKey: event.target.value })}
                   placeholder={settings?.api_key_set ? "已保存，留空则不修改" : "未配置"}
@@ -741,7 +911,7 @@ export default function App() {
                 />
               </label>
               <p className="panel-note">
-                密钥只保存在本机数据库，界面不回显明文，导出文件也不包含密钥。
+                密钥只保存在本机数据库，输入框明文显示以便粘贴，已保存的值不回填；导出文件也不包含密钥。
               </p>
               {settingsSaved && <p className="panel-ok">设置已保存。</p>}
               <button className="btn btn-primary" onClick={saveSettings}>
@@ -825,7 +995,6 @@ export default function App() {
               <label className="field">
                 <span>密码</span>
                 <input
-                  type="password"
                   value={syncDraft.password}
                   onChange={(event) => setSyncDraft({ ...syncDraft, password: event.target.value })}
                   placeholder={syncSettings?.password_set ? "已保存，留空则不修改" : "第三方应用密码"}
@@ -833,7 +1002,7 @@ export default function App() {
                 />
               </label>
               <p className="panel-note">
-                密码只存在本机数据库，界面不回显，导出文件也不包含；留空保存不会改动已存密码。
+                密码只存在本机数据库，输入框明文显示以便粘贴，已保存的值不回填；导出文件也不包含。留空保存不会改动已存密码。
               </p>
               {syncSaved && <p className="panel-ok">同步配置已保存。</p>}
               <button

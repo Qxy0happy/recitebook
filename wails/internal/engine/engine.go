@@ -38,6 +38,10 @@ type Action interface{ action() }
 // Enter starts the quiz for one list. ListNo 0 means the head of the queue.
 type Enter struct{ ListNo int }
 
+// Preview records that the learner has seen the list's word cards this round.
+// It changes no question set and moves nothing in the queue.
+type Preview struct{ ListNo int }
+
 // Answer records one question-level result. Score is the 0-100 grade shown
 // to the learner; a correct answer without an explicit score counts as 100.
 type Answer struct {
@@ -55,6 +59,7 @@ type JumpOut struct{}
 type StartRound struct{}
 
 func (Enter) action()      {}
+func (Preview) action()    {}
 func (Answer) action()     {}
 func (JumpOut) action()    {}
 func (StartRound) action() {}
@@ -76,6 +81,7 @@ type ListState struct {
 	Pending    []string  `json:"pending"`
 	FirstWrong []string  `json:"first_wrong"`
 	Completed  bool      `json:"completed"`
+	Previewed  bool      `json:"previewed"`
 }
 
 // Quiz is the active question set.
@@ -131,6 +137,13 @@ func Apply(st State, bank Bank, action Action) (State, error) {
 		}
 		st.Current = listNo
 		st.Quiz = &Quiz{ListNo: listNo, QuestionIDs: ids}
+		return st, nil
+
+	case Preview:
+		if a.ListNo < 1 {
+			return st, fmt.Errorf("preview needs a list number")
+		}
+		st.Lists[listIndex(&st, a.ListNo)].Previewed = true
 		return st, nil
 
 	case Answer:
@@ -217,6 +230,7 @@ func Apply(st State, bank Bank, action Action) (State, error) {
 			ls := &st.Lists[i]
 			ls.Pending = append([]string(nil), ls.FirstWrong...)
 			ls.FirstWrong = nil
+			ls.Previewed = false
 			ls.Completed = len(ls.Pending) == 0
 			if !ls.Completed {
 				queue = append(queue, ls.ListNo)

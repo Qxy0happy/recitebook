@@ -42,6 +42,7 @@ func sampleState() engine.State {
 				Pending:    []string{"q2", "q4"},
 				FirstWrong: []string{"q2"},
 				Completed:  false,
+				Previewed:  true,
 				Attempts: []engine.Attempt{
 					{Round: 1, QuestionID: "q1", Result: engine.Correct, Via: engine.ViaAnswer, Score: 100, Seq: 1},
 					{Round: 2, QuestionID: "q1", Result: engine.Wrong, Via: engine.ViaLookup, Score: 0, Seq: 5},
@@ -309,5 +310,80 @@ func TestMigrateAddsScoreColumnToExistingDatabase(t *testing.T) {
 	attempts := got.Lists[0].Attempts
 	if len(attempts) != 2 || attempts[1].Score != 73 || attempts[1].Via != engine.ViaLLM {
 		t.Fatalf("migrated attempts = %+v", attempts)
+	}
+}
+
+func TestMigrateMarksExistingListsPreviewed(t *testing.T) {
+	path := filepath.Join(t.TempDir(), "old.db")
+	raw, err := sql.Open("sqlite", path)
+	if err != nil {
+		t.Fatalf("open legacy database: %v", err)
+	}
+	for _, statement := range []string{
+		`CREATE TABLE rounds (round INTEGER PRIMARY KEY, seq INTEGER NOT NULL,
+			queue TEXT NOT NULL, current INTEGER NOT NULL, quiz TEXT)`,
+		`INSERT INTO rounds (round, seq, queue, current, quiz) VALUES (1, 1, '[1]', 0, NULL)`,
+		`CREATE TABLE list_states (round INTEGER NOT NULL, list_no INTEGER NOT NULL,
+			pending TEXT NOT NULL DEFAULT '[]', first_wrong TEXT NOT NULL DEFAULT '[]',
+			completed INTEGER NOT NULL DEFAULT 0, PRIMARY KEY (round, list_no))`,
+		`INSERT INTO list_states (round, list_no, pending, first_wrong, completed)
+		 VALUES (1, 1, '[]', '[]', 0)`,
+	} {
+		if _, err := raw.Exec(statement); err != nil {
+			t.Fatalf("seed legacy database: %v", err)
+		}
+	}
+	if err := raw.Close(); err != nil {
+		t.Fatalf("close legacy database: %v", err)
+	}
+
+	s, err := Open(path)
+	if err != nil {
+		t.Fatalf("Open legacy database: %v", err)
+	}
+	defer s.Close()
+	got, err := s.Load()
+	if err != nil {
+		t.Fatalf("Load legacy database: %v", err)
+	}
+	if len(got.Lists) != 1 || !got.Lists[0].Previewed {
+		t.Fatalf("legacy list = %+v, want previewed", got.Lists)
+	}
+
+	st := got
+	st.Lists[0].Previewed = false
+	if err := s.Save(st); err != nil {
+		t.Fatalf("Save after migration: %v", err)
+	}
+	got, err = s.Load()
+	if err != nil {
+		t.Fatalf("Load after save: %v", err)
+	}
+	if got.Lists[0].Previewed {
+		t.Fatal("saving false did not clear the migrated default")
+	}
+}
+
+func TestImportWithoutPreviewedLeavesListsUnpreviewed(t *testing.T) {
+	s, _ := openTemp(t)
+	backup := `{
+		"version": 1,
+		"state": {
+			"round": 1,
+			"queue": [1],
+			"current": 0,
+			"lists": [{"list_no": 1, "attempts": [], "pending": [], "first_wrong": [], "completed": false}]
+		},
+		"settings": {}
+	}`
+	if err := s.Import(strings.NewReader(backup)); err != nil {
+		t.Fatalf("Import: %v", err)
+	}
+	got, err := s.Load()
+	if err != nil {
+		t.Fatalf("Load: %v", err)
+	}
+	if len(got.Lists) != 1 || got.Lists[0].Previewed {
+		t.Fatalf("imported list = %+v, want unpreviewed", got.Lists)
 	}
 }

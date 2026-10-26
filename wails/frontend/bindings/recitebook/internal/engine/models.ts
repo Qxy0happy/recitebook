@@ -22,6 +22,7 @@ export interface ListState {
     "pending": string[] | null;
     "first_wrong": string[] | null;
     "completed": boolean;
+    "previewed": boolean;
 }
 
 /**

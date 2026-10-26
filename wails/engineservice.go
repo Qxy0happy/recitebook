@@ -92,6 +92,23 @@ func (s *EngineService) Enter(listNo int) (engine.State, error) {
 	return s.state, nil
 }
 
+// Preview marks one list's word cards as skimmed for the current round. It
+// starts no quiz and leaves the queue untouched.
+func (s *EngineService) Preview(listNo int) (engine.State, error) {
+	s.mu.Lock()
+	defer s.mu.Unlock()
+
+	next, err := engine.Apply(s.state, s.bank, engine.Preview{ListNo: listNo})
+	if err != nil {
+		return s.state, err
+	}
+	if err := s.db.Save(next); err != nil {
+		return s.state, fmt.Errorf("保存进度失败：%w", err)
+	}
+	s.state = next
+	return s.state, nil
+}
+
 // Answer records the result of an auto-graded question (single choice or
 // fill-in): a correct answer scores 100, a wrong one 0.
 func (s *EngineService) Answer(correct bool) (engine.State, error) {

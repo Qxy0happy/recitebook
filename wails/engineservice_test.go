@@ -559,3 +559,46 @@ func TestAnswerRecordsScoreAndSource(t *testing.T) {
 		t.Fatalf("state after restart:\ngot  %+v\nwant %+v", got, st)
 	}
 }
+
+func TestPreviewMarksListAcrossRestartWithoutStartingQuiz(t *testing.T) {
+	bank, err := NewBankService()
+	if err != nil {
+		t.Fatal(err)
+	}
+	path := filepath.Join(t.TempDir(), "state.db")
+
+	first, _, _, err := openEngine(bank, path)
+	if err != nil {
+		t.Fatalf("openEngine: %v", err)
+	}
+	previewed, err := first.Preview(1)
+	if err != nil {
+		t.Fatalf("Preview: %v", err)
+	}
+	if previewed.Quiz != nil {
+		t.Fatalf("preview started a quiz: %+v", previewed.Quiz)
+	}
+	if !previewed.Lists[0].Previewed {
+		t.Fatalf("list 1 not marked: %+v", previewed.Lists[0])
+	}
+	closeEngine(t, first)
+
+	reopened, _, warning, err := openEngine(bank, path)
+	if err != nil {
+		t.Fatalf("reopen: %v", err)
+	}
+	defer closeEngine(t, reopened)
+	if warning != "" {
+		t.Fatalf("unexpected warning: %s", warning)
+	}
+	if !reopened.State().Lists[0].Previewed {
+		t.Fatal("preview mark lost across restart")
+	}
+	entered, err := reopened.Enter(1)
+	if err != nil {
+		t.Fatalf("Enter: %v", err)
+	}
+	if entered.Quiz == nil || entered.Quiz.ListNo != 1 || len(entered.Quiz.QuestionIDs) == 0 {
+		t.Fatalf("quiz after preview = %+v", entered.Quiz)
+	}
+}

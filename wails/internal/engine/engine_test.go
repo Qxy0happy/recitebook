@@ -938,3 +938,93 @@ func TestAttemptRecordsScoreAndVia(t *testing.T) {
 		})
 	}
 }
+
+func TestPreviewMarksListWithoutStartingQuiz(t *testing.T) {
+	bank := testBank()
+	st := New([]int{1, 2})
+
+	next, err := Apply(st, bank, Preview{ListNo: 2})
+	if err != nil {
+		t.Fatalf("Preview: %v", err)
+	}
+	if !listOf(t, next, 2).Previewed {
+		t.Fatal("list 2 should be previewed")
+	}
+	if next.Quiz != nil {
+		t.Fatalf("preview started a quiz: %+v", next.Quiz)
+	}
+	if next.Current != st.Current || !reflect.DeepEqual(next.Queue, st.Queue) {
+		t.Fatalf("preview moved the queue: current %d queue %v", next.Current, next.Queue)
+	}
+	if got := listOf(t, next, 2).Attempts; len(got) != 0 {
+		t.Fatalf("preview recorded attempts: %+v", got)
+	}
+	if listOf(t, st, 2).Previewed {
+		t.Fatal("input state was mutated")
+	}
+}
+
+func TestPreviewIsIdempotent(t *testing.T) {
+	bank := testBank()
+	once, err := Apply(New([]int{1}), bank, Preview{ListNo: 1})
+	if err != nil {
+		t.Fatalf("Preview: %v", err)
+	}
+	twice, err := Apply(once, bank, Preview{ListNo: 1})
+	if err != nil {
+		t.Fatalf("Preview twice: %v", err)
+	}
+	if !reflect.DeepEqual(once, twice) {
+		t.Fatalf("second preview changed the state:\nonce  %+v\ntwice %+v", once, twice)
+	}
+}
+
+func TestPreviewNeedsAListNumber(t *testing.T) {
+	if _, err := Apply(New([]int{1}), testBank(), Preview{}); err == nil {
+		t.Fatal("expected error for list number 0")
+	}
+}
+
+func TestPreviewThenEnterUsesEveryQuestion(t *testing.T) {
+	bank := testBank()
+	st, err := Apply(New([]int{1}), bank, Preview{ListNo: 1})
+	if err != nil {
+		t.Fatalf("Preview: %v", err)
+	}
+	st, err = Apply(st, bank, Enter{ListNo: 1})
+	if err != nil {
+		t.Fatalf("Enter: %v", err)
+	}
+	if st.Quiz == nil || st.Quiz.ListNo != 1 || len(st.Quiz.QuestionIDs) != 3 {
+		t.Fatalf("quiz after preview = %+v, want list 1 with 3 questions", st.Quiz)
+	}
+}
+
+func TestStartRoundClearsPreviewed(t *testing.T) {
+	bank := testBank()
+	st := New([]int{1, 2})
+	for _, listNo := range []int{1, 2} {
+		var err error
+		st, err = Apply(st, bank, Preview{ListNo: listNo})
+		if err != nil {
+			t.Fatalf("Preview(%d): %v", listNo, err)
+		}
+		st, err = Apply(st, bank, Enter{ListNo: listNo})
+		if err != nil {
+			t.Fatalf("Enter(%d): %v", listNo, err)
+		}
+		st = answerQuiz(t, st, bank, func(string) bool { return true })
+	}
+	if !st.Lists[0].Previewed || !st.Lists[1].Previewed {
+		t.Fatal("preview marks should survive the round")
+	}
+	st, err := Apply(st, bank, StartRound{})
+	if err != nil {
+		t.Fatalf("StartRound: %v", err)
+	}
+	for _, ls := range st.Lists {
+		if ls.Previewed {
+			t.Fatalf("list %d still previewed after a new round", ls.ListNo)
+		}
+	}
+}

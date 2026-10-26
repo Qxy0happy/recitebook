@@ -1124,6 +1124,109 @@ details[open] .association-toggle::before {
   flex-wrap: wrap;
 }
 
+/* --- card preview ---------------------------------------------------------- */
+
+.preview {
+  display: grid;
+  gap: 12px;
+  width: min(720px, 100%);
+  margin: 0 auto;
+}
+
+.preview-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--gap);
+  flex-wrap: wrap;
+}
+
+.preview-eyebrow {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.preview-bar-actions {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.preview .text-action {
+  min-height: 44px;
+}
+
+.preview-card {
+  min-height: 240px;
+  max-height: min(56dvh, 520px);
+  padding: 24px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-card);
+  background: var(--raised);
+  overflow-y: auto;
+}
+
+.preview-kind {
+  margin-bottom: 10px;
+  font-size: 11px;
+  letter-spacing: 0.12em;
+  color: var(--faint);
+}
+
+.preview-title {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 12px;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1.4;
+  overflow-wrap: anywhere;
+}
+
+.preview-title .word-spelling {
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.preview-title .word-ipa {
+  font-size: 14px;
+}
+
+.preview-body {
+  display: grid;
+  gap: 8px;
+  font-size: 15px;
+  line-height: 1.7;
+  color: var(--text);
+  overflow-wrap: anywhere;
+}
+
+.preview-body .word-pos {
+  font-weight: 500;
+}
+
+.preview-body .word-note {
+  font-size: 15px;
+}
+
+.preview-outline {
+  font-size: 17px;
+  line-height: 1.8;
+}
+
+.preview-nav {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+.preview-nav .btn {
+  height: 44px;
+}
+
 /* --- summary --------------------------------------------------------------- */
 
 .summary {
@@ -1386,6 +1489,21 @@ details[open] .association-toggle::before {
   .quiz,
   .summary {
     padding: 16px;
+  }
+
+  .preview-card {
+    min-height: 0;
+    max-height: 52dvh;
+    padding: 18px;
+  }
+
+  .preview-title .word-spelling {
+    font-size: 24px;
+  }
+
+  .preview-nav .btn {
+    flex: 1;
+    height: 44px;
   }
 
   .fields .field {

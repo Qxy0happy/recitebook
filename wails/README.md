@@ -5,6 +5,17 @@ Bank JSON is embedded in the binary; progress and settings are stored in a local
 SQLite database through the pure-Go `modernc.org/sqlite` driver (no CGO
 dependency for the store).
 
+## Round flow
+
+Entering a list for the first time in a round opens its word cards one screen at
+a time (类目联想导语 → scenes → words → 开始做题) before the first question.
+The preview writes `list_states.previewed` the moment it opens, so skipping it,
+or returning to the queue instead of starting, still counts for that round; a
+new round clears the flag. Preview cards show every meaning, 妙记 and 考点 in
+full and never count as a lookup: 查词 is only the in-quiz word toggle, which
+marks the current question wrong. The engine method behind it is
+`EngineService.Preview`, which starts no quiz.
+
 ## Prerequisites
 
 - Go 1.26+

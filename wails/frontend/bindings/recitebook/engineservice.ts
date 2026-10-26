@@ -76,6 +76,14 @@ export function Lookup(questionID: string): $CancellablePromise<engine$0.State> 
 }
 
 /**
+ * Preview marks one list's word cards as skimmed for the current round. It
+ * starts no quiz and leaves the queue untouched.
+ */
+export function Preview(listNo: number): $CancellablePromise<engine$0.State> {
+    return $Call.ByID(3339696793, listNo);
+}
+
+/**
  * StartRound begins the next round, retesting the previous round's first wrong
  * questions. It is rejected until every list has been attempted.
  */
