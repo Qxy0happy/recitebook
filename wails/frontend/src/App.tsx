@@ -1,12 +1,16 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
+import { Events } from "@wailsio/runtime";
 import {
   BackupService,
   BankService,
+  ChatService,
   EngineService,
   GradeService,
   SyncService,
 } from "../bindings/recitebook";
 import type {
+  AskRequest,
+  ChatMessageView,
   GradeResult,
   LLMSettingsView,
   ListDetail,
@@ -43,6 +47,25 @@ const errorMessage = (err: unknown, fallback: string) => {
 };
 
 const SYNC_DEFAULT_URL = "https://dav.jianguoyun.com/dav/recitebook/progress.json";
+
+// The one question the panel asks by itself the first time it opens.
+const CHAT_OPENING_PROMPT = "请讲解这道题的考点，并指出我回答里的问题。";
+
+type ChatDeltaEvent = { request_id: string; question_id: string; delta: string };
+type ChatDoneEvent = { request_id: string; question_id: string; message: string };
+type ChatErrorEvent = { request_id: string; question_id: string; error: string };
+
+// Stale events are dropped by comparing both identifiers: the question guards
+// against a switch mid-answer, the request against an older turn.
+const chatEventMatches = (
+  data: unknown,
+  questionId: string | null,
+  requestId: string | null,
+) => {
+  if (!data || typeof data !== "object" || !questionId || !requestId) return false;
+  const payload = data as { request_id?: unknown; question_id?: unknown };
+  return payload.question_id === questionId && payload.request_id === requestId;
+};
 
 const draftFromSyncView = (view: WebDAVSettingsView | null) => ({
   url: view?.url || SYNC_DEFAULT_URL,
@@ -183,6 +206,23 @@ export default function App() {
   const [syncNote, setSyncNote] = useState<string | null>(null);
   const [lastSyncedAt, setLastSyncedAt] = useState("");
   const [canStartRound, setCanStartRound] = useState(false);
+  const [chatOpen, setChatOpen] = useState(false);
+  const [chatMessages, setChatMessages] = useState<ChatMessageView[]>([]);
+  const [chatDraft, setChatDraft] = useState("");
+  const [chatStream, setChatStream] = useState("");
+  const [chatBusy, setChatBusy] = useState(false);
+  const [chatError, setChatError] = useState<string | null>(null);
+
+  // The chat event listeners mount once. Refs carry what they compare against,
+  // so a stale closure from an earlier render never touches the next question.
+  const chatRequest = useRef<string | null>(null);
+  const chatPending = useRef<string | null>(null);
+  const chatMessagesRef = useRef<ChatMessageView[]>([]);
+  const chatBusyRef = useRef(false);
+  const chatLoaded = useRef(false);
+  const chatAutoAsk = useRef<string | null>(null);
+  const chatQuestion = useRef<string | null>(null);
+  const chatSend = useRef<(prompt: string) => void>(() => {});
 
   useEffect(() => {
     Promise.all([
@@ -270,6 +310,183 @@ export default function App() {
       ? text.trim().length > 0
       : picked !== null;
   const reference = question?.answers?.[0] ?? "";
+
+  const chatQuestionId = phase === "feedback" ? (question?.id ?? null) : null;
+
+  const applyChatMessages = (messages: ChatMessageView[]) => {
+    chatMessagesRef.current = messages;
+    setChatMessages(messages);
+  };
+
+  const markChatBusy = (value: boolean) => {
+    chatBusyRef.current = value;
+    setChatBusy(value);
+  };
+
+  // What the learner actually answered, in the same terms the feedback screen
+  // shows. A lookup-triggered feedback has no answer to report.
+  const chatUserAnswer = () => {
+    if (!question || !feedback || feedback.lookup) return "";
+    if (isFill) return isMultiFill ? blanks.join(" / ") : text;
+    if (isTranslate) return text;
+    return picked !== null ? (question.options?.[picked] ?? "") : "";
+  };
+
+  const chatOutcome = () => {
+    if (!feedback) return "";
+    const verdict = feedback.lookup
+      ? "查词判错"
+      : feedback.self
+        ? "自评"
+        : feedback.correct
+          ? "答对"
+          : "答错";
+    const parts = [verdict];
+    if (typeof feedback.score === "number") parts.push(`${feedback.score}/100`);
+    const issues = (feedback.issues ?? []).map((issue) => issue.trim()).filter(Boolean);
+    if (issues.length > 0) parts.push(`扣分点：${issues.join("；")}`);
+    return parts.join("，");
+  };
+
+  // One failure path for both the chat:error event and the promise rejection.
+  // The trailing optimistic user bubble is withdrawn so a retry does not leave
+  // a duplicate behind; on a save-only failure the last bubble is the reply and
+  // stays put.
+  const failChat = (requestId: string, message: string) => {
+    if (chatRequest.current !== requestId) return;
+    const messages = chatMessagesRef.current;
+    const last = messages[messages.length - 1];
+    const pending = chatPending.current;
+    if (last && last.role === "user" && pending !== null && last.content === pending) {
+      applyChatMessages(messages.slice(0, -1));
+      setChatDraft(pending);
+    }
+    chatPending.current = null;
+    chatRequest.current = null;
+    setChatError(message);
+    setChatStream("");
+    markChatBusy(false);
+  };
+
+  const sendChat = (raw: string) => {
+    const prompt = raw.trim();
+    if (!prompt || chatBusyRef.current) return;
+    if (phase !== "feedback" || !question) return;
+
+    const requestId = crypto.randomUUID();
+    chatRequest.current = requestId;
+    chatPending.current = prompt;
+    markChatBusy(true);
+    applyChatMessages([...chatMessagesRef.current, { role: "user", content: prompt }]);
+    setChatDraft("");
+    setChatError(null);
+    setChatStream("");
+
+    const req: AskRequest = {
+      list_no: detail?.list_no ?? 0,
+      question_id: question.id,
+      user_answer: chatUserAnswer(),
+      outcome: chatOutcome(),
+      prompt,
+      request_id: requestId,
+    };
+    // chat:error carries every mid-stream failure. A rejection without one only
+    // happens before streaming starts (bad arguments, an in-flight request).
+    ChatService.Ask(req).catch((err: unknown) => {
+      failChat(requestId, errorMessage(err, "对话失败，请重试。"));
+    });
+  };
+
+  useEffect(() => {
+    chatSend.current = sendChat;
+  });
+
+  useEffect(() => {
+    applyChatMessages([]);
+    setChatDraft("");
+    setChatStream("");
+    markChatBusy(false);
+    setChatError(null);
+    setChatOpen(false);
+    chatRequest.current = null;
+    chatPending.current = null;
+    chatLoaded.current = false;
+    chatAutoAsk.current = null;
+    chatQuestion.current = chatQuestionId;
+    if (!chatQuestionId) return;
+
+    // A stale answer from the previous question is dropped here, not written
+    // into the next one's panel.
+    let cancelled = false;
+    ChatService.History(chatQuestionId)
+      .then((saved) => {
+        if (!cancelled) applyChatMessages(saved ?? []);
+      })
+      .catch(() => {
+        if (!cancelled) applyChatMessages([]);
+      })
+      .finally(() => {
+        if (cancelled) return;
+        chatLoaded.current = true;
+        // The panel was opened before the saved conversation arrived; ask the
+        // opening question only if there turned out to be nothing to resume.
+        if (chatAutoAsk.current !== chatQuestionId || chatBusyRef.current) return;
+        if (chatMessagesRef.current.length > 0) return;
+        chatAutoAsk.current = null;
+        chatSend.current(CHAT_OPENING_PROMPT);
+      });
+    return () => {
+      cancelled = true;
+    };
+    // applyChatMessages and markChatBusy only touch refs and stable setters.
+  }, [chatQuestionId]);
+
+  useEffect(() => {
+    const offDelta = Events.On("chat:delta", (ev) => {
+      if (!chatEventMatches(ev.data, chatQuestion.current, chatRequest.current)) return;
+      if (!chatBusyRef.current) return;
+      const { delta } = ev.data as ChatDeltaEvent;
+      if (delta) setChatStream((value) => value + delta);
+    });
+
+    const offDone = Events.On("chat:done", (ev) => {
+      if (!chatEventMatches(ev.data, chatQuestion.current, chatRequest.current)) return;
+      const { message } = ev.data as ChatDoneEvent;
+      applyChatMessages([...chatMessagesRef.current, { role: "assistant", content: message }]);
+      chatPending.current = null;
+      setChatStream("");
+      markChatBusy(false);
+    });
+
+    const offError = Events.On("chat:error", (ev) => {
+      if (!chatEventMatches(ev.data, chatQuestion.current, chatRequest.current)) return;
+      const { error } = ev.data as ChatErrorEvent;
+      failChat(chatRequest.current ?? "", error || "对话失败，请重试。");
+    });
+
+    return () => {
+      offDelta();
+      offDone();
+      offError();
+    };
+    // Registered once; the handlers read refs instead of captured state.
+  }, []);
+
+  const openChat = () => {
+    if (chatOpen) {
+      setChatOpen(false);
+      return;
+    }
+    setChatOpen(true);
+    if (chatBusyRef.current || chatMessagesRef.current.length > 0) return;
+    // A saved conversation must land before the panel asks by itself, or the
+    // first turn would be posted twice.
+    if (!chatLoaded.current) {
+      chatAutoAsk.current = question?.id ?? null;
+      return;
+    }
+    chatSend.current(CHAT_OPENING_PROMPT);
+  };
 
   const pendingOf = (listNo: number) =>
     state?.lists?.find((item) => item.list_no === listNo)?.pending?.length ?? 0;
@@ -1501,11 +1718,76 @@ export default function App() {
                 绑定词：
                 {(question.slots ?? []).map((slot) => slot.word).join("、") || "无"}
               </p>
-              <div className="quiz-action">
+              <div className="quiz-action feedback-actions">
                 <button className="btn btn-primary" onClick={advance}>
                   {state?.quiz ? "下一题" : "查看结果"}
                 </button>
+                <button
+                  className="btn btn-quiet"
+                  onClick={openChat}
+                  aria-expanded={chatOpen}
+                  aria-controls="chat-panel"
+                >
+                  询问
+                </button>
               </div>
+
+              {chatOpen && (
+                <div className="chat" id="chat-panel">
+                  <div className="chat-head">
+                    <h2 className="chat-title">询问</h2>
+                    <span className="chat-sub">结合本题与绑定词卡</span>
+                  </div>
+                  <div className="chat-log">
+                    {chatMessages.map((message, index) => (
+                      <div
+                        key={`${message.role}-${index}`}
+                        className={`chat-msg ${
+                          message.role === "user" ? "chat-msg-user" : "chat-msg-assistant"
+                        }`}
+                      >
+                        <p className="chat-msg-text">{message.content}</p>
+                      </div>
+                    ))}
+                    {chatMessages.length === 0 && !chatBusy && (
+                      <p className="chat-empty">问一道题，从这里开始。</p>
+                    )}
+                    {chatBusy && (
+                      <div className="chat-msg chat-msg-assistant">
+                        <p className="chat-msg-text">
+                          {chatStream}
+                          <span className="chat-pending" aria-hidden="true">
+                            …
+                          </span>
+                        </p>
+                      </div>
+                    )}
+                  </div>
+                  {chatError && (
+                    <p className="chat-error" role="status">
+                      {chatError}
+                    </p>
+                  )}
+                  <form
+                    className="chat-compose"
+                    onSubmit={(event) => {
+                      event.preventDefault();
+                      sendChat(chatDraft);
+                    }}
+                  >
+                    <input
+                      className="chat-input"
+                      value={chatDraft}
+                      onChange={(event) => setChatDraft(event.target.value)}
+                      placeholder="继续追问…"
+                      aria-label="追问内容"
+                    />
+                    <button className="btn btn-primary" type="submit" disabled={chatBusy}>
+                      发送
+                    </button>
+                  </form>
+                </div>
+              )}
             </div>
           )}
 

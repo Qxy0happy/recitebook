@@ -990,6 +990,131 @@
   line-height: 1.6;
 }
 
+.feedback-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+/* --- ask panel ------------------------------------------------------------- */
+
+.chat {
+  display: grid;
+  gap: 12px;
+  margin-top: 4px;
+  padding: 16px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-card);
+  background: var(--raised);
+}
+
+.chat-head {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.chat-title {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.chat-sub {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.chat-log {
+  display: grid;
+  gap: 8px;
+  max-height: 420px;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+.chat-empty {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+.chat-msg {
+  display: flex;
+  min-width: 0;
+}
+
+.chat-msg-user {
+  justify-content: flex-end;
+}
+
+.chat-msg-assistant {
+  justify-content: flex-start;
+}
+
+.chat-msg-text {
+  max-width: min(88%, 68ch);
+  min-width: 0;
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-card);
+  background: var(--surface);
+  font-size: 14px;
+  line-height: 1.65;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+.chat-msg-user .chat-msg-text {
+  border-color: var(--primary);
+  background: var(--primary);
+  color: #ffffff;
+}
+
+.chat-pending {
+  color: var(--muted);
+}
+
+.chat-error {
+  padding: 8px 10px;
+  border: 1px solid var(--pill-bad-border);
+  border-radius: var(--radius-control);
+  background: var(--pill-bad-bg);
+  color: var(--pill-bad-ink);
+  font-size: 13px;
+  overflow-wrap: anywhere;
+}
+
+.chat-compose {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.chat-input {
+  flex: 1 1 auto;
+  min-width: 0;
+  height: 40px;
+  padding: 0 12px;
+  border: 1px solid var(--control);
+  border-radius: var(--radius-control);
+  background: var(--surface);
+  font-size: 14px;
+}
+
+.chat-input::placeholder {
+  color: var(--faint);
+}
+
+.chat-input:focus-visible {
+  border-color: transparent;
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.chat-compose .btn {
+  flex: none;
+}
+
 /* --- word cards ------------------------------------------------------------ */
 
 .cards {
@@ -1528,6 +1653,14 @@ details[open] .association-toggle::before {
 
   .feedback-via {
     margin-left: 0;
+  }
+
+  .chat {
+    padding: 12px;
+  }
+
+  .chat-log {
+    max-height: 50dvh;
   }
 
   .cards {

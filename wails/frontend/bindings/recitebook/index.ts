@@ -3,20 +3,24 @@
 
 import * as BackupService from "./backupservice.js";
 import * as BankService from "./bankservice.js";
+import * as ChatService from "./chatservice.js";
 import * as EngineService from "./engineservice.js";
 import * as GradeService from "./gradeservice.js";
 import * as SyncService from "./syncservice.js";
 export {
     BackupService,
     BankService,
+    ChatService,
     EngineService,
     GradeService,
     SyncService
 };
 
 export type {
+    AskRequest,
     Association,
     BackupEvent,
+    ChatMessageView,
     GradeResult,
     LLMSettingsView,
     ListDetail,
