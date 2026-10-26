@@ -203,7 +203,9 @@ jobs:
       - name: Install vite-plus
         run: npm install --global vite-plus@${{ env.VITE_PLUS_VERSION }}
       - name: Install NSIS
-        run: choco install nsis -y --no-progress
+        run: |
+          choco install nsis -y --no-progress
+          Add-Content -Path $env:GITHUB_PATH -Value "C:\Program Files (x86)\NSIS"
       - name: Expose sh.exe
         run: Add-Content -Path $env:GITHUB_PATH -Value "C:\Program Files\Git\usr\bin"
       - name: Build exe
