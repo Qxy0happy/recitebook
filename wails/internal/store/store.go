@@ -74,6 +74,11 @@ var schema = []string{
 		key TEXT PRIMARY KEY,
 		value TEXT NOT NULL
 	)`,
+	`CREATE TABLE IF NOT EXISTS chats (
+		question_id TEXT PRIMARY KEY,
+		messages TEXT NOT NULL,
+		updated_at TEXT NOT NULL
+	)`,
 }
 
 // Open opens or creates a database at path.
