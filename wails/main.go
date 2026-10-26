@@ -31,6 +31,7 @@ func main() {
 	gradeService := NewGradeService(db)
 	backupService := NewBackupService(engineService)
 	syncService := NewSyncService(engineService, db)
+	chatService := NewChatService(db, bank)
 
 	app := application.New(application.Options{
 		Name:        "循环背诵",
@@ -41,6 +42,7 @@ func main() {
 			application.NewService(gradeService),
 			application.NewService(backupService),
 			application.NewService(syncService),
+			application.NewService(chatService),
 		},
 		Assets: application.AssetOptions{
 			Handler: application.AssetFileServerFS(assets),
