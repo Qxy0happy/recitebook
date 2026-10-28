@@ -13,13 +13,12 @@
     "check": "vp check && tsc --noEmit"
   },
   "dependencies": {
-    "@wailsio/runtime": "latest",
+    "@wailsio/runtime": "3.0.0-beta.34",
+    "lxgw-wenkai-webfont": "^1.7.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@fontsource/instrument-sans": "^5.3.0",
-    "@fontsource/instrument-serif": "^5.3.0",
     "@shadcn/lint": "0.2.3",
     "@tailwindcss/vite": "^4.3.3",
     "@types/react": "^18.2.43",

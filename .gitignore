@@ -31,3 +31,10 @@ docs/
 
 # Dependency directories (any depth)
 node_modules/
+
+# Build byproducts and Impeccable working artifacts (decisions, captures, rolls).
+*.exe~
+.impeccable/mocks/
+.impeccable/review/
+.impeccable/questions/
+.impeccable/surface-brief.md

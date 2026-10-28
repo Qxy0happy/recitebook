@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-28T13:40:00Z",
+  "title": "Design System: 循环背诵",
+  "extensions": {
+    "colorMeta": {
+      "ink": { "role": "neutral", "displayName": "Ink", "canonical": "#191a17", "tonalRamp": ["#0c0d0b", "#191a17", "#262721", "#33352c", "#42443a", "#6a6b61", "#a9a99f", "#eeece2"] },
+      "seal-red": { "role": "primary", "displayName": "Seal Vermilion", "canonical": "#b02c20", "tonalRamp": ["#4d0f0a", "#711a12", "#8f2318", "#b02c20", "#c94b3d", "#dc7f72", "#eeb4ab", "#f8e2dd"] },
+      "correction-green": { "role": "secondary", "displayName": "Correction Green", "canonical": "#2c5a48", "tonalRamp": ["#10241c", "#1b3c30", "#244a3b", "#2c5a48", "#437a63", "#6ba18a", "#a4c6b6", "#e0ece6"] },
+      "paper": { "role": "neutral", "displayName": "Bone Paper", "canonical": "#f7f5ee", "tonalRamp": ["#25241f", "#3d3c34", "#5c5a4f", "#8b887a", "#b4b0a0", "#d3cfc1", "#e6e2d5", "#f7f5ee"] },
+      "desk": { "role": "neutral", "displayName": "Desk Grey", "canonical": "#e3e0d8", "tonalRamp": ["#2b2a26", "#45443d", "#64625a", "#8a877d", "#b0ac9f", "#cbc7ba", "#e3e0d8", "#f4f2ea"] },
+      "muted": { "role": "neutral", "displayName": "Faded Ink", "canonical": "#5d6057", "tonalRamp": ["#1c1e1a", "#2d2f29", "#41443b", "#5d6057", "#7c7f74", "#a3a599", "#c9cabf", "#eeeee6"] }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Booklet Display", "purpose": "Brand, List titles, screen headings. Helvetica with WenKai for Chinese." },
+      "stem": { "displayName": "Exam Body", "purpose": "Question stems, options, answer lines, word cards — content read as a test." },
+      "body": { "displayName": "Working Sans", "purpose": "UI copy, hints, settings prose, buttons; Helvetica with LXGW WenKai as the CJK branch." },
+      "label": { "displayName": "Form Label", "purpose": "Column labels, field labels, running heads." },
+      "numeral": { "displayName": "Tabular Count", "purpose": "Every count and page number; never proportional, LXGW WenKai closes the stack for Chinese in a count line." }
+    },
+    "shadows": [
+      { "name": "sheet-lift", "value": "inset 0 1px 0 #fffdf7, 0 1px 2px rgba(42,40,32,.10), 0 24px 60px rgba(42,40,32,.16)", "purpose": "The single sheet floating on the desk; nothing inside the sheet casts a shadow." }
+    ],
+    "motion": [
+      { "name": "press", "value": "320ms cubic-bezier(0.16, 1, 0.3, 1)", "purpose": "The verdict stamp landing: scale 1.28 → 1 with a −3° settle." },
+      { "name": "rule-grow", "value": "360ms cubic-bezier(0.16, 1, 0.3, 1)", "purpose": "Progress rule width, the only other transition." }
+    ],
+    "breakpoints": [
+      { "name": "medium", "value": "860px" },
+      { "name": "phone", "value": "640px" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The confirming action inside a screen: 提交, 下一题, 保存设置, 返回队列. Ink fill; red is reserved for the cover action and state.",
+      "html": "<button class=\"ds-btn-primary\">下一题</button>",
+      "css": ".ds-btn-primary { display: inline-flex; align-items: center; justify-content: center; height: 50px; padding: 0 22px; border: 0; border-radius: 0; background: #191a17; color: #fbf8f1; font-family: Helvetica, Arial, \"LXGW WenKai\", sans-serif; font-size: 13px; letter-spacing: 0.16em; cursor: pointer; transition: background-color 180ms ease; } .ds-btn-primary:hover { background: #000; } .ds-btn-primary:disabled { opacity: 0.4; cursor: not-allowed; }"
+    },
+    {
+      "name": "Cover Seal Button",
+      "kind": "button",
+      "refersTo": "button-cover",
+      "description": "The only red fill in the app: 开始背诵 on the queue cover.",
+      "html": "<button class=\"ds-btn-cover\">开始背诵</button>",
+      "css": ".ds-btn-cover { display: inline-flex; align-items: center; justify-content: center; height: 50px; padding: 0 22px; border: 0; border-radius: 0; background: #b02c20; color: #fbf8f1; font-family: Helvetica, Arial, \"LXGW WenKai\", sans-serif; font-size: 13px; letter-spacing: 0.16em; cursor: pointer; transition: background-color 180ms ease; } .ds-btn-cover:hover { background: #8f2318; }"
+    },
+    {
+      "name": "Quiet Button",
+      "kind": "button",
+      "refersTo": "button-quiet",
+      "description": "Secondary action in a page foot or settings panel.",
+      "html": "<button class=\"ds-btn-quiet\">回看词卡</button>",
+      "css": ".ds-btn-quiet { display: inline-flex; align-items: center; justify-content: center; height: 44px; padding: 0 22px; border: 1px solid #c2bdac; border-radius: 0; background: transparent; color: #4f524a; font-family: Helvetica, Arial, \"LXGW WenKai\", sans-serif; font-size: 13px; letter-spacing: 0.1em; cursor: pointer; } .ds-btn-quiet:hover { border-color: #191a17; color: #191a17; }"
+    },
+    {
+      "name": "Seal Index Item",
+      "kind": "nav",
+      "description": "One of 29 punched holes in the page margin; the current List wears the red ring.",
+      "html": "<a class=\"ds-seal-item is-next\" href=\"#\"><span class=\"ds-seal-hole\"></span><span class=\"ds-seal-no\">04</span></a>",
+      "css": ".ds-seal-item { position: relative; display: inline-flex; align-items: center; gap: 7px; padding: 1px 6px; line-height: 1.2; color: #5d6057; text-decoration: none; } .ds-seal-hole { width: 6px; height: 6px; border-radius: 50%; background: #ded9ca; box-shadow: inset 0 1px 1px rgba(42,40,32,.3); } .ds-seal-no { font-family: ui-monospace, Consolas, \"LXGW WenKai\", monospace; font-size: 9px; letter-spacing: 0.06em; } .ds-seal-item.is-next { color: #b02c20; } .ds-seal-item.is-next::after { content: \"\"; position: absolute; inset: -4px -7px; border: 1.5px solid #b02c20; border-radius: 50%; transform: rotate(-8deg); }"
+    },
+    {
+      "name": "Contents Row",
+      "kind": "row",
+      "description": "Queue order in the table of contents: number, title, pending, first-wrong, status.",
+      "html": "<button class=\"ds-toc-row is-active is-next\"><span class=\"ds-toc-no\">04</span><span class=\"ds-toc-title\">机构与法规</span><span class=\"ds-toc-num\">3</span><span class=\"ds-toc-num\">5</span><span class=\"ds-toc-status\">进行中</span></button>",
+      "css": ".ds-toc-row { display: grid; grid-template-columns: 54px minmax(0,1fr) 62px 62px 96px; gap: 14px; align-items: baseline; width: 100%; padding: 11px 0; border: 0; border-bottom: 1px dotted #c2bdac; background: none; text-align: left; cursor: pointer; } .ds-toc-row.is-next { border-bottom: 1px solid #191a17; } .ds-toc-no { font-family: ui-monospace, Consolas, monospace; font-size: 11px; color: #5d6057; } .ds-toc-title { font-family: Helvetica, Arial, \"LXGW WenKai\", serif; font-size: 17px; letter-spacing: 0.04em; color: #191a17; } .ds-toc-num { font-family: ui-monospace, Consolas, monospace; font-size: 13px; text-align: right; } .ds-toc-status { justify-self: end; padding: 1px 7px; border: 1px solid currentColor; font-family: Helvetica, Arial, \"LXGW WenKai\", sans-serif; font-size: 9px; letter-spacing: 0.14em; color: #b02c20; }"
+    },
+    {
+      "name": "Answer Option",
+      "kind": "option",
+      "description": "One exam choice: Helvetica key, Times body, right-gutter mark.",
+      "html": "<button class=\"ds-option\"><span class=\"ds-option-key\">A</span><span class=\"ds-option-text\">限制</span><span class=\"ds-option-mark\"></span></button>",
+      "css": ".ds-option { display: grid; grid-template-columns: 46px minmax(0,1fr) 26px; gap: 18px; align-items: center; width: 100%; padding: 13px 4px; border: 0; border-bottom: 1px dotted #c2bdac; background: none; text-align: left; cursor: pointer; } .ds-option:hover { background: #f1eee3; } .ds-option-key { font-family: Helvetica, Arial, \"LXGW WenKai\", sans-serif; font-size: 16px; font-weight: 500; color: #4f524a; } .ds-option-text { font-family: \"Times New Roman\", Times, \"LXGW WenKai\", serif; font-size: 19px; font-weight: 500; line-height: 1.5; } .ds-option-mark { font-size: 15px; text-align: right; color: #b02c20; }"
+    },
+    {
+      "name": "Stamp",
+      "kind": "chip",
+      "refersTo": "stamp",
+      "description": "Status and round marks: 1px currentColor box, letterspaced, occasionally rotated.",
+      "html": "<span class=\"ds-stamp\">已清</span>",
+      "css": ".ds-stamp { display: inline-block; padding: 1px 7px; border: 1px solid currentColor; font-family: Helvetica, Arial, \"LXGW WenKai\", sans-serif; font-size: 9px; letter-spacing: 0.14em; color: #2c5a48; }"
+    },
+    {
+      "name": "Rule Field",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Settings and answer input: label above, 1px bottom rule, no box.",
+      "html": "<label class=\"ds-field\"><span>Base URL</span><input value=\"https://api.openai.com/v1\"></label>",
+      "css": ".ds-field { display: block; } .ds-field > span { display: block; margin-bottom: 6px; font-family: Helvetica, Arial, \"LXGW WenKai\", sans-serif; font-size: 9px; letter-spacing: 0.18em; color: #5d6057; } .ds-field input { width: 100%; padding: 6px 0 8px; border: 0; border-bottom: 1px solid #191a17; background: transparent; font-family: Helvetica, Arial, \"LXGW WenKai\", sans-serif; font-size: 14px; color: #191a17; } .ds-field input:focus { border-color: #b02c20; outline: none; }"
+    },
+    {
+      "name": "Verdict Line",
+      "kind": "custom",
+      "description": "Feedback head: stamped verdict, tabular score, grading route.",
+      "html": "<div class=\"ds-verdict\"><span class=\"ds-verdict-word\">答错</span><span class=\"ds-verdict-score\">0<span> / 100</span></span><span class=\"ds-verdict-via\">自动判分</span></div>",
+      "css": ".ds-verdict { display: flex; flex-wrap: wrap; align-items: baseline; gap: 18px; } .ds-verdict-word { font-family: Helvetica, Arial, \"LXGW WenKai\", serif; font-size: 21px; letter-spacing: 0.18em; color: #b02c20; } .ds-verdict-score { font-family: ui-monospace, Consolas, monospace; font-size: 26px; } .ds-verdict-score span { font-size: 11px; letter-spacing: 0.1em; color: #5d6057; } .ds-verdict-via { font-family: Helvetica, Arial, \"LXGW WenKai\", sans-serif; font-size: 10px; letter-spacing: 0.14em; color: #5d6057; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "密封卷 (the sealed exam booklet)",
+    "overview": "The app is a bound exam booklet lying on a desk: bone paper, ink rules, one red seal, one green correction. Every screen is a single sheet with a sticky page margin that carries the 29-List index as punched holes and numbers; the queue is a cover plus a table of contents, the quiz is a printed page, and grading is a mark in the margin.",
+    "keyCharacteristics": [
+      "One sheet, one sticky seal margin, no cards",
+      "Helvetica for chrome, Times New Roman for question content, LXGW WenKai for Chinese",
+      "Red means attention, green means cleared — nothing else is colored",
+      "Counts always tabular, right-aligned, in the same column",
+      "Two motions: the verdict press and the progress rule"
+    ],
+    "rules": [
+      { "name": "The One Index Rule", "body": "The seal margin is the only index of the 29 Lists. A second list of the same data is a regression to the dashboard the redesign removed.", "section": "colors" },
+      { "name": "The Paper Rule", "body": "Only the sheet casts a shadow. Inside it, hierarchy comes from 1px rules and spacing; a container with a border on all sides would read as a second sheet.", "section": "elevation" },
+      { "name": "The Content Face Rule", "body": "Anything the candidate reads as the test — stem, options, answer, word card — is set in Times New Roman; everything that operates the app is Helvetica.", "section": "typography" }
+    ],
+    "dos": [
+      "Do keep one red mark per screen as the attention signal.",
+      "Do align every count to the same right edge in tabular figures.",
+      "Do let headings carry their own weight, with no kicker above them.",
+      "Do keep the seal margin sticky and complete on desktop, horizontal on phones."
+    ],
+    "donts": [
+      "Don't add cards, rounded corners, gradients, or a hero metric.",
+      "Don't set red and green side by side outside a verdict.",
+      "Don't use a shadow for hover or selection inside the sheet.",
+      "Don't scale type where weight or reversal can carry the hierarchy."
+    ]
+  }
+}
