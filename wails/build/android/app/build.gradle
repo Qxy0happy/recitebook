@@ -2,6 +2,44 @@ plugins {
     id 'com.android.application'
 }
 
+// The app version lives in build/config.yml, the same file wails3 feeds to the
+// Windows resources and the NSIS installer. Reading it here keeps the APK from
+// drifting when only the Windows side is bumped.
+def readAppVersion() {
+    def config = new File(projectDir, '../../config.yml')
+    def inInfo = false
+    for (line in config.readLines('UTF-8')) {
+        def trimmed = line.trim()
+        if (trimmed.isEmpty() || trimmed.startsWith('#')) {
+            continue
+        }
+        if (!inInfo) {
+            inInfo = trimmed == 'info:'
+            continue
+        }
+        if (!line.startsWith(' ')) {
+            break
+        }
+        def matcher = trimmed =~ /^version:\s*"([^"]+)"\s*(#.*)?$/
+        if (matcher.find()) {
+            return matcher.group(1)
+        }
+    }
+    throw new GradleException("no info.version in ${config}")
+}
+
+def appVersion = readAppVersion()
+def versionParts = appVersion.tokenize('.')
+if (versionParts.size() != 3 || !versionParts.every { it ==~ /\d+/ }) {
+    throw new GradleException(
+            "info.version in build/config.yml must be MAJOR.MINOR.PATCH, got '${appVersion}'")
+}
+// versionCode must only ever grow: MAJOR.MINOR.PATCH maps to
+// MAJOR * 10000 + MINOR * 100 + PATCH, so 1.0.0 becomes 10000.
+def appVersionCode = versionParts[0].toInteger() * 10000 +
+        versionParts[1].toInteger() * 100 +
+        versionParts[2].toInteger()
+
 android {
     // The Java sources must stay in com.wails.app: wails v3 hardcodes the JNI
     // export names (Java_com_wails_app_WailsBridge_*) in its Go library, so a
@@ -17,8 +55,8 @@ android {
         applicationId "com.riyu.recitebook"
         minSdk 21
         targetSdk 35
-        versionCode 3
-        versionName "0.2.0"
+        versionCode appVersionCode
+        versionName appVersion
 
         // Configure supported ABIs
         ndk {
